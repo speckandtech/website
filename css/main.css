@@ -397,6 +397,8 @@ a:visited {
 /* Literal.Number.Integer.Long */
 a {
   color: #e01563; }
+  a:visited {
+    color: #e01563; }
   a:hover {
     color: #b1114e; }
 

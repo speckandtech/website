@@ -2,6 +2,11 @@
 
 a {
   color: $red;
+
+  &:visited {
+    color: $red;
+  }
+
   &:hover {
     color: darken($red, 10%);
   }
