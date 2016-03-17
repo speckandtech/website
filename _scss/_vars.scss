@@ -1,3 +1,7 @@
+$red: #e01563;
+
+$break-monitor: 700px;
+
 @mixin monospaced () {
   font-family: 'Inconsolata', monospace;
 }
@@ -6,4 +10,8 @@
   font-family: 'Lato', sans-serif;
 }
 
-$red: #e01563;
+@mixin small-screen() {
+  @media (max-width : $break-monitor) {
+    @content;
+  }
+}

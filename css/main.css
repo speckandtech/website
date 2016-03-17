@@ -395,6 +395,69 @@ a:visited {
   color: #009999; }
 
 /* Literal.Number.Integer.Long */
+#homepage {
+  border-bottom: 10px solid #e01563;
+  height: calc(100vh - 10px);
+  font-family: 'Lato', sans-serif;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  justify-content: center; }
+  #homepage > div {
+    -ms-flex-item-align: center;
+    -webkit-align-self: center;
+            align-self: center;
+    margin-bottom: 5vh; }
+  #homepage h1 {
+    font-size: 9vw;
+    margin: 0;
+    font-family: 'Inconsolata', monospace; }
+  #homepage p {
+    width: 50vw;
+    text-align: center;
+    line-height: 1.6;
+    margin: 10px auto 0; }
+    @media (max-width: 700px) {
+      #homepage p {
+        width: 80vw; } }
+  #homepage .next-meetup {
+    font-variant: small-caps; }
+  #homepage h3 {
+    font-size: 3vw;
+    margin: 0;
+    font-family: 'Inconsolata', monospace; }
+    @media (max-width: 700px) {
+      #homepage h3 {
+        font-size: 18px; } }
+  #homepage .btn {
+    font-size: 16px;
+    background: #e01563;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none; }
+    #homepage .btn:hover {
+      background: #b1114e; }
+  #homepage .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 10px;
+    border: 0;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: left; }
+
+body {
+  background: white;
+  font-size: 16px; }
+
 a {
   color: #e01563; }
   a:visited {
@@ -407,50 +470,7 @@ nav {
   left: 0;
   right: 0;
   text-align: right;
-  padding: 1vh; }
-
-#homepage {
-  border-bottom: 10px solid #e01563;
-  font-family: 'Lato', sans-serif;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  -moz-justify-content: center;
-  justify-content: center;
-  height: calc(100vh - 10px); }
-  #homepage > div {
-    -ms-flex-item-align: center;
-    -webkit-align-self: center;
-            align-self: center;
-    margin-bottom: 10vh; }
-  #homepage h1 {
-    font-size: 8vw;
-    margin: 0;
-    font-family: 'Inconsolata', monospace; }
-  #homepage h3 {
-    font-size: 3vw;
-    margin: 0;
-    font-family: 'Inconsolata', monospace; }
-  #homepage p {
-    width: 40vw;
-    text-align: center;
-    margin: 0 auto;
-    font-size: 14px;
-    line-height: 1.6; }
-  #homepage .btn {
-    background: #e01563;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    font-weight: bold;
-    text-transform: uppercase;
-    text-decoration: none; }
-    #homepage .btn:hover {
-      background: #b1114e; }
-
-body {
-  background: white; }
+  padding: 1vh;
+  font-size: 14px; }
+  nav li {
+    display: inline-block; }

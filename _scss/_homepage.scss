@@ -1,74 +1,75 @@
 @import 'flexbox';
 
-a {
-  color: $red;
-
-  &:visited {
-    color: $red;
-  }
-
-  &:hover {
-    color: darken($red, 10%);
-  }
-}
-
-nav {
-  position: absolute;
-  left: 0;
-  right: 0;
-  text-align: right;
-  padding: 1vh;
-}
-
 #homepage {
   $border-bottom: 10px;
 
   border-bottom: $border-bottom solid $red;
-
+  height: calc(100vh - #{$border-bottom});
   @include sans-serif();
   @include flexbox();
   @include justify-content(center);
-  height: calc(100vh - #{$border-bottom});
 
   & > div {
     @include align-self(center);
-    margin-bottom: 10vh;
+    margin-bottom: 5vh;
   }
-
 
   h1 {
-    font-size: 8vw;
-    margin: 0;
-    @include monospaced();
-  }
-
-  h3 {
-    font-size: 3vw;
+    font-size: 9vw;
     margin: 0;
     @include monospaced();
   }
 
   p {
-    width: 40vw;
+    width: 50vw;
+
+    @include small-screen {
+      width: 80vw;
+    }
+
     text-align: center;
-    margin: 0 auto;
-    font-size: 14px;
     line-height: 1.6;
+    margin: 10px auto 0;
+  }
+
+  .next-meetup {
+    font-variant: small-caps;
+  }
+
+  h3 {
+    font-size: 3vw;
+
+    @include small-screen {
+      font-size: 18px;
+    }
+
+    margin: 0;
+    @include monospaced();
   }
 
   .btn {
+    font-size: 16px;
     background: $red;
     color: white;
     display: inline-block;
     margin-top: 15px;
     padding: 10px 20px;
     font-weight: bold;
-    text-transform: uppercase;
     text-decoration: none;
 
-    
     &:hover {
       background: darken($red, 10%);
     }
+  }
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: $border-bottom;
+    border: 0;
+    padding: 5px 10px;
+    font-size: 12px;
+    text-align: left;
   }
 }
