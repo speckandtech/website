@@ -473,4 +473,5 @@ nav {
   padding: 1vh;
   font-size: 14px; }
   nav li {
+    vertical-align: middle;
     display: inline-block; }
