@@ -14,8 +14,7 @@ html, body {
 body {
   background-color: black;
   font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center; }
+  font-size: small; }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
@@ -395,9 +394,14 @@ a:visited {
   color: #009999; }
 
 /* Literal.Number.Integer.Long */
-#homepage {
-  border-bottom: 10px solid #e01563;
-  height: calc(100vh - 10px);
+.footer {
+  position: relative;
+  background: #e01563;
+  padding: 5px 10px; }
+
+#intro {
+  text-align: center;
+  height: 100vh;
   font-family: 'Lato', sans-serif;
   display: -webkit-flex;
   display: -moz-flex;
@@ -407,33 +411,37 @@ a:visited {
   -webkit-justify-content: center;
   -moz-justify-content: center;
   justify-content: center; }
-  #homepage > div {
+  #intro > div {
     -ms-flex-item-align: center;
     -webkit-align-self: center;
             align-self: center;
     margin-bottom: 5vh; }
-  #homepage h1 {
+  #intro h1 {
     font-size: 9vw;
     margin: 0;
     font-family: 'Inconsolata', monospace; }
-  #homepage p {
+  #intro em {
+    position: absolute;
+    bottom: 0;
+    left: 0; }
+  #intro p {
     width: 50vw;
     text-align: center;
     line-height: 1.6;
     margin: 10px auto 0; }
     @media (max-width: 700px) {
-      #homepage p {
+      #intro p {
         width: 80vw; } }
-  #homepage .next-meetup {
+  #intro .next-meetup {
     font-variant: small-caps; }
-  #homepage h3 {
+  #intro h3 {
     font-size: 3vw;
     margin: 0;
     font-family: 'Inconsolata', monospace; }
     @media (max-width: 700px) {
-      #homepage h3 {
+      #intro h3 {
         font-size: 18px; } }
-  #homepage .btn {
+  #intro .btn {
     font-size: 16px;
     background: #e01563;
     color: white;
@@ -442,17 +450,36 @@ a:visited {
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none; }
-    #homepage .btn:hover {
+    #intro .btn:hover {
       background: #b1114e; }
-  #homepage .footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    margin-bottom: 10px;
-    border: 0;
-    padding: 5px 10px;
-    font-size: 12px;
-    text-align: left; }
+
+.event {
+  text-align: left;
+  font-family: 'Lato', sans-serif; }
+  .event h1 {
+    display: inline-block;
+    font-size: 80px;
+    line-height: 80px;
+    margin: 0;
+    font-family: 'Inconsolata', monospace; }
+  .event iframe {
+    border: 1px solid #CCC;
+    margin-bottom: 5px;
+    width: 100%; }
+  .event .meta {
+    font-size: .8em;
+    margin: 0; }
+  .event .post h2, .event .post h4 {
+    display: inline-block; }
+  .event .post h2 {
+    font-size: 35px;
+    line-height: 35px;
+    margin-top: 50px;
+    font-family: 'Inconsolata', monospace; }
+  .event .post h4 {
+    font-family: 'Inconsolata', monospace; }
+  .event .post h3 {
+    color: #aaa; }
 
 body {
   background: white;

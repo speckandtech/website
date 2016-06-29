@@ -1,0 +1,28 @@
+---
+layout: event
+title:  "Design Industriale"
+date:   2016-04-27 21:00:00
+categories: event
+---
+
+## NiEW - Design for Strategy
+### Andrea Cattani - NiEW
+
+The explosion of digital devices, portable or otherwise, made way to the proliferation of tools, products and services dedicated to facilitate everyday tasks. The tasks are in both personal and professional context like consulting a recipe, shopping, planning a vacation or work.
+
+However, a curious point to note in most cases is that the systems used for the leisure time are easier, more understandable and more efficient than those used in the workplace. In other words, when we have to be more productive, we encounter major obstacles.
+
+In particular, the gap is even more pronounced in industrial automation where huge machines governed by interfaces, manage the hectic and relentless production of consumer goods.
+
+The User Experience Design can provide, even in contexts like these, a user-centered design approach which systemically overcomes the current limitations and generates benefits which were inseparable until yesterday.
+
+
+
+## Building desktop apps in 2016 - Chromium Embedded Framework
+### Giovanni Frigo - Belka
+
+What happens when you need to build a desktop app that needs to communicate with hardware and all the different operating systems? Easy: just select the latest and coolest framework like Electron and Chromium Embedded Framework, in order to get a marvellous UI in the desktop environment, consistent through the different operating systems and with easy porting.
+
+We'll share our experience with this technology that can blend React.js for the UI and C for hardware communication in the same environment. An interesting cocktail!
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FI8nmVdI4tVo5y" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>

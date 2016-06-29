@@ -1,0 +1,46 @@
+.event {
+  text-align: left;
+  @include sans-serif();
+
+  h1 {
+    display: inline-block;
+    font-size: 80px;
+    line-height: 80px;
+    margin: 0;
+
+    @include monospaced();
+  }
+
+  iframe {
+    border: 1px solid #CCC;
+    margin-bottom: 5px;
+    width: 100%;
+  }
+
+  .meta {
+    font-size: .8em;
+    margin: 0;
+  }
+
+  .post {
+    h2, h4 {
+      display: inline-block;
+    }
+    
+    h2 {
+
+      font-size: 35px;
+      line-height: 35px;
+      margin-top: 50px;
+      @include monospaced();
+    }
+    
+    h4 {
+      @include monospaced();
+    }
+
+    h3 {
+      color: #aaa;
+    }
+  }
+}

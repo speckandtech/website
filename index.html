@@ -4,31 +4,56 @@ title: Speck&Tech
 description: Speck&Tech is a community of startuppers, students, professionals and ... that aims at building a network of tech enthusiasts within the Trento area
 ---
 
-<nav>
-  <ul>
-    <li>join us:</li>
-    <li><script async defer src="http://slackin-speckandtech.rhcloud.com/slackin.js"></script></li>
-    <li> | <a target="_blank" href="https://www.facebook.com/speckandtech/">facebook</a></li>
-    <li> | <a target="_blank" href="https://telegram.me/speckandtech">telegram</a></li>
-  </ul>
-</nav>
+<div class="homepage">
+  <nav>
+    <ul>
+      <li>join us:</li>
+      <li><script async defer src="http://slackin-speckandtech.rhcloud.com/slackin.js"></script></li>
+      <li> | <a target="_blank" href="https://www.facebook.com/speckandtech/">facebook</a></li>
+      <li> | <a target="_blank" href="https://telegram.me/speckandtech">telegram</a></li>
+    </ul>
+  </nav>
 
-<section id="homepage">
-  <div>
-    <h1>#speck<span>and</span>tech</h1>
+  <section id="intro">
+    <div>
+      <h1>#speck<span>and</span>tech</h1>
 
-    <p>a community of startuppers, students, professionals and ...<strong>anyone</strong> that aims at building a network of tech enthusiasts within the <strong>Trento</strong> area, with the purpose of learning about and sharing new ideas regarding development, design, startups and any related topic.</p>
+      <p>a community of startuppers, students, professionals and ...<strong>anyone</strong> that aims at building a network of tech enthusiasts within the <strong>Trento</strong> area, with the purpose of learning about and sharing new ideas regarding development, design, startups and any related topic.</p>
 
-    <div style="margin-top: 30px;">
-      <span class="next-meetup">next meetup</span>
-      <h3>25/05/2k16 21:00 @ <a href="https://goo.gl/maps/1dcmwrdAsUD2" target="_blank">ImpactHub</a>*</h3>
+      <div style="margin-top: 30px;">
+        <span class="next-meetup">next meetup</span>
+        <h3>25/05/2k16 21:00 @ <a href="https://goo.gl/maps/1dcmwrdAsUD2" target="_blank">ImpactHub</a>*</h3>
 
+      </div>
+
+      <a class="btn" href="https://www.facebook.com/events/1710163619199262/">Ok, I'm in!</a>
     </div>
 
-    <a class="btn" href="https://www.facebook.com/events/460978464100835/">Ok, I'm in!</a>
-  </div>
+    <!--<em>* The venue is just next to Le Albere and offers a large parking lot to fit you and all your friends.</em>-->
 
-  <div class="footer">
-    <em>* The venue is just next to Le Albere and offers a large parking lot to fit you and all your friends.</em>
-  </div>
-</section>
+  </section>
+
+  <section id="events">
+    {% for post in site.posts %}
+    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+      <div class="article-head">
+        <h2 class="title"><a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a></h2>
+        <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
+
+  <!--<section id="sponsor">-->
+  <!--<h3>Sponsor</h3>-->
+  <!---->
+  <!--<img src="images/sd.png" alt="SpazioDati">-->
+  <!--</section>-->
+  <!---->
+  <!--<section id="map">-->
+  <!--</section>-->
+
+</div>
+
+<div class="footer">
+</div>
