@@ -396,9 +396,9 @@ a:visited {
 
 /* Literal.Number.Integer.Long */
 #homepage {
-  border-bottom: 10px solid #e01563;
+  border-bottom: 10px solid #e7424f;
   height: calc(100vh - 10px);
-  font-family: 'Lato', sans-serif;
+  font-family: 'Neo Sans', sans-serif;
   display: -moz-flex;
   display: -ms-flexbox;
   display: flex;
@@ -410,9 +410,10 @@ a:visited {
     align-self: center;
     margin-bottom: 5vh; }
   #homepage h1 {
-    font-size: 9vw;
-    margin: 0;
-    font-family: 'Inconsolata', monospace; }
+    color: #e7424f;
+    font-size: 5vw;
+    margin-top: .5em;
+    font-family: 'Neo Sans', sans-serif; }
   #homepage p {
     width: 50vw;
     text-align: center;
@@ -426,13 +427,13 @@ a:visited {
   #homepage h3 {
     font-size: 3vw;
     margin: 0;
-    font-family: 'Inconsolata', monospace; }
+    font-family: 'Neo Sans', sans-serif; }
     @media (max-width: 700px) {
       #homepage h3 {
         font-size: 18px; } }
   #homepage .btn {
     font-size: 16px;
-    background: #e01563;
+    background: #e7424f;
     color: white;
     display: inline-block;
     margin-top: 15px;
@@ -440,7 +441,7 @@ a:visited {
     font-weight: bold;
     text-decoration: none; }
     #homepage .btn:hover {
-      background: #b1114e; }
+      background: #da1c2b; }
   #homepage .footer {
     position: absolute;
     bottom: 0;
@@ -451,16 +452,41 @@ a:visited {
     font-size: 12px;
     text-align: left; }
 
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 900;
+  src: url("font/neo-sans/NeoSansStd-Black.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: bold;
+  src: url("font/neo-sans/NeoSansStd-Bold.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 400;
+  src: url("font/neo-sans/NeoSansStd-Medium.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 300;
+  src: url("font/neo-sans/NeoSansStd-Regular.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 200;
+  src: url("font/neo-sans/NeoSansStd-Ultra.otf") format("opentype"); }
+
 body {
   background: white;
   font-size: 16px; }
 
 a {
-  color: #e01563; }
+  color: #e7424f; }
   a:visited {
-    color: #e01563; }
+    color: #e7424f; }
   a:hover {
-    color: #b1114e; }
+    color: #da1c2b; }
 
 nav {
   position: absolute;
