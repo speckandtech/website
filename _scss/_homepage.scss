@@ -18,7 +18,12 @@
     color: $red;
     font-size: 5vw;
     margin-top: .5em;
+    margin-bottom: 0;
     @include monospaced();
+  }
+
+  .claim {
+    font-size: 27px;
   }
 
   em {
