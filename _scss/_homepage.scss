@@ -1,5 +1,11 @@
 @import 'flexbox';
 
+.homepage {
+  background: url('../img/home-background.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 #intro {
   $border-bottom: 10px;
 

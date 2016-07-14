@@ -399,6 +399,11 @@ a:visited {
   background: #e7424f;
   padding: 5px 10px; }
 
+.homepage {
+  background: url("../img/home-background.jpg");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
 #intro {
   text-align: center;
   height: 100vh;
