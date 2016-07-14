@@ -396,30 +396,28 @@ a:visited {
 /* Literal.Number.Integer.Long */
 .footer {
   position: relative;
-  background: #e01563;
+  background: #e7424f;
   padding: 5px 10px; }
 
 #intro {
   text-align: center;
   height: 100vh;
-  font-family: 'Lato', sans-serif;
-  display: -webkit-flex;
+  font-family: 'Neo Sans', sans-serif;
   display: -moz-flex;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
-  -webkit-justify-content: center;
   -moz-justify-content: center;
   justify-content: center; }
   #intro > div {
     -ms-flex-item-align: center;
-    -webkit-align-self: center;
-            align-self: center;
+    align-self: center;
     margin-bottom: 5vh; }
   #intro h1 {
-    font-size: 9vw;
-    margin: 0;
-    font-family: 'Inconsolata', monospace; }
+    color: #e7424f;
+    font-size: 5vw;
+    margin-top: .5em;
+    font-family: 'Neo Sans', sans-serif; }
   #intro em {
     position: absolute;
     bottom: 0;
@@ -437,13 +435,13 @@ a:visited {
   #intro h3 {
     font-size: 3vw;
     margin: 0;
-    font-family: 'Inconsolata', monospace; }
+    font-family: 'Neo Sans', sans-serif; }
     @media (max-width: 700px) {
       #intro h3 {
         font-size: 18px; } }
   #intro .btn {
     font-size: 16px;
-    background: #e01563;
+    background: #e7424f;
     color: white;
     display: inline-block;
     margin-top: 15px;
@@ -451,17 +449,17 @@ a:visited {
     font-weight: bold;
     text-decoration: none; }
     #intro .btn:hover {
-      background: #b1114e; }
+      background: #da1c2b; }
 
 .event {
   text-align: left;
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Neo Sans', sans-serif; }
   .event h1 {
     display: inline-block;
     font-size: 80px;
     line-height: 80px;
     margin: 0;
-    font-family: 'Inconsolata', monospace; }
+    font-family: 'Neo Sans', sans-serif; }
   .event iframe {
     border: 1px solid #CCC;
     margin-bottom: 5px;
@@ -475,22 +473,47 @@ a:visited {
     font-size: 35px;
     line-height: 35px;
     margin-top: 50px;
-    font-family: 'Inconsolata', monospace; }
+    font-family: 'Neo Sans', sans-serif; }
   .event .post h4 {
-    font-family: 'Inconsolata', monospace; }
+    font-family: 'Neo Sans', sans-serif; }
   .event .post h3 {
     color: #aaa; }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 900;
+  src: url("font/neo-sans/NeoSansStd-Black.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: bold;
+  src: url("font/neo-sans/NeoSansStd-Bold.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 400;
+  src: url("font/neo-sans/NeoSansStd-Medium.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 300;
+  src: url("font/neo-sans/NeoSansStd-Regular.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 200;
+  src: url("font/neo-sans/NeoSansStd-Ultra.otf") format("opentype"); }
 
 body {
   background: white;
   font-size: 16px; }
 
 a {
-  color: #e01563; }
+  color: #e7424f; }
   a:visited {
-    color: #e01563; }
+    color: #e7424f; }
   a:hover {
-    color: #b1114e; }
+    color: #da1c2b; }
 
 nav {
   position: absolute;

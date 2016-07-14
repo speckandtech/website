@@ -15,8 +15,9 @@
   }
 
   h1 {
-    font-size: 9vw;
-    margin: 0;
+    color: $red;
+    font-size: 5vw;
+    margin-top: .5em;
     @include monospaced();
   }
 
@@ -67,8 +68,4 @@
       background: darken($red, 10%);
     }
   }
-}
-
-.homepage {
-
 }
