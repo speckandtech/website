@@ -417,7 +417,10 @@ a:visited {
     color: #e7424f;
     font-size: 5vw;
     margin-top: .5em;
+    margin-bottom: 0;
     font-family: 'Neo Sans', sans-serif; }
+  #intro .claim {
+    font-size: 27px; }
   #intro em {
     position: absolute;
     bottom: 0;
@@ -491,12 +494,12 @@ a:visited {
 
 @font-face {
   font-family: Neo Sans;
-  font-weight: 400;
+  font-weight: 500;
   src: url("font/neo-sans/NeoSansStd-Medium.otf") format("opentype"); }
 
 @font-face {
   font-family: Neo Sans;
-  font-weight: 300;
+  font-weight: 400;
   src: url("font/neo-sans/NeoSansStd-Regular.otf") format("opentype"); }
 
 @font-face {
@@ -525,3 +528,11 @@ nav {
   nav li {
     vertical-align: middle;
     display: inline-block; }
+  nav .logo {
+    position: absolute;
+    left: 0; }
+
+.container, nav {
+  margin: 0 auto;
+  max-width: 900px;
+  position: relative; }

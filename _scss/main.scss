@@ -30,9 +30,21 @@ nav {
   text-align: right;
   padding: 1vh;
   font-size: 14px;
+  @extend .container;
 
   li {
     vertical-align: middle;
     display: inline-block;
   }
+
+  .logo {
+    position: absolute;
+    left: 0;
+  }
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 900px;
+  position: relative;
 }
