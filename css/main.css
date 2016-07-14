@@ -406,8 +406,7 @@ a:visited {
 
 #intro {
   text-align: center;
-  height: 100vh;
-  font-family: 'Neo Sans', sans-serif;
+  height: 80vh;
   display: -moz-flex;
   display: -ms-flexbox;
   display: flex;
@@ -422,8 +421,7 @@ a:visited {
     color: #e7424f;
     font-size: 5vw;
     margin-top: .5em;
-    margin-bottom: 0;
-    font-family: 'Neo Sans', sans-serif; }
+    margin-bottom: 0; }
   #intro .claim {
     font-size: 27px; }
   #intro em {
@@ -442,8 +440,7 @@ a:visited {
     font-variant: small-caps; }
   #intro h3 {
     font-size: 3vw;
-    margin: 0;
-    font-family: 'Neo Sans', sans-serif; }
+    margin: 0; }
     @media (max-width: 700px) {
       #intro h3 {
         font-size: 18px; } }
@@ -459,15 +456,38 @@ a:visited {
     #intro .btn:hover {
       background: #da1c2b; }
 
+#about-homepage {
+  max-width: 780px;
+  margin: 0 auto; }
+  #about-homepage p {
+    font-size: 24px; }
+
+#events {
+  max-width: 780px;
+  margin: 0 auto; }
+  #events h2 {
+    margin-top: 1.8em;
+    margin-bottom: .8em;
+    color: #e7424f;
+    text-align: center;
+    font-size: 56px; }
+  #events .date {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 9px; }
+  #events h3 {
+    font-size: 38px;
+    margin-top: 0;
+    margin-bottom: .3em;
+    color: black; }
+
 .event {
-  text-align: left;
-  font-family: 'Neo Sans', sans-serif; }
+  text-align: left; }
   .event h1 {
     display: inline-block;
     font-size: 80px;
     line-height: 80px;
-    margin: 0;
-    font-family: 'Neo Sans', sans-serif; }
+    margin: 0; }
   .event iframe {
     border: 1px solid #CCC;
     margin-bottom: 5px;
@@ -480,10 +500,7 @@ a:visited {
   .event .post h2 {
     font-size: 35px;
     line-height: 35px;
-    margin-top: 50px;
-    font-family: 'Neo Sans', sans-serif; }
-  .event .post h4 {
-    font-family: 'Neo Sans', sans-serif; }
+    margin-top: 50px; }
   .event .post h3 {
     color: #aaa; }
 
@@ -514,7 +531,8 @@ a:visited {
 
 body {
   background: white;
-  font-size: 16px; }
+  font-size: 16px;
+  font-family: 'Neo Sans', sans-serif; }
 
 a {
   color: #e7424f; }
@@ -537,7 +555,10 @@ nav {
     position: absolute;
     left: 0; }
 
-.container, #about-homepage, nav {
+.container, nav {
   margin: 0 auto;
   max-width: 900px;
   position: relative; }
+
+hr {
+  border: 2px solid #E5E5E5; }

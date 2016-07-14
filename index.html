@@ -40,13 +40,15 @@ description: Speck&Tech is a community of startuppers, students, professionals a
   </section>
 
   <section id="events">
+    <h2>Previous issues</h2>
     {% for post in site.posts %}
     <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
       <div class="article-head">
-        <h2 class="title"><a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a></h2>
         <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+        <h3 class="title"><a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a></h2>
       </div>
     </article>
+    <hr>
     {% endfor %}
   </section>
 </div>

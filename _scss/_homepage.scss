@@ -10,7 +10,7 @@
   $border-bottom: 10px;
 
   text-align: center;
-  height: 100vh;
+  height: 80vh;
   @include flexbox();
   @include justify-content(center);
 
@@ -24,7 +24,6 @@
     font-size: 5vw;
     margin-top: .5em;
     margin-bottom: 0;
-    @include monospaced();
   }
 
   .claim {
@@ -59,9 +58,7 @@
     @include small-screen {
       font-size: 18px;
     }
-
     margin: 0;
-    @include monospaced();
   }
 
   .btn {
@@ -81,5 +78,35 @@
 }
 
 #about-homepage {
-  @extend .container;
+  max-width: 780px;
+  margin: 0 auto;
+
+  p {
+    font-size: 24px;
+  }
+}
+
+#events {
+  max-width: 780px;
+  margin: 0 auto;
+
+  h2 {
+    margin-top: 1.8em;
+    margin-bottom: .8em;
+    color: $red;
+    text-align: center;
+    font-size: 56px;
+  }
+  .date {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 9px;
+  }
+
+  h3 {
+    font-size: 38px;
+    margin-top: 0;
+    margin-bottom: .3em;
+    color: black;
+  }
 }
