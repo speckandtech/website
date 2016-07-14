@@ -2,14 +2,6 @@ $red: #e7424f;
 
 $break-monitor: 700px;
 
-@mixin monospaced () {
-  font-family: 'Neo Sans', sans-serif;
-}
-
-@mixin sans-serif () {
-  font-family: 'Neo Sans', sans-serif;
-}
-
 @mixin small-screen() {
   @media (max-width : $break-monitor) {
     @content;

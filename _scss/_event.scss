@@ -1,14 +1,11 @@
 .event {
   text-align: left;
-  @include sans-serif();
 
   h1 {
     display: inline-block;
     font-size: 80px;
     line-height: 80px;
     margin: 0;
-
-    @include monospaced();
   }
 
   iframe {
@@ -32,13 +29,8 @@
       font-size: 35px;
       line-height: 35px;
       margin-top: 50px;
-      @include monospaced();
     }
     
-    h4 {
-      @include monospaced();
-    }
-
     h3 {
       color: #aaa;
     }

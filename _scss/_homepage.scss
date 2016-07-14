@@ -11,7 +11,6 @@
 
   text-align: center;
   height: 100vh;
-  @include sans-serif();
   @include flexbox();
   @include justify-content(center);
 
@@ -79,4 +78,8 @@
       background: darken($red, 10%);
     }
   }
+}
+
+#about-homepage {
+  @extend .container;
 }

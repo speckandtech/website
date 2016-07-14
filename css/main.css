@@ -537,7 +537,7 @@ nav {
     position: absolute;
     left: 0; }
 
-.container, nav {
+.container, #about-homepage, nav {
   margin: 0 auto;
   max-width: 900px;
   position: relative; }
