@@ -128,3 +128,41 @@
     }
   }
 }
+
+#hand {
+  opacity: 0;
+  animation-name: blink;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+#lamp {
+  opacity: 0;
+  animation-name: blink;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-delay: .5s;
+}
+
+#on {
+  opacity: 0;
+  animation-name: blink;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-delay: 1s;
+}
+
+#floppy {
+  opacity: 0;
+  animation-name: blink;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-delay: 1.5s;
+}
+
+@keyframes blink {
+    0% {opacity: 1;}
+    25% {opacity: 1;}
+    26% {opacity: 0;}
+    100% {opacity: 0;}
+}
