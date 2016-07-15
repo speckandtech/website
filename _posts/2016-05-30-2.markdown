@@ -1,28 +1,18 @@
 ---
 layout: event
-title:  "Connected dots"
-date:   2016-05-30 21:00:00
+title:  "Connecting the dots"
+date:   2016-05-25 21:00:00
 categories: event
 ---
 
-## Nome1
-### gigi parigi - company
+## 5G - The talk of the town
+### Roberto Saracco - Node Director of EIT Digital in Trento
 
-The explosion of digital devices, portable or otherwise, made way to the proliferation of tools, products and services dedicated to facilitate everyday tasks. The tasks are in both personal and professional context like consulting a recipe, shopping, planning a vacation or work.
+Everybody talks about 5G, very few really understand what it is. So let’s first clear the stage by looking at the differences in the series of Gs and then let’s consider how 5G is going to be diverse. Then we can move into considering the path to 5G, already underway and still so far away, and the players. And here is where we will meet some surprises.
 
-However, a curious point to note in most cases is that the systems used for the leisure time are easier, more understandable and more efficient than those used in the workplace. In other words, when we have to be more productive, we encounter major obstacles.
+## Introducing Socket.io
+### Davide Pedranz - UniTN student and developer at FBK
 
-In particular, the gap is even more pronounced in industrial automation where huge machines governed by interfaces, manage the hectic and relentless production of consumer goods.
+Have you ever thought about a world where everything goes fast and real-time? Then come to meet websockets and socket.io. We will see it in action and quickly take a look at the API it offers.
 
-The User Experience Design can provide, even in contexts like these, a user-centered design approach which systemically overcomes the current limitations and generates benefits which were inseparable until yesterday.
-
-
-
-## Building desktop apps in 2016 - Chromium Embedded Framework
-### Giovanni Frigo - Belka
-
-What happens when you need to build a desktop app that needs to communicate with hardware and all the different operating systems? Easy: just select the latest and coolest framework like Electron and Chromium Embedded Framework, in order to get a marvellous UI in the desktop environment, consistent through the different operating systems and with easy porting.
-
-We'll share our experience with this technology that can blend React.js for the UI and C for hardware communication in the same environment. An interesting cocktail!
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/FI8nmVdI4tVo5y" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GED8oSDzTJM2ED" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DavidePedranz/socketio-64052375" title="Socket.IO" target="_blank">Socket.IO</a> </strong> from <strong><a href="//www.slideshare.net/DavidePedranz" target="_blank">Davide Pedranz</a></strong> </div>

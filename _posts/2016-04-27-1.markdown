@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Design Industriale"
+title:  "Industrial Design"
 date:   2016-04-27 21:00:00
 categories: event
 ---
@@ -16,6 +16,8 @@ In particular, the gap is even more pronounced in industrial automation where hu
 
 The User Experience Design can provide, even in contexts like these, a user-centered design approach which systemically overcomes the current limitations and generates benefits which were inseparable until yesterday.
 
+**Unfortunately those slides are not available due to secrecy policy of the company.**
+
 
 
 ## Building desktop apps in 2016 - Chromium Embedded Framework
@@ -23,6 +25,6 @@ The User Experience Design can provide, even in contexts like these, a user-cent
 
 What happens when you need to build a desktop app that needs to communicate with hardware and all the different operating systems? Easy: just select the latest and coolest framework like Electron and Chromium Embedded Framework, in order to get a marvellous UI in the desktop environment, consistent through the different operating systems and with easy porting.
 
-We'll share our experience with this technology that can blend React.js for the UI and C for hardware communication in the same environment. An interesting cocktail!
+During the talk we shared our experience with this technology that can blend React.js for the UI and C for hardware communication in the same environment. An interesting cocktail!
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/FI8nmVdI4tVo5y" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rRZORkgrfxMYag" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JohnFrigo/building-desktop-apps-in-2016" title="Building desktop apps in 2016" target="_blank">Building desktop apps in 2016</a> </strong> from <strong><a href="//www.slideshare.net/JohnFrigo" target="_blank">Giovanni Frigo</a></strong> </div>
