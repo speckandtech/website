@@ -36,3 +36,9 @@
     }
   }
 }
+
+@include small-screen {
+  .event {
+    padding: 0 15px;
+  }
+}

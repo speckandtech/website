@@ -59,7 +59,6 @@ a:visited {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em; }
 
@@ -491,6 +490,68 @@ a:visited {
   #intro .claim {
     font-size: 21px; } }
 
+#hand {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite; }
+
+#lamp {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-delay: .5s;
+          animation-delay: .5s; }
+
+#on {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s; }
+
+#floppy {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s; }
+
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1; }
+  25% {
+    opacity: 1; }
+  26% {
+    opacity: 0; }
+  100% {
+    opacity: 0; } }
+
+@keyframes blink {
+  0% {
+    opacity: 1; }
+  25% {
+    opacity: 1; }
+  26% {
+    opacity: 0; }
+  100% {
+    opacity: 0; } }
+
 .event {
   text-align: left; }
   .event h1 {
@@ -513,6 +574,10 @@ a:visited {
     margin-top: 50px; }
   .event .post h3 {
     color: #aaa; }
+
+@media (max-width: 768px) {
+  .event {
+    padding: 0 15px; } }
 
 @font-face {
   font-family: Neo Sans;
