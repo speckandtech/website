@@ -1,0 +1,33 @@
+nav {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: right;
+  padding: 1vh;
+  font-size: 14px;
+  @extend .container;
+
+  li {
+    vertical-align: middle;
+    display: inline-block;
+  }
+
+  .logo {
+    position: absolute;
+    left: 0;
+  }
+}
+
+@include mobile {
+  nav { 
+    ul {
+      text-align: center;
+    }
+
+    .logo {
+      margin: 12px 0 10px 0;
+      position: relative;
+      display: block;
+    }
+  }
+}

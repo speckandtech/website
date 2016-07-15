@@ -5,6 +5,7 @@
 @import "homepage";
 @import "event";
 @import "font";
+@import "navbar";
 
 body {
   background: white;
@@ -21,26 +22,6 @@ a {
 
   &:hover {
     color: darken($red, 10%);
-  }
-}
-
-nav {
-  position: absolute;
-  left: 0;
-  right: 0;
-  text-align: right;
-  padding: 1vh;
-  font-size: 14px;
-  @extend .container;
-
-  li {
-    vertical-align: middle;
-    display: inline-block;
-  }
-
-  .logo {
-    position: absolute;
-    left: 0;
   }
 }
 
