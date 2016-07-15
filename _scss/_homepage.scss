@@ -21,13 +21,16 @@
 
   h1 {
     color: $red;
-    font-size: 5vw;
+    font-size: 3.8em;
     margin-top: .5em;
     margin-bottom: 0;
   }
 
   .claim {
     font-size: 27px;
+    span {
+      color: $red;
+    }
   }
 
   em {
@@ -108,5 +111,20 @@
     margin-top: 0;
     margin-bottom: .3em;
     color: black;
+  }
+}
+
+@include small-screen {
+  section {
+    padding: 0 20px;
+  }
+
+  #intro {
+    h1 {
+      font-size: 3em;
+    }
+    .claim {
+      font-size: 21px;
+    }
   }
 }

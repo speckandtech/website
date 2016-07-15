@@ -419,11 +419,13 @@ a:visited {
     margin-bottom: 5vh; }
   #intro h1 {
     color: #e7424f;
-    font-size: 5vw;
+    font-size: 3.8em;
     margin-top: .5em;
     margin-bottom: 0; }
   #intro .claim {
     font-size: 27px; }
+    #intro .claim span {
+      color: #e7424f; }
   #intro em {
     position: absolute;
     bottom: 0;
@@ -433,7 +435,7 @@ a:visited {
     text-align: center;
     line-height: 1.6;
     margin: 10px auto 0; }
-    @media (max-width: 700px) {
+    @media (max-width: 768px) {
       #intro p {
         width: 80vw; } }
   #intro .next-meetup {
@@ -441,7 +443,7 @@ a:visited {
   #intro h3 {
     font-size: 3vw;
     margin: 0; }
-    @media (max-width: 700px) {
+    @media (max-width: 768px) {
       #intro h3 {
         font-size: 18px; } }
   #intro .btn {
@@ -480,6 +482,14 @@ a:visited {
     margin-top: 0;
     margin-bottom: .3em;
     color: black; }
+
+@media (max-width: 768px) {
+  section {
+    padding: 0 20px; }
+  #intro h1 {
+    font-size: 3em; }
+  #intro .claim {
+    font-size: 21px; } }
 
 .event {
   text-align: left; }
@@ -529,18 +539,6 @@ a:visited {
   font-weight: 200;
   src: url("font/neo-sans/NeoSansStd-Ultra.otf") format("opentype"); }
 
-body {
-  background: white;
-  font-size: 16px;
-  font-family: 'Neo Sans', sans-serif; }
-
-a {
-  color: #e7424f; }
-  a:visited {
-    color: #e7424f; }
-  a:hover {
-    color: #da1c2b; }
-
 nav {
   position: absolute;
   left: 0;
@@ -554,6 +552,26 @@ nav {
   nav .logo {
     position: absolute;
     left: 0; }
+
+@media (max-width: 460px) {
+  nav ul {
+    text-align: center; }
+  nav .logo {
+    margin: 12px 0 10px 0;
+    position: relative;
+    display: block; } }
+
+body {
+  background: white;
+  font-size: 16px;
+  font-family: 'Neo Sans', sans-serif; }
+
+a {
+  color: #e7424f; }
+  a:visited {
+    color: #e7424f; }
+  a:hover {
+    color: #da1c2b; }
 
 .container, nav {
   margin: 0 auto;
