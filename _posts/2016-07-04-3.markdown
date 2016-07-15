@@ -1,0 +1,22 @@
+---
+layout: event
+title:  "Security and Privacy"
+date:   2016-07-04 21:00:00
+categories: event
+---
+
+## Breaking iOS
+### Filippo Bigarella - Author of Springtomize
+
+As mobile devices have become ubiquitous in our everyday life, information security is now a fundamental topic for every technology professional. Moreover, many events in the last few years have changed how the average user thinks about security of the devices they’re using.
+
+In this talk, we will walk through the defence in depth approach adopted by Apple’s iOS, one of the most secure platforms of the world. In particular, he will offer an overview of the iOS security model by explaining all the security measures put in place by Apple and by going over all the steps required to compromise an iOS device, from the point of view of an hypothetical attacker.
+
+## Right to be forgotten
+### Francesco Bonadiman - Marketing & Communications Officer of the EIT Digital Alumni Board, former Interaction Designer @ T-Labs
+
+Have you ever heard about the "Right to be forgotten"? This has been one of the most controversial topics in the past few years. Indeed, while on the one hand this was defined as "the right to silence past events in life that are no longer occurring", on the other it was termed as "the biggest threat to free speech on the Internet in the coming decade".
+
+At first, this talk is going to introduce what the "Right to be forgotten" is, by focusing especially on how this concept was born and how companies like Google or Facebook treat our privacy. We will then boost the discussion with a few examples, which are particularly relevant to the subject, and allowed this topic to become popular and highly debated.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/p7bNKUxDzmo0z1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/franzonadiman/specktech-3-the-right-to-be-forgotten" title="Speck&amp;Tech 3 - The Right to be Forgotten" target="_blank">Speck&amp;Tech 3 - The Right to be Forgotten</a> </strong> from <strong><a href="//www.slideshare.net/franzonadiman" target="_blank">Francesco Bonadiman</a></strong> </div>
