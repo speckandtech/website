@@ -12,6 +12,8 @@ As mobile devices have become ubiquitous in our everyday life, information secur
 
 In this talk, we will walk through the defence in depth approach adopted by Apple’s iOS, one of the most secure platforms of the world. In particular, he will offer an overview of the iOS security model by explaining all the security measures put in place by Apple and by going over all the steps required to compromise an iOS device, from the point of view of an hypothetical attacker.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qSYXpeUvXMhAgL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/qSYXpeUvXMhAgL" title="Speck &amp; Tech: Attacking iOS (A brief overview)" target="_blank">Speck &amp; Tech: Attacking iOS (A brief overview)</a> </strong> from <strong><a href="//www.slideshare.net/FilippoBigarella" target="_blank">Filippo Bigarella</a></strong> </div>
+
 ## Right to be forgotten
 ### Francesco Bonadiman - Marketing & Communications Officer of the EIT Digital Alumni Board, former Interaction Designer @ T-Labs
 
