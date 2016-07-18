@@ -28,8 +28,8 @@
   }
 
   .claim {
-    font-size: 27px;
-    span {
+    font-size: 27px; 
+    .typed-cursor {
       color: $red;
     }
   }
