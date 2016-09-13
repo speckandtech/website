@@ -539,6 +539,14 @@ a:visited {
   #about-homepage p {
     font-size: 24px; }
 
+#partners {
+  text-align: center;
+  margin-top: 5em; }
+  #partners a {
+    text-decoration: none; }
+  #partners img {
+    margin: 0 20px; }
+
 #events {
   max-width: 780px;
   margin: 0 auto; }

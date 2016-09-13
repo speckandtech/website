@@ -90,6 +90,19 @@
   }
 }
 
+#partners {
+  text-align: center;
+  margin-top: 5em;
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    margin: 0 20px;
+  }
+}
+
 #events {
   max-width: 780px;
   margin: 0 auto;
@@ -114,6 +127,8 @@
     color: black;
   }
 }
+
+
 
 @include small-screen {
   section {
