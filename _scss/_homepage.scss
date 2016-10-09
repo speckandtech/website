@@ -9,7 +9,6 @@
 
 #intro {
   $border-bottom: 10px;
-
   text-align: center;
   height: 80vh;
   @include flexbox();
@@ -28,7 +27,7 @@
   }
 
   .claim {
-    font-size: 27px; 
+    font-size: 27px;
     .typed-cursor {
       color: $red;
     }
@@ -126,6 +125,12 @@
     margin-bottom: .3em;
     color: black;
   }
+}
+
+#funky_prize img {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 1.5em;
 }
 
 
