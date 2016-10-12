@@ -2,7 +2,7 @@
 @import 'homepage-animations';
 
 .homepage {
-  background: url('../img/city.jpg');
+  background: url('../img/cybersec.jpg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -128,7 +128,7 @@
 }
 
 #funky_prize img {
-  width: 90%;
+  max-width: 200px;
   margin: 0 auto;
   margin-top: 1.5em;
 }
