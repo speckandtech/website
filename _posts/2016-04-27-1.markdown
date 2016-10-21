@@ -18,6 +18,8 @@ The User Experience Design can provide, even in contexts like these, a user-cent
 
 **Unfortunately these slides are not available due to secrecy policy of the company.**
 
+We will add it if they will be available in the future.
+
 
 
 ## Building desktop apps in 2016 - Chromium Embedded Framework
