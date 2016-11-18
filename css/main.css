@@ -475,7 +475,7 @@ a:visited {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/vr.jpg");
+  background: url("../img/home-background.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
@@ -532,6 +532,18 @@ a:visited {
     text-decoration: none; }
     #intro .btn:hover {
       background: #da1c2b; }
+  #intro .btn-disabled {
+    font-size: 16px;
+    background: #bdbdbd;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none; }
+    #intro .btn-disabled:hover {
+      background: #a4a4a4;
+      cursor: default; }
 
 #about-homepage {
   max-width: 780px;

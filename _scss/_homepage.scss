@@ -2,7 +2,7 @@
 @import 'homepage-animations';
 
 .homepage {
-  background: url('../img/vr.jpg');
+  background: url('../img/home-background.jpg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -76,6 +76,21 @@
 
     &:hover {
       background: darken($red, 10%);
+    }
+  }
+  .btn-disabled {
+    font-size: 16px;
+    background: $grey;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      background: darken($grey, 10%);
+      cursor: default;
     }
   }
 }
