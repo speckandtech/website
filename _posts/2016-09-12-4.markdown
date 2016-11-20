@@ -1,0 +1,12 @@
+---
+layout: event
+title:  "Digital Cities"
+date:   2016-09-12 21:00:00
+categories: event
+---
+
+## Smart Cities
+### Derrick de Kerckhove - Director of the McLuhan Program in Culture & Technology at the University of Toronto
+
+## Smart Cities
+### Roberto Minerva - Chairman of the IEEE IoT

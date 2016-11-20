@@ -1,0 +1,16 @@
+---
+layout: event
+title:  "Cybersecurity"
+date:   2016-10-24 21:00:00
+categories: event
+---
+
+## Beyondcorp
+### Federico "Fox" Scrinzi - Googler
+
+Virtually every company today uses firewalls to enforce perimeter security. However, this security model is problematic because, when that perimeter is breached, an attacker has relatively easy access to a company’s privileged intranet. As companies adopt mobile and cloud technologies, the perimeter is becoming increasingly difficult to enforce. Google is taking a different approach to network security. We are removing the requirement for a privileged intranet and moving our corporate applications to the Internet.
+
+## Bitcoin and Blockchain
+### Marco Amadori - CEO of Inbitcoin
+
+Bitcoin and blockchain technology are probably the most noteworthy application of modern cryptography. Whereas Internet has mainly changed how we share and publish content, distribute ledgers will bring a structural revolution in every field where data storage and transmission are involved, starting from the concept of money and finance. After a meticulous technical analysis of how Bitcoin and blockchain technology actually work, light will be shed on how and under which circumstances this revolution will take place.
