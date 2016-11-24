@@ -117,7 +117,7 @@
   }
 }
 
-#events {
+#events, #jobs {
   max-width: 780px;
   margin: 0 auto;
 
@@ -141,14 +141,6 @@
     color: black;
   }
 }
-
-#funky_prize img {
-  max-width: 200px;
-  margin: 0 auto;
-  margin-top: 1.5em;
-}
-
-
 
 @include small-screen {
   section {

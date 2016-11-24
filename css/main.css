@@ -559,29 +559,24 @@ a:visited {
   #partners img {
     margin: 0 20px; }
 
-#events {
+#events, #jobs {
   max-width: 780px;
   margin: 0 auto; }
-  #events h2 {
+  #events h2, #jobs h2 {
     margin-top: 1.8em;
     margin-bottom: .8em;
     color: #e7424f;
     text-align: center;
     font-size: 56px; }
-  #events .date {
+  #events .date, #jobs .date {
     font-size: 16px;
     text-transform: uppercase;
     margin-bottom: 9px; }
-  #events h3 {
+  #events h3, #jobs h3 {
     font-size: 38px;
     margin-top: 0;
     margin-bottom: .3em;
     color: black; }
-
-#funky_prize img {
-  max-width: 200px;
-  margin: 0 auto;
-  margin-top: 1.5em; }
 
 @media (max-width: 768px) {
   section {
