@@ -108,13 +108,24 @@
   text-align: center;
   margin-top: 5em;
 
+  @include small-screen {
+    display: flex;
+    flex-direction: column;
+
+  }
+
   a {
     text-decoration: none;
   }
 
   img {
     margin: 0 20px;
+    @include small-screen {
+      margin: 10px 0;
+    }
   }
+
+
 }
 
 #events, #jobs {

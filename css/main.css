@@ -554,10 +554,19 @@ a:visited {
 #partners {
   text-align: center;
   margin-top: 5em; }
+  @media (max-width: 768px) {
+    #partners {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+          flex-direction: column; } }
   #partners a {
     text-decoration: none; }
   #partners img {
     margin: 0 20px; }
+    @media (max-width: 768px) {
+      #partners img {
+        margin: 10px 0; } }
 
 #events, #jobs {
   max-width: 780px;
