@@ -6,7 +6,7 @@ categories: event
 ---
 
 ## Beyondcorp
-### Federico "Fox" Scrinzi - Googler
+### Federico "Fox" Scrinzi - Site Reliability Engineer at Google
 
 Virtually every company today uses firewalls to enforce perimeter security. However, this security model is problematic because, when that perimeter is breached, an attacker has relatively easy access to a company’s privileged intranet. As companies adopt mobile and cloud technologies, the perimeter is becoming increasingly difficult to enforce. Google is taking a different approach to network security. We are removing the requirement for a privileged intranet and moving our corporate applications to the Internet.
 
@@ -17,4 +17,4 @@ Virtually every company today uses firewalls to enforce perimeter security. Howe
 
 Bitcoin and blockchain technology are probably the most noteworthy application of modern cryptography. Whereas Internet has mainly changed how we share and publish content, distribute ledgers will bring a structural revolution in every field where data storage and transmission are involved, starting from the concept of money and finance. After a meticulous technical analysis of how Bitcoin and blockchain technology actually work, light will be shed on how and under which circumstances this revolution will take place.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/l6tLTY4d9rkk22" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcoamadori/speck-bitcoin" title="Speck &amp; Bitcoin" target="_blank">Speck &amp; Bitcoin</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/marcoamadori">Marco Amadori</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/l6tLTY4d9rkk22" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcoamadori/speck-bitcoin" title="Speck &amp; Bitcoin" target="_blank">Speck &amp; Bitcoin</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/marco-amadori-3b691223/">Marco Amadori</a></strong> </div>

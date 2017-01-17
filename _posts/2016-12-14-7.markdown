@@ -9,7 +9,7 @@ categories: event
 ### Michele Dallachiesa - Skysense Inc., Founder and CTO
 
 Drones are going into business. Having already made the leap from military to consumer use, they are now headed for industries from construction to inspection to surveillance. Nevertheless, there is the common thread of them increasing efficiency, increasing safety and doing so at lower costs.
-In this talk, he will present an outlook of the drone market followed by an introduction to Skysense's services. Skysense’s mission is to enable fully autonomous, unattended and persistent drone missions for enterprises at the forefront of the inspection and security markets. He will conclude with a brief history of Skysense, few anecdotes, and key learnings :)
+In this talk, he will present an outlook of the drone market followed by an introduction to Skysense's services. Skysense’s mission is to enable fully autonomous, unattended and persistent drone missions for enterprises at the forefront of the inspection and security markets. He will conclude with a brief history of Skysense, few anecdotes, and key learnings 🙂
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/YxbTKOIBPveBf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/drones-whats-next" title="Drones - What&#x27;s next?" target="_blank">Drones - What&#x27;s next?</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/dallachiesa/">Michele Dallachiesa</a></strong> </div>
 
@@ -24,4 +24,6 @@ Most startups identify a problem and come up with a solution that they believe c
 ## Speck &amp; Tech vs. EIT Digital
 ### Francesco Bonadiman - UX Designer @ EIT Digital
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/qwWhwWDK3ZPkyu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/franzonadiman/speck-tech-vs-eit-digital" title="Speck &amp; Tech vs. EIT Digital" target="_blank">Speck &amp; Tech vs. EIT Digital</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/franzonadiman">Francesco Bonadiman</a></strong> </div>
+Our partner and sponsor for this event was EIT Digital, a leading European digital innovation and entrepreneurial education organisation driving Europe's digital transformation.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qwWhwWDK3ZPkyu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/franzonadiman/speck-tech-vs-eit-digital" title="Speck &amp; Tech vs. EIT Digital" target="_blank">Speck &amp; Tech vs. EIT Digital</a> </strong> from <strong><a target="_blank" href="//francescobonadiman.com">Francesco Bonadiman</a></strong> </div>
