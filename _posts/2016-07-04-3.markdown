@@ -15,7 +15,7 @@ In this talk, we will walk through the defence in depth approach adopted by Appl
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qSYXpeUvXMhAgL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/qSYXpeUvXMhAgL" title="Attacking iOS (A brief overview)" target="_blank">Attacking iOS (A brief overview)</a> </strong> from <strong><a href="//filippobiga.com" target="_blank">Filippo Bigarella</a></strong> </div>
 
 ## Right to be forgotten
-### Francesco Bonadiman - Marketing & Communications Officer of the EIT Digital Alumni Board, former Interaction Designer @ T-Labs
+### Francesco Bonadiman - UX Designer @ EIT Digital
 
 Have you ever heard about the "Right to be forgotten"? This has been one of the most controversial topics in the past few years. Indeed, while on the one hand this was defined as "the right to silence past events in life that are no longer occurring", on the other it was termed as "the biggest threat to free speech on the Internet in the coming decade".
 

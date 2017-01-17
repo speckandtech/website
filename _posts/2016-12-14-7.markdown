@@ -8,6 +8,20 @@ categories: event
 ## Drones: What's Next?
 ### Michele Dallachiesa - Skysense Inc., Founder and CTO
 
+Drones are going into business. Having already made the leap from military to consumer use, they are now headed for industries from construction to inspection to surveillance. Nevertheless, there is the common thread of them increasing efficiency, increasing safety and doing so at lower costs.
+In this talk, he will present an outlook of the drone market followed by an introduction to Skysense's services. Skysense’s mission is to enable fully autonomous, unattended and persistent drone missions for enterprises at the forefront of the inspection and security markets. He will conclude with a brief history of Skysense, few anecdotes, and key learnings :)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/YxbTKOIBPveBf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/drones-whats-next" title="Drones - What&#x27;s next?" target="_blank">Drones - What&#x27;s next?</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/dallachiesa/">Michele Dallachiesa</a></strong> </div>
 
 ## Growth Strategy
 ###  Lowell Ricklefs - Traction Strategy/M&A Advisor
+
+One of the most common reasons great teams who build great products fail is their inability to drive market adoption and revenue.
+Most startups identify a problem and come up with a solution that they believe can change the world 🌍 They picture themselves building this world class solution and the world beating down their door to buy it. The problem is that they underestimate how hard it is to get people's attention - even when they have created the coolest thing in the world. Lowell has lived in the trenches and built 3 B2B companies through effective use of the right strategy and sales & marketing to drive revenue growth that ensures the survival of the company as a minimum and a large outcome for investors on the high side. He will share his experience in scaling companies and share advice and lessons learned for other entrepreneurs to learn from 😏
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BZW3CWBX50Uqaj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/startup-growth-scaling-up-71104614" title="Startup Growth - Scaling Up" target="_blank">Startup Growth - Scaling Up</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/lowell-ricklefs-1944b5/">Lowell Ricklefs</a></strong> </div>
+
+## Speck &amp; Tech vs. EIT Digital
+### Francesco Bonadiman - UX Designer @ EIT Digital
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qwWhwWDK3ZPkyu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/franzonadiman/speck-tech-vs-eit-digital" title="Speck &amp; Tech vs. EIT Digital" target="_blank">Speck &amp; Tech vs. EIT Digital</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/franzonadiman">Francesco Bonadiman</a></strong> </div>
