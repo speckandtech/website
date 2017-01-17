@@ -1,0 +1,13 @@
+---
+layout: event
+title:  "Taking Off"
+date:   2016-12-14 21:00:00
+categories: event
+---
+
+## Drones: What's Next?
+### Michele Dallachiesa - Skysense Inc., Founder and CTO
+
+
+## Growth Strategy
+###  Lowell Ricklefs - Traction Strategy/M&A Advisor
