@@ -2,7 +2,7 @@
 @import 'homepage-animations';
 
 .homepage {
-  background: url('../img/speeding-up.jpg');
+  background: url('../img/home-background.jpg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -91,6 +91,20 @@
     &:hover {
       background: darken($grey, 10%);
       cursor: default;
+    }
+  }
+  .btn-facebook {
+    font-size: 16px;
+    background: $fb-blue;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      background: darken($fb-blue, 10%);
     }
   }
 }
