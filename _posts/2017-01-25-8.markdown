@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Speeding up"
+title:  Speeding up
 date:   2017-01-25 21:00:00
 categories: event
 ---

@@ -10,11 +10,30 @@
     <meta name="description" content="{{ page.description }}">
 
     <!--fb-->
-    <meta property="og:url" content="http://www.speckand.tech" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ page.title }}" />
+    <meta content="{{ site.title }}" property="og:site_name">
+
+    {% if page.title %}
+      <meta content="{{ page.title }}" property="og:title">
+    {% else %}
+      <meta content="{{ site.title }}" property="og:title">
+    {% endif %}
+
+    {% if page.layout == "event" %}
+      <meta content="event" property="og:type">
+    {% else %}
+      <meta content="website" property="og:type">
+    {% endif %}
+
+    {% if page.url %}
+      <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% endif %}
+
+    {% if page.image %}
+      <meta content="/img/{{ page.image }}" property="og:image">
+    {% else %}
+      <meta content="/img/og_image.jpg" property="og:image">
+    {% endif %}
     <meta property="og:description" content="{{ page.description }}" />
-    <meta property="og:image" content="http://speckand.tech/img/og_image.jpg" />
 
     <link rel="stylesheet" href="/css/main.css">
 </head>

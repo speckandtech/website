@@ -1,4 +1,6 @@
 name: SpeckAndTech
+title: Speck&Tech
+url: http://speckand.tech
 markdown: redcarpet
 highlighter: null # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
