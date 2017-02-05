@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  Security and Privacy
-date:   2016-07-04 21:00:00
+date:   2016-07-04T21:00:00+02:00
 categories: event
 ---
 

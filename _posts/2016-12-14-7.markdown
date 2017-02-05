@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  Taking Off
-date:   2016-12-14 21:00:00
+date:   2016-12-14T21:00:00+01:00
 categories: event
 ---
 

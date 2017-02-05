@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  Design for Industry
-date:   2016-04-27 21:00:00
+date:   2016-04-27T21:00:00+02:00
 categories: event
 ---
 

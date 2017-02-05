@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  Digital Cities
-date:   2016-09-12 21:00:00
+date:   2016-09-12T21:00:00+02:00
 categories: event
 ---
 
