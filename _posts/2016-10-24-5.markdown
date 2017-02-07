@@ -18,3 +18,10 @@ Virtually every company today uses firewalls to enforce perimeter security. Howe
 Bitcoin and blockchain technology are probably the most noteworthy application of modern cryptography. Whereas Internet has mainly changed how we share and publish content, distribute ledgers will bring a structural revolution in every field where data storage and transmission are involved, starting from the concept of money and finance. After a meticulous technical analysis of how Bitcoin and blockchain technology actually work, light will be shed on how and under which circumstances this revolution will take place.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/l6tLTY4d9rkk22" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcoamadori/speck-bitcoin" title="Speck &amp; Bitcoin" target="_blank">Speck &amp; Bitcoin</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/marco-amadori-3b691223/">Marco Amadori</a></strong> </div>
+<br>
+<section class ="center">
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.568134186717874.1073741833.476076519256975&type=1&l=152b387f7e">Photo album &#128247;</a>
+
+*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
+**― Karl Lagerfeld**
+</section>

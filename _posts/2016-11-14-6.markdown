@@ -18,3 +18,10 @@ Creating a product involves many different aspects, from user analysis to engine
 Virtual Reality and Augmented Reality are two of the most chatted technologies currently, but also for programmers these are fields still unexplored. VR and AR carry uncommon issues indeed, especially when the involvement of the user, and his immersion in the new environment, must be considered as one of the main goals the application has to achieve. After a brief analysis of these problems, and how to solve them in theoretical ways, focus will be moved on a practical case, discussing about how a VR experience can be built up using a modern game engine and the solutions it provides to solve the computational and cyber sickness issues.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/zb5P7HyOEucBJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FrancescoAlzetta/virtual-reality-programming-and-designing-issues" title="Virtual Reality programming and designing issues" target="_blank">Virtual Reality programming and designing issues</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/francesco-alzetta-2257a812a/">Francesco Alzetta</a></strong> </div>
+<br>
+<section class ="center">
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.579912205540072.1073741834.476076519256975&type=1&l=3383dbd7c7">Photo album &#128247;</a>
+
+*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
+**― Karl Lagerfeld**
+</section>

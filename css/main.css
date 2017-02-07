@@ -629,6 +629,19 @@ a:visited {
     margin-top: 50px; }
   .event .post h3 {
     color: #aaa; }
+  .event .btn-facebook {
+    font-size: 16px;
+    background: #3b5998;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none; }
+    .event .btn-facebook:hover {
+      background: #2d4373; }
+  .event .center {
+    text-align: center; }
 
 @media (max-width: 768px) {
   .event {

@@ -22,3 +22,10 @@ Have you ever heard about the "Right to be forgotten"? This has been one of the 
 At first, this talk is going to introduce what the "Right to be forgotten" is, by focusing especially on how this concept was born and how companies like Google or Facebook treat our privacy. We will then boost the discussion with a few examples, which are particularly relevant to the subject, and allowed this topic to become popular and highly debated.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/p7bNKUxDzmo0z1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/franzonadiman/specktech-3-the-right-to-be-forgotten" title="The Right to be Forgotten" target="_blank">The Right to be Forgotten</a> </strong> from <strong><a href="//francescobonadiman.com" target="_blank">Francesco Bonadiman</a></strong> </div>
+<br>
+<section class ="center">
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.520351401496153.1073741831.476076519256975&type=1&l=6c504215c9">Photo album &#128247;</a>
+
+*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
+**― Karl Lagerfeld**
+</section>
