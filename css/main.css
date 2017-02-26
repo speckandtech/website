@@ -579,6 +579,12 @@ a:visited {
       #partners img {
         margin: 10px 0; } }
 
+#media-partners {
+  text-align: center;
+  margin-top: 2em; }
+  #media-partners h3 {
+    margin-bottom: .3em; }
+
 #events, #jobs {
   max-width: 780px;
   margin: 0 auto; }
