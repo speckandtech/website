@@ -2,7 +2,7 @@
 @import 'homepage-animations';
 
 .homepage {
-  background: url('../img/smart-mobility.jpg');
+  background: url('../img/home-background.jpg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -11,8 +11,12 @@
   $border-bottom: 10px;
   text-align: center;
   height: 80vh;
+  margin-top: 6vw;
   @include flexbox();
   @include justify-content(center);
+  @include small-screen {
+    margin-top: 20vw;
+  }
 
   & > div {
     @include align-self(center);
@@ -36,6 +40,7 @@
   em {
     position: absolute;
     bottom: 0;
+    margin-bottom: 10vw;
     left: 0;
   }
 
@@ -55,8 +60,22 @@
     font-variant: small-caps;
   }
 
+  .other-kind-of-events {
+    margin-top: 2vw;
+  }
+
   h3 {
     font-size: 3vw;
+
+    @include small-screen {
+      font-size: 24px;
+    }
+    margin: 0;
+  }
+
+  h4 {
+    font-size: 1.6vw;
+    font-weight: normal;
 
     @include small-screen {
       font-size: 18px;
@@ -111,8 +130,11 @@
 
 #about-homepage {
   max-width: 780px;
-  margin: 0 auto;
+  margin: 2vw auto;
 
+  @include small-screen {
+    margin: 20vw auto;
+  }
   p {
     font-size: 24px;
   }
