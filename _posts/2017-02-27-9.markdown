@@ -23,3 +23,10 @@ A self-driving car is hyper-communication: a system communicating with more elem
 Spindox is involved in 2 different research programs working on this question. We will give our vision for the mid-term scenario, from both a technical and a business perspective: architectural view, industry role, sourcing and delivery strategies. More specifically, we are presenting a proposed model for the data layer within this architecture, that addressed most of foreseen technical issues 💻
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/26cILQYoLTKUtI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/the-tricky-road-to-autonomous-cars" title="The tricky road to autonomous cars" target="_blank">The tricky road to autonomous cars</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/paolocostaprofile/">Paolo Costa</a></strong> </div>
+<br>
+<section class ="center">
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.635296280001664.1073741838.476076519256975&type=1&l=1d01643561">Photo album &#128247;</a>
+
+*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
+**― Karl Lagerfeld**
+</section>

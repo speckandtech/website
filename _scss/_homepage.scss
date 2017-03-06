@@ -10,13 +10,10 @@
 #intro {
   $border-bottom: 10px;
   text-align: center;
-  height: 80vh;
+  height: auto;
   margin-top: 6vw;
   @include flexbox();
   @include justify-content(center);
-  @include small-screen {
-    margin-top: 20vw;
-  }
 
   & > div {
     @include align-self(center);
@@ -63,6 +60,7 @@
   .other-kind-of-events {
     margin-top: 2vw;
   }
+
 
   h3 {
     font-size: 3vw;
@@ -131,10 +129,7 @@
 #about-homepage {
   max-width: 780px;
   margin: 2vw auto;
-
-  @include small-screen {
-    margin: 20vw auto;
-  }
+  
   p {
     font-size: 24px;
   }
