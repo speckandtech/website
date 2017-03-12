@@ -4,7 +4,11 @@
 
   h1 {
     display: inline-block;
-    font-size: 80px;
+    font-size: 3em;
+    @include small-screen {
+      font-size: 2em;
+      line-height: normal;
+    }
     line-height: 80px;
     margin: 0;
   }

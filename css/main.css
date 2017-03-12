@@ -638,9 +638,13 @@ a:visited {
   max-width: 768px; }
   .event h1 {
     display: inline-block;
-    font-size: 80px;
+    font-size: 3em;
     line-height: 80px;
     margin: 0; }
+    @media (max-width: 768px) {
+      .event h1 {
+        font-size: 2em;
+        line-height: normal; } }
   .event iframe {
     border: 1px solid #CCC;
     margin-bottom: 5px;
