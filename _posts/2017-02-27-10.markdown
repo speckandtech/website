@@ -9,12 +9,19 @@ Hello techies, innovators, CLabbers, speckers, startuppers and friends! 🙂
 We have decided to organize an awesome event on the 9th of March, starting at 7PM, focusing on the latest happenings about the Cloud.
 
 Agenda:
-- Event opening
-- Introduction to our Communities
-- Streaming of Google Cloud Next (link: https://cloudnext.withgoogle.com/) ☁
-- Networking with food & drink provided by La Gastronomia Mein (link: http://lagastronomiamein.it)
-- Lottery with gadgets by Google 🎁
 
-This event is made possible by a joint effort of all the tech-communities of Trentino: Speck&Tech, GDG Trento (link: https://developers.google.com/groups/chapter/111161676776647373558/), Trentino Cloud Computing (https://www.meetup.com/Trentino-Cloud-Computing-Meetup/), CLab Trento (link: https://www.facebook.com/CLabTrento/), HIT - Hub Innovazione Trentino (http://www.trentinoinnovation.eu/).
+* Event opening
+* Introduction to our Communities
+* <a target="_blank" href="//cloudnext.withgoogle.com/">Streaming of Google Cloud Next</a> ☁
+* Networking with food & drink provided by <a target="_blank" href="//lagastronomiamein.it">La Gastronomia Mein</a>
+* Lottery with gadgets by Google 🎁
+
+This event is made possible by a joint effort of all the tech-communities of Trentino:
+
+* Speck&Tech
+* <a target="_blank" href="//developers.google.com/groups/chapter/111161676776647373558/">GDG Trento</a>
+* <a target="_blank" href="//www.meetup.com/Trentino-Cloud-Computing-Meetup/">Trentino Cloud Computing</a>
+* <a target="_blank" href="//www.facebook.com/CLabTrento/">CLab Trento</a>
+* <a target="_blank" href="//www.trentinoinnovation.eu/">HIT - Hub Innovazione Trentino</a>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3wxymBNcdjabwV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/google-next-cloud-trento" title="Google Next Cloud Trento" target="_blank">Google Next Cloud Trento</a> </strong> from <strong><a target="_blank" href="//www.facebook.com/speckandtech/">Speck&amp;Tech</a></strong> </div>
