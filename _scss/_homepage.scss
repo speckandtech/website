@@ -2,7 +2,7 @@
 @import 'homepage-animations';
 
 .homepage {
-  background: url('../img/web.jpg');
+  background: url('../img/home-background.jpg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -129,7 +129,7 @@
 #about-homepage {
   max-width: 780px;
   margin: 2vw auto;
-  
+
   p {
     font-size: 24px;
   }

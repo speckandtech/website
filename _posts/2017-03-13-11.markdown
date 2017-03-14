@@ -1,0 +1,21 @@
+---
+layout: event
+title:  '#10 - Work Evolution'
+date:   2017-03-13T21:00:00+01:00
+categories: event
+---
+
+## Test Driven Development SpeedRun 🛠💻
+### Valentina Servile - XPeppers, Agile Developer
+### Erinda Jaupaj - XPeppers, Agile Developer
+
+In this talk we will introduce you to Test Driven Development and its main advantages. We will do so by guiding you through a practical exercise being solved with a TDD workflow. We will see how TDD favors better software design and flexibility (with the awesome side effect of test coverage).
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/soB1EfjinoRWjf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/test-driven-development-speedrun" title="Test Driven Development SpeedRun" target="_blank">Test Driven Development SpeedRun</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/valentina-servile-491a7875/">Valentina Servile</a></strong> & <strong><a target="_blank" href="//www.linkedin.com/in/erinda-jaupaj/">Erinda Jaupaj</a></strong> </div>
+
+## No borders innovation
+### Emanuela Zaccone - TOK.tv, Co-founder and Marketing Manager
+
+Which are the advantages of working remotely? What does it mean for startups? 💻 Let’s talk about case histories - from TOK.tv to Automattic -, methodologies and practices to turn a traditional working environment into a remote one by creating a “liquid company” 🌊
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fDQdNZcFAoCc7H" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/no-borders-innovation-how-to-build-a-remote-workingbased-liquid-company" title="&quot;No borders Innovation&quot; - How to build a remote working-based &quot;liquid company&quot;" target="_blank">&quot;No borders Innovation&quot; - How to build a remote working-based &quot;liquid company&quot;</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/emanuelazaccone/">Emanuela Zaccone</a></strong> </div>
