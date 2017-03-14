@@ -5,7 +5,7 @@ date:   2017-03-13T21:00:00+01:00
 categories: event
 ---
 
-## Test Driven Development SpeedRun 🛠💻
+## Test Driven Development SpeedRun
 ### Valentina Servile - XPeppers, Agile Developer
 ### Erinda Jaupaj - XPeppers, Agile Developer
 
