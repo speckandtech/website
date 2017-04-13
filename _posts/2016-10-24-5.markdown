@@ -11,9 +11,8 @@ categories: event
 Virtually every company today uses firewalls to enforce perimeter security. However, this security model is problematic because, when that perimeter is breached, an attacker has relatively easy access to a company’s privileged intranet. As companies adopt mobile and cloud technologies, the perimeter is becoming increasingly difficult to enforce. Google is taking a different approach to network security. We are removing the requirement for a privileged intranet and moving our corporate applications to the Internet.
 <br>
 <br>
-<center> **Unfortunately these slides are not available due to secrecy policy of the company.** </center>
-
-<center> **We will add them if they will be available in the future.** </center>
+<center> **Unfortunately these slides are not available due to secrecy policy of the company.<br>
+We will add them if they will be available in the future.** </center>
 
 ## Bitcoin and Blockchain
 ### Marco Amadori - CEO of Inbitcoin
