@@ -15,10 +15,11 @@ However, a curious point to note in most cases is that the systems used for the 
 In particular, the gap is even more pronounced in industrial automation where huge machines governed by interfaces, manage the hectic and relentless production of consumer goods.
 
 The User Experience Design can provide, even in contexts like these, a user-centered design approach which systemically overcomes the current limitations and generates benefits which were inseparable until yesterday.
+<br>
+<br>
+<center> **Unfortunately these slides are not available due to secrecy policy of the company.** </center>
 
-**Unfortunately these slides are not available due to secrecy policy of the company.**
-
-We will add them if they will be available in the future.
+<center> **We will add them if they will be available in the future.** </center>
 
 
 
