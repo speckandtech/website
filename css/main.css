@@ -402,11 +402,11 @@ a:visited {
 
 .typed-cursor {
   opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
+  -webkit-animation: blink-cursor 0.8s infinite;
+  animation: blink-cursor 0.8s infinite;
   font-weight: bold; }
 
-@keyframes blink {
+@keyframes blink-cursor {
   0% {
     opacity: 1; }
   50% {
@@ -414,7 +414,7 @@ a:visited {
   100% {
     opacity: 1; } }
 
-@-webkit-keyframes blink {
+@-webkit-keyframes blink-cursor {
   0% {
     opacity: 1; }
   50% {
@@ -464,6 +464,16 @@ a:visited {
   -webkit-animation-delay: 1.5s;
           animation-delay: 1.5s; }
 
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1; }
+  25% {
+    opacity: 1; }
+  26% {
+    opacity: 0; }
+  100% {
+    opacity: 0; } }
+
 @keyframes blink {
   0% {
     opacity: 1; }
@@ -475,13 +485,14 @@ a:visited {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/smart-mobility.jpg");
+  background: url("../img/home-background.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
 #intro {
   text-align: center;
-  height: 80vh;
+  height: auto;
+  margin-top: 6vw;
   display: -moz-flex;
   display: -ms-flexbox;
   display: flex;
@@ -504,6 +515,7 @@ a:visited {
   #intro em {
     position: absolute;
     bottom: 0;
+    margin-bottom: 10vw;
     left: 0; }
   #intro p {
     width: 50vw;
@@ -515,11 +527,20 @@ a:visited {
         width: 80vw; } }
   #intro .next-meetup {
     font-variant: small-caps; }
+  #intro .other-kind-of-events {
+    margin-top: 2vw; }
   #intro h3 {
     font-size: 3vw;
     margin: 0; }
     @media (max-width: 768px) {
       #intro h3 {
+        font-size: 24px; } }
+  #intro h4 {
+    font-size: 1.6vw;
+    font-weight: normal;
+    margin: 0; }
+    @media (max-width: 768px) {
+      #intro h4 {
         font-size: 18px; } }
   #intro .btn {
     font-size: 16px;
@@ -558,7 +579,7 @@ a:visited {
 
 #about-homepage {
   max-width: 780px;
-  margin: 0 auto; }
+  margin: 2vw auto; }
   #about-homepage p {
     font-size: 24px; }
 
@@ -617,9 +638,13 @@ a:visited {
   max-width: 768px; }
   .event h1 {
     display: inline-block;
-    font-size: 80px;
+    font-size: 3em;
     line-height: 80px;
     margin: 0; }
+    @media (max-width: 768px) {
+      .event h1 {
+        font-size: 2em;
+        line-height: normal; } }
   .event iframe {
     border: 1px solid #CCC;
     margin-bottom: 5px;

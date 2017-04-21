@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  Augmented Reality
+title:  '#6 - Augmented Reality'
 date:   2016-11-14T21:00:00+01:00
 categories: event
 ---

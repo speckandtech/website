@@ -1,22 +1,22 @@
 .typed-cursor{
     opacity: 1;
-    -webkit-animation: blink 0.7s infinite;
-    -moz-animation: blink 0.7s infinite;
-    animation: blink 0.7s infinite;
+    -webkit-animation: blink-cursor 0.8s infinite;
+    -moz-animation: blink-cursor 0.8s infinite;
+    animation: blink-cursor 0.8s infinite;
     font-weight: bold;
 }
 
-@keyframes blink{
+@keyframes blink-cursor{
     0% { opacity:1; }
     50% { opacity:0; }
     100% { opacity:1; }
 }
-@-webkit-keyframes blink{
+@-webkit-keyframes blink-cursor{
     0% { opacity:1; }
     50% { opacity:0; }
     100% { opacity:1; }
 }
-@-moz-keyframes blink{
+@-moz-keyframes blink-cursor{
     0% { opacity:1; }
     50% { opacity:0; }
     100% { opacity:1; }

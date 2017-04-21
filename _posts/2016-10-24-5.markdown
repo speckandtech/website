@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  Cybersecurity
+title:  '#5 - Cybersecurity'
 date:   2016-10-24T21:00:00+02:00
 categories: event
 ---
@@ -9,8 +9,10 @@ categories: event
 ### Federico "Fox" Scrinzi - Site Reliability Engineer at Google
 
 Virtually every company today uses firewalls to enforce perimeter security. However, this security model is problematic because, when that perimeter is breached, an attacker has relatively easy access to a company’s privileged intranet. As companies adopt mobile and cloud technologies, the perimeter is becoming increasingly difficult to enforce. Google is taking a different approach to network security. We are removing the requirement for a privileged intranet and moving our corporate applications to the Internet.
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ntzg4mOeQaiz4w" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/beyondcorp-a-new-approach-to-enterprise-security" title="BeyondCorp - A New Approach to Enterprise Security" target="_blank">BeyondCorp - A New Approach to Enterprise Security</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/fox91/">Federico "Fox" Scrinzi</a></strong> </div>
+<br>
+<br>
+<center> **Unfortunately these slides are not available due to secrecy policy of the company.<br>
+We will add them if they will be available in the future.** </center>
 
 ## Bitcoin and Blockchain
 ### Marco Amadori - CEO of Inbitcoin
