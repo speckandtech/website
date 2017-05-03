@@ -14,8 +14,7 @@ html, body {
 body {
   background-color: black;
   font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center; }
+  font-size: small; }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
@@ -34,6 +33,9 @@ a:hover {
 
 a:visited {
   color: #a0a; }
+
+ul {
+  padding-left: 1.25em; }
 
 /*****************************************************************************/
 /*
@@ -60,7 +62,6 @@ a:visited {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em; }
 
@@ -395,75 +396,315 @@ a:visited {
   color: #009999; }
 
 /* Literal.Number.Integer.Long */
-#homepage {
-  border-bottom: 10px solid #e01563;
-  height: calc(100vh - 10px);
-  font-family: 'Lato', sans-serif;
-  display: -webkit-flex;
+.footer {
+  position: relative;
+  background: #e7424f;
+  padding: 5px 10px;
+  color: white;
+  text-align: center; }
+
+.typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink-cursor 0.8s infinite;
+  animation: blink-cursor 0.8s infinite;
+  font-weight: bold; }
+
+@keyframes blink-cursor {
+  0% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@-webkit-keyframes blink-cursor {
+  0% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+#hand {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite; }
+
+#lamp {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-delay: .5s;
+          animation-delay: .5s; }
+
+#on {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s; }
+
+#floppy {
+  opacity: 0;
+  -webkit-animation-name: blink;
+          animation-name: blink;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s; }
+
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1; }
+  25% {
+    opacity: 1; }
+  26% {
+    opacity: 0; }
+  100% {
+    opacity: 0; } }
+
+@keyframes blink {
+  0% {
+    opacity: 1; }
+  25% {
+    opacity: 1; }
+  26% {
+    opacity: 0; }
+  100% {
+    opacity: 0; } }
+
+.homepage {
+  background: url("../img/home-background.jpg");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#intro {
+  text-align: center;
+  height: auto;
+  margin-top: 6vw;
   display: -moz-flex;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
-  -webkit-justify-content: center;
   -moz-justify-content: center;
   justify-content: center; }
-  #homepage > div {
+  #intro > div {
     -ms-flex-item-align: center;
-    -webkit-align-self: center;
-            align-self: center;
+    align-self: center;
     margin-bottom: 5vh; }
-  #homepage h1 {
-    font-size: 9vw;
-    margin: 0;
-    font-family: 'Inconsolata', monospace; }
-  #homepage p {
+  #intro h1 {
+    color: #e7424f;
+    font-size: 3.8em;
+    margin-top: .5em;
+    margin-bottom: 0; }
+  #intro .claim {
+    font-size: 27px; }
+    #intro .claim .typed-cursor {
+      color: #e7424f; }
+  #intro em {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10vw;
+    left: 0; }
+  #intro p {
     width: 50vw;
     text-align: center;
     line-height: 1.6;
     margin: 10px auto 0; }
-    @media (max-width: 700px) {
-      #homepage p {
+    @media (max-width: 768px) {
+      #intro p {
         width: 80vw; } }
-  #homepage .next-meetup {
+  #intro .next-meetup {
     font-variant: small-caps; }
-  #homepage h3 {
+  #intro .other-kind-of-events {
+    margin-top: 2vw; }
+  #intro h3 {
     font-size: 3vw;
-    margin: 0;
-    font-family: 'Inconsolata', monospace; }
-    @media (max-width: 700px) {
-      #homepage h3 {
+    margin: 0; }
+    @media (max-width: 768px) {
+      #intro h3 {
+        font-size: 24px; } }
+  #intro h4 {
+    font-size: 1.6vw;
+    font-weight: normal;
+    margin: 0; }
+    @media (max-width: 768px) {
+      #intro h4 {
         font-size: 18px; } }
-  #homepage .btn {
+  #intro .btn {
     font-size: 16px;
-    background: #e01563;
+    background: #e7424f;
     color: white;
     display: inline-block;
     margin-top: 15px;
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none; }
-    #homepage .btn:hover {
-      background: #b1114e; }
-  #homepage .footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    margin-bottom: 10px;
-    border: 0;
-    padding: 5px 10px;
-    font-size: 12px;
-    text-align: left; }
+    #intro .btn:hover {
+      background: #da1c2b; }
+  #intro .btn-disabled {
+    font-size: 16px;
+    background: #bdbdbd;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none; }
+    #intro .btn-disabled:hover {
+      background: #a4a4a4;
+      cursor: default; }
+  #intro .btn-facebook {
+    font-size: 16px;
+    background: #3b5998;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none; }
+    #intro .btn-facebook:hover {
+      background: #2d4373; }
 
-body {
-  background: white;
-  font-size: 16px; }
+#about-homepage {
+  max-width: 780px;
+  margin: 2vw auto; }
+  #about-homepage p {
+    font-size: 24px; }
 
-a {
-  color: #e01563; }
-  a:visited {
-    color: #e01563; }
-  a:hover {
-    color: #b1114e; }
+#partners {
+  text-align: center;
+  margin-top: 5em; }
+  @media (max-width: 768px) {
+    #partners {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+          flex-direction: column; } }
+  #partners a {
+    text-decoration: none; }
+  #partners img {
+    margin: 0 20px; }
+    @media (max-width: 768px) {
+      #partners img {
+        margin: 10px 0; } }
+
+#media-partners {
+  text-align: center;
+  margin-top: 2em; }
+  #media-partners h3 {
+    margin-bottom: .3em; }
+
+#events, #jobs {
+  max-width: 780px;
+  margin: 0 auto; }
+  #events h2, #jobs h2 {
+    margin-top: 1.8em;
+    margin-bottom: .8em;
+    color: #e7424f;
+    text-align: center;
+    font-size: 56px; }
+  #events .date, #jobs .date {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 9px; }
+  #events h3, #jobs h3 {
+    font-size: 38px;
+    margin-top: 0;
+    margin-bottom: .3em;
+    color: black; }
+
+@media (max-width: 768px) {
+  section {
+    padding: 0 20px; }
+  #intro h1 {
+    font-size: 3em; }
+  #intro .claim {
+    font-size: 21px; } }
+
+.event {
+  text-align: left;
+  max-width: 768px; }
+  .event h1 {
+    display: inline-block;
+    font-size: 3em;
+    line-height: 80px;
+    margin: 0; }
+    @media (max-width: 768px) {
+      .event h1 {
+        font-size: 2em;
+        line-height: normal; } }
+  .event iframe {
+    border: 1px solid #CCC;
+    margin-bottom: 5px;
+    width: 100%; }
+  .event .meta {
+    font-size: .8em;
+    margin: 0; }
+  .event .post h2, .event .post h4 {
+    display: inline-block; }
+  .event .post h2 {
+    font-size: 35px;
+    line-height: 35px;
+    margin-top: 50px; }
+  .event .post h3 {
+    color: #aaa; }
+  .event .btn-facebook {
+    font-size: 16px;
+    background: #3b5998;
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none; }
+    .event .btn-facebook:hover {
+      background: #2d4373; }
+  .event .center {
+    text-align: center; }
+
+@media (max-width: 768px) {
+  .event {
+    padding: 0 15px; } }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 900;
+  src: url("font/neo-sans/NeoSansStd-Black.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: bold;
+  src: url("font/neo-sans/NeoSansStd-Bold.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 500;
+  src: url("font/neo-sans/NeoSansStd-Medium.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 400;
+  src: url("font/neo-sans/NeoSansStd-Regular.otf") format("opentype"); }
+
+@font-face {
+  font-family: Neo Sans;
+  font-weight: 200;
+  src: url("font/neo-sans/NeoSansStd-Ultra.otf") format("opentype"); }
 
 nav {
   position: absolute;
@@ -475,3 +716,34 @@ nav {
   nav li {
     vertical-align: middle;
     display: inline-block; }
+  nav .logo {
+    position: absolute;
+    left: 0; }
+
+@media (max-width: 460px) {
+  nav ul {
+    text-align: center; }
+  nav .logo {
+    margin: 12px 0 10px 0;
+    position: relative;
+    display: block; } }
+
+body {
+  background: white;
+  font-size: 16px;
+  font-family: 'Neo Sans', sans-serif; }
+
+a {
+  color: #e7424f; }
+  a:visited {
+    color: #e7424f; }
+  a:hover {
+    color: #da1c2b; }
+
+.container, nav {
+  margin: 0 auto;
+  max-width: 900px;
+  position: relative; }
+
+hr {
+  border: 2px solid #E5E5E5; }

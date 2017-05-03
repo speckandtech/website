@@ -1,65 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width">
-
-    <!--generic-->
-    <title>Speck&Tech</title>
-    <meta name="description" content="Speck&Tech is a community of startuppers, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area">
-
-    <!--fb-->
-    <meta content="Speck&Tech" property="og:site_name">
-
-    
-      <meta content="Speck&Tech" property="og:title">
-    
-
-    
-      <meta content="website" property="og:type">
-    
-
-    
-      <meta content="http://speckand.tech/" property="og:url">
-    
-
-    
-      <meta content="http://speckand.tech/img/og_image.jpg" property="og:image">
-    
-    <meta property="og:description" content="Speck&Tech is a community of startuppers, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area" />
-
-    <link rel="stylesheet" href="/css/main.css">
-</head>
-
-<body>
-    <div class="homepage">
-  <nav>
-    <ul>
-      <li class="logo">
-        <a href="/">
-          <img src="../img/small-logo.svg" alt="logo">
-        </a>
-      </li>
-      <li>join us:</li>
-      <li><script async defer src="http://slackin-speckandtech.rhcloud.com/slackin.js"></script></li>
-      <li> | <a target="_blank" href="https://www.facebook.com/speckandtech/">facebook</a></li>
-      <li> | <a target="_blank" href="https://telegram.me/speckandtech">telegram</a></li>
-    </ul>
-  </nav>
-
-  <section id="intro">
-    <div>
-      <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="212px" height="137px" viewBox="0 0 212 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="208px" height="128px" viewBox="0 0 208 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
     <title>speck&amp;tech_logo</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD-Copy-4" transform="translate(-619.000000, -183.000000)">
+        <g id="Desktop-HD-Copy-4" transform="translate(-619.000000, -215.000000)">
             <g id="Hero" transform="translate(-23.000000, -88.000000)">
-                <g id="text" transform="translate(511.000000, 271.000000)">
+                <g id="text" transform="translate(511.000000, 303.000000)">
                     <g id="speck&amp;tech_logo" transform="translate(131.000000, 0.000000)">
                         <g id="logo">
                             <g id="Group">
@@ -128,48 +76,22 @@
                                 </g>
                             </g>
                         </g>
-                        <g id="lamp" transform="translate(139.000000, 52.511568)" stroke-width="7.00000048" stroke="#E7424F">
+                        <g id="bot" transform="translate(122.500000, 34.059126)">
                             <g id="Group">
-                                <g>
-                                    <path d="M53.6495,26.8323445 C53.6495,12.1586632 41.7235,0.263820051 27.0125,0.263820051 C12.301,0.263820051 0.3755,12.159162 0.3755,26.8323445 C0.3755,36.7537738 5.832,45.3989923 13.911,49.9622314 L13.911,66.4691877 C13.911,73.6865861 19.777,79.5375064 27.013,79.5375064 C34.249,79.5375064 40.115,73.6865861 40.115,66.4691877 L40.115,49.9622314 C48.193,45.3989923 53.6495,36.7537738 53.6495,26.8323445 L53.6495,26.8323445 Z" id="Shape" fill="#FFFFFF"></path>
-                                    <path id="Shape"></path>
-                                    <path id="Shape"></path>
-                                    <path id="Shape"></path>
-                                    <ellipse id="Oval" cx="27.012" cy="38.1132699" rx="4.445" ry="4.43357326"></ellipse>
+                                <g transform="translate(32.500000, 0.000000)" id="Shape">
+                                    <path d="M7.4225,36.038617 C4.787,36.038617 2.6435,33.9006272 2.6435,31.272401 L2.6435,7.40491517 C2.6435,4.77619023 4.787,2.63820051 7.4225,2.63820051 C10.0575,2.63820051 12.201,4.77619023 12.201,7.40491517 L12.201,31.272401 C12.2005,33.9006272 10.057,36.038617 7.4225,36.038617 L7.4225,36.038617 Z" fill="#FFFFFF"></path>
+                                    <path d="M7.422,5.13227249 C8.6805,5.13227249 9.7005,6.14965039 9.7005,7.40491517 L9.7005,31.2728997 C9.7005,32.5281645 8.6805,33.5455424 7.422,33.5455424 C6.1635,33.5455424 5.1435,32.5281645 5.1435,31.2728997 L5.1435,7.40491517 C5.1435,6.14965039 6.164,5.13227249 7.422,5.13227249 L7.422,5.13227249 Z M7.422,0.145125964 C3.4085,0.145125964 0.1435,3.40173265 0.1435,7.40491517 L0.1435,31.2728997 C0.1435,35.2760823 3.4085,38.5326889 7.422,38.5326889 C11.4355,38.5326889 14.7005,35.2760823 14.7005,31.2728997 L14.7005,7.40491517 C14.7005,3.40173265 11.4355,0.145125964 7.422,0.145125964 L7.422,0.145125964 L7.422,0.145125964 Z" fill="#E7424F"></path>
                                 </g>
-                                <path id="Shape" fill="#FFFFFF"></path>
-                                <g transform="translate(13.000000, 21.943445)" id="Shape" fill="#FFFFFF">
-                                    <path d="M27.8615,0.335136247 L22.785,5.3980874"></path>
-                                    <path d="M5.239,5.3980874 L0.163,0.335136247"></path>
+                                <ellipse id="Oval" stroke="#E7424F" stroke-width="7.00000048" fill="#FFFFFF" cx="39.922" cy="10.1383702" rx="8.549" ry="8.52702314"></ellipse>
+                                <path d="M11.672,73.5324833 L4.181,73.5324833 C2.0545,73.5324833 0.315,71.7969563 0.315,69.6764216 L0.315,54.2855887 C0.315,52.1645553 2.055,50.429527 4.181,50.429527 L11.672,50.429527" id="Shape" stroke="#E7424F" stroke-width="7.00000048" fill="#FFFFFF"></path>
+                                <path d="M64.6,50.429527 L75.6625,50.429527 C77.789,50.429527 79.5285,52.165054 79.5285,54.2855887 L79.5285,69.6764216 C79.5285,71.797455 77.7885,73.5324833 75.6625,73.5324833 L64.6,73.5324833" id="Shape" stroke="#E7424F" stroke-width="7.00000048" fill="#FFFFFF"></path>
+                                <path d="M61.1495,90.2219692 L18.695,90.2219692 C14.7975,90.2219692 11.6085,87.0411671 11.6085,83.1536864 L11.6085,40.8083239 C11.6085,36.9208432 14.7975,33.7400411 18.695,33.7400411 L61.1495,33.7400411 C65.047,33.7400411 68.236,36.9208432 68.236,40.8083239 L68.236,83.1536864 C68.236,87.0411671 65.047,90.2219692 61.1495,90.2219692 L61.1495,90.2219692 Z" id="Shape" stroke="#E7424F" stroke-width="7.00000048" fill="#FFFFFF"></path>
+                                <path d="M55.2035,70.425491 L55.2035,74.69 C55.2035,76.8110334 53.464,78.5460617 51.3375,78.5460617 L28.507,78.5460617 C26.3805,78.5460617 24.641,76.8105347 24.641,74.69 L24.641,70.425491" id="Shape" stroke="#E7424F" stroke-width="7.00000048" fill="#FFFFFF"></path>
+                                <g transform="translate(21.500000, 46.879177)" stroke="#E7424F" id="Oval" stroke-width="7.00000048" fill="#FFFFFF">
+                                    <ellipse cx="5.0735" cy="5.17266838" rx="4.7995" ry="4.78716195"></ellipse>
+                                    <ellipse cx="31.7705" cy="5.17266838" rx="4.7995" ry="4.78716195"></ellipse>
                                 </g>
                             </g>
-                        </g>
-                        <g id="on" transform="translate(128.000000, 59.493573)" stroke-width="7.00000048" stroke="#E7424F">
-                            <g id="Group">
-                                <ellipse id="Oval" fill="#FFFFFF" cx="33.2545" cy="32.9181594" rx="32.92" ry="32.8353728"></ellipse>
-                                <g transform="translate(14.500000, 12.467866)" id="Shape">
-                                    <path d="M30.1015,7.03387147 C34.5595,10.4390951 37.434,15.8022725 37.434,21.8352237 C37.434,32.1252031 29.071,40.4667044 18.7545,40.4667044 C8.438,40.4667044 0.075,32.1252031 0.075,21.8352237 C0.075,16.2012442 2.582,11.1517584 6.544,7.73506427"></path>
-                                    <path d="M18.7545,0.433881748 L18.7545,13.5854859"></path>
-                                </g>
-                            </g>
-                        </g>
-                        <g id="floppy" transform="translate(132.500000, 59.493573)" stroke-width="7.00000048" stroke="#E7424F">
-                            <g id="Group">
-                                <polygon id="Shape" fill="#FFFFFF" points="66.573 65.821856 0.4515 65.821856 0.4515 0.0149614396 53.236 0.0149614396 66.573 15.2013213"></polygon>
-                                <polyline id="Shape" points="49.1 0.0149614396 49.1 19.9017069 17.9245 19.9017069 17.9245 0.0149614396"></polyline>
-                                <polyline id="Shape" points="10.1295 65.7894396 10.1295 33.0119177 56.8945 33.0119177 56.8945 65.7894396"></polyline>
-                                <g transform="translate(19.000000, 43.886889)" id="Shape">
-                                    <path></path>
-                                    <path></path>
-                                </g>
-                                <path id="Shape"></path>
-                            </g>
-                        </g>
-                        <g id="hand" transform="translate(129.000000, 52.511568)" fill="#FFFFFF">
-                            <path d="M73.7945,64.9416247 C73.6305,63.9646427 69.7335,40.9125553 66.488,32.01 C63.7105,24.3936298 58.5035,17.7492545 54.3195,12.4105141 C53.477,11.3357841 52.6725,10.3094293 51.934,9.33444216 C49.4635,6.06885861 46.2025,4.89887404 43.2145,6.19752699 C41.6145,6.89173779 40.4115,8.22829306 39.7395,9.80672494 C39.269,9.49802057 38.773,9.22572237 38.227,9.03770694 C36.514,8.44722879 34.6705,8.55943959 33.04,9.35239589 C31.5305,10.0860051 30.4195,11.3093522 29.797,12.7366735 C27.784,11.601599 25.241,11.5108329 23.089,12.7306889 C21.94,13.3835064 21.0615,14.3250797 20.4785,15.4097841 L13.018,3.85556298 C12.2005,2.28461183 10.8275,1.11462725 9.1405,0.553573265 C7.42,-0.0169562982 5.5795,0.112709512 3.9595,0.921125964 C2.336,1.72954242 1.1275,3.11995887 0.553,4.83603599 C-0.02,6.55211311 0.111,8.38788175 0.9655,10.0884987 L21.8725,46.9091003 L11.2435,42.8749974 C9.7135,42.0241902 7.9445,41.7942828 6.241,42.2336504 C4.4855,42.6849871 3.0105,43.7926324 2.0905,45.350617 C0.1895,48.5653316 1.2645,52.7246118 4.399,54.566365 L43.799,80.9927558 C44.104,81.1967301 44.457,81.3004627 44.8115,81.3004627 C45.101,81.3004627 45.3905,81.2321388 45.655,81.0929974 L72.8475,66.8427249 C73.5425,66.4796607 73.9245,65.7126375 73.7945,64.9416247 L73.7945,64.9416247 Z" id="Shape"></path>
-                            <path d="M41.364,14.7280411 C40.2675,12.2160154 41.4205,8.95043188 43.939,7.85675064 C46.4575,6.76306941 48.8295,8.23826735 50.485,10.4251311 C54.8645,16.2102211 61.5555,23.7792134 64.782,32.6284062 C68.0085,41.4780977 72.0045,65.2413522 72.0045,65.2413522 L44.812,79.4916247 L5.4115,53.0642365 C3.0455,51.6723239 2.2585,48.6306632 3.654,46.2707455 C5.0495,43.9108278 8.099,43.1258509 10.465,44.5177635 L25.932,50.3881337 L2.5455,9.19679692 C1.317,6.74611311 2.313,3.76629306 4.77,2.54095116 C7.227,1.31560925 10.2145,2.30904884 11.443,4.75973265 L30.954,34.9778509" id="Shape" stroke="#E7424F" stroke-width="7.00000048"></path>
-                            <path d="M22.126,21.0711928 C20.767,18.690329 21.6,15.6606375 23.9875,14.3051311 C26.3745,12.9496247 29.412,13.7804833 30.771,16.1618458" id="Shape" stroke="#E7424F" stroke-width="7.00000048"></path>
-                            <path d="M49.277,27.6801594 L40.485,13.2663085 C39.2815,10.8031568 36.3045,9.77929563 33.835,10.9797018 C31.3655,12.180108 30.339,15.149455 31.5425,17.6126067 L40.158,31.6828432" id="Shape" stroke="#E7424F" stroke-width="7.00000048"></path>
                         </g>
                     </g>
                 </g>
@@ -177,248 +99,3 @@
         </g>
     </g>
 </svg>
-      <h1>SPECK<span>&</span>TECH</h1>
-      <p class="claim">
-        <span id="claim-text"></span>
-      </p>
-
-
-      <!-- <div style="margin-top: 30px;">
-        <span class="next-meetup">next meetup</span>
-        <h3>
-          Data-driven Society
-        </h3>
-        <h3>
-          04/04/2017 20:45 @ <a href="https://goo.gl/maps/1dcmwrdAsUD2" target="_blank">Impact Hub</a>
-        </h3>
-      </div> -->
-     <!-- <a class="btn" href="//www.eventbrite.com/e/specktech-11-data-driven-society-tickets-33253095905" target="_blank">I can't miss it!</a> -->
-     <!-- <a id="must-wait" href="https://www.facebook.com/speckandtech/?fref=ts" class="btn-facebook" target="_blank">Keep me up to date!</a> -->
-
-<!-- <div class="other-kind-of-events">
-     <h4>
-     </h4>
-
-     <h4>
-     </h4>
-
-     <a class="btn" href="" target="_blank">I want to know more!</a>
-</div> -->
-     </div>
-
-  </section>
-
-  <section id="about-homepage">
-    <p>
-      A community of startuppers, students, professionals and... <strong>anyone</strong> that aims at building a network of tech enthusiasts within the <strong>Trento</strong> area, with the purpose of learning about and sharing new ideas regarding development, design, startups and any related topic.
-    </p>
-  </section>
-
-  <section id="partners">
-    <a href="http://eitdigital.eu">
-      <img width="200px" height="auto" src="img/EIT-Digital.png" alt="Supported by EIT Digital">
-    </a>
-    <a href="http://belka.us">
-      <img width="200px" height="auto" src="img/belka.svg" alt="Supported by Belka">
-    </a>
-    <a href="https://trento.impacthub.net/">
-      <img height="80px" src="img/impact-hub-logo.png" alt="Supported by Impact Hub Trentino">
-    </a>
-
-    <a href="http://www.segata.com/">
-      <img height="80px" src="img/segata-logo.png" alt="Supported by Segata">
-    </a>
-
-    <a href="http://www.jetbrains.com/">
-      <img height="80px" src="img/jetbrains.svg" alt="Supported by Jetbrains">
-    </a>
-  </section>
-
-  <section id="media-partners">
-    <h3>Media partners</h3>
-    <a href="http://www.grusp.org">
-      <img height="35px" src="img/grusp.svg" alt="Supported by Grusp">
-    </a>
-  </section>
-
-  <section id="events">
-    <h2>Previous issues</h2>
-    
-    <article class="first">
-      <div class="article-head">
-        <p class="date">May 03, 2017</p>
-        <h3 class="title"><a href="2017/05/13/" class="js-pjax">titolo di prova</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Apr 04, 2017</p>
-        <h3 class="title"><a href="2017/04/12/" class="js-pjax">#11 - Data-driven society</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Mar 13, 2017</p>
-        <h3 class="title"><a href="2017/03/11/" class="js-pjax">#10 - Work Evolution</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Mar 09, 2017</p>
-        <h3 class="title"><a href="2017/03/10/" class="js-pjax">Google Cloud Next Trento</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Feb 27, 2017</p>
-        <h3 class="title"><a href="2017/02/9/" class="js-pjax">#9 - Smart Mobility</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Jan 25, 2017</p>
-        <h3 class="title"><a href="2017/01/8/" class="js-pjax">#8 - Speeding up</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Dec 14, 2016</p>
-        <h3 class="title"><a href="2016/12/7/" class="js-pjax">#7 - Taking Off</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Nov 14, 2016</p>
-        <h3 class="title"><a href="2016/11/6/" class="js-pjax">#6 - Augmented Reality</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Oct 24, 2016</p>
-        <h3 class="title"><a href="2016/10/5/" class="js-pjax">#5 - Cybersecurity</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Sep 12, 2016</p>
-        <h3 class="title"><a href="2016/09/4/" class="js-pjax">#4 - Digital Cities</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">Jul 04, 2016</p>
-        <h3 class="title"><a href="2016/07/3/" class="js-pjax">#3 - Security and Privacy</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="middle">
-      <div class="article-head">
-        <p class="date">May 25, 2016</p>
-        <h3 class="title"><a href="2016/05/2/" class="js-pjax">#2 - Connecting the dots</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-    <article class="last">
-      <div class="article-head">
-        <p class="date">Apr 27, 2016</p>
-        <h3 class="title"><a href="2016/04/1/" class="js-pjax">#1 - Design for Industry</a></h2>
-      </div>
-    </article>
-    <hr>
-    
-  </section>
-</div>
-
-<section id="jobs">
-  <h2>Who's hiring?</h2>
-  <h4>Belka - Web Developer</h4>
-  <p>
-    Belka is looking for talented people to grow their team, both in the <em>backend</em> and <em>frontend</em> for their web projects.
-  </p>
-  <p>The team is in Impact Hub, so it's easier to participate in Speck&Tech events.</p>
-  <p>
-    Are you the next one?
-  </p>
-  <p>
-    <a href="http://belka.us/lavora-con-noi/">Learn More</a>
-  </p>
-  <h4>Practix - internship</h4>
-  <p>
-    We are looking for an intern. He will be in charge of building new interactive cross-platform components for TouchDomain, which is developed in .Net.
-  </p>
-  <p>
-    The internship's goal is building a technology proof-of-concept and to evaluate the person for a further collaboration.
-  </p>
-  We are looking for a person with knowledge in those fields:
-  <ul>
-    <li>
-      Interface development
-    </li>
-    <li>
-      Stand-alone development in .Net and C#
-    </li>
-    <li>
-      Web development in Html5, Javascript, AngularJS (or any other MV* framework)
-    </li>
-    <li>
-      Knowledge of Adobe Illustrator
-    </li>
-  </ul>
-  <p>
-    The internship will be 6 months long in Rovereto. Practix srl is a software company based in Rovereto, in the Meccatronica Hub.
-  </p>
-  <p>
-    The company is specialised in building interfaces for big screens, interactive totems and interactive tables. <br>
-    Practix was born from the Centro Ricerche Fondazione Bruno Kessler's ten years experience.
-  </p>
-  <p>
-    <a href="http://www.practix.net/index.php/it/unisciti-a-noi/lavora-con-noi">Apply here</a>
-  </p>
-</section>
-
-<div class="footer">
-  <p>
-	<img height="30px" src="img/small-logo-alone.svg" alt="small logo"><br>
-	Associazione culturale Speck&amp;Tech — C.F. 96106760224
-</p>
-
-</div>
-
-
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-75242070-1', 'auto');
-        ga('send', 'pageview');
-    </script>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script src="js/all.js"></script>
-
-</body>
-</html>
