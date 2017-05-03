@@ -13,7 +13,13 @@ A company is like a baby, one leg representing business and the other standing f
 OpenMove will give its perspective on major challenges faced to bring the company to market its products in 6 countries, dealing with high-profile customers like Ministries of Transport or big telcos… guys you don’t wanna mess with! 💀
 On the business side, Lorenzo, CEO, will tell how they have been structuring product- and knowledge-management, business development (and some other super boring stuff), while Michele, CTO, will show the cool things: scalability and high availability of the platform adopting Docker Swarm, optimization by using Meteor.js and MongoDB and evolution towards an ecosystem of microservices.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6pnKMgv3u19McP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/intelligent-transportation-by-openmove" title="Intelligent Transportation by OpenMove" target="_blank">Intelligent Transportation by OpenMove</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/lorenzomodena/">Lorenzo Modena</a></strong> &amp; <strong><a target="_blank" href="//www.linkedin.com/in/michelemargoni/">Michele Margoni</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6pnKMgv3u19McP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//www.slideshare.net/speckandtech/intelligent-transportation-by-openmove" title="Intelligent Transportation by OpenMove" target="_blank">Intelligent Transportation by OpenMove</a>
+</strong> from <strong><a target="_blank" href="//www.linkedin.com/in/lorenzomodena/">Lorenzo Modena</a></strong> &amp; <strong><a target="_blank" href="//www.linkedin.com/in/michelemargoni/">Michele Margoni</a></strong>
+</div>
 
 ## Self Driving Cars
 ### Paolo Costa - Spindox, Founding Partner
@@ -22,7 +28,13 @@ On the business side, Lorenzo, CEO, will tell how they have been structuring pro
 A self-driving car is hyper-communication: a system communicating with more elements, more frequently, and in real-time 🚘 But to what extent can unmanned vehicles trust communication to make their own decisions? In other terms, how autonomous will be autonomous cars, once they reach the so-called ‘fifth level of autonomy’?
 Spindox is involved in 2 different research programs working on this question. We will give our vision for the mid-term scenario, from both a technical and a business perspective: architectural view, industry role, sourcing and delivery strategies. More specifically, we are presenting a proposed model for the data layer within this architecture, that addressed most of foreseen technical issues 💻
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/26cILQYoLTKUtI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/the-tricky-road-to-autonomous-cars" title="The tricky road to autonomous cars" target="_blank">The tricky road to autonomous cars</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/paolocostaprofile/">Paolo Costa</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/26cILQYoLTKUtI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//www.slideshare.net/speckandtech/the-tricky-road-to-autonomous-cars" title="The tricky road to autonomous cars" target="_blank">The tricky road to autonomous cars</a>
+</strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/paolocostaprofile/">Paolo Costa</a></strong>
+</div>
 <br>
 <section class ="center">
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.635296280001664.1073741838.476076519256975&type=1&l=1d01643561">Photo album &#128247;</a>

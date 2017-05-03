@@ -24,4 +24,10 @@ This event is made possible by a joint effort of all the tech-communities of Tre
 * <a target="_blank" href="//www.facebook.com/CLabTrento/">CLab Trento</a>
 * <a target="_blank" href="//www.trentinoinnovation.eu/">HIT - Hub Innovazione Trentino</a>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3wxymBNcdjabwV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/google-next-cloud-trento" title="Google Next Cloud Trento" target="_blank">Google Next Cloud Trento</a> </strong> from <strong><a target="_blank" href="//www.facebook.com/speckandtech/">Speck&amp;Tech</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3wxymBNcdjabwV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//www.slideshare.net/speckandtech/google-next-cloud-trento" title="Google Next Cloud Trento" target="_blank">Google Next Cloud Trento</a>
+</strong> from <strong><a target="_blank" href="//www.facebook.com/speckandtech/">Speck&amp;Tech</a></strong>
+</div>

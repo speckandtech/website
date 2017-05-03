@@ -12,14 +12,25 @@ categories: event
 Serverless Architecture - How to make a Bot in minutes
 "We will explore what is serverless architecture and why it's a valuable resource when developing apps and services. We will also see why and how you should use Serverless, and end the talk with a Demo on how to create a Facebook Bot using AWS Lambda Service and the Claudia Framework."
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/aIQaAKvBwfqsnW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/a-bot-in-minutes-with-serverless" title="A bot in minutes with serverless" target="_blank">A bot in minutes with serverless</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/tmartinho/">Tiago Martinho</a></strong> & <strong><a target="_blank" href="//www.linkedin.com/in/alessiocoser/">Alessio Coser</a></strong></div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/aIQaAKvBwfqsnW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//www.slideshare.net/speckandtech/a-bot-in-minutes-with-serverless" title="A bot in minutes with serverless" target="_blank">A bot in minutes with serverless</a>
+</strong> from <strong><a target="_blank" href="//www.linkedin.com/in/tmartinho/">Tiago Martinho</a></strong> & <strong><a target="_blank" href="//www.linkedin.com/in/alessiocoser/">Alessio Coser</a></strong></div>
 
 ## Design sprint - What is it and how it works
 ###  Giulio Michelon - Belka, CEO & Co-founder
 
 The "Design Sprint" is a five-day (!) process for answering critical business questions through design, prototyping, and testing ideas with customers. This technique has been developed by GV (Google Ventures). I've run my first sprint with a company we are partner with, and it's been amazing! 😍 I will tell you the whole story, the downsides and the upsides of using it in your own projects.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/maIKQDHbABSa2D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GiulioMichelon/design-sprint-what-is-it-and-how-it-works" title="Design sprint - What is it and how it works" target="_blank">Design sprint - What is it and how it works</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/giuliomichelon/">Giulio Michelon</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/maIKQDHbABSa2D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//www.slideshare.net/GiulioMichelon/design-sprint-what-is-it-and-how-it-works" title="Design sprint - What is it and how it works" target="_blank">Design sprint - What is it and how it works</a>
+</strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/giuliomichelon/">Giulio Michelon</a></strong>
+</div>
 <br>
 <section class ="center">
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.616480431883249.1073741836.476076519256975&type=1&l=311b5cb1de">Photo album &#128247;</a>

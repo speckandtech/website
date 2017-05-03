@@ -8,12 +8,24 @@ categories: event
 ## Smart Cities
 ### Derrick de Kerckhove - Director of the McLuhan Program in Culture & Technology at the University of Toronto
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/tPG87HfRXNUYQU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/singapore-future-of-surveillance-and-transparency" title="Singapore - Future of surveillance and transparency?" target="_blank">Singapore - Future of surveillance and transparency?</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/derrick-de-kerckhove-9428/">Derrick de Kerckhove</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tPG87HfRXNUYQU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//www.slideshare.net/speckandtech/singapore-future-of-surveillance-and-transparency" title="Singapore - Future of surveillance and transparency?" target="_blank">Singapore - Future of surveillance and transparency?</a>
+</strong> from <strong><a target="_blank" href="//www.linkedin.com/in/derrick-de-kerckhove-9428/">Derrick de Kerckhove</a></strong>
+</div>
 
 ## Smart Cities
 ### Roberto Minerva - Chairman of the IEEE IoT
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wOGtuzM53OJcyC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/smart-cities-and-measurable-cities-a-technological-perspective" title="Smart Cities and Measurable Cities - a technological perspective" target="_blank">Smart Cities and Measurable Cities - a technological perspective</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/robertominerva/">Roberto Minerva</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wOGtuzM53OJcyC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+</iframe>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//www.slideshare.net/speckandtech/smart-cities-and-measurable-cities-a-technological-perspective" title="Smart Cities and Measurable Cities - a technological perspective" target="_blank">Smart Cities and Measurable Cities - a technological perspective</a>
+</strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/robertominerva/">Roberto Minerva</a></strong>
+</div>
 <br>
 <section class ="center">
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.550957268435566.1073741832.476076519256975&type=1&l=2c7916d62c">Photo album &#128247;</a>
