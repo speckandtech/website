@@ -587,6 +587,10 @@ ul {
     font-size: 24px; }
 
 #partners {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   text-align: center;
   margin-top: 5em; }
   @media (max-width: 768px) {
