@@ -592,6 +592,8 @@ ul {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   text-align: center;
+  -ms-flex-align: baseline;
+      align-items: baseline;
   margin-top: 5em; }
   @media (max-width: 768px) {
     #partners {
@@ -602,7 +604,7 @@ ul {
   #partners a {
     text-decoration: none; }
   #partners img {
-    margin: 0 20px; }
+    margin: 8px 20px; }
     @media (max-width: 768px) {
       #partners img {
         margin: 10px 0; } }

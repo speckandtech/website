@@ -139,6 +139,7 @@
   display: flex;
   flex-wrap: wrap;
   text-align: center;
+  align-items: baseline;
   margin-top: 5em;
 
   @include small-screen {
@@ -152,7 +153,7 @@
   }
 
   img {
-    margin: 0 20px;
+    margin: 8px 20px;
     @include small-screen {
       margin: 10px 0;
     }
