@@ -30,10 +30,15 @@ Virtual Reality and Augmented Reality are two of the most chatted technologies c
 <a href="//www.slideshare.net/FrancescoAlzetta/virtual-reality-programming-and-designing-issues" title="Virtual Reality programming and designing issues" target="_blank">Virtual Reality programming and designing issues</a>
 </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/francesco-alzetta-2257a812a/">Francesco Alzetta</a></strong>
 </div>
-<br>
-<section class ="center">
+## Weren't you there?
+### ...or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Watch the video
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/577526832445276/">Facebook reLive 📼</a>
+#### ... and don't forget to check the pictures
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.579912205540072.1073741834.476076519256975&type=1&l=3383dbd7c7">Photo album &#128247;</a>
-
+</section>
+<section class ="center">
 *"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
 **― Karl Lagerfeld**
 </section>

@@ -73,7 +73,7 @@ ul {
   display: inline-block;
   margin-bottom: 2em; }
 
-.title a {
+.title {
   color: #a00; }
 
 .title a:hover {
@@ -670,16 +670,22 @@ ul {
   .event .post h3 {
     color: #aaa; }
   .event .btn-facebook {
+    margin-left: 32px;
+    margin-bottom: 8px;
     font-size: 16px;
     background: #3b5998;
     color: white;
     display: inline-block;
-    margin-top: 15px;
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none; }
     .event .btn-facebook:hover {
       background: #2d4373; }
+  .event .fb-links {
+    padding: 0;
+    margin: 16px 0px 32px 0px; }
+    .event .fb-links p {
+      margin: 8px 0 8px 0; }
   .event .center {
     text-align: center; }
 
@@ -742,9 +748,9 @@ body {
 a {
   color: #e7424f; }
   a:visited {
-    color: #e7424f; }
+    color: #ad1622; }
   a:hover {
-    color: #da1c2b; }
+    color: #ad1622; }
 
 .container, nav {
   margin: 0 auto;

@@ -1,0 +1,47 @@
+---
+layout: event
+title:  '#12 - Bootstrapping'
+date:   2017-05-18T21:00:00+02:00
+categories: event
+slug: 'Bootstrapping'
+---
+
+## Unity3D: things you need to know to get started
+### Massimo Frasson - Belka, iOS and Game Developer
+
+Imagine you’re a developer with no knowledge of Unity3D and you have to build a multi-platform game from scratch. That’s me few months ago 😐
+In this talk I will guide you from zero to Unity3D master, sharing the route I’ve followed during the development and the blocks you need to win in order to develop your first game.  
+I’m going to talk about:
+* Unity introduction
+* Unity Interface
+* Unity basic components
+* Unity scripting
+* Development tips
+* Learning resources.  
+
+
+<script async class="speakerdeck-embed" data-id="bcaafd1f274041539e7d5dc8e5df11f2" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<div style="margin-bottom:5px">
+<strong>
+<a href="//speakerdeck.com/maxfrax/droidcon-italy-2017-unity-3d-getting-started" title="Unity3D: things you need to know to get started" target="_blank">Unity3D: things you need to know to get started</a>
+</strong> from <strong><a target="_blank" href="//www.linkedin.com/in/massimofrasson/">Massimo Frasson</a></strong>
+</div>
+
+## One man band business from nothing
+### Tiziano Pojer - ActivePager, Founder
+
+Being alone, this is how I went from one idea to a functional product: challenges and ways to handle the work.
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2xCkUZ4zXFW7Hn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<strong> <a href="//www.slideshare.net/speckandtech/active-pager-one-man-band-business-from-nothing" title="Active Pager - One man band business from nothing" target="_blank">Active Pager - One man band business from nothing</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/tiziano-pojer-83313869/">Tiziano Pojer</a></strong>
+## Weren't you there?
+### ...or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Watch the video
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="https://www.facebook.com/speckandtech/videos/679132295618062/">Facebook reLive 📼</a>
+#### ... and don't forget to check the pictures
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="https://www.facebook.com/media/set/?set=a.681850812012877.1073741841.476076519256975&type=1&l=8c40da6b10">Photo album &#128247;</a>
+</section>
+<section class ="center">
+*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
+**― Karl Lagerfeld**
+</section>

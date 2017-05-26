@@ -17,11 +17,11 @@ a {
   color: $red;
 
   &:visited {
-    color: $red;
+    color: darken($red,20%);
   }
 
   &:hover {
-    color: darken($red, 10%);
+    color: darken($red, 20%);
   }
 }
 
