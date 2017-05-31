@@ -5,4 +5,4 @@ kramdown:
   parse_block_html: true
 highlighter: null # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-permalink: "/:year/:month/"
+permalink: "/:year/:month/:title/"
