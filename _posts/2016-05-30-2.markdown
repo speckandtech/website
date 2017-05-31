@@ -33,7 +33,4 @@ Have you ever thought about a world where everything goes fast and real-time? Th
 <br>
 <section class ="center">
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.504342776430349.1073741830.476076519256975&type=1&l=4830c83ddd">Photo album &#128247;</a>
-
-*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
-**― Karl Lagerfeld**
 </section>

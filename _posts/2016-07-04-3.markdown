@@ -37,7 +37,4 @@ At first, this talk is going to introduce what the "Right to be forgotten" is, b
 <br>
 <section class ="center">
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.520351401496153.1073741831.476076519256975&type=1&l=6c504215c9">Photo album &#128247;</a>
-
-*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
-**― Karl Lagerfeld**
 </section>

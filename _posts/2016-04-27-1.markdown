@@ -41,7 +41,4 @@ During the talk we shared our experience with this technology that can blend Rea
 
 <section class ="center">
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.493869420811018.1073741829.476076519256975&type=1&l=99aac5dbc7">Photo album &#128247;</a>
-
-*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
-**― Karl Lagerfeld**
 </section>

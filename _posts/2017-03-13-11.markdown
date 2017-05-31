@@ -32,14 +32,10 @@ Which are the advantages of working remotely? What does it mean for startups? �
 </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/emanuelazaccone/">Emanuela Zaccone</a></strong>
 </div>
 ## Weren't you there?
-### ...or maybe you just want to relive this wonderful night
+### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 #### Watch the video
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/639395006258458/">Facebook reLive 📼</a>
-#### ... and don't forget to check the pictures
+#### and don't forget to check the pictures
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.640250076172951.1073741839.476076519256975&type=1&l=369a200178">Photo album &#128247;</a>
-</section>
-<section class ="center">
-*"What I like about photographs is that they capture a moment that’s gone forever, impossible to reproduce."*
-**― Karl Lagerfeld**
 </section>
