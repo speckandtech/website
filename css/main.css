@@ -584,7 +584,8 @@ ul {
   max-width: 780px;
   margin: 2vw auto; }
   #about-homepage p {
-    font-size: 24px; }
+    font-size: 24px;
+    line-height: 1.5em; }
 
 #partners {
   display: -ms-flexbox;
