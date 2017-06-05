@@ -546,12 +546,12 @@ ul {
       #intro h4 {
         font-size: 18px; } }
   #intro .btn {
-    font-size: 16px;
+    font-size: 24px;
     background: #e7424f;
     color: white;
     display: inline-block;
     margin-top: 15px;
-    padding: 10px 20px;
+    padding: 16px 24px;
     font-weight: bold;
     text-decoration: none; }
     #intro .btn:hover {
