@@ -588,20 +588,26 @@ ul {
     line-height: 1.5em; }
 
 #partners {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
   text-align: center;
-  -ms-flex-align: baseline;
-      align-items: baseline;
   margin-top: 5em; }
+  #partners .container, #partners nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-align: center;
+        align-items: center; }
   @media (max-width: 768px) {
     #partners {
       display: -ms-flexbox;
       display: flex;
       -ms-flex-direction: column;
-          flex-direction: column; } }
+          flex-direction: column; }
+      #partners a {
+        -ms-flex-preferred-size: 216px;
+            flex-basis: 216px; } }
   #partners a {
     text-decoration: none; }
   #partners img {

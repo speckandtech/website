@@ -137,16 +137,23 @@
 }
 
 #partners {
-  display: flex;
-  flex-wrap: wrap;
   text-align: center;
-  align-items: baseline;
   margin-top: 5em;
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;;
+    justify-content: center;
+    align-items: center;
+  }
 
   @include small-screen {
     display: flex;
     flex-direction: column;
 
+    a {
+      flex-basis: 216px;
+    }
   }
 
   a {
