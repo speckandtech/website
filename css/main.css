@@ -488,7 +488,7 @@ ul {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/14-mobile-development.jpg");
+  background: url("../img/tshirt-background.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
@@ -539,7 +539,7 @@ ul {
       #intro h3 {
         font-size: 24px; } }
   #intro h4 {
-    font-size: 1.6vw;
+    font-size: 2vw;
     font-weight: normal;
     margin: 0; }
     @media (max-width: 768px) {
@@ -647,7 +647,10 @@ ul {
   #intro h1 {
     font-size: 3em; }
   #intro .claim {
-    font-size: 21px; } }
+    font-size: 21px; }
+  .homepage {
+    background-repeat: no-repeat;
+    background-size: auto; } }
 
 .event {
   text-align: left;

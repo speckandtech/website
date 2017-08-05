@@ -27,6 +27,6 @@ Google is adding Kotlin as an official programming language for Android developm
 <section class="fb-links">
 #### Watch the video
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/723999537798004/">Facebook reLive 📼</a>
-<!-- #### and don't forget to check the pictures
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.703080043223287.1073741842.476076519256975&type=1&l=7255c566b1">Photo album &#128247;</a> -->
+#### and don't forget to check the pictures
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.726181107579847.1073741844.476076519256975&type=1&l=96d60f3fef">Photo album &#128247;</a>
 </section>

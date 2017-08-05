@@ -2,7 +2,7 @@
 @import 'homepage-animations';
 
 .homepage {
-  background: url('../img/14-mobile-development.jpg');
+  background: url('../img/tshirt-background.jpg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -72,7 +72,7 @@
   }
 
   h4 {
-    font-size: 1.6vw;
+    font-size: 2vw;
     font-weight: normal;
 
     @include small-screen {
@@ -215,5 +215,10 @@
     .claim {
       font-size: 21px;
     }
+  }
+
+  .homepage {
+    background-repeat: no-repeat;
+    background-size: auto;
   }
 }
