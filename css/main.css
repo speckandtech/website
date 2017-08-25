@@ -73,7 +73,7 @@ ul {
   display: inline-block;
   margin-bottom: 2em; }
 
-.title a {
+.title {
   color: #a00; }
 
 .title a:hover {
@@ -488,7 +488,7 @@ ul {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/home-background.jpg");
+  background: url("../img/tshirt-background.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
@@ -515,6 +515,9 @@ ul {
     font-size: 27px; }
     #intro .claim .typed-cursor {
       color: #e7424f; }
+  #intro .action {
+    margin: 5vh 10vh;
+    display: inline-block; }
   #intro em {
     position: absolute;
     bottom: 0;
@@ -539,19 +542,20 @@ ul {
       #intro h3 {
         font-size: 24px; } }
   #intro h4 {
-    font-size: 1.6vw;
+    font-size: 2vw;
     font-weight: normal;
     margin: 0; }
     @media (max-width: 768px) {
       #intro h4 {
         font-size: 18px; } }
   #intro .btn {
-    font-size: 16px;
+    font-size: 24px;
+    line-height: 1.2;
     background: #e7424f;
     color: white;
     display: inline-block;
     margin-top: 15px;
-    padding: 10px 20px;
+    padding: 16px 24px;
     font-weight: bold;
     text-decoration: none; }
     #intro .btn:hover {
@@ -584,21 +588,34 @@ ul {
   max-width: 780px;
   margin: 2vw auto; }
   #about-homepage p {
-    font-size: 24px; }
+    font-size: 24px;
+    line-height: 1.5em; }
 
 #partners {
   text-align: center;
   margin-top: 5em; }
+  #partners .container, #partners nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-align: center;
+        align-items: center; }
   @media (max-width: 768px) {
     #partners {
       display: -ms-flexbox;
       display: flex;
       -ms-flex-direction: column;
-          flex-direction: column; } }
+          flex-direction: column; }
+      #partners a {
+        -ms-flex-preferred-size: 216px;
+            flex-basis: 216px; } }
   #partners a {
     text-decoration: none; }
   #partners img {
-    margin: 0 20px; }
+    margin: 8px 20px; }
     @media (max-width: 768px) {
       #partners img {
         margin: 10px 0; } }
@@ -634,7 +651,10 @@ ul {
   #intro h1 {
     font-size: 3em; }
   #intro .claim {
-    font-size: 21px; } }
+    font-size: 21px; }
+  .homepage {
+    background-repeat: no-repeat;
+    background-size: auto; } }
 
 .event {
   text-align: left;
@@ -664,16 +684,22 @@ ul {
   .event .post h3 {
     color: #aaa; }
   .event .btn-facebook {
+    margin-left: 32px;
+    margin-bottom: 8px;
     font-size: 16px;
     background: #3b5998;
     color: white;
     display: inline-block;
-    margin-top: 15px;
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none; }
     .event .btn-facebook:hover {
       background: #2d4373; }
+  .event .fb-links {
+    padding: 0;
+    margin: 16px 0px 32px 0px; }
+    .event .fb-links p {
+      margin: 8px 0 8px 0; }
   .event .center {
     text-align: center; }
 
@@ -736,9 +762,9 @@ body {
 a {
   color: #e7424f; }
   a:visited {
-    color: #e7424f; }
+    color: #ad1622; }
   a:hover {
-    color: #da1c2b; }
+    color: #ad1622; }
 
 .container, nav {
   margin: 0 auto;
