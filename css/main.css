@@ -505,6 +505,7 @@ ul {
   #intro > div {
     -ms-flex-item-align: center;
     align-self: center;
+    width: 100%;
     margin-bottom: 5vh; }
   #intro h1 {
     color: #e7424f;
@@ -515,8 +516,18 @@ ul {
     font-size: 27px; }
     #intro .claim .typed-cursor {
       color: #e7424f; }
+  #intro #call-to-action {
+    width: 100%;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: space-evenly;
+    -moz-justify-content: space-evenly;
+    justify-content: space-evenly; }
   #intro .action {
-    margin: 5vh 10vh;
+    min-width: 375px;
+    -ms-flex-positive: 1;
+        flex-grow: 1;
     display: inline-block; }
   #intro em {
     position: absolute;
@@ -537,6 +548,7 @@ ul {
     margin-top: 2vw; }
   #intro h3 {
     font-size: 3vw;
+    line-height: 1.5;
     margin: 0; }
     @media (max-width: 768px) {
       #intro h3 {
@@ -560,6 +572,9 @@ ul {
     text-decoration: none; }
     #intro .btn:hover {
       background: #da1c2b; }
+    @media (max-width: 768px) {
+      #intro .btn {
+        font-size: 20px; } }
   #intro .btn-disabled {
     font-size: 16px;
     background: #bdbdbd;
