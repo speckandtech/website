@@ -38,11 +38,11 @@
   #call-to-action {
     width: 100%;
     @include flexbox();
+    @include flex-wrap(wrap);
     @include justify-content(space-evenly);
   }
 
   .action {
-    min-width: 375px;
     flex-grow: 1;
     display: inline-block;
   }
