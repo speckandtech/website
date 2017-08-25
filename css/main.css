@@ -515,6 +515,9 @@ ul {
     font-size: 27px; }
     #intro .claim .typed-cursor {
       color: #e7424f; }
+  #intro .action {
+    margin: 5vh 10vh;
+    display: inline-block; }
   #intro em {
     position: absolute;
     bottom: 0;
@@ -547,6 +550,7 @@ ul {
         font-size: 18px; } }
   #intro .btn {
     font-size: 24px;
+    line-height: 1.2;
     background: #e7424f;
     color: white;
     display: inline-block;
