@@ -488,7 +488,7 @@ ul {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/12-bootstrapping.jpg");
+  background: url("../img/15-data-infrastructures.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
@@ -505,6 +505,7 @@ ul {
   #intro > div {
     -ms-flex-item-align: center;
     align-self: center;
+    width: 100%;
     margin-bottom: 5vh; }
   #intro h1 {
     color: #e7424f;
@@ -515,6 +516,20 @@ ul {
     font-size: 27px; }
     #intro .claim .typed-cursor {
       color: #e7424f; }
+  #intro #call-to-action {
+    width: 100%;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: space-evenly;
+    -moz-justify-content: space-evenly;
+    justify-content: space-evenly; }
+  #intro .action {
+    -ms-flex-positive: 1;
+        flex-grow: 1;
+    display: inline-block; }
   #intro em {
     position: absolute;
     bottom: 0;
@@ -534,28 +549,33 @@ ul {
     margin-top: 2vw; }
   #intro h3 {
     font-size: 3vw;
+    line-height: 1.5;
     margin: 0; }
     @media (max-width: 768px) {
       #intro h3 {
         font-size: 24px; } }
   #intro h4 {
-    font-size: 1.6vw;
+    font-size: 2vw;
     font-weight: normal;
     margin: 0; }
     @media (max-width: 768px) {
       #intro h4 {
         font-size: 18px; } }
   #intro .btn {
-    font-size: 16px;
+    font-size: 24px;
+    line-height: 1.2;
     background: #e7424f;
     color: white;
     display: inline-block;
     margin-top: 15px;
-    padding: 10px 20px;
+    padding: 16px 24px;
     font-weight: bold;
     text-decoration: none; }
     #intro .btn:hover {
       background: #da1c2b; }
+    @media (max-width: 768px) {
+      #intro .btn {
+        font-size: 20px; } }
   #intro .btn-disabled {
     font-size: 16px;
     background: #bdbdbd;
@@ -588,20 +608,26 @@ ul {
     line-height: 1.5em; }
 
 #partners {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
   text-align: center;
-  -ms-flex-align: baseline;
-      align-items: baseline;
   margin-top: 5em; }
+  #partners .container, #partners nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-align: center;
+        align-items: center; }
   @media (max-width: 768px) {
     #partners {
       display: -ms-flexbox;
       display: flex;
       -ms-flex-direction: column;
-          flex-direction: column; } }
+          flex-direction: column; }
+      #partners a {
+        -ms-flex-preferred-size: 216px;
+            flex-basis: 216px; } }
   #partners a {
     text-decoration: none; }
   #partners img {
@@ -641,7 +667,10 @@ ul {
   #intro h1 {
     font-size: 3em; }
   #intro .claim {
-    font-size: 21px; } }
+    font-size: 21px; }
+  .homepage {
+    background-repeat: no-repeat;
+    background-size: auto; } }
 
 .event {
   text-align: left;
