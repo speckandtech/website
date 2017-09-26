@@ -1,0 +1,43 @@
+---
+layout: event
+title:  '#15 - Data Infrastructures'
+date:   2017-09-14T21:00:00+02:00
+categories: event
+slug: 'Data Infrastructures'
+---
+
+## How THRON leverages cloud architectures to excel ☁️
+### Dario De Agostini - THRON s.r.l., CTO
+
+This talk will briefly explain how THRON uses Amazon AWS and will provide a few examples on how leveraging cloud architectures brought successful results, especially regarding managing data analytics to provide real-time insights. Lambda architecture, data pipeline and various AWS services will be described before sharing lessons learnt. Dario will also share his vision regarding the future of developers.
+
+<div id="THRONembed" style="width: 768px; height: 450px; margin: 0 auto"></div>
+<strong> <a href="https://hub-share.thron.com/content/?id=b7370a28-5e71-40ca-9952-80f7fc0c4110&pkey=wAU4NO" title="How THRON leverages cloud architectures to excel" target="_blank">How THRON leverages cloud architectures to excel</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/dariodeagostini/">Dario De Agostini</a></strong>
+
+## Crawling and processing the Italian corporate web 🕷
+### Alessio Guerrieri - SpazioDati, Data Scientist
+
+SpazioDati collects public information about all Italian companies from many different sources, the most challenging being the World Wide Web. Our Internet Data Gathering project crawls and processes data from the entire Italian web, using distributed frameworks such as Hadoop, Nutch, Elasticsearch and Spark. This talk will give an overview of the extraction pipeline and present some of the issues we tackled during and after development.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vLVWWRtL0caIwD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<strong> <a href="//www.slideshare.net/speckandtech/crawling-and-processing-the-italian-corporate-web" title="Crawling and Processing the Italian Corporate Web" target="_blank">Crawling and Processing the Italian Corporate Web</a> </strong> from <strong><a href="https://www.linkedin.com/in/alessio-guerrieri/" target="_blank">Alessio Guerrieri</a></strong>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Watch the video
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/747378808793410/">Facebook reLive 📼</a>
+
+
+<!-- THRON embed code  -->
+<script src="https://hub-cdn.thron.com/shared/ce/bootstrap/1/scripts/embeds-min.js"></script>
+<script>
+	var options = {
+		clientId: "hub",
+		xcontentId: "b7370a28-5e71-40ca-9952-80f7fc0c4110",
+		sessId: "wAU4NO",
+		autoplay: false,
+		muted: false
+	};
+	var player = THRONContentExperience("THRONembed", options);
+</script>
