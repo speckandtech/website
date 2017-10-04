@@ -488,7 +488,7 @@ ul {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/15-data-infrastructures.jpg");
+  background: url("../img/home-background.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
@@ -788,4 +788,5 @@ a {
   position: relative; }
 
 hr {
-  border: 2px solid #E5E5E5; }
+  border: 2px solid #E5E5E5;
+  margin-bottom: 2em; }

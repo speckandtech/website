@@ -53,7 +53,7 @@
 
 <p>This talk will briefly explain how THRON uses Amazon AWS and will provide a few examples on how leveraging cloud architectures brought successful results, especially regarding managing data analytics to provide real-time insights. Lambda architecture, data pipeline and various AWS services will be described before sharing lessons learnt. Dario will also share his vision regarding the future of developers.</p>
 
-<div id="THRONembed" style="width: 768px; height: 450px; margin: 0 auto"></div>
+<div id="THRONembed" style="width: 768px; max-width: 100%; height: 450px; margin: 0 auto"></div>
 <p><strong> <a href="https://hub-share.thron.com/content/?id=b7370a28-5e71-40ca-9952-80f7fc0c4110&amp;pkey=wAU4NO" title="How THRON leverages cloud architectures to excel" target="_blank">How THRON leverages cloud architectures to excel</a> </strong> from <strong><a target="_blank" href="https://www.linkedin.com/in/dariodeagostini/">Dario De Agostini</a></strong></p>
 
 <h2 id="crawling-and-processing-the-italian-corporate-web-">Crawling and processing the Italian corporate web 🕷</h2>
@@ -74,14 +74,24 @@
   <script src="https://hub-cdn.thron.com/shared/ce/bootstrap/1/scripts/embeds-min.js"></script>
 
   <script>
-	var options = {
-		clientId: "hub",
-		xcontentId: "b7370a28-5e71-40ca-9952-80f7fc0c4110",
-		sessId: "wAU4NO",
-		autoplay: false,
-		muted: false
-	};
-	var player = THRONContentExperience("THRONembed", options);
+	window.onload = function () {
+		var embedDiv = document.getElementById('THRONembed');
+		if(embedDiv) {
+			var width = parseInt(embedDiv.clientWidth, 10);
+			if (width < 768) {
+				// adjust div height to keep the correct aspect ratio (1.78 + 50px of title)
+				embedDiv.style.height = (parseInt(width / 1.78) + 50) + 'px';
+			}
+			var options = {
+				clientId: 'hub',
+				xcontentId: 'b7370a28-5e71-40ca-9952-80f7fc0c4110',
+				sessId: 'wAU4NO',
+				autoplay: false,
+				muted: false
+			};
+			var player = THRONContentExperience('THRONembed', options);
+		}
+	}
 </script>
 
 </section>
