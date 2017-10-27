@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  'Hack.developers: hackathon per la Pubblica Amministrazione'
+title:  'HackDev17'
 date:   2017-10-08T21:00:00+02:00
 categories: event
 slug: 'hack-developers'
