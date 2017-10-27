@@ -25,16 +25,16 @@ L’evento in questa sede fa parte del progetto europeo URBAN INNO – Informati
 ---
 
 ## Organizers
-  
+
 <p>
 	<img height="200px" src="{{ site.url }}/img/hackathon/speck.png" alt="speckandtech">
 	<a href="https://trento.impacthub.net" target="_blank"><img style="max-height: 200px; max-width: 100%" src="{{ site.url }}/img/hackathon/impact.png" alt="impact hub"></a>
 	<a href="https://www.trentinoinnovation.eu/" target="_blank"><img style="max-height: 120px; max-width: 100%" src="{{ site.url }}/img/hackathon/hit.png" alt="hit"></a>
 	<a href="https://www.facebook.com/unitintrento/" target="_blank"><img style="max-height: 100px; max-width: 100%" src="{{ site.url }}/img/hackathon/unitin.png" alt="unitin"></a>
 </p>
-   
+
 ---
-   
+
 ## Gold supporter
 
 <p>
@@ -52,7 +52,7 @@ L’evento in questa sede fa parte del progetto europeo URBAN INNO – Informati
 ---
 
 ## Bronze supporters
-   
+
 <p>
 	<a href="http://eitdigital.eu/" target="_blank"><img style="max-height: 80px; max-width: 100%" src="{{ site.url }}/img/hackathon/eit.png" alt="eit digital"></a>
 	<a href="https://spaziodati.eu/en/" target="_blank"><img style="max-height: 80px; max-width: 100%" src="{{ site.url }}/img/hackathon/spaziodati.png" alt="Spazio Dati"></a>
@@ -70,5 +70,5 @@ L’evento in questa sede fa parte del progetto europeo URBAN INNO – Informati
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 #### Watch the photo album
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="https://www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=760721434125814">Facebook album 📼</a>
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="https://www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=760721434125814">Facebook album &#128247;</a>
 </section>
