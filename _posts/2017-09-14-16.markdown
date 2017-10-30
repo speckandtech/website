@@ -27,7 +27,8 @@ SpazioDati collects public information about all Italian companies from many dif
 <section class="fb-links">
 #### Watch the video
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/747378808793410/">Facebook reLive 📼</a>
-
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=769592976571993">Photo album &#128247;</a>
+</section>
 
 <!-- THRON embed code  -->
 <script src="https://hub-cdn.thron.com/shared/ce/bootstrap/1/scripts/embeds-min.js"></script>
