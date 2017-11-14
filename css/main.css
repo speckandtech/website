@@ -488,7 +488,7 @@ ul {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/16-climate-change.jpg");
+  background: url("../img/home-background.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 20px; }
