@@ -31,6 +31,4 @@ As this is just a Jekyll project, you can use any of the commands listed in thei
 
 ## Deploy
 
-```shell
-$ gulp deploy
-```
+When you push to `master`, Github Pages will take care of building the website and deploying it at http://speckand.tech
