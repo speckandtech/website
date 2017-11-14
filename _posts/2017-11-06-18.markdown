@@ -1,0 +1,31 @@
+---
+layout: event
+title:  '#16 - Climate Change'
+date:   2017-11-06T21:00:00+02:00
+categories: event
+slug: 'climate-change'
+---
+
+## Keeping an eye on our planet…from the satellite 🌍
+### Claudia Paris – UniTN, Post-Doctoral Researcher
+
+Monitoring the state of our planet has never been more important. Changes on the Earth are both cause and consequence of climate change either when the change is human-induced or generated from natural events 🌊 Having a global perspective on Earth’s climate is thus extremely important to constantly observe and record climate change effects. In this framework, the eyes in the sky provided by the Earth’s observation satellites represent an extremely powerful tool 👀 During the talk, there will be an overview on the multitude of information that can be collected about our planet and its climate with satellite sensors 📡
+
+_Slides for this talk are coming soon, stay tuned!_
+
+## IReact for climate change: predictive mapping 🌎
+### Gabriele Franch – UniTN and Fondazione Bruno Kessler
+
+This talk will introduce you to IReact, a European project aiming to create a system for disaster risk reduction 🇪🇺 You will be shown some hazard models, targeting for example heat waves in Europe 🔥 We will then move to ClimAtlas, an open-source repository for climate data in Trentino 🇮🇹
+
+_Slides for this talk are coming soon, stay tuned!_
+
+<!--
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Watch the video
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/747378808793410/">Facebook reLive 📼</a>
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=769592976571993">Photo album &#128247;</a>
+</section>
+-->
