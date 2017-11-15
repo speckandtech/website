@@ -11,7 +11,7 @@ slug: 'climate-change'
 
 Monitoring the state of our planet has never been more important. Changes on the Earth are both cause and consequence of climate change either when the change is human-induced or generated from natural events 🌊 Having a global perspective on Earth’s climate is thus extremely important to constantly observe and record climate change effects. In this framework, the eyes in the sky provided by the Earth’s observation satellites represent an extremely powerful tool 👀 During the talk, there will be an overview on the multitude of information that can be collected about our planet and its climate with satellite sensors 📡
 
-_Slides for this talk are coming soon, stay tuned!_
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2WTYmL7QDeF5nw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## IReact for climate change: predictive mapping 🌎
 ### Gabriele Franch – UniTN and Fondazione Bruno Kessler
@@ -20,12 +20,11 @@ This talk will introduce you to IReact, a European project aiming to create a sy
 
 _Slides for this talk are coming soon, stay tuned!_
 
-<!--
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
-<section class="fb-links">
-#### Watch the video
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/747378808793410/">Facebook reLive 📼</a>
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=769592976571993">Photo album &#128247;</a>
+<section class="fb-links center">
+#### See the pictures... and tag yourself!
+<p>
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.778561582341799.1073741849.476076519256975&type=1&l=2fd21cadfe">Photo album &#128247;</a>
+</p>
 </section>
--->
