@@ -18,7 +18,7 @@ Monitoring the state of our planet has never been more important. Changes on the
 
 This talk will introduce you to IReact, a European project aiming to create a system for disaster risk reduction 🇪🇺 You will be shown some hazard models, targeting for example heat waves in Europe 🔥 We will then move to ClimAtlas, an open-source repository for climate data in Trentino 🇮🇹
 
-_Slides for this talk are coming soon, stay tuned!_
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zzl4KWN0U0IUzU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
