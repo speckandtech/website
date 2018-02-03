@@ -6,7 +6,7 @@ categories: event
 slug: 'merry-uxmas'
 ---
 
-## "How Design should be more like programming and vice-versa"
+## How Design should be more like programming and vice-versa
 ### Filippo Andolfatto​ – User Experience & UI Designer at Pinkstratdesign.com
 
 Being able to design and develop products and keeping them consistent along the process it's tough! There are hundreds of thousands of decisions that your team needs to take every single day and without a clear design framework to rely on you'll probably have an inconsistent and hard-to-use outcome 🤖 In the same way, your product will be hard to develop, maintain and it'll cost you a lot of $$$ 💰<br/>
@@ -25,8 +25,9 @@ Have a kickstart, understand the context that surrounds you, your stakeholders, 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links center">
-#### See the pictures... and tag yourself!
+#### Check out the pictures... and tag yourself!
 <p>
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/793276577536966/">Facebook reLive 📼</a>
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.809532899244667.1073741850.476076519256975&type=1&l=509ed4c4cd">Photo album &#128247;</a>
 </p>
 </section>

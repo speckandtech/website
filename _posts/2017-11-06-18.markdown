@@ -23,7 +23,7 @@ This talk will introduce you to IReact, a European project aiming to create a sy
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links center">
-#### See the pictures... and tag yourself!
+#### Check out the pictures... and tag yourself!
 <p>
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.778561582341799.1073741849.476076519256975&type=1&l=2fd21cadfe">Photo album &#128247;</a>
 </p>
