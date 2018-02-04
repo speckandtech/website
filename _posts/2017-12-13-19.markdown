@@ -20,7 +20,7 @@ During the talk, there will be an overview on how to create a design system and 
 Do you want to be a `*******` Designer? Do you want to push a Design Culture inside your team or your company? 🤓<br/>
 Have a kickstart, understand the context that surrounds you, your stakeholders, yourself and your company.
 
-<!-- <iframe src="//www.slideshare.net/slideshow/embed_code/key/zzl4KWN0U0IUzU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> -->
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vSUR5GkGOZEOdB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
