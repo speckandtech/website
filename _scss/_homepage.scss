@@ -3,7 +3,7 @@
 
 .homepage {
   // background: url('../img/home-background.jpg');
-  background: url('../img/19-medikit.jpg');
+  background: url('../img/20-your-next-job.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 20px;
@@ -41,12 +41,26 @@
     width: 100%;
     @include flexbox();
     @include flex-wrap(wrap);
+    @include flex-direction(column);
     @include justify-content(space-evenly);
   }
 
   .action {
     flex-grow: 1;
-    display: inline-block;
+  }
+
+  .event-container {
+    @include flexbox();
+    @include flex-direction(row);
+    @include justify-content(space-evenly);
+
+    @include small-screen {
+      @include flex-direction(column);
+
+      div {
+        margin: 2vh 0 2vh 0;
+      }
+    }
   }
 
   em {

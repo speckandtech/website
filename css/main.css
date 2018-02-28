@@ -488,7 +488,7 @@ ul {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/19-medikit.jpg");
+  background: url("../img/20-your-next-job.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 20px; }
@@ -524,13 +524,32 @@ ul {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -ms-flex-pack: space-evenly;
     -moz-justify-content: space-evenly;
     justify-content: space-evenly; }
   #intro .action {
     -ms-flex-positive: 1;
-        flex-grow: 1;
-    display: inline-block; }
+        flex-grow: 1; }
+  #intro .event-container {
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-pack: space-evenly;
+    -moz-justify-content: space-evenly;
+    justify-content: space-evenly; }
+    @media (max-width: 768px) {
+      #intro .event-container {
+        -moz-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column; }
+        #intro .event-container div {
+          margin: 2vh 0 2vh 0; } }
   #intro em {
     position: absolute;
     bottom: 0;
