@@ -1,0 +1,31 @@
+---
+layout: event
+title:  '#19 - Medikit'
+date:   2018-02-27T21:00:00+02:00
+categories: event
+slug: 'medikit'
+---
+
+## Using liquid biopsies to study cancer dynamics and drug resistance
+### Alessandro Romanel - Assistant Professor at Centre of Integrative Biology (CIBIO)
+
+ A liquid biopsy is a test done on a sample of blood to look for cancer cells or for pieces of DNA from tumor cells that are circulating in the blood 🔬 In this talk I will introduce the notion of liquid biopsy and report how a minimally invasive blood test can be developed using next-generation sequencing technology on circulating tumor DNA obtained from plasma. I will also show the capacity of this test to interrogate for disease evolution and identify genomic aberrations that emerge with drug resistance 💊
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1dzG1IGGyU4Thc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/using-liquid-biopsies-to-study-cancer-dynamics-and-drug-resistance" title="Using liquid biopsies to study cancer dynamics and drug resistance" target="_blank">Using liquid biopsies to study cancer dynamics and drug resistance </a> </strong> from <strong> <a href="//www.linkedin.com/in/aromanel/" target="_blank">Alessandro Romanel </a> </strong>
+
+
+## Reinventing physical therapy and rehabilitation
+### David Tacconi - Co-founder at CoRehab
+
+This talk will present the adventure of building a medical device that wants to revolutionize the way physical therapy is performed around the world, by using wearable sensors and innovative software that meet the requirements of patients and healthcare professionals around the world 🤕
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/D6E9mcvCTgDgCl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/physical-therapy-reinvented-corehab" title="Physical Therapy re-invented: CoRehab" target="_blank">Physical Therapy re-invented: CoRehab</a> </strong> from <strong><a href="//www.linkedin.com/in/davidtacconi/" target="_blank">David Tacconi</a></strong>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Watch the video
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/832877826910174/">Facebook reLive 📼</a>
+
+
