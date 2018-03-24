@@ -7,7 +7,7 @@ slug: 'your-next-job'
 ---
 
 ## So you want a remote job, uh?
-### Marco Cecconi - Developer at [Toptal](https://www.toptal.com)
+### Marco Cecconi - Engineering Manager at [Toptal](https://www.toptal.com)
 
 We are on the verge of a revolution in the workplace, which can easily be as big as the industrial revolution of the XIX century. In this talk I will build my case, and try to look at what the future could bring.
 <br>
