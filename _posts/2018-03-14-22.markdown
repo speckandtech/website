@@ -1,0 +1,47 @@
+---
+layout: event
+title:  '#20 - Your next job'
+date:   2018-03-14T19:45:00+02:00
+categories: event
+slug: 'your-next-job'
+---
+
+## So you want a remote job, uh?
+### Marco Cecconi - Developer at Toptal
+
+We are on the verge of a revolution in the workplace, which can easily be as big as the industrial revolution of the XIX century. In this talk I will build my case, and try to look at what the future could bring.
+<br>
+<br>
+<center> <strong>Unfortunately these slides are not available due to secrecy policy of the company.<br>
+We will add them if they will be available in the future.</strong> </center>
+
+## Dedagroup
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yzkwfikJwizQxp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/dedagroup-20-good-reasons-you-should-never-get-a-job-with-us" title="Dedagroup: 20 good reasons you should never get a job with us" target="_blank">Dedagroup: 20 good reasons you should never get a job with us</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+
+## Spaziodati
+<br>
+
+## Urban Inno / Informatica trentina
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DMoueihu8rdoLU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/urban-inno-informatica-trentina" title="Urban Inno - Informatica Trentina" target="_blank">Urban Inno - Informatica Trentina</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+
+## Spindox
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3TyWp6snJ1tEkQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/spindox-digital-soul" title="Spindox - Digital Soul" target="_blank">Spindox - Digital Soul</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+
+## EIT Digital
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8dJVupZ7QZ1tL6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/eit-digital-driving-digital-transformation" title="EIT Digital - Driving Digital Transformation" target="_blank">EIT Digital - Driving Digital Transformation</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+
+## Open Content
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1xGUyPtAUJytZo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/open-content-turn-your-content-into-value" title="Open Content - Turn your content into value" target="_blank">Open Content - Turn your content into value</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+
+## Belka
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lXt60UHZdZNhoz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GiulioMichelon/hi-we-are-belka-work-with-us" title="Hi we are Belka, work with us" target="_blank">Hi we are Belka, work with us</a> </strong> from <strong><a href="https://www.slideshare.net/GiulioMichelon" target="_blank">Giulio Michelon</a></strong>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Watch the video
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/841386102726013/">Part 1</a>
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/841400129391277/">Part 2</a>
+#### and don't forget to check the pictures
+<a id="fb_photo_album" class="btn-facebook" target="_blank" href="http://bit.ly/ST-20pics">Photo album &#128247;</a>
+</section>
