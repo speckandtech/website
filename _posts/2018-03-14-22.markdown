@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  '#20 - Your next job'
+title:  '#20 - Your Next Job'
 date:   2018-03-14T19:45:00+02:00
 categories: event
 slug: 'your-next-job'
