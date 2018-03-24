@@ -7,7 +7,7 @@ slug: 'your-next-job'
 ---
 
 ## So you want a remote job, uh?
-### Marco Cecconi - Developer at Toptal
+### Marco Cecconi - Developer at [Toptal](https://www.toptal.com)
 
 We are on the verge of a revolution in the workplace, which can easily be as big as the industrial revolution of the XIX century. In this talk I will build my case, and try to look at what the future could bring.
 <br>
@@ -16,24 +16,31 @@ We are on the verge of a revolution in the workplace, which can easily be as big
 We will add them if they will be available in the future.</strong> </center>
 
 ## Dedagroup
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/yzkwfikJwizQxp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/dedagroup-20-good-reasons-you-should-never-get-a-job-with-us" title="Dedagroup: 20 good reasons you should never get a job with us" target="_blank">Dedagroup: 20 good reasons you should never get a job with us</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+### Roberto Loro - Director Technology and Innovation at [Dedagroup](http://www.dedagroup.it)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yzkwfikJwizQxp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/dedagroup-20-good-reasons-you-should-never-get-a-job-with-us" title="Dedagroup: 20 good reasons you should never get a job with us" target="_blank">Dedagroup: 20 good reasons you should never get a job with us</a> </strong> from <strong><a href="//www.linkedin.com/in/rloro/" target="_blank">Roberto Loro</a></strong>
 
 ## Spaziodati
+### Michele Barbera - CEO at [Spaziodati](https://www.spaziodati.eu/en/)
 <br>
 
 ## Urban Inno / Informatica trentina
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/DMoueihu8rdoLU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/urban-inno-informatica-trentina" title="Urban Inno - Informatica Trentina" target="_blank">Urban Inno - Informatica Trentina</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+### Marco Corbetto - Innovation Manager at [Informatica Trentina](https://www.infotn.it)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DMoueihu8rdoLU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/urban-inno-informatica-trentina" title="Urban Inno - Informatica Trentina" target="_blank">Urban Inno - Informatica Trentina</a> </strong> from <strong><a href="//www.linkedin.com/in/marcomb/" target="_blank">Marco Corbetto</a></strong>
 
 ## Spindox
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3TyWp6snJ1tEkQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/spindox-digital-soul" title="Spindox - Digital Soul" target="_blank">Spindox - Digital Soul</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+### Cristiano Carlevaro - Manager of [Spindox](https://www.spindox.it/en/) Labs in Trento
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3TyWp6snJ1tEkQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/spindox-digital-soul" title="Spindox - Digital Soul" target="_blank">Spindox - Digital Soul</a> </strong> from <strong><a href="//www.linkedin.com/in/cristiano-carlevaro-408b4429/" target="_blank">Cristiano Carlevaro</a></strong>
 
 ## EIT Digital
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/8dJVupZ7QZ1tL6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/eit-digital-driving-digital-transformation" title="EIT Digital - Driving Digital Transformation" target="_blank">EIT Digital - Driving Digital Transformation</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+### Federico Guerrini - Communication Lead Italy & Digital Industry at [EIT Digital](https://www.eitdigital.eu)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8dJVupZ7QZ1tL6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/eit-digital-driving-digital-transformation" title="EIT Digital - Driving Digital Transformation" target="_blank">EIT Digital - Driving Digital Transformation</a> </strong> from <strong><a href="//www.linkedin.com/in/federicoguerrini/" target="_blank">Federico Guerrini</a></strong>
 
 ## Open Content
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/1xGUyPtAUJytZo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/open-content-turn-your-content-into-value" title="Open Content - Turn your content into value" target="_blank">Open Content - Turn your content into value</a> </strong> from <strong><a href="https://www.slideshare.net/speckandtech" target="_blank">Speck&amp;Tech</a></strong>
+### Gabriele Francescotto - Founder at [OpenContent](https://www.opencontent.it)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1xGUyPtAUJytZo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/open-content-turn-your-content-into-value" title="Open Content - Turn your content into value" target="_blank">Open Content - Turn your content into value</a> </strong> from <strong><a href="https://www.linkedin.com/in/gabricocek/" target="_blank">Gabriele Francescotto</a></strong>
 
 ## Belka
+### Giulio Michelon - CEO & Co-founder at [Belka](http://belka.us/en/)
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/lXt60UHZdZNhoz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GiulioMichelon/hi-we-are-belka-work-with-us" title="Hi we are Belka, work with us" target="_blank">Hi we are Belka, work with us</a> </strong> from <strong><a href="https://www.slideshare.net/GiulioMichelon" target="_blank">Giulio Michelon</a></strong>
 
 ## Weren't you there?
