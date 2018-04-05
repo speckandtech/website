@@ -2,3 +2,4 @@ _site
 .idea
 node_modules
 .publish
+.DS_Store
