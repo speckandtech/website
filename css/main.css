@@ -710,6 +710,10 @@ ul {
     background-repeat: no-repeat;
     background-size: auto; } }
 
+.archive .subtitle {
+  font-size: 22px;
+  margin-bottom: 2em; }
+
 .event {
   text-align: left;
   max-width: 768px; }

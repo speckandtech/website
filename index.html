@@ -123,15 +123,24 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
 
   <section id="events">
     <h2>Previous issues</h2>
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
     <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
       <div class="article-head">
         <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-        <h3 class="title"><a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a></h2>
+        <h3 class="title"><a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a></h3>
       </div>
     </article>
     <hr>
     {% endfor %}
+    <!-- link to older issues -->
+    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+      <div class="article-head">
+        <p class="date">I'm looking for older issues 🧐</p>
+        <h3 class="title"><a href="archive" class="js-pjax">Archive 🦕</a></h3>
+      </div>
+    </article>
+    <hr>
+    <!-- /link to older issues -->
   </section>
 </div>
 

@@ -1,0 +1,23 @@
+---
+layout: site_base
+title: Archive of past talks
+description: All the talks ever given at Speck&Tech
+---
+
+<div class="site event">
+	<a href="/">S&amp;T</a> / <h1>{{ page.title }}</h1>
+	<section id="events" class="archive">
+		<p class="subtitle">
+			Here's the list of all the talks ever given at our event! You can find the abstracts, informations about the guests, slides (when available), photos and link to the live streaming. Enjoy 🤓
+		</p>
+		{% for post in site.posts %}
+		<article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+			<div class="article-head">
+				<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+				<h3 class="title"><a href="{{ post.url | remove_first:'/archive'}}" class="js-pjax">{{ post.title }}</a></h3>
+			</div>
+		</article>
+		<hr>
+		{% endfor %}
+	</section>
+</div>
