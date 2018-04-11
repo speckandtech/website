@@ -594,7 +594,8 @@ ul {
   text-decoration: none;
   border-radius: 13px; }
   .btn:hover {
-    background: #da1c2b; }
+    background: #da1c2b;
+    color: white; }
   .btn:visited {
     color: white; }
   @media (max-width: 768px) {
