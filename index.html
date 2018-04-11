@@ -115,15 +115,17 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
   </section>
 
   <div class="next-speaker">
-    <h1>
+    <h2>
       Do you wanna be our next speaker?
-    </h1>
-    <a href="https://speckandtech.typeform.com/to/z6YEpK" class="btn" target="_blank">💌 Write us! 💌</a>
+    </h2>
+    <p>
+      <a href="https://speckandtech.typeform.com/to/z6YEpK" class="btn" target="_blank">💌 Write us! 💌</a>
+    </p>
   </div>
 
   <section id="events">
     <h2>Previous issues</h2>
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:4 %}
     <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
       <div class="article-head">
         <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>

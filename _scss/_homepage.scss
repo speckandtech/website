@@ -9,7 +9,7 @@
   padding-top: 20px;
 }
 
-#intro {
+#intro, .next-speaker {
   $border-bottom: 10px;
   text-align: center;
   height: auto;
@@ -120,9 +120,14 @@
     padding: 16px 24px;
     font-weight: bold;
     text-decoration: none;
+    border-radius: 13px;
 
     &:hover {
       background: darken($red, 10%);
+    }
+
+    &:visited {
+      color: white;
     }
 
     @include small-screen {
@@ -166,18 +171,22 @@
   color: white;
   margin-top: 3em;
   text-align: center;
-  h1 {
+  display: block;
+  h2 {
     font-size: 2em;
     margin-bottom: .8em;
+    color: white;
   }
-  a {
-    text-decoration: none;
-    background: white;
-    padding: 1em;
-    &:hover {
-      text-decoration: none;
-      background: #fafafa;
-      cursor: pointer;      
+  p {
+    .btn {
+      background: white;
+      color: $red;
+      &:hover {
+        background: #fafafa;
+      }
+      &:visited {
+        color: $red;
+      }
     }
   }
 }

@@ -493,7 +493,7 @@ ul {
   background-size: contain;
   padding-top: 20px; }
 
-#intro {
+#intro, .next-speaker {
   text-align: center;
   height: auto;
   margin-top: 6vw;
@@ -503,21 +503,21 @@ ul {
   -ms-flex-pack: center;
   -moz-justify-content: center;
   justify-content: center; }
-  #intro > div {
+  #intro > div, .next-speaker > div {
     -ms-flex-item-align: center;
     align-self: center;
     width: 100%;
     margin-bottom: 5vh; }
-  #intro h1 {
+  #intro h1, .next-speaker h1 {
     color: #e7424f;
     font-size: 3.8em;
     margin-top: .5em;
     margin-bottom: 0; }
-  #intro .claim {
+  #intro .claim, .next-speaker .claim {
     font-size: 27px; }
-    #intro .claim .typed-cursor {
+    #intro .claim .typed-cursor, .next-speaker .claim .typed-cursor {
       color: #e7424f; }
-  #intro #call-to-action {
+  #intro #call-to-action, .next-speaker #call-to-action {
     width: 100%;
     display: -moz-flex;
     display: -ms-flexbox;
@@ -530,10 +530,10 @@ ul {
     -ms-flex-pack: space-evenly;
     -moz-justify-content: space-evenly;
     justify-content: space-evenly; }
-  #intro .action {
+  #intro .action, .next-speaker .action {
     -ms-flex-positive: 1;
         flex-grow: 1; }
-  #intro .event-container {
+  #intro .event-container, .next-speaker .event-container {
     display: -moz-flex;
     display: -ms-flexbox;
     display: flex;
@@ -544,44 +544,44 @@ ul {
     -moz-justify-content: space-evenly;
     justify-content: space-evenly; }
     @media (max-width: 768px) {
-      #intro .event-container {
+      #intro .event-container, .next-speaker .event-container {
         -moz-flex-direction: column;
         -ms-flex-direction: column;
         flex-direction: column; }
-        #intro .event-container div {
+        #intro .event-container div, .next-speaker .event-container div {
           margin: 2vh 0 2vh 0; } }
-  #intro em {
+  #intro em, .next-speaker em {
     position: absolute;
     bottom: 0;
     margin-bottom: 10vw;
     left: 0; }
-  #intro p {
+  #intro p, .next-speaker p {
     width: 50vw;
     text-align: center;
     line-height: 1.6;
     margin: 10px auto 0; }
     @media (max-width: 768px) {
-      #intro p {
+      #intro p, .next-speaker p {
         width: 80vw; } }
-  #intro .next-meetup {
+  #intro .next-meetup, .next-speaker .next-meetup {
     font-variant: small-caps; }
-  #intro .other-kind-of-events {
+  #intro .other-kind-of-events, .next-speaker .other-kind-of-events {
     margin-top: 2vw; }
-  #intro h3 {
+  #intro h3, .next-speaker h3 {
     font-size: 3vw;
     line-height: 1.5;
     margin: 0; }
     @media (max-width: 768px) {
-      #intro h3 {
+      #intro h3, .next-speaker h3 {
         font-size: 24px; } }
-  #intro h4 {
+  #intro h4, .next-speaker h4 {
     font-size: 2vw;
     font-weight: normal;
     margin: 0; }
     @media (max-width: 768px) {
-      #intro h4 {
+      #intro h4, .next-speaker h4 {
         font-size: 18px; } }
-  #intro .btn {
+  #intro .btn, .next-speaker .btn {
     font-size: 24px;
     line-height: 1.2;
     background: #e7424f;
@@ -590,13 +590,16 @@ ul {
     margin-top: 15px;
     padding: 16px 24px;
     font-weight: bold;
-    text-decoration: none; }
-    #intro .btn:hover {
+    text-decoration: none;
+    border-radius: 13px; }
+    #intro .btn:hover, .next-speaker .btn:hover {
       background: #da1c2b; }
+    #intro .btn:visited, .next-speaker .btn:visited {
+      color: white; }
     @media (max-width: 768px) {
-      #intro .btn {
+      #intro .btn, .next-speaker .btn {
         font-size: 20px; } }
-  #intro .btn-disabled {
+  #intro .btn-disabled, .next-speaker .btn-disabled {
     font-size: 16px;
     background: #bdbdbd;
     color: white;
@@ -605,10 +608,10 @@ ul {
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none; }
-    #intro .btn-disabled:hover {
+    #intro .btn-disabled:hover, .next-speaker .btn-disabled:hover {
       background: #a4a4a4;
       cursor: default; }
-  #intro .btn-facebook {
+  #intro .btn-facebook, .next-speaker .btn-facebook {
     font-size: 16px;
     background: #3b5998;
     color: white;
@@ -617,7 +620,7 @@ ul {
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none; }
-    #intro .btn-facebook:hover {
+    #intro .btn-facebook:hover, .next-speaker .btn-facebook:hover {
       background: #2d4373; }
 
 .next-speaker {
@@ -625,18 +628,19 @@ ul {
   background: #e7424f;
   color: white;
   margin-top: 3em;
-  text-align: center; }
-  .next-speaker h1 {
+  text-align: center;
+  display: block; }
+  .next-speaker h2 {
     font-size: 2em;
-    margin-bottom: .8em; }
-  .next-speaker a {
-    text-decoration: none;
+    margin-bottom: .8em;
+    color: white; }
+  .next-speaker p .btn {
     background: white;
-    padding: 1em; }
-    .next-speaker a:hover {
-      text-decoration: none;
-      background: #fafafa;
-      cursor: pointer; }
+    color: #e7424f; }
+    .next-speaker p .btn:hover {
+      background: #fafafa; }
+    .next-speaker p .btn:visited {
+      color: #e7424f; }
 
 #about-homepage {
   max-width: 780px;
