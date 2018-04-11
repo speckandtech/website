@@ -90,7 +90,6 @@
     margin-top: 2vw;
   }
 
-
   h3 {
     font-size: 3vw;
     line-height: 1.5;
@@ -157,6 +156,28 @@
 
     &:hover {
       background: darken($fb-blue, 10%);
+    }
+  }
+}
+
+.next-speaker {
+  padding: 2em 0;
+  background: $red;
+  color: white;
+  margin-top: 3em;
+  text-align: center;
+  h1 {
+    font-size: 2em;
+    margin-bottom: .8em;
+  }
+  a {
+    text-decoration: none;
+    background: white;
+    padding: 1em;
+    &:hover {
+      text-decoration: none;
+      background: #fafafa;
+      cursor: pointer;      
     }
   }
 }

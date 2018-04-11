@@ -620,6 +620,24 @@ ul {
     #intro .btn-facebook:hover {
       background: #2d4373; }
 
+.next-speaker {
+  padding: 2em 0;
+  background: #e7424f;
+  color: white;
+  margin-top: 3em;
+  text-align: center; }
+  .next-speaker h1 {
+    font-size: 2em;
+    margin-bottom: .8em; }
+  .next-speaker a {
+    text-decoration: none;
+    background: white;
+    padding: 1em; }
+    .next-speaker a:hover {
+      text-decoration: none;
+      background: #fafafa;
+      cursor: pointer; }
+
 #about-homepage {
   max-width: 780px;
   margin: 2vw auto; }
