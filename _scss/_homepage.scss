@@ -109,59 +109,60 @@
     }
     margin: 0;
   }
+}
 
-  .btn {
-    font-size: 24px;
-    line-height: 1.2;
-    background: $red;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 16px 24px;
-    font-weight: bold;
-    text-decoration: none;
-    border-radius: 13px;
+.btn {
+  font-size: 24px;
+  line-height: 1.2;
+  background: $red;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 16px 24px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 13px;
 
-    &:hover {
-      background: darken($red, 10%);
-    }
-
-    &:visited {
-      color: white;
-    }
-
-    @include small-screen {
-      font-size: 20px;
-    }
+  &:hover {
+    background: darken($red, 10%);
   }
-  .btn-disabled {
-    font-size: 16px;
-    background: $grey;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    font-weight: bold;
-    text-decoration: none;
 
-    &:hover {
-      background: darken($grey, 10%);
-      cursor: default;
-    }
+  &:visited {
+    color: white;
   }
-  .btn-facebook {
-    font-size: 16px;
-    background: $fb-blue;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    font-weight: bold;
-    text-decoration: none;
 
-    &:hover {
-      background: darken($fb-blue, 10%);
-    }
+  @include small-screen {
+    font-size: 20px;
+  }
+}
+
+.btn-disabled {
+  font-size: 16px;
+  background: $grey;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover {
+    background: darken($grey, 10%);
+    cursor: default;
+  }
+}
+.btn-facebook {
+  font-size: 16px;
+  background: $fb-blue;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover {
+    background: darken($fb-blue, 10%);
   }
 }
 
