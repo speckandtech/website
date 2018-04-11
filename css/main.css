@@ -581,44 +581,47 @@ ul {
     @media (max-width: 768px) {
       #intro h4 {
         font-size: 18px; } }
-  #intro .btn {
-    font-size: 24px;
-    line-height: 1.2;
-    background: #e7424f;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 16px 24px;
-    font-weight: bold;
-    text-decoration: none; }
-    #intro .btn:hover {
-      background: #da1c2b; }
-    @media (max-width: 768px) {
-      #intro .btn {
-        font-size: 20px; } }
-  #intro .btn-disabled {
-    font-size: 16px;
-    background: #bdbdbd;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    font-weight: bold;
-    text-decoration: none; }
-    #intro .btn-disabled:hover {
-      background: #a4a4a4;
-      cursor: default; }
-  #intro .btn-facebook {
-    font-size: 16px;
-    background: #3b5998;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    font-weight: bold;
-    text-decoration: none; }
-    #intro .btn-facebook:hover {
-      background: #2d4373; }
+
+.btn {
+  font-size: 24px;
+  line-height: 1.2;
+  background: #e7424f;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 16px 24px;
+  font-weight: bold;
+  text-decoration: none; }
+  .btn:hover {
+    background: #da1c2b; }
+  @media (max-width: 768px) {
+    .btn {
+      font-size: 20px; } }
+
+.btn-disabled {
+  font-size: 16px;
+  background: #bdbdbd;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none; }
+  .btn-disabled:hover {
+    background: #a4a4a4;
+    cursor: default; }
+
+.btn-facebook {
+  font-size: 16px;
+  background: #3b5998;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none; }
+  .btn-facebook:hover {
+    background: #2d4373; }
 
 .next-speaker {
   padding: 2em 0;
@@ -629,6 +632,8 @@ ul {
   .next-speaker h1 {
     font-size: 2em;
     margin-bottom: .8em; }
+  .next-speaker .btn {
+    margin-top: 0; }
   .next-speaker a {
     text-decoration: none;
     background: white;

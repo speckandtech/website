@@ -109,54 +109,54 @@
     }
     margin: 0;
   }
+}
 
-  .btn {
-    font-size: 24px;
-    line-height: 1.2;
-    background: $red;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 16px 24px;
-    font-weight: bold;
-    text-decoration: none;
+.btn {
+  font-size: 24px;
+  line-height: 1.2;
+  background: $red;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 16px 24px;
+  font-weight: bold;
+  text-decoration: none;
 
-    &:hover {
-      background: darken($red, 10%);
-    }
-
-    @include small-screen {
-      font-size: 20px;
-    }
+  &:hover {
+    background: darken($red, 10%);
   }
-  .btn-disabled {
-    font-size: 16px;
-    background: $grey;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    font-weight: bold;
-    text-decoration: none;
 
-    &:hover {
-      background: darken($grey, 10%);
-      cursor: default;
-    }
+  @include small-screen {
+    font-size: 20px;
   }
-  .btn-facebook {
-    font-size: 16px;
-    background: $fb-blue;
-    color: white;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    font-weight: bold;
-    text-decoration: none;
+}
+.btn-disabled {
+  font-size: 16px;
+  background: $grey;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none;
 
-    &:hover {
-      background: darken($fb-blue, 10%);
-    }
+  &:hover {
+    background: darken($grey, 10%);
+    cursor: default;
+  }
+}
+.btn-facebook {
+  font-size: 16px;
+  background: $fb-blue;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover {
+    background: darken($fb-blue, 10%);
   }
 }
 
@@ -169,6 +169,9 @@
   h1 {
     font-size: 2em;
     margin-bottom: .8em;
+  }
+  .btn {
+    margin-top: 0;
   }
   a {
     text-decoration: none;
