@@ -738,6 +738,10 @@ ul {
     border: 1px solid #CCC;
     margin-bottom: 5px;
     width: 100%; }
+  .event .sponsor-presentation {
+    width: 80%;
+    height: 40vh;
+    margin: auto; }
   .event .meta {
     font-size: .8em;
     margin: 0; }

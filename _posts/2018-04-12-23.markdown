@@ -6,9 +6,13 @@ categories: event
 slug: 'future-cities'
 ---
 
-## OpenContent - Turn your content into value 
-<br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/aMeV95eqHhmAgJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/opencontent-turn-your-content-into-value" title="OpenContent - Turn your content into value" target="_blank">OpenContent - Turn your content into value</a> </strong> from <strong><a href="//www.opencontent.it" target="_blank">OpenContent</a></strong>
+## Kindly sponsored by
+### OpenContent
+<div class='center'>
+<iframe class='sponsor-presentation' src="//www.slideshare.net/slideshow/embed_code/key/aMeV95eqHhmAgJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div>
+<div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/opencontent-turn-your-content-into-value" title="OpenContent - Turn your content into value" target="_blank">OpenContent - Turn your content into value</a> </strong> from <strong><a href="//www.opencontent.it" target="_blank">OpenContent</a></strong>
+</div>
 
 ## From Smart Cities to Responsive Cities: how to bring citizens back to the center of urban planning processes
 ### Estefanía Tapias - Researcher & Lecturer at [ETH Zürich](https://www.ethz.ch/en.html)
@@ -17,6 +21,7 @@ A Responsive City is the next generation in urban development after the Smart Ci
 To deepen the knowledge about Responsive Cities, we define the concept of Citizen Design Science, a combination of Citizen Science and Urban Design 🌇 Both are conducted, in whole or in part, by citizens or non-professional scientists. This approach is still in an early stage of development and, with the Responsive Cities research, we aim to explore its potential together with participants around the world.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3vhv39f1bLHWiv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/from-smart-cities-to-responsive-cities-how-to-bring-citizens-back-to-the-center-of-urban-planning-processes" title="From Smart Cities to Responsive Cities: how to bring citizens back to the center of urban planning processes" target="_blank">From Smart Cities to Responsive Cities: how to bring citizens back to the center of urban planning processes</a> </strong> from <strong><a href="//www.linkedin.com/in/estefaniatapias/" target="_blank">Estefanía Tapias</a></strong>
+</div>
 
 ## Virtual citizens in a virtual city may brighten the future of our cities: meet your digital twin
 ### Roberto Saracco - Head Industrial Doctoral School at [EIT Digital](https://www.eitdigital.eu)
@@ -26,6 +31,7 @@ The connections between atoms and bits is becoming ever easier: smartphones can 
 This talk will address both the technology underpinning in the creation of digital twins and the economic incentives to have and use them. How will a city get smarter and how can we enjoy such a city will be the closing topic of the talk bringing examples and laying ideas to discuss 🚙
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8dzcv0FaxLOJVO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/virtual-citizens-in-a-virtual-city-may-brighten-the-future-of-our-cities-meet-your-digital-twin" title="Virtual citizens in a virtual city may brighten the future of our cities: meet your digital twin" target="_blank">Virtual citizens in a virtual city may brighten the future of our cities: meet your digital twin</a> </strong> from <strong><a href="//www.linkedin.com/in/saracco-roberto-8283765/" target="_blank">Roberto Saracco</a></strong>
+</div>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
