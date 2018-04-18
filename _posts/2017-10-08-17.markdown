@@ -62,7 +62,6 @@ L’evento in questa sede fa parte del progetto europeo URBAN INNO – Informati
 	<a href="https://www.paros.srl/" target="_blank"><img style="max-height: 80px; max-width: 100%" src="{{ site.url }}/img/hackathon/paros.png" alt="Paros"></a>
 	<a href="https://www.infotn.it/" target="_blank"><img style="max-height: 80px; max-width: 100%" src="{{ site.url }}/img/hackathon/infotn.png" alt="Informatica Trentina"></a>
 	<a href="http://r.unitn.it/en/eco/clab" target="_blank"><img style="max-height: 70px; max-width: 100%" src="{{ site.url }}/img/hackathon/clab.png" alt="CLab Trento"></a>
-	<a href="http://www.trentinonetwork.it/" target="_blank"><img style="max-height: 80px; max-width: 100%" src="{{ site.url }}/img/hackathon/trentinonetwork.png" alt="Trentino Network"></a>
 	<a href="https://www.opencontent.it/" target="_blank"><img style="max-height: 70px; max-width: 100%" src="{{ site.url }}/img/hackathon/opencontent.png" alt="Open Content"></a>
 </p>
 
