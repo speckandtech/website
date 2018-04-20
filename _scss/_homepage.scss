@@ -3,7 +3,7 @@
 
 .homepage {
   // background: url('../img/home-background.jpg');
-  background: url('../img/21-future-cities.jpg');
+  background: url($home-backgroud-img-url);
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 20px;
