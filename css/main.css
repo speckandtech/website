@@ -753,23 +753,31 @@ ul {
     margin-top: 50px; }
   .event .post h3 {
     color: #aaa; }
+  .event h4 {
+    margin: .5vh 0;
+    margin-bottom: 0; }
   .event .btn-facebook {
-    margin-left: 32px;
-    margin-bottom: 8px;
     font-size: 16px;
     background: #3b5998;
+    border-radius: 13px;
     color: white;
     display: inline-block;
-    padding: 10px 20px;
+    padding: 1vh 1vw;
     font-weight: bold;
     text-decoration: none; }
     .event .btn-facebook:hover {
       background: #2d4373; }
   .event .fb-links {
     padding: 0;
-    margin: 16px 0px 32px 0px; }
+    margin: 1vh 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column; }
     .event .fb-links p {
       margin: 8px 0 8px 0; }
+  .event #fb_photo_album {
+    margin: 0 .2vw; }
   .event .center {
     text-align: center; }
 

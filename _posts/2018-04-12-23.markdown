@@ -36,6 +36,6 @@ This talk will address both the technology underpinning in the creation of digit
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
-#### check the pictures
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-21pics">Photo album &#128247;</a>
+#### check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-21pics">pictures &#128247;</a> 
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/860414957489794/">video 📼</a>
 </section>
