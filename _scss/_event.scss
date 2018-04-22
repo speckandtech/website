@@ -65,6 +65,10 @@
     &:hover {
       background: darken($fb-blue, 10%);
     }
+
+    @include small-screen {
+      padding: 2vh 4vw;
+    }
   }
 
   .fb-links {

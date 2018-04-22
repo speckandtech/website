@@ -718,6 +718,9 @@ ul {
     background-repeat: no-repeat;
     background-size: auto; } }
 
+.archive-site {
+  margin: 3em auto 2em; }
+
 .archive .subtitle {
   font-size: 22px;
   margin-bottom: 2em; }
@@ -767,6 +770,9 @@ ul {
     text-decoration: none; }
     .event .btn-facebook:hover {
       background: #2d4373; }
+    @media (max-width: 768px) {
+      .event .btn-facebook {
+        padding: 2vh 4vw; } }
   .event .fb-links {
     padding: 0;
     margin: 1vh 0;
