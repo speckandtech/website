@@ -4,3 +4,5 @@ node_modules
 .publish
 .DS_Store
 .ruby-version
+
+.vscode/settings.json

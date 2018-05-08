@@ -1,8 +1,8 @@
 ---
-layout: site_base
-title: Speck&Tech
-description: Speck&Tech is a community of entrepreneurs, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area
----
+  layout: site_base
+  title: Speck&Tech
+  description: Speck&Tech is a community of entrepreneurs, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area
+--- 
 
 <div class="homepage">
   <nav>
@@ -13,17 +13,26 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
         </a>
       </li>
       <li>join us:</li>
-      <li><a target="_blank" href="https://slackin-jtcahrutmh.now.sh">slack</a></li>
-      <li> | <a target="_blank" href="https://www.facebook.com/speckandtech/">facebook</a></li>
-      <li> | <a target="_blank" href="//t.me/speckandtech">telegram</a></li>
-      <li> | <a href="about">about</a></li>
+      <li>
+        <a target="_blank" href="https://slackin-jtcahrutmh.now.sh">slack</a>
+      </li>
+      <li> |
+        <a target="_blank" href="https://www.facebook.com/speckandtech/">facebook</a>
+      </li>
+      <li> |
+        <a target="_blank" href="//t.me/speckandtech">telegram</a>
+      </li>
+      <li> |
+        <a href="about">about</a>
+      </li>
     </ul>
   </nav>
 
   <section id="intro">
     <div>
       {% include animated_logo.html %}
-      <h1>SPECK<span>&amp;</span>TECH</h1>
+      <h1>SPECK
+        <span>&amp;</span>TECH</h1>
       <p class="claim">
         <span id="claim-text"></span>
       </p>
@@ -36,12 +45,14 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
           <div class="event-container">
             <div>
               <h4 style="line-height: 2.25;">
-                  <b>Insert Coin 👾</b>
-                </h4>
-                <h4>
-                  02/05/2018 20:45 @ <a href="//trento.impacthub.net" target="_blank">Impact Hub</a>
-                </h4>
-                <a class="btn" href="http://bit.ly/ST-22" target="_blank">Secure your seat!</a>
+                <b>Process mining ⛏</b>
+              </h4>
+              <h4>
+                24/05/2018 19:45 @ <a href="//trento.impacthub.net" target="_blank">Impact Hub</a> &amp; <a href="//www.celonis.com" target="_blank">Celonis SE</a>
+              </h4>
+              <h5 id="btn-intro">Secure your seat in...</h5>
+              <a class="btn" href="//bit.ly/ST-23" target="_blank">Italy 🇮🇹</a>
+              <a class="btn" href="//bit.ly/ST-23M" target="_blank">Germany 🇩🇪</a>
             </div>
           </div>
         </div>
@@ -54,13 +65,17 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
         </div>
 
       </div>
-     </div>
+    </div>
 
   </section>
 
   <section id="about-homepage">
     <p>
-      A community of <strong>entrepreneurs, developers, designers, professionals</strong> and... anyone who wants to build a network of tech enthusiasts within the <strong>Trento</strong> area, with the purpose of learning and sharing new ideas regarding development, design, entrepreneurship, startups and any related topic.
+      A community of
+      <strong>entrepreneurs, developers, designers, professionals</strong> and... anyone who wants to build a network of tech enthusiasts
+      within the
+      <strong>Trento</strong> area, with the purpose of learning and sharing new ideas regarding development, design, entrepreneurship,
+      startups and any related topic.
     </p>
   </section>
 
@@ -128,16 +143,19 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
     <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
       <div class="article-head">
         <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-        <h3 class="title"><a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a></h3>
+        <h3 class="title">
+          <a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a>
+        </h3>
       </div>
     </article>
-    <hr>
-    {% endfor %}
+    <hr> {% endfor %}
     <!-- link to older issues -->
     <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
       <div class="article-head">
         <p class="date">I'm looking for older issues 🧐</p>
-        <h3 class="title"><a href="archive" class="js-pjax">Archive 🦕</a></h3>
+        <h3 class="title">
+          <a href="archive" class="js-pjax">Archive 🦕</a>
+        </h3>
       </div>
     </article>
     <hr>
@@ -149,7 +167,9 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
   <h2>Who's hiring?</h2>
   <h4>Belka</h4>
   <p>
-    Cerchiamo uno sviluppatore appassionato di interfacce con esperienza su Javascript da integrare nel nostro team. <strong>Se sono almeno sei mesi che cerchi di decidere tra React, Angular e Vue.js</strong> o hai scritto una PWA in Javascript per gestire l'orto del nonno siamo i nerd che stai cercando.
+    Cerchiamo uno sviluppatore appassionato di interfacce con esperienza su Javascript da integrare nel nostro team.
+    <strong>Se sono almeno sei mesi che cerchi di decidere tra React, Angular e Vue.js</strong> o hai scritto una PWA in Javascript
+    per gestire l'orto del nonno siamo i nerd che stai cercando.
   </p>
   <p>
     L'età media è di 25 anni, siamo un'azienda che lascia libertà d'azione e che ha voglia di crescere. Conosciamoci!
@@ -160,25 +180,35 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
   <hr>
   <h4>Opencontent</h4>
   <p>
-    La nostra sfida principale consiste nella strutturazione nativa dei contenuti: in pratica, significa adottare tutte le misure possibili affinché il dato sia strutturato fin dalla sua genesi. Solo così avremo la certezza che la conoscenza venga trasferita dalle persone alle macchine, e da lì nuovamente alle persone attraverso rappresentazioni e dispositivi diversi.
+    La nostra sfida principale consiste nella strutturazione nativa dei contenuti: in pratica, significa adottare tutte le misure
+    possibili affinché il dato sia strutturato fin dalla sua genesi. Solo così avremo la certezza che la conoscenza venga
+    trasferita dalle persone alle macchine, e da lì nuovamente alle persone attraverso rappresentazioni e dispositivi diversi.
   </p>
   <p>
-    Ci interessano persone motivate, curiose, dinamiche e creative, desiderose di accrescere la propria competenza nel mondo dei dati (semantic web, semantic text analysis, data mining, big data) e delle architetture software (microservices, SOA, SaaS). Oltre alle buone conoscenze di programmazione, cerchiamo persone che non abbiano paura di sporcarsi le mani con tecnologie nuove, desiderose di misurarsi con realtà complesse e con progetti sfidanti ed ambiziosi, utilizzando un approccio fortemente orientato al problem solving.
+    Ci interessano persone motivate, curiose, dinamiche e creative, desiderose di accrescere la propria competenza nel mondo
+    dei dati (semantic web, semantic text analysis, data mining, big data) e delle architetture software (microservices,
+    SOA, SaaS). Oltre alle buone conoscenze di programmazione, cerchiamo persone che non abbiano paura di sporcarsi le mani
+    con tecnologie nuove, desiderose di misurarsi con realtà complesse e con progetti sfidanti ed ambiziosi, utilizzando
+    un approccio fortemente orientato al problem solving.
   </p>
   <p>
-    <h5>Posizioni aperte</h5> <br>
+    <h5>Posizioni aperte</h5>
+    <br>
     <ul>
       <li>Senior developer</li>
       <li>Junior front-end developer con conoscenza di UX/UI</li>
     </ul>
   </p>
   <p>
-      Per ulteriori info segui il link <a target="_blank" href="https://www.opencontent.it/Lavora-con-noi">https://www.opencontent.it/Lavora-con-noi</a>.
+    Per ulteriori info segui il link
+    <a target="_blank" href="https://www.opencontent.it/Lavora-con-noi">https://www.opencontent.it/Lavora-con-noi</a>.
   </p>
   <hr>
   <h4>Dedagroup - Developer for Co-Innovation Lab</h4>
   <p>
-    In 2016, Dedagroup and Fondazione Bruno Kessler have combined resources and expertise to give life to Co-Innovation Lab, a 4joint initiative dedicated to developing standards and best practices for the openness and interoperability of data and services (Open Data, Open Services) and to develop new generation digital applications. Be part of this project!
+    In 2016, Dedagroup and Fondazione Bruno Kessler have combined resources and expertise to give life to Co-Innovation Lab,
+    a 4joint initiative dedicated to developing standards and best practices for the openness and interoperability of data
+    and services (Open Data, Open Services) and to develop new generation digital applications. Be part of this project!
   </p>
   <p>
     <a target="_blank" href="http://www.dedagroup.it/lavora-con-noi/developer-co-innovation-lab">Apply here</a>
@@ -186,32 +216,42 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
   <hr>
   <h4>Paros</h4>
   <p>
-    In Paros S.r.l. progettiamo e sviluppiamo soluzioni informatiche di livello enterprise basate su architetture scalabili e service-oriented. <br>
-    Sviluppiamo applicazioni e servizi basati su identità digitale e firme elettroniche utilizzando metodi Agili, Extreme programming, Scrum, Test-Driven Development e Continuous Delivery.
+    In Paros S.r.l. progettiamo e sviluppiamo soluzioni informatiche di livello enterprise basate su architetture scalabili e
+    service-oriented.
+    <br> Sviluppiamo applicazioni e servizi basati su identità digitale e firme elettroniche utilizzando metodi Agili, Extreme
+    programming, Scrum, Test-Driven Development e Continuous Delivery.
   </p>
   <p>
-    Siamo un team di sviluppo giovane e Agile, appassionati di tecnologie, affamati di novità e partecipiamo ed organizziamo attivamente eventi e conferenze.
+    Siamo un team di sviluppo giovane e Agile, appassionati di tecnologie, affamati di novità e partecipiamo ed organizziamo
+    attivamente eventi e conferenze.
   </p>
   <p>
     Manteniamo uno sguardo aperto verso le comunità di sviluppo.
   </p>
   <p>
-    <h5>Posizioni aperte</h5> <br>
-    Cerchiamo profili junior e senior:
+    <h5>Posizioni aperte</h5>
+    <br> Cerchiamo profili junior e senior:
     <ul>
       <li>un Software developer</li>
       <li>un Software developer con conoscenze sistemistiche</li>
     </ul>
   </p>
   <p>
-    Scrivi a <a href="mailto:jobs@paros.srl">jobs@paros.srl</a> - <a target="_blank" href="https://www.paros.srl/selezione">https://www.paros.srl/selezione</a>
+    Scrivi a
+    <a href="mailto:jobs@paros.srl">jobs@paros.srl</a> -
+    <a target="_blank" href="https://www.paros.srl/selezione">https://www.paros.srl/selezione</a>
   </p>
   <hr>
   <h4>SpazioDati - Software Engineer</h4>
   <p>
-    We are looking for software developers that are ready to "get their hands dirty" for building a better world (of data, at least), one where information is clean and easily accessible; to achieve such goals is not easy, one should be strict but pragmatic, open-minded but skilled on troubles that are common when dealing with data. We are a multicultural team that loves collaboration, we trust and respect each other, we are "agile enough" and, hard to believe, we all love data. If you are an independent data hacker who wants to work in a young and positive environment we want to hear from you!
+    We are looking for software developers that are ready to "get their hands dirty" for building a better world (of data, at
+    least), one where information is clean and easily accessible; to achieve such goals is not easy, one should be strict
+    but pragmatic, open-minded but skilled on troubles that are common when dealing with data. We are a multicultural team
+    that loves collaboration, we trust and respect each other, we are "agile enough" and, hard to believe, we all love data.
+    If you are an independent data hacker who wants to work in a young and positive environment we want to hear from you!
   </p>
   <p>
-    Several positions are available, <a target="_blank" href="https://spaziodati.eu/en/jobs/">learn more</a>.
+    Several positions are available,
+    <a target="_blank" href="https://spaziodati.eu/en/jobs/">learn more</a>.
   </p>
 </section>

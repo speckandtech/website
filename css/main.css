@@ -488,7 +488,7 @@ ul {
     opacity: 0; } }
 
 .homepage {
-  background: url("../img/22-insert-coin.jpg");
+  background: url("../img/23-process-mining.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 20px; }
@@ -645,6 +645,11 @@ ul {
       background: #fafafa; }
     .next-speaker p .btn:visited {
       color: #e7424f; }
+
+#btn-intro {
+  margin-top: 1em;
+  font-size: 1.6em;
+  font-weight: normal; }
 
 #about-homepage {
   max-width: 780px;
