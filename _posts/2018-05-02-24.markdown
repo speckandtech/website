@@ -29,6 +29,6 @@ If you wanna create the next Fortnite, this is the talk for ya!
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
-#### Take a look at the <a href="//www.facebook.com/speckandtech/videos/867408596790430/" id="fb_photo_album" class="btn-facebook" target="_blank" >video 📼</a>
+#### check the <a href="//www.facebook.com/speckandtech/videos/867408596790430/" id="fb_photo_album" class="btn-facebook" target="_blank" >video 📼</a>
+#### Take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-22pics">pictures &#128247;</a> 
 </section>
-
