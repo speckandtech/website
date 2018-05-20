@@ -24,6 +24,13 @@ a {
   &:hover {
     color: darken($red, 20%);
   }
+  &.noline {
+    text-decoration: none;
+  }
+}
+
+.underline {
+  text-decoration: underline;
 }
 
 .container {

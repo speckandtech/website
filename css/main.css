@@ -764,6 +764,8 @@ ul {
   .event h4 {
     margin: .5vh 0;
     margin-bottom: 0; }
+  .event img {
+    max-width: 100%; }
   .event .btn-facebook {
     font-size: 16px;
     background: #3b5998;
@@ -855,11 +857,10 @@ a {
   a:hover {
     color: #ad1622; }
   a.noline {
-    text-decoration: none;
-  }
-  .underline {
-    text-decoration: underline;
-  }
+    text-decoration: none; }
+
+.underline {
+  text-decoration: underline; }
 
 .container, nav {
   margin: 0 auto;
