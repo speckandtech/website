@@ -854,6 +854,12 @@ a {
     color: #ad1622; }
   a:hover {
     color: #ad1622; }
+  a.noline {
+    text-decoration: none;
+  }
+  .underline {
+    text-decoration: underline;
+  }
 
 .container, nav {
   margin: 0 auto;
