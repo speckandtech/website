@@ -1,6 +1,6 @@
 name: SpeckAndTech
 title: Speck&Tech
-url: http://speckand.tech
+url: https://speckand.tech
 kramdown:
   parse_block_html: true
 highlighter: null # or rouge or null
