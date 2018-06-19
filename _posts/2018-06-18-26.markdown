@@ -1,0 +1,32 @@
+---
+layout: event
+title:  '#24 - Fintech'
+date:   2018-06-18T21:00:00+02:00
+categories: event
+slug: 'fintech'
+---
+
+## Kindly sponsored by
+### Dimension
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8ENwv2OatV04Sq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Culture, design and team
+### Edoardo Benedetto -- Co-Founder of [Oval Money](https://www.ovalmoney.com) and Starteed
+
+Oval Money was conceived from the union of heart, mind and skills of 4 entrepreneurs diverse in culture and experience 🤟 To Oval I brought design and the desire to innovate linked to it 🎨 I have always believed in solving problems through design and am firmly convinced it must be the driver and the foundation of each product, combined with a team motivated to grow with the challenges that doing business puts you in front of every day
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FAtsH8ImrnJORB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Bank to the future
+### Nicola Parrello -- Frontend developer at [Bunq](https://www.bunq.com)
+
+Wwth fintech companies growing everywhere around the world, traditional banks need to choose where to stand. In a journey through PSD2, APIs and service integration we’ll see what possibilities lie ahead when banks stop behaving like banks. P.S. we’ll have a few tech demos too!
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/A8z3xqoQxzEOpl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+<!-- #### Take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST23-pics">pictures &#128247;</a> -->
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/895608400637116/">video 📼</a>
+</section>
