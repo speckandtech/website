@@ -7,7 +7,7 @@ slug: 'fintech'
 ---
 
 ## Kindly sponsored by
-### Dimension
+### [Dimension](http://http://www.dimension.it)
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8ENwv2OatV04Sq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## Culture, design and team
@@ -20,7 +20,7 @@ Oval Money was conceived from the union of heart, mind and skills of 4 entrepren
 ## Bank to the future
 ### Nicola Parrello -- Frontend developer at [Bunq](https://www.bunq.com)
 
-Wwth fintech companies growing everywhere around the world, traditional banks need to choose where to stand. In a journey through PSD2, APIs and service integration we’ll see what possibilities lie ahead when banks stop behaving like banks. P.S. we’ll have a few tech demos too!
+With fintech companies growing everywhere around the world, traditional banks need to choose where to stand. In a journey through PSD2, APIs and service integration we’ll see what possibilities lie ahead when banks stop behaving like banks. P.S. we’ll have a few tech demos too!
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/A8z3xqoQxzEOpl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 

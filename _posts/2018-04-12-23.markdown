@@ -7,17 +7,15 @@ slug: 'future-cities'
 ---
 
 ## Kindly sponsored by
-### OpenContent
-<div class='center'>
+### [OpenContent](https://www.opencontent.it)
 <iframe class='sponsor-presentation' src="//www.slideshare.net/slideshow/embed_code/key/aMeV95eqHhmAgJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-</div>
 <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/opencontent-turn-your-content-into-value" title="OpenContent - Turn your content into value" target="_blank">OpenContent - Turn your content into value</a> </strong> from <strong><a href="//www.opencontent.it" target="_blank">OpenContent</a></strong>
 </div>
 
 ## From Smart Cities to Responsive Cities: how to bring citizens back to the center of urban planning processes
 ### Estefanía Tapias - Researcher & Lecturer at [ETH Zürich](https://www.ethz.ch/en.html)
 
-A Responsive City is the next generation in urban development after the Smart City. Cities become first smart and then responsive: dynamic behaviour differentiates the Responsive City from the Smart City 🏃‍♀️ Smart Cities are technology-driven and produce large amounts of data. Smart Cities and Smart Buildings are in an early stage of development, as every building and every city is a prototype. The Responsive City builds on Smart City technology, but places the human in the centre of decision-making, design, and management of the city 💁 It uses the stocks and flows of information as the main driver of change. Data for the Responsive City come from smart buildings, smart infrastructure, and most important, from its citizens. 
+A Responsive City is the next generation in urban development after the Smart City. Cities become first smart and then responsive: dynamic behaviour differentiates the Responsive City from the Smart City 🏃‍♀️ Smart Cities are technology-driven and produce large amounts of data. Smart Cities and Smart Buildings are in an early stage of development, as every building and every city is a prototype. The Responsive City builds on Smart City technology, but places the human in the centre of decision-making, design, and management of the city 💁 It uses the stocks and flows of information as the main driver of change. Data for the Responsive City come from smart buildings, smart infrastructure, and most important, from its citizens.
 To deepen the knowledge about Responsive Cities, we define the concept of Citizen Design Science, a combination of Citizen Science and Urban Design 🌇 Both are conducted, in whole or in part, by citizens or non-professional scientists. This approach is still in an early stage of development and, with the Responsive Cities research, we aim to explore its potential together with participants around the world.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3vhv39f1bLHWiv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/from-smart-cities-to-responsive-cities-how-to-bring-citizens-back-to-the-center-of-urban-planning-processes" title="From Smart Cities to Responsive Cities: how to bring citizens back to the center of urban planning processes" target="_blank">From Smart Cities to Responsive Cities: how to bring citizens back to the center of urban planning processes</a> </strong> from <strong><a href="//www.linkedin.com/in/estefaniatapias/" target="_blank">Estefanía Tapias</a></strong>
@@ -36,6 +34,6 @@ This talk will address both the technology underpinning in the creation of digit
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
-#### check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-21pics">pictures &#128247;</a> 
+#### check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-21pics">pictures &#128247;</a>
 #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/860414957489794/">video 📼</a>
 </section>
