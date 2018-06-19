@@ -8,7 +8,7 @@ slug: 'future-cities'
 
 ## Kindly sponsored by
 ### [OpenContent](https://www.opencontent.it)
-<iframe class='sponsor-presentation' src="//www.slideshare.net/slideshow/embed_code/key/aMeV95eqHhmAgJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/aMeV95eqHhmAgJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/opencontent-turn-your-content-into-value" title="OpenContent - Turn your content into value" target="_blank">OpenContent - Turn your content into value</a> </strong> from <strong><a href="//www.opencontent.it" target="_blank">OpenContent</a></strong>
 </div>
 
