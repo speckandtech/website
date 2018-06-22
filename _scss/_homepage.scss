@@ -167,11 +167,20 @@
   }
 }
 
-.next-speaker {
-  padding: 2em 0;
-  background: $red;
-  color: white;
+.next-sponsor {
+  background: #f77c85;
   margin-top: 3em;
+}
+
+.next-speaker {
+  margin-top: 0;
+  background: $red;
+}
+
+.next-speaker, .next-sponsor {
+  margin-bottom: 0;
+  padding: 2em 0;
+  color: white;
   text-align: center;
   display: block;
   h2 {
