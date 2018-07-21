@@ -6,7 +6,7 @@ categories: event
 slug: 'insert-coin'
 ---
 
-## Pixel art: simple shapes for better designs 
+## Pixel art: simple shapes for better designs
 ### Giuseppe Longo aka [Misbug](http://www.misbug.com) - Graphic Designer, Illustrator and Game Designer
 
 Pixel art always relates into players’ minds to nostalgia and retro-vibed video games, but the potential of this medium assumed a new form during the last decade creating a new way game artists can express visual languages and game design approaches 🎮 Starting from the pixel, the ways it can be shaped to and the study of Japanese sprite artists work, pixel art can be a powerful device for designers to add to their visual tool belt during game development process ☝️
@@ -29,6 +29,6 @@ If you wanna create the next Fortnite, this is the talk for ya!
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
-#### check the <a href="//www.facebook.com/speckandtech/videos/867408596790430/" id="fb_photo_album" class="btn-facebook" target="_blank" >video 📼</a>
-#### Take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-22pics">pictures &#128247;</a> 
+#### Check the <a href="//www.facebook.com/speckandtech/videos/867408596790430/" id="fb_photo_album" class="btn-facebook" target="_blank" >video 📼</a>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-22pics">pictures &#128247;</a>
 </section>

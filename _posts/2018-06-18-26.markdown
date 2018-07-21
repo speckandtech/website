@@ -27,6 +27,6 @@ With fintech companies growing everywhere around the world, traditional banks ne
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
-<!-- #### Take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST23-pics">pictures &#128247;</a> -->
-#### take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/895608400637116/">video 📼</a>
+#### Check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/895608400637116/">video 📼</a>
+#### and take a look at the  <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST24-pics">pictures &#128247;</a>
 </section>
