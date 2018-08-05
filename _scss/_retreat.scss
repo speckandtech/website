@@ -2,6 +2,14 @@
 @import "vars";
 
 .retreat {
+
+    overflow: hidden;
+
+    h1 {
+        font-size: 60px;
+        margin-bottom: 16px;
+    }
+
     h1,h2 {
         color: $red;
     }
@@ -12,9 +20,13 @@
     }
     h3 {
         text-align: center;
+        font-size: 24px;
+        margin-bottom: 16px;
     }
     p {
         margin: 0;
+        font-size: 24px;
+        line-height: 1.5em;
     }
     img {
         max-width: 768px;
@@ -27,19 +39,33 @@
         margin: auto 20%;
         margin-bottom: 40px;
     }
+
+    @include small-screen() {
+        overflow: hidden;
+
+        .retreate-page-section {
+            margin: auto 24px;
+            margin-bottom: 40px;
+        }
+    }
 }
 
 .page-heading {
-
-    margin-bottom: 40px;
+    padding: 40px 0;
     @include flexbox();
-    @include flex-direction();
+    @include flex-direction(row);
+    @include align-items(center);
 
     .heading-text {
+        margin: 0 24px;
         @include flexbox();
         @include flex-direction(column);
         @include justify-content(flex-end);
         @include align-items(flex-end);
+
+        @include small-screen() {
+            margin: 0;
+        }
     }
 }
 
@@ -48,34 +74,82 @@
     @include flex-direction(row);
     justify-content: space-evenly;
     align-items: center;
+
+    @include small-screen() {
+        @include flex-direction(column);
+    }
 }
 
-#program-container {
-    background-color: $red;
-    @include flexbox();
-    @include flex-dir(row);
-    @include justify-content(space-evenly);
-    color: white;
+#program {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
 
-    .day-container {
+    #program-container {
 
-        text-align: center;
-        &, &>div{
-            @include flexbox();
-            @include flex-dir(column);
+        padding: 24px 0;
+        background-color: $red;
+        color: white;
+        @include flexbox();
+        @include flex-direction(row);
+        @include justify-content(space-evenly);
+
+        .day-container {
+
+            text-align: center;
+            &, &>div{
+                @include flexbox();
+                @include flex-dir(column);
+            }
+
+            p {
+                font-size: 20px;
+                font-weight: normal;
+            }
+        }
+
+        @include small-screen() {
+            @include flex-direction(column);
         }
     }
 }
 
-#ticket-card-container {
-    @include flexbox();
-    @include flex-dir(row);
-    @include justify-content(space-evenly);
+#cost {
 
-    .ticket-card {
-        width: 300px;
-        height: 400px;
-        border: 4px solid $red;
+    @include flexbox();
+    @include flex-direction(column);
+    @include align-items(center);
+
+    #ticket-card-container {
+        @include flexbox();
+        @include flex-dir(row);
+        @include justify-content(space-evenly);
+
+        .ticket-card {
+            margin: 8px 16px;
+            padding: 24px;
+            border: 4px solid $red;
+            min-width: 256px;
+
+            @include flexbox();
+            @include flex-dir(column);
+            @include align-items(center);
+
+            .price {
+
+                @include flexbox();
+                @include flex-dir(column);
+                @include align-items(center);
+
+                del {
+                    font-size: 18px;
+                    color: lighten($color: black, $amount: 60);
+                }
+            }
+        }
+
+        @include small-screen() {
+            @include flex-direction(column);
+        }
     }
 }
 
@@ -94,14 +168,25 @@
 
     .contacts-container {
         @include flexbox();
-        @include flex-dir(row);
+        @include flex-direction(row);
         @include justify-content(space-evenly);
+
+        @include small-screen() {
+            @include flex-direction(column);
+            @include align-items(center);
+        }
     }
 
     .contact {
         width: 144px;
         height: 160px;
         border: 4px solid $red;
+
+        @include flexbox();
+        @include flex-direction(column);
+        @include justify-content(center);
+        @include align-items(center);
+
     }
 }
 
