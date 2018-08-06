@@ -37,7 +37,7 @@
     }
   }
 
-  #call-to-action {
+  .call-to-action {
     width: 100%;
     @include flexbox();
     @include flex-wrap(wrap);
