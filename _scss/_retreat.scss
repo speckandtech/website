@@ -274,6 +274,20 @@
 
     .cost-explanation {
         margin-bottom: 16px;
+
+        .big-text {
+            position: relative;
+            &:after {
+                content: "";
+                position: absolute;
+                z-index: -1;
+                bottom: 2px;
+                left: 10px;
+                width: calc(100% - 2em);
+                height: 20px;
+                background: $ligth-blue;
+            }
+        }
     }
 
     @include small-screen() {
