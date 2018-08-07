@@ -35,6 +35,9 @@
         font-size: 1em;
         line-height: 1.5em;
     }
+    .centered-text {
+        text-align: center;
+    }
     img {
         max-width: 768px;
         height: auto;
@@ -47,7 +50,7 @@
         margin-bottom: 40px;
     }
 
-    @include small-screen() {
+    @include mobile() {
         overflow: hidden;
 
         h1 {
@@ -84,7 +87,7 @@
         @include justify-content(flex-end);
         @include align-items(flex-end);
 
-        @include small-screen() {
+        @include mobile() {
             margin-left: 0;
         }
     }
@@ -95,28 +98,48 @@
             animation: fadein 2s ease;
         }
     }
-}
-
-.sponsor-container {
-    @include flexbox();
-    @include flex-direction(row);
-    justify-content: space-evenly;
-    align-items: center;
-
-    img, #new-sponsor {
-        width: 200px;
-        height: auto;
-    }
-
-    #new-sponsor {
-        text-align: center;
-    }
 
     @include small-screen() {
-        @include flex-direction(column);
+        margin: 0 15% 0 15% !important;
+    }
+}
 
-        a {
-            margin: 16px 0;
+#sponsors {
+
+    h2 {
+        margin: 0 !important;
+    }
+
+    #sponsor-container {
+        @include flexbox();
+        @include flex-direction(row);
+        justify-content: space-evenly;
+        align-items: center;
+
+        img, #new-sponsor {
+            padding: 16px 0;
+            width: 200px;
+            height: auto;
+        }
+
+        #new-sponsor {
+            text-align: center;
+        }
+
+        @include mobile() {
+            @include flex-direction(column);
+
+            a {
+                margin: 16px 0;
+            }
+        }
+
+        @include small-screen() {
+            @include flex-wrap(wrap);
+
+            a {
+                margin: 16px;
+            }
         }
     }
 }
@@ -142,7 +165,7 @@
         height: auto;
     }
 
-    @include small-screen() {
+    @include mobile() {
         @include flex-direction(column);
         margin: 0 24px 40px 24px;
 
@@ -220,9 +243,9 @@
 
         }
 
-        @include small-screen() {
+        @include mobile() {
             @include flex-direction(column);
-            padding: 0 24px 40px 24px;
+            padding: 0 24px 0 24px;
 
             .day-container {
                 width: 100%;
@@ -239,12 +262,16 @@
 
     li {
         margin-top: 8px;
-        padding-left: 16px;
-        list-style: none;
+        // padding-left: 16px;
+        // list-style: none;
     }
 
     .cost-explanation {
         margin-bottom: 16px;
+    }
+
+    a {
+        text-decoration: none;
     }
 
     #ticket-card-container {
@@ -257,6 +284,7 @@
             padding: 24px;
             border: 4px solid $red;
             min-width: 256px;
+            min-height: 256px;
 
             @include flexbox();
             @include flex-dir(column);
@@ -275,6 +303,7 @@
                 @include align-items(center);
 
                 p {
+                    margin: 0;
                     font-size: 60px;
                     color: $red;
                 }
@@ -286,7 +315,7 @@
             }
         }
 
-        @include small-screen() {
+        @include mobile() {
             @include flex-direction(column);
         }
     }
@@ -305,8 +334,8 @@
         @include flex-direction(row);
         @include justify-content(space-evenly);
 
-        @include small-screen() {
-            @include flex-direction(column);
+        @include mobile() {
+            @include flex-wrap(wrap);
             @include align-items(center);
         }
     }
@@ -337,6 +366,12 @@
             border: 4px solid $red;
             animation: border 0.5s cubic-bezier(0.47, 0, 0.745, 0.715);
         }
+
+        @include small-screen() {
+            width: 96px;
+            height: 96px;
+            margin: 8px;
+        }
     }
 }
 
@@ -346,12 +381,12 @@
 }
 
 @keyframes fadein {
-    from { 
+    from {
         opacity: 0;
         box-shadow: 0px 0px #42E7DA;
     }
-    to   { 
-        opacity: 1; 
+    to   {
+        opacity: 1;
         box-shadow: 12px 12px #42E7DA;
     }
 }
