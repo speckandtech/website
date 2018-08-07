@@ -78,6 +78,7 @@
 
 .page-heading {
     height: 100vh;
+    min-height: 600px !important;
     margin-bottom: 0 !important;
     @include flexbox();
     @include flex-direction(row);
