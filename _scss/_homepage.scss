@@ -94,18 +94,18 @@
     font-size: 3vw;
     line-height: 1.5;
 
-    @include small-screen {
+    @include mobile {
       font-size: 24px;
     }
     margin: 0;
   }
 
   h4 {
-    font-size: 2vw;
+    font-size: 2em;
     font-weight: normal;
 
-    @include small-screen {
-      font-size: 18px;
+    @include mobile() {
+      font-size: 1.5em;
     }
     margin: 0;
   }
@@ -132,7 +132,7 @@
     color: white;
   }
 
-  @include small-screen {
+  @include mobile() {
     font-size: 20px;
   }
 }
@@ -285,7 +285,7 @@
   }
 }
 
-@include small-screen {
+@include mobile {
   section {
     padding: 0 20px;
   }
