@@ -121,7 +121,7 @@
   padding: 16px 24px 12px 24px;
   font-weight: bold;
   text-decoration: none;
-  border-radius: 13px;
+  box-shadow: 6px 6px #42E7DA;
 
   &:hover {
     background: darken($red, 10%);
