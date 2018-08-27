@@ -77,7 +77,8 @@
 }
 
 .page-heading {
-    height: 100vh;
+    // height: 100vh;
+    min-height: 600px !important;
     margin-bottom: 0 !important;
     @include flexbox();
     @include flex-direction(row);
@@ -269,11 +270,11 @@
     }
 
     .cost-explanation-container {
-        display: flex;
+       @include flexbox();
     }
 
     .cost-explanation {
-        margin-bottom: 16px;
+        margin: 0 8px 16px 8px;
 
         .big-text {
             position: relative;
@@ -287,6 +288,10 @@
                 height: 20px;
                 background: $ligth-blue;
             }
+        }
+
+        @include small-screen() {
+            margin: 0;
         }
     }
 
