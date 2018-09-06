@@ -341,7 +341,7 @@
                     color: $red;
                 }
 
-                del {
+                .subtext {
                     font-size: 24px;
                     color: lighten($color: $red, $amount: 20);
                 }
