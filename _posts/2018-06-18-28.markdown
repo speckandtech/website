@@ -1,0 +1,28 @@
+---
+layout: event
+title:  '#26 - I believe speck can fly'
+date:   2018-09-14T20:45:00+02:00
+categories: event
+slug: 'ibelievespeckcanfly'
+---
+
+## Drones for load transportation 🛸
+### Matthias Moroder -- Operations manager at [Flying basket](//flyingbasket.it/it/)
+### Moritz Moroder -- Accountable manager at [Flying basket](//flyingbasket.it/it/)
+
+FlyingBasket develops multicopter drones designed for transportation in mountain areas. The latest prototype has a payload capability of 100kg 😮 The applications range from load transportation, over multi-sensor-analysis to civil protection ⛑️
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/K0WuqVc3ory57u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## From zero to leader in the commercial drone industry
+### Pietro Gorgazzini -- Founder & CEO of [Smallfish.com](//smallfish.com/)
+
+The 180-day ride of Primis Group. The story, insights, errors and learnings of a high-tech company challenging the status quo with a revolutionary approach to aerial data 🚀
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8oYkuhq61m8661" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/294923567777257/">video 📼</a>
+</section>
