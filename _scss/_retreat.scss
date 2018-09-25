@@ -110,8 +110,17 @@
 
 #sponsors {
 
+    @include flexbox();
+    @include flex-direction(column);
+    align-items: center;
+
     h2 {
         margin: 0 !important;
+    }
+
+    #new-sponsor {
+        width: 200px;
+        text-align: center;
     }
 
     #sponsor-container {
@@ -121,14 +130,11 @@
         align-items: center;
 
         img, #new-sponsor {
-            padding: 16px 0;
+            padding: 16px 16px;
             width: 200px;
             height: auto;
         }
 
-        #new-sponsor {
-            text-align: center;
-        }
 
         @include mobile() {
             @include flex-direction(column);
@@ -341,7 +347,7 @@
                     color: $red;
                 }
 
-                del {
+                .subtext {
                     font-size: 24px;
                     color: lighten($color: $red, $amount: 20);
                 }

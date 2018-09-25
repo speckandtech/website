@@ -6,8 +6,6 @@ $fb-blue: #3b5998;
 $break-monitor: 1280px;
 $mobile: 460px;
 
-$home-backgroud-img-url:'../img/retreat/home-background.jpg';
-
 @mixin small-screen() {
   @media (max-width : $break-monitor) {
     @content;

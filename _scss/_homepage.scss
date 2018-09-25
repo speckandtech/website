@@ -2,8 +2,7 @@
 @import 'homepage-animations';
 
 .homepage {
-  // background: url('../img/home-background.jpg');
-  background: url($home-backgroud-img-url) top center;
+  background: url('../img/27-open-source.jpg') top center;
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 20px;
@@ -60,6 +59,31 @@
       div {
         margin: 2vh 0 2vh 0;
       }
+    }
+  }
+
+  #partner {
+    @include flexbox();
+    @include flex-direction(row);
+    @include justify-content(center);
+    @include align-items(center);
+
+    @include small-screen {
+      @include flex-direction(column);
+      margin-top: 24px;
+
+      img {
+        margin-left: 0px !important;
+      }
+    }
+
+    span {
+      font-variant: small-caps;
+    }
+
+    img {
+      margin-left: 8px;
+      width: 144px;
     }
   }
 
