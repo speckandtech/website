@@ -2,6 +2,7 @@
 layout: event
 title: Code of Conduct
 description: Easy dos and don'ts about this community
+date:   2018-09-26T21:00:00+02:00
 ---
 
 ## Be kind!
