@@ -17,7 +17,14 @@ Don't be a dick and be respectful. Treat each other as you would expect and wish
 
 We are very happy of the friendly environment of Speck&Tech. However, if you feel that there is something wrong going on please contact a member of the association. If you don't know anyone from the association we usually have a person at the entrance of the room. He or She will meet with you right away and handle the issue immediately.
 
-Harassment of any kind will not be tolerated at Speck&Tech. This includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment of any kind will not be tolerated at Speck&Tech. This includes:
+
+- offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race or religion
+- sexual images in public spaces
+- deliberate intimidation
+- stalking, following, harassing photography or recording
+- sustained disruption of talks or other events
+- inappropriate physical contact or unwelcome sexual attention
 
 Participants asked to stop any harassing behavior must immediately comply. **If a participant engages in any of the aforementioned behavior, we may take any action we deem appropriate, from warning the offender to immediately expelling the offender from our events with no refund**.
 
