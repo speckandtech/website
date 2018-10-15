@@ -123,13 +123,35 @@
         text-align: center;
     }
 
+    .gold-sponsor {
+        img {
+
+            width: 240px;
+        }
+    }
+    .silver-sponsor {
+        img {
+
+            width: 192px;
+        }
+    }
+    .bronze-sponsor {
+        img {
+            width: 144px;
+        }
+    }
+
     #sponsor-container {
         @include flexbox();
-        @include flex-direction(row);
+        @include flex-direction(column);
         justify-content: space-evenly;
         align-items: center;
 
-        img, #new-sponsor {
+        img {
+            padding: 16px;
+        }
+
+        #new-sponsor {
             padding: 16px 16px;
             width: 200px;
             height: auto;
