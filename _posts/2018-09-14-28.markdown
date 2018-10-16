@@ -24,4 +24,5 @@ The 180-day ride of Primis Group. The story, insights, errors and learnings of a
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 #### Check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/294923567777257/">video 📼</a>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST26-pics">pictures &#128247;</a>
 </section>
