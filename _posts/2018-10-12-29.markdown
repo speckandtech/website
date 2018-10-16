@@ -1,0 +1,29 @@
+---
+layout: event
+title:  '🏞 Retreat #1'
+date:   2018-10-12T20:45:00+02:00
+categories: event
+slug: 'speckandtech-retreat'
+---
+
+## The retreat
+We gathered 50 of the members of our community to spend some quality time together! Curious about the details? [Check the mini-site](https://speckand.tech/retreat).
+
+## The brochure of the event
+<iframe src="https://drive.google.com/file/d/1A_ajpS9l4-2yQrm6bl2Av8qMTJGHvijB/preview?usp=embed_googleplus" style="border: 0; width: 640; height: 700px;" allowfullscreen></iframe>
+
+## The slides of the event
+### Speck&Tech story so far
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vocyQx1nvLBrPH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### Nothing is ever what it seems” - Luca Bosotti
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/otUSi8NRrYFcLQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### Monitoring for reliability - Michele Pittoni
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHgfoYsXhhFC7Y8C-Hbw6NkCae0hDmVub8MrCqQROC0Z0jYWcxZ58CvtYk_i_mtUIvCNdFGLOlpNGh/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful event
+<section class="fb-links">
+#### Check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/retreat-live">video 📼</a>
+</section>
