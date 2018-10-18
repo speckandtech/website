@@ -1,0 +1,40 @@
+---
+layout: event
+title:  '#27 - Open Source'
+date:   2018-10-17T20:45:00+02:00
+categories: event
+slug: 'open-source'
+---
+
+## 20 years of open source and... what’s next?
+### [Simon Phipps](//en.wikipedia.org/wiki/Simon_Phipps_(programmer)) -- President of [OSI](//opensource.org)
+
+Open source started as a marketing program for free software back in 1998. Starting as a controversial and disruptive idea, it has moved through the stages of acceptance to become the dominant idea in creating software systems. Why did it start and what was the timeline? Why did open source work so well? What's next? 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/h7AaxRSRz22RW9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Software Heritage: Archiving the Free Software Commons for Fun & Profit
+### [Stefano Zacchiroli](//en.wikipedia.org/wiki/Stefano_Zacchiroli) -- Associate Professor of Computer Science, CTO of [Software Heritage](//www.softwareheritage.org/), former Debian Project Leader, OSI Board Member
+
+The ambition of the Software Heritage project is to collect, preserve, and share the entire body of free software that is published on the Internet in source code form, together with its development history. Since its public announcement in 2016, the project has assembled the largest collection of freely available software source code for about 5 billion unique source code files and 1 billion commits, coming from more than 80 million projects. 
+Initially focused on the collection and preservation goals - which were at the time urgent, due to the recurrent disappearances of development forges - Software Heritage has since rolled out several mechanisms to peruse its archive, making progress on the sharing goal. 
+In this talk, we will review the status of the Software Heritage project, emphasizing how users and developers can, today, benefit from the availability of a great public library of source code. 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3u5dC2Vuec39ur" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+---
+
+## Thanks to our wonderful Sponsors for the night!
+## [MuSe - Museum of Science](//muse.it)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3R482xkgJEmlHX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## [IDM Südtirol Alto Adige](//www.idm-suedtirol.com)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/w87wP1pKnASQo4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Check the video! 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F349140285853534%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<!-- #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST26-pics">pictures &#128247;</a> -->
+</section>
