@@ -18,6 +18,9 @@ We gathered over 50 of our community members to spend some quality time together
 
 ### ["Protecting Privacy and Security — For Yourself and Your Community"](https://justinmayer.com/talks/protecting-privacy-and-security/assets/player/KeynoteDHTMLPlayer.html) - Justin Mayer
 
+### "High performance teams" - Marco Cecconi
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bmume54wGxzuVA" width="960" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 ### "Nothing is ever what it seems” - Luca Bosotti
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/otUSi8NRrYFcLQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
