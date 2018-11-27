@@ -1,0 +1,33 @@
+---
+layout: event
+title:  '#28 - Productivity'
+date:   2018-11-15T20:45:00+02:00
+categories: event
+slug: 'productivity'
+---
+
+## Don't you know that you're toxic?
+### Federica Pecoraro -- Head of UX @[Fightbean](https://www.fightbean.it/)
+
+Long hours spent in the workplace, a stressful workload, and a lack of free time have become the measure of productivity for professionals. The answer isn’t more hours — it’s less waste, fewer distraction and no toxic behaviours ♻️
+Having a calm and productive environment is a choice. We can do our best and deliver an amazing product without making ourselves miserable working like mad to meet some insane expectation 🤬
+Federica will show how Fightbean is promoting a respectful and meaningful culture to let people do their work in the best-not crazy way possible 😎
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/flf69bb7z1y0zI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## The 20% - how being a slacker will make your company richer
+### Max Dellai -- Graphic designer @[Diginate](https://www.diginate.com/)
+
+What if you could spend one fifth of your working day on something you are passionate about? 🤔What if you could channel all your creativity and inspiration into something that you truly believe in, something that may - or may not - benefit your employer's business (or your own)? What if I tell you that you could eliminate procrastination from your life, simply by spending 20% of your time doing just what you really want to do? 😍
+Learn the story of how Google has created Gmail, Adsense, Google News and something like 50% of its most profitable services - thanks to its employees building on their own ideas, while working in the office 👩‍💼
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Gy6EvL4oujUqRU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+#### Check the video!
+<iframe class="video-embed" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F489721018205629%2F&show_text=0&width=560" width="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<!-- #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST28-pics">pictures &#128247;</a> -->
+</section>
