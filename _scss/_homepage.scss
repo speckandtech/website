@@ -291,6 +291,49 @@
   }
 }
 
+#quote {
+  padding: 3vw 0;
+  color: white;
+  background: $red;
+
+  .container {
+    display: flex;
+   
+    .col-pic {
+      margin-left: 25%;
+      width: 25%;
+    }
+
+    .col-quote {
+      width: 25%;
+    }
+
+    @include mobile() {
+      .col-quote {
+        width: 50%;
+      }
+    }
+    
+    a {
+      color: white;
+    }
+
+    blockquote, p {
+      text-align: left;
+      background: $red;
+    }
+   
+    blockquote {
+      font-style: italic;
+      font-size: 2em;
+    }
+
+    img {
+      box-shadow: 6px 6px #42E7DA;
+    }
+  }
+}
+
 #partners {
   text-align: center;
   margin-top: 5em;
