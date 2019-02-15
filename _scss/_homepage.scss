@@ -91,7 +91,7 @@
 
   #partner {
     @include flexbox();
-    @include flex-direction(row);
+    @include flex-direction(column);
     @include justify-content(center);
     @include align-items(center);
 
@@ -106,6 +106,7 @@
 
     span {
       font-variant: small-caps;
+      margin-top: 16px;
     }
 
     img {

@@ -9,11 +9,10 @@ slug: 'cloudy-with-a-chance-of-speck'
 ## What it's really like to build a large technology team while building products
 ### John Graham-Cumming -- CTO @ [Cloudflare](https://www.cloudflare.com/)
 
-<br>
-<br>
-<h4 style="width: 100%;text-align: center;">Script coming soon!</h4>
-<br>
+I’ve worked at Cloudflare for more than seven years. Cloudflare itself is more than eight years old. So, I’ve been there since it was a very small company. About twenty people in fact. All of those people (except one, me) worked from an office in San Francisco. I was the lone member of the London office.
 
+Today there are 900 people working at Cloudflare spread across offices in San Francisco, Austin, Champaign IL, New York, Washington D.C., London, Munich, Singapore and Beijing. In London, my “one-person office” (which was my spare bedroom) is now almost 200 people and in a month, we’ll move into new space opposite Big Ben.
+<a href="//blog.cloudflare.com/helping-to-build-cloudflare-part-1/">...continue reading!</a>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
