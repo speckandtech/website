@@ -39,9 +39,9 @@ var messages = {
     });
 });
 
-/** 
+/**
 * Concat the js files needed for production
-*/ 
+*/
 gulp.task('concat', function() {
     return gulp.src(['node_modules/typed.js/dist/typed.min.js','js/site.js'])
   .pipe(concat('all.js'))
@@ -70,7 +70,7 @@ gulp.task('concat', function() {
  */
  gulp.task('watch', function () {
     gulp.watch('_scss/*.scss', ['sass']);
-    gulp.watch(['*.html', '_layouts/*.html', '_posts/*', '*.md'], ['jekyll-rebuild']);
+    gulp.watch(['*.html', '_layouts/*.html', '_includes/**', '_posts/*', '*.md'], ['jekyll-rebuild']);
 });
 
 /**

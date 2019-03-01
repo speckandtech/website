@@ -21,7 +21,7 @@
 }
 
 .homepage {
-  background: url('../img/31-open-security.jpg') top center;
+  background: url('../img/32-guida-galattica-per-speckers.jpg') top center;
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 20px;
@@ -79,6 +79,10 @@
     @include flexbox();
     @include flex-direction(row);
     @include justify-content(space-evenly);
+
+    h4 {
+      margin-top: 16px;
+    }
 
     @include small-screen {
       @include flex-direction(column);
