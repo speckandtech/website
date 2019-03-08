@@ -11,9 +11,7 @@ slug: 'open-security'
 
 If you develop or distribute software of any kind, you are vulnerable to whole categories of attacks upon yourself or your loved ones. This includes blackmail, extortion or "just" simple malware injection… 👾 By targeting software developers such as yourself, malicious actors, including nefarious governments, can infect and attack thousands — if not millions — of end users. How can we avert this? The idea behind "reproducible" builds is to allow verification that no flaws have been introduced during build processes; this prevents against the installation of backdoor- introducing malware on developers' machines, ensuring attempts at extortion and other forms of subterfuge are quickly uncovered and thus ultimately futile 🙏 Through a story of three different developers, this talk will engage you on this growing threat to you and how it affects everyone involved in the production lifecycle of software development, as well as how reproducible builds can help prevent against it.
 
-<br>
-<div width="100%" style="text-align:center;"><h4>Slides coming soon!</h4></div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tCT8IkD96aGWPm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## Say No to the Dependency Hell 😈
 ### Ivan Pashchenko -- PhD Candidate in Software Security @ [UniTn](https://disi.unitn.it)
