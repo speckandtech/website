@@ -1,14 +1,23 @@
+{% assign title = 'Event title' %}
+{% assign year = '2019' %}
+{% assign month = '04' %}
+{% assign day = '##' %}
+{% assign time = '20:45' %}
+{% assign location-name = 'Impact Hub Trentino' %}
+{% assign location-url = '//goo.gl/maps/ogZxxJvtHjD2' %}
+{% assign ticket-url = '//bit.ly/ST-##' %}
+
 <div>
     <span class="next-meetup">next meetup</span>
     <div class="event-container">
       <div>
         <h4 style="line-height: 2.25;">
-            <b>Cloudy with a chance of speck</b>
+            <b>{{ title }}</b>
           </h4>
           <h4>
-            16/01/19 - 20:30 @ <a target="_blank" href="//goo.gl/maps/u7ViDQARDvL2">Impact Hub Trentino</a>
+            {{ day }}/{{ month }}/{{ year }} - {{ time }} @ <a target="_blank" href="{{ location-url }}">{{ location-name }}</a>
           </h4>
-          <a class="btn" target="_blank" href="//bit.ly/ST-30">Join us!</a>
+          <a class="btn" target="_blank" href="{{ ticket-url }}">Join us!</a>
       </div>
     </div>
   </div>

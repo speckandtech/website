@@ -1,21 +1,37 @@
+{% assign pre-title = 'MUSE::Next' %}
+{% assign title = 'Guida galattica per Specker' %}
+{% assign year = '2019' %}
+{% assign month = '03' %}
+{% assign day = '12' %}
+{% assign time = '20:45' %}
+{% assign location-name = 'Muse' %}
+{% assign location-url = '//goo.gl/maps/AcC5Lhoa4VS2' %}
+{% assign partner-url = '//www.muse.it/' %}
+{% assign partner-des = 'MUSE - Museo delle scienze' %}
+{% assign partner-logo = '/img/logo-muse.svg' %}
+{% assign ticket-url = '//bit.ly/muse-next1' %}
+
+
 <div>
     <span class="next-meetup">prossimo evento</span>
     <div class="event-container">
       <div>
             <h4>
-                <span>MUSE::Next</span><br>
-                <b>Guida galattica per Specker</b>
+                {% if pre-title != '' %}
+                  <span>{{ pre-title }}</span><br>
+                {% endif %}
+                <b>{{ title }}</b>
             </h4>
         <h4>
-            12/03/19 - 20:30 @ <a target="_blank" href="//goo.gl/maps/AcC5Lhoa4VS2">Muse</a>
+            {{day}}/{{month}}/{{year}} - {{time}} @ <a target="_blank" href="{{location-url}}">{{location-name}}</a>
         </h4>
         <div id="partner">
             <span>in collaborazione con</span>
-            <a href="//www.muse.it/">
-              <img src="/img/logo-muse.svg" alt="MUSE - Museo delle scienze">
+            <a href="{{partner-url}}">
+              <img src="{{partner-logo}}" alt="{{partner-des}}">
             </a>
         </div>
-        <a class="btn" target="_blank" href="//bit.ly/muse-next1">Registrati!</a>
+        <a class="btn" target="_blank" href="{{ticket-url}}">Registrati!</a>
       </div>
     </div>
   </div>

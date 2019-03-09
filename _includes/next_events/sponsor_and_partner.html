@@ -1,24 +1,39 @@
+{% assign title = 'Guida galattica per Specker' %}
+{% assign year = '2019' %}
+{% assign month = '03' %}
+{% assign day = '12' %}
+{% assign time = '20:45' %}
+{% assign location-name = 'Impact Hub Trentino' %}
+{% assign location-url = '//goo.gl/maps/ogZxxJvtHjD2' %}
+{% assign sponsor-url = '//www.muse.it/' %}
+{% assign sponsor-des = 'MUSE - Museo delle scienze' %}
+{% assign sponsor-logo = '/img/logo-muse.svg' %}
+{% assign partner-url = '//www.muse.it/' %}
+{% assign partner-des = 'MUSE - Museo delle scienze' %}
+{% assign partner-logo = '/img/logo-muse.svg' %}
+{% assign ticket-url = '//bit.ly/ST-##' %}
+
 <div>
     <span class="next-meetup">next meetup</span>
     <div class="event-container">
       <div>
         <h4 style="line-height: 2.25;">
-            <b>Open Security</b>
+            <b>{{ title }}</b>
           </h4>
           <h4>
-            26/02/19 - 20:45 @ <a target="_blank" href="//goo.gl/maps/u7ViDQARDvL2">Impact Hub Trentino</a>
+            {{day}}/{{month}}/{{year}} - {{time}} @ <a target="_blank" href="{{location-url}}">{{location-name}}</a>
           </h4>
           <div id="partner">
             <span>sponsored by</span>
-            <a href="//www.xpeppers.com" target="_blank">
-              <img src="/img/XPeppers_logo.png" alt="XPeppers | Agile innovation">
+            <a href="{{sponsor-url}}">
+              <img src="{{sponsor-logo}}" alt="{{sponsor-des}}">
             </a>
             <span>in partnership with</span>
-            <a href="//www.disi.unitn.it/">
-              <img src="/img/DISI-centrale.png" alt="Department of Information Engineering and Computer Science of the University of Trento">
+            <a href="{{partner-url}}">
+              <img src="{{partner-logo}}" alt="{{partner-des}}">
             </a>
           </div>
-          <a class="btn" target="_blank" href="//bit.ly/ST-31">Tickets!</a>
+          <a class="btn" target="_blank" href="{{ticket-url}}">Tickets!</a>
       </div>
     </div>
   </div>
