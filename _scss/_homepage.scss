@@ -95,12 +95,12 @@
       font-weight: normal;
     }
 
-    div:first-child {
-      margin-right: 32px;
-    }
-
     div:nth-child(2) {
       margin-left: 32px;
+    }
+
+    div:first-child {
+      margin-right: 32px;
       h4:first-child {
         margin-top: 54px;
       }
