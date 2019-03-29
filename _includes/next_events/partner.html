@@ -9,6 +9,9 @@
 {% assign partner-url = '//www.muse.it/' %}
 {% assign partner-des = 'MUSE - Museo delle scienze' %}
 {% assign partner-logo = '/img/logo-muse.svg' %}
+{% assign sponsor-url = '//www.openmove.com' %}
+{% assign sponsor-des = 'Open Move' %}
+{% assign sponsor-logo = '/img/openmove.png' %}
 {% assign ticket-url = '//bit.ly/agri-hack' %}
 
 
@@ -41,6 +44,10 @@
             {{time}} @ <a target="_blank" href="{{location-url}}">{{location-name}}</a>
         </h6>
         <div id="partner">
+            <span>sponsorizzato da</span>
+            <a href="{{sponsor-url}}">
+              <img id="openmove-logo" src="{{sponsor-logo}}" alt="{{sponsor-des}}">
+            </a>
             <span>in collaborazione con</span>
             <a href="{{partner-url}}">
               <img src="{{partner-logo}}" alt="{{partner-des}}">
