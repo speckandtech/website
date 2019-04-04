@@ -6,9 +6,15 @@
 {% assign time = '20:30' %}
 {% assign location-name = 'Muse' %}
 {% assign location-url = '//goo.gl/maps/AcC5Lhoa4VS2' %}
-{% assign partner-url = '//www.muse.it/' %}
-{% assign partner-des = 'MUSE - Museo delle scienze' %}
-{% assign partner-logo = '/img/logo-muse.svg' %}
+{% assign partner1-url = '//www.arduino.cc/' %}
+{% assign partner1-des = 'Arduino Open-Source community' %}
+{% assign partner1-logo = '/img/arduino_community-logo.svg' %}
+{% assign partner2-url = '//fablab.muse.it/' %}
+{% assign partner2-des = 'MUSE FABLAB' %}
+{% assign partner2-logo = '/img/muse_fablab-logo.png' %}
+{% assign partner3-url = '//www.muse.it/' %}
+{% assign partner3-des = 'MUSE - Museo delle scienze' %}
+{% assign partner3-logo = '/img/logo-muse.svg' %}
 {% assign sponsor-url = '//www.openmove.com' %}
 {% assign sponsor-des = 'Open Move' %}
 {% assign sponsor-logo = '/img/openmove.png' %}
@@ -29,6 +35,15 @@
         <h6>
             10:00 @ <a target="_blank" href="{{location-url}}">{{location-name}}</a>
         </h6>
+        <div id="partner">
+          <span>in collaborazione con</span>
+          <a href="{{partner1-url}}">
+            <img src="{{partner1-logo}}" alt="{{partner1-des}}">
+          </a>
+          <a href="{{partner2-url}}">
+            <img id="fablabLogo" src="{{partner2-logo}}" alt="{{partner2-des}}">
+          </a>
+      </div>
           <a class="btn" target="_blank" href="{{ticket-url}}">Iscriviti!</a>
       </div>
       <div>
@@ -50,8 +65,8 @@
               <img id="openmove-logo" src="{{sponsor-logo}}" alt="{{sponsor-des}}">
             </a>
             <span>in collaborazione con</span>
-            <a href="{{partner-url}}">
-              <img src="{{partner-logo}}" alt="{{partner-des}}">
+            <a href="{{partner3-url}}">
+              <img src="{{partner3-logo}}" alt="{{partner3-des}}">
             </a>
         </div>
           <a class="btn" target="_blank" href="{{ticket-url2}}">Registrati!</a>

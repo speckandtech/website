@@ -152,8 +152,11 @@
     }
 
     img {
-      margin-left: 8px;
+      margin-top: 8px;
       width: 128px;
+      &#fablabLogo {
+        width: 96px;
+      }
     }
 
     #openmove-logo {
