@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  '#32 - MUSE::Next #1 - Guida galattica per Specker'
+title:  'MUSE::Next #1 - Guida galattica per Specker'
 date:   2019-03-12T20:30:00+02:00
 categories: event
 slug: 'mn-guida-galattica-per-specker'
