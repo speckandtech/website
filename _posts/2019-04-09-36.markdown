@@ -1,0 +1,23 @@
+---
+layout: event
+title:  '#33 - MUSE::Next #2 - Homo Faber'
+date:   2019-04-09T20:30:00+02:00
+categories: event
+slug: 'mn-homo-faber'
+---
+## Gentilmente sponsorizzato da [OpenMove](//www.openmove.com)
+<img src="../../../img/openMove-slide.jpg">
+
+## Alberto Farlenga
+### Rettore @ [IUAV](//www.iuav.it/homepage/)
+
+Alberto Ferlenga si laurea in Architettura a Milano nel 1980. Dal 1981 al 1991 è stato redattore di Lotus International e poi di Casabella, dal 1993 fino al 2011 🏡 Nel 1985 ha vinto il Leone di Pietra delLa Biennale di Venezia, diretta da Aldo Rossi, con un progetto per la città di Este. La sua carriera universitaria si svolge tra il Politecnico di Milano, l’Università degli Studi di Napoli Federico II, dove insegna dal 1988 al 1999 e l'Università Iuav di Venezia, dove viene chiamato nel 1999, e dove dal 2009 al 2016 dirige la Scuola di Dottorato 👩‍🎓 Quindici anni fa ha fondato il seminario Villard che forma giovani architetti attraverso viaggi e incontri svolti in forma itinerante nelle principali città e università italiane e, come sua diretta conseguenza, il Dottorato Internazionale Villard de Honnecourt oggi al suo quarto ciclo. Nel 2015 viene eletto Rettore dell’Università Iuav di Venezia 🦁
+
+## Te lo sei perso?
+### o forse vuoi soltanto rivivere questa fantastica serata
+<section class="fb-links">
+
+#### Dai un'occhiata al video
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmusetrento%2Fvideos%2F629211767527234%3Ffbclid%3DIwAR1WbtyckTJasHOIAc2Tc9FjlMytwDAquUVMlb_9BMv_WeCZ4Zr2zCrCchg&width=500&show_text=false&appId=577818005714647&height=281" class="video-embed" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<!-- #### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext1p">foto &#128247;</a> -->
+</section>

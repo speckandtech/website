@@ -1,0 +1,34 @@
+---
+layout: event
+title:  '#32 - MUSE::Next #1 - Guida galattica per Specker'
+date:   2019-03-12T20:30:00+02:00
+categories: event
+slug: 'mn-guida-galattica-per-specker'
+---
+## Gentilmente sponsorizzato da [Dimension](http://http://www.dimension.it)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bNopY6YsaWoE6x" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Adrian Fartade
+### Divulgatore scientifico
+
+Attore teatrale e divulgatore scientifico. Laureato in Storia e Filosofia e specializzato in Storia dell’esplorazione spaziale, nel 2009 ha creato la piattaforma di divulgazione a tema astronomico Link2universe, e il canale youtube Link4Universe nel 2012.
+
+## Paolo Bellutta
+### Ingegnere @ [JPL - NASA](https://www.jpl.nasa.gov/)
+
+Ingegnere, lavora al Jet Propulsion Laboratory - NASA a Pasadena in California. Dal 2008 è parte del progetto Mars Science Laboratory: dopo aver partecipato alla selezione del punto di atterraggio, ha percorso, come rover driver di Curiosity, la distanza più lunga su Marte.
+
+## Umberto Guidoni
+### Astrofisico, Astronauta, Divulgatore
+
+Astrofisico e scrittore italiano è, per gli italiani, l’astronauta per eccellenza. Primo europeo a salire sulla Stazione Spaziale nel 2001, ha partecipato a due missioni NASA: con lo Space Shuttle Columbia nel 1996 e con l’Endeavour nel 2001.
+
+## Te lo sei perso?
+### o forse vuoi soltanto rivivere questa fantastica serata
+<section class="fb-links">
+
+#### Dai un'occhiata al video
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmusetrento%2Fvideos%2F249922825915401%2F&width=500&show_text=false&appId=577818005714647&height=281" width="500" height="281" style="border:none;overflow:hidden" class="video-embed" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+#### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext1p">foto &#128247;</a>
+</section>
