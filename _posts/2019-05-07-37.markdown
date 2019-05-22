@@ -1,0 +1,30 @@
+---
+layout: event
+title:  "MUSE::Next #3 - Chi controllerà l'intelligenza artificiale?"
+date:   2019-05-07T20:30:00+02:00
+categories: event
+slug: 'mn-ia'
+---
+
+## Intelligenza Artificiale nel magico mondo delle Conversazioni
+### Claudio Comandini -- Director of Engineering @ [Conversocial](https://www.conversocial.com/)
+
+Come viene utilizzata quotidianamente l'intelligenza artificiale nel mondo del customer care e dell'automazione orientata alla creazione di nuovi servizi nel mondo della messaggistica e dei social media 👥
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GZisONfdOEMLQt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Chi Controllerà l’Intelligenza Artificiale?
+### Paolo Traverso -- Director @ [FBK](//www.fbk.eu)
+
+L’intelligenza Artificiale (AI) può diventare… incontrollabile? O si tratta della solita rivoluzione industriale come ce ne sono state tante? 🏭 O ha (e può fare) qualcosa di speciale - nel bene e nel male? E che cosa possiamo fare per far sì che sia una “buona AI”? Tante domande, alcune risposte.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Mj6oLkpRLvOcGa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Te lo sei perso?
+### o forse vuoi soltanto rivivere questa fantastica serata
+<section class="fb-links">
+
+#### Dai un'occhiata al video
+<iframe class="video-embed" width="500" height="281" src="https://www.youtube.com/embed/5fQ3iL3E0r8?start=1276" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- #### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext1p">foto &#128247;</a> -->
+</section>

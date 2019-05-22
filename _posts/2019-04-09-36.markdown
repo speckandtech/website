@@ -19,5 +19,5 @@ Alberto Ferlenga si laurea in Architettura a Milano nel 1980. Dal 1981 al 1991 Ã
 
 #### Dai un'occhiata al video
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmusetrento%2Fvideos%2F629211767527234%3Ffbclid%3DIwAR1WbtyckTJasHOIAc2Tc9FjlMytwDAquUVMlb_9BMv_WeCZ4Zr2zCrCchg&width=500&show_text=false&appId=577818005714647&height=281" class="video-embed" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-<!-- #### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext1p">foto &#128247;</a> -->
+#### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext2p">foto &#128247;</a>
 </section>
