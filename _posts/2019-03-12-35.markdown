@@ -5,7 +5,7 @@ date:   2019-03-12T20:30:00+02:00
 categories: event
 slug: 'mn-guida-galattica-per-specker'
 ---
-## Gentilmente sponsorizzato da [Dimension](http://http://www.dimension.it)
+## Gentilmente sponsorizzato da [Dimension](//www.dimension.it)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/bNopY6YsaWoE6x" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
