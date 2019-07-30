@@ -106,7 +106,10 @@
         .heading-video {
             width: 100vw !important;
             margin-bottom: 32px;
+<<<<<<< HEAD
             box-shadow: 0 12px $ligth-blue;
+=======
+>>>>>>> New retreat website
         }
     }
 }
@@ -184,7 +187,13 @@
     @include flexbox();
     @include flex-direction(row);
     @include justify-content(center);
+<<<<<<< HEAD
     margin-top: 48px;
+=======
+    margin-top: 16px;
+    // margin-bottom: 40px;
+    // @include flex-wrap(wrap);
+>>>>>>> New retreat website
 
     a {
         margin: 0 24px;
@@ -222,11 +231,18 @@
     margin-right: 0 !important;
 
     .program-img {
+<<<<<<< HEAD
         width: 448px;
         height: auto;
         margin: 0 auto;
         display: block;
         box-shadow: 12px 12px $ligth-blue;
+=======
+        width: 320px;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+>>>>>>> New retreat website
     }
 
     .to-be-announced {
@@ -236,6 +252,7 @@
             margin-top: 0;
             margin-bottom: 8px;
         }
+<<<<<<< HEAD
 
         @include mobile() {
             margin-left: 24px;
@@ -245,6 +262,8 @@
                 width: 100%;
             }
         }
+=======
+>>>>>>> New retreat website
     }
 
     #program-container {
