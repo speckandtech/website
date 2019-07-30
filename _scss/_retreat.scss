@@ -2,7 +2,6 @@
 @import "vars";
 
 .retreat {
-
     font-size: 24px;
 
     overflow: hidden;
@@ -18,8 +17,6 @@
     h2 {
         font-size: 1.5em;
         text-align: center;
-        margin-bottom: 1em;
-        margin-top: 2em
     }
     h3 {
         text-align: center;
@@ -49,8 +46,9 @@
         box-shadow: 12px 12px $ligth-blue;
     }
     .retreate-page-section {
+        box-sizing: border-box;
         margin: auto 25%;
-        margin-bottom: 40px;
+        padding-top: 64px;
     }
 
     @include mobile() {
@@ -71,14 +69,13 @@
 
         .retreate-page-section {
             margin: auto 24px;
-            margin-bottom: 40px;
+            padding-top: 48px;
         }
     }
 }
 
 .page-heading {
-    // height: 100vh;
-    min-height: 600px !important;
+    height: 100vh;
     margin-bottom: 0 !important;
     @include flexbox();
     @include flex-direction(row);
@@ -96,15 +93,20 @@
         }
     }
 
-    .heading-img {
-
-        img {
-            animation: fadein 2s ease;
-        }
+    .heading-video {
+        max-width: 788px;
+        height: auto;
     }
 
     @include small-screen() {
-        margin: 0 15% 0 15% !important;
+        margin: 0 24px;
+
+        @include flexbox();
+        @include flex-direction(column-reverse);
+        .heading-video {
+            width: 100vw !important;
+            margin-bottom: 32px;
+        }
     }
 }
 
@@ -181,7 +183,8 @@
     @include flexbox();
     @include flex-direction(row);
     @include justify-content(center);
-    margin-bottom: 40px;
+    margin-top: 16px;
+    // margin-bottom: 40px;
     // @include flex-wrap(wrap);
 
     a {
@@ -199,7 +202,7 @@
 
     @include mobile() {
         @include flex-direction(column);
-        margin: 0 24px 40px 24px;
+        margin: 0 24px 0 24px;
 
         a {
             margin: 0 auto 0 0;
@@ -218,6 +221,22 @@
 #program {
     margin-left: 0 !important;
     margin-right: 0 !important;
+
+    .program-img {
+        width: 320px;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .to-be-announced {
+        margin-top: 64px;
+
+        p {
+            margin-top: 0;
+            margin-bottom: 8px;
+        }
+    }
 
     #program-container {
 
@@ -312,9 +331,9 @@
                 z-index: -1;
                 bottom: 2px;
                 left: 10px;
-                width: calc(100% - 2em);
+                width: calc(100% - 32px);
                 height: 20px;
-                background: $ligth-blue;
+                background-color: rgba($ligth-blue, 0.6);
             }
         }
 
@@ -384,7 +403,7 @@
 
 #faq {
     .faq-container {
-        margin: 1em 0;
+        margin: 24px 0;
     }
 }
 
@@ -425,7 +444,7 @@
 
         &:hover {
             border: 4px solid $red;
-            animation: border 0.5s cubic-bezier(0.47, 0, 0.745, 0.715);
+            animation: border 0.2s cubic-bezier(0.47, 0, 0.745, 0.715);
         }
 
         @include small-screen() {
