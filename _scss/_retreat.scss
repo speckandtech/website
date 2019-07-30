@@ -183,9 +183,7 @@
     @include flexbox();
     @include flex-direction(row);
     @include justify-content(center);
-    margin-top: 16px;
-    // margin-bottom: 40px;
-    // @include flex-wrap(wrap);
+    margin-top: 48px;
 
     a {
         margin: 0 24px;
