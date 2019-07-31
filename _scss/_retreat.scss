@@ -76,7 +76,7 @@
 
 .page-heading {
     height: 100vh;
-    margin-bottom: 0 !important;
+    margin-bottom: 0;
 
     .heading-text {
         z-index: 2;
@@ -106,35 +106,34 @@
         z-index: 0;
         height: 100vh;
         width: 100vw;
+        overflow: hidden;
 
         .fb-video-overlay {
             position: absolute;
             top: 0;
             left: 0;
-            height: 101vh;
-            width: 100%;
+            height: 100vh;
+            width: 100vw;
             z-index: 1;
             background-color: rgba(white, 0.72);
-
-            @include mobile () {
-                display: none;
-            }
         }
 
         .heading-video {
-            height: 100%;
-            width: 100%;
+            height: 100vh;
+            width: 100vw;
         }
 
         @include mobile () {
-            margin-bottom: 32px;
-            position: static;
-            height: auto;
+            display: none;
+        }
+        @include small-screen(){
+            display: none;
         }
     }
 
     @include small-screen() {
-        // margin: 0 24px;
+        margin-top: 0;
+
 
         .heading-video {
             vertical-align: middle;
@@ -146,6 +145,7 @@
     }
 
     @include mobile () {
+        margin-top: 48px;
         height: auto;
     }
 }
@@ -525,21 +525,25 @@
     }
 }
 
-#visitorNumber{
+#visitorContainer{
     z-index: 99999;
     position: fixed;
-    bottom: 32px;
-    right: 32px;
-    min-width: 192px;
-    max-width: 192px;
+    bottom: 8px;
+    right: 8px;
+    width: 192px;
     min-height: 48px;
     padding: 8px 16px;
     color: white;
     background-color: $red;
-    box-shadow: 8px 8px $ligth-blue;
+    // box-shadow: 8px 8px $ligth-blue;
+
+    #visitorNumber {
+        padding: 8px 16px;
+    }
 
     @include flexbox();
     @include align-items(center);
+    @include justify-content(center);
 
     p {
         margin: 0;
@@ -549,9 +553,9 @@
         z-index: 0;
         bottom: 0;
         right: 0;
-        padding: 8px 0;
-        max-width: 100%;
+        left: 0;
         width: 100%;
         text-align: center;
+        padding: 0;
     }
 }
