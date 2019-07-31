@@ -2,7 +2,6 @@
 @import "vars";
 
 .retreat {
-
     font-size: 24px;
 
     overflow: hidden;
@@ -18,8 +17,6 @@
     h2 {
         font-size: 1.5em;
         text-align: center;
-        margin-bottom: 1em;
-        margin-top: 2em
     }
     h3 {
         text-align: center;
@@ -49,8 +46,9 @@
         box-shadow: 12px 12px $ligth-blue;
     }
     .retreate-page-section {
+        box-sizing: border-box;
         margin: auto 25%;
-        margin-bottom: 40px;
+        padding-top: 64px;
     }
 
     @include mobile() {
@@ -71,14 +69,13 @@
 
         .retreate-page-section {
             margin: auto 24px;
-            margin-bottom: 40px;
+            padding-top: 48px;
         }
     }
 }
 
 .page-heading {
-    // height: 100vh;
-    min-height: 600px !important;
+    height: 100vh;
     margin-bottom: 0 !important;
     @include flexbox();
     @include flex-direction(row);
@@ -96,15 +93,21 @@
         }
     }
 
-    .heading-img {
-
-        img {
-            animation: fadein 2s ease;
-        }
+    .heading-video {
+        max-width: 788px;
+        height: auto;
     }
 
     @include small-screen() {
-        margin: 0 15% 0 15% !important;
+        margin: 0 24px;
+
+        @include flexbox();
+        @include flex-direction(column-reverse);
+        .heading-video {
+            width: 100vw !important;
+            margin-bottom: 32px;
+            box-shadow: 0 12px $ligth-blue;
+        }
     }
 }
 
@@ -181,8 +184,8 @@
     @include flexbox();
     @include flex-direction(row);
     @include justify-content(center);
-    margin-bottom: 40px;
-    // @include flex-wrap(wrap);
+
+    margin-top: 48px;
 
     a {
         margin: 0 24px;
@@ -199,7 +202,7 @@
 
     @include mobile() {
         @include flex-direction(column);
-        margin: 0 24px 40px 24px;
+        margin: 0 24px 0 24px;
 
         a {
             margin: 0 auto 0 0;
@@ -218,6 +221,32 @@
 #program {
     margin-left: 0 !important;
     margin-right: 0 !important;
+
+    .program-img {
+        width: 448px;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+        box-shadow: 12px 12px $ligth-blue;
+    }
+
+    .to-be-announced {
+        margin-top: 64px;
+
+        p {
+            margin-top: 0;
+            margin-bottom: 8px;
+        }
+
+        @include mobile() {
+            margin-left: 24px;
+            margin-right: 24px;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
 
     #program-container {
 
@@ -312,9 +341,9 @@
                 z-index: -1;
                 bottom: 2px;
                 left: 10px;
-                width: calc(100% - 2em);
+                width: calc(100% - 32px);
                 height: 20px;
-                background: $ligth-blue;
+                background-color: rgba($ligth-blue, 0.6);
             }
         }
 
@@ -342,10 +371,15 @@
             margin: 16px;
             padding: 24px;
             border: 4px solid $red;
-            background: white;
+            background-color: white;
             min-width: 256px;
             min-height: 256px;
             box-shadow: 12px 12px $ligth-blue;
+
+            &:hover {
+                background-color: rgba($ligth-blue, 0.125);
+                transition: background-color 200ms cubic-bezier(0.47, 0, 0.745, 0.715);
+            }
 
             @include flexbox();
             @include flex-dir(column);
@@ -384,7 +418,7 @@
 
 #faq {
     .faq-container {
-        margin: 1em 0;
+        margin: 24px 0;
     }
 }
 
@@ -425,7 +459,7 @@
 
         &:hover {
             border: 4px solid $red;
-            animation: border 0.5s cubic-bezier(0.47, 0, 0.745, 0.715);
+            animation: border 0.2s cubic-bezier(0.47, 0, 0.745, 0.715);
         }
 
         @include small-screen() {
@@ -449,5 +483,32 @@
     to   {
         opacity: 1;
         box-shadow: 12px 12px #42E7DA;
+    }
+}
+
+#visitorNumber{
+    z-index: 99999;
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    min-width: 192px;
+    max-width: 192px;
+    min-height: 48px;
+    padding: 8px 16px;
+    color: white;
+    background-color: $red;
+    box-shadow: 8px 8px $ligth-blue;
+
+    @include flexbox();
+    @include align-items(center);
+
+    p {
+        margin: 0;
+    }
+
+    @include mobile() {
+        z-index: 0;
+        bottom: 16px;
+        right: 16px;
     }
 }
