@@ -77,37 +77,76 @@
 .page-heading {
     height: 100vh;
     margin-bottom: 0 !important;
-    @include flexbox();
-    @include flex-direction(row);
-    @include align-items(center);
 
     .heading-text {
-        margin: 0 24px;
+        z-index: 2;
+        position: absolute;
+        top: 25%;
+        bottom: 25%;
+        left: 50%;
+        height: 50%;
+        width: 50%;
+        margin-left: -25%;
         @include flexbox();
         @include flex-direction(column);
-        @include justify-content(flex-end);
+        @include justify-content(center);
         @include align-items(flex-end);
 
         @include mobile() {
-            margin-left: 0;
+            position: static;
+            margin: 0 24px;
+            width: auto;
+            left: 0;
+
         }
     }
 
-    .heading-video {
-        max-width: 788px;
-        height: auto;
+    .fb-video-container {
+        position: absolute;
+        z-index: 0;
+        height: 100vh;
+        width: 100vw;
+
+        .fb-video-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 101vh;
+            width: 100%;
+            z-index: 1;
+            background-color: rgba(white, 0.72);
+
+            @include mobile () {
+                display: none;
+            }
+        }
+
+        .heading-video {
+            height: 100%;
+            width: 100%;
+        }
+
+        @include mobile () {
+            margin-bottom: 32px;
+            position: static;
+            height: auto;
+        }
     }
 
     @include small-screen() {
-        margin: 0 24px;
+        // margin: 0 24px;
 
-        @include flexbox();
-        @include flex-direction(column-reverse);
         .heading-video {
-            width: 100vw !important;
-            margin-bottom: 32px;
+            vertical-align: middle;
+            height: 100vh !important;
+            // width: 100vw !important;
+            // margin-bottom: 32px;
             box-shadow: 0 12px $ligth-blue;
         }
+    }
+
+    @include mobile () {
+        height: auto;
     }
 }
 
@@ -508,7 +547,9 @@
 
     @include mobile() {
         z-index: 0;
-        bottom: 16px;
-        right: 16px;
+        bottom: 0;
+        right: 0;
+        max-width: 100%;
+        text-align: center;
     }
 }
