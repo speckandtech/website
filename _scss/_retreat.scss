@@ -106,6 +106,7 @@
         .heading-video {
             width: 100vw !important;
             margin-bottom: 32px;
+            box-shadow: 0 12px $ligth-blue;
         }
     }
 }
@@ -221,10 +222,11 @@
     margin-right: 0 !important;
 
     .program-img {
-        width: 320px;
+        width: 448px;
         height: auto;
         margin: 0 auto;
         display: block;
+        box-shadow: 12px 12px $ligth-blue;
     }
 
     .to-be-announced {
@@ -233,6 +235,15 @@
         p {
             margin-top: 0;
             margin-bottom: 8px;
+        }
+
+        @include mobile() {
+            margin-left: 24px;
+            margin-right: 24px;
+
+            img {
+                width: 100%;
+            }
         }
     }
 
@@ -466,5 +477,32 @@
     to   {
         opacity: 1;
         box-shadow: 12px 12px #42E7DA;
+    }
+}
+
+#visitorNumber{
+    z-index: 99999;
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    min-width: 192px;
+    max-width: 192px;
+    min-height: 48px;
+    padding: 8px 16px;
+    color: white;
+    background-color: $red;
+    box-shadow: 8px 8px $ligth-blue;
+
+    @include flexbox();
+    @include align-items(center);
+
+    p {
+        margin: 0;
+    }
+
+    @include mobile() {
+        z-index: 0;
+        bottom: 16px;
+        right: 16px;
     }
 }
