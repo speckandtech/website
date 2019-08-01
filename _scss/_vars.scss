@@ -6,12 +6,17 @@ $fb-blue: #3b5998;
 $break-monitor-max: 1280px;
 $break-monitor-min: 640px;
 $mobile: 460px;
+$big-mobile: 768px;
 
 @mixin small-screen() {
   @media (max-width : $break-monitor-max) {
-    @media (min-width: $break-monitor-min) {
-      @content;
-    }
+    @content;
+  }
+}
+
+@mixin mobile-big () {
+  @media (max-width: $big-mobile) {
+    @content;
   }
 }
 

@@ -103,7 +103,12 @@
             margin: 0 24px;
             width: auto;
             left: 0;
-
+        }
+        @include mobile-big() {
+            position: static;
+            margin: 0 24px;
+            width: auto;
+            left: 0;
         }
     }
 
@@ -142,7 +147,7 @@
         background-image: url('/img/retreat/mobile-background.jpg');
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: 50% 50%;
+        background-position: 50% 0;
     }
 
     @include mobile () {
@@ -152,6 +157,12 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 50% 50%;
+    }
+
+    @include mobile-big () {
+        padding-top: 48px;
+        height: auto;
+
     }
 }
 
