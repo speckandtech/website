@@ -5,7 +5,7 @@ $( document ).ready(function() {
     // $("visitorNumber").text("Altre "+visitors+" persone stanno guardando questo sito");
     function calcVisitors() {
         var visitors = Math.max(Math.round(Math.random()*8),2);
-        var text = "<p>"+"<strong>"+visitors+"</strong> people are watching this page 👀"+"</p>";
+        var text = "<p>"+"<strong>"+visitors+"</strong> people are viewing this page 👀"+"</p>";
         if (Math.random() > 0.6) {
             text = "<p>🐷</p>";
             timeout = 5000;
