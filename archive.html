@@ -11,13 +11,15 @@ description: All the talks ever given at Speck&Tech
 			Here's the list of all the talks ever given at our events! You can find the abstracts, infomation about the speakers, slides (when available) and the links to photo albums and live-streaming. Enjoy 🤓
 		</p>
 		{% for post in site.posts %}
-		<article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-			<div class="article-head">
-				<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-				<h3 class="title"><a href="{{ post.url | remove_first:'/archive'}}" class="js-pjax">{{ post.title }}</a></h3>
-			</div>
-		</article>
-		<hr>
+			{% if post.categories contains "event" %}
+				<article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+					<div class="article-head">
+						<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+						<h3 class="title"><a href="{{ post.url | remove_first:'/archive'}}" class="js-pjax">{{ post.title }}</a></h3>
+					</div>
+				</article>
+				<hr>
+			{% endif %}
 		{% endfor %}
 	</section>
 </div>
