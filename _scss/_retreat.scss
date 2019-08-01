@@ -1,6 +1,12 @@
 @import "flexbox";
 @import "vars";
 
+::-webkit-scrollbar {
+    height: auto;              /* height of horizontal scrollbar ← You're missing this */
+    width: 4px;               /* width of vertical scrollbar */
+    background-color: 1px solid $red;
+}
+
 .retreat {
     font-size: 24px;
 
@@ -133,20 +139,19 @@
 
     @include small-screen() {
         margin-top: 0;
-
-
-        .heading-video {
-            vertical-align: middle;
-            height: 100vh !important;
-            // width: 100vw !important;
-            // margin-bottom: 32px;
-            box-shadow: 0 12px $ligth-blue;
-        }
+        background-image: url('/img/retreat/mobile-background.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
     }
 
     @include mobile () {
-        margin-top: 48px;
+        padding: 48px 0;
         height: auto;
+        background-image: url('/img/retreat/mobile-background.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
     }
 }
 
@@ -262,11 +267,16 @@
     margin-right: 0 !important;
 
     .program-img {
-        width: 448px;
-        height: auto;
+        background-image: url('/img/retreat/television.gif');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        width: 256px;
+        height: 256px;
         margin: 0 auto;
         display: block;
         box-shadow: 12px 12px $ligth-blue;
+        border-radius: 30%;
     }
 
     .to-be-announced {
@@ -280,10 +290,6 @@
         @include mobile() {
             margin-left: 24px;
             margin-right: 24px;
-
-            img {
-                width: 100%;
-            }
         }
     }
 

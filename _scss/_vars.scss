@@ -3,17 +3,20 @@ $ligth-blue: #42E7DA;
 $grey: #bdbdbd;
 $fb-blue: #3b5998;
 
-$break-monitor: 1280px;
+$break-monitor-max: 1280px;
+$break-monitor-min: 640px;
 $mobile: 460px;
 
 @mixin small-screen() {
-  @media (max-width : $break-monitor) {
-    @content;
+  @media (max-width : $break-monitor-max) {
+    @media (min-width: $break-monitor-min) {
+      @content;
+    }
   }
 }
 
 @mixin mobile() {
-	@media (max-width: $mobile) {
+	@media (max-width: $break-monitor-min) {
 		@content;
 	}
 }
