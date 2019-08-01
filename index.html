@@ -166,5 +166,20 @@
 </div>
 
 <section id="jobs">
- {% include job_offers.html %}
+  <h2>Who's hiring?</h2>
+  <hr class="job-offers-separator">
+
+  {% for post in site.posts limit:4 %}
+    {% if post.categories contains "hiring" %}
+      <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+        <div class="article-head">
+          <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+          <h3 class="title">
+            <a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a>
+          </h3>
+        </div>
+      </article>
+      <hr> 
+    {% endif %}
+  {% endfor %}
 </section>

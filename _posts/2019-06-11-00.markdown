@@ -1,0 +1,168 @@
+---
+layout: event
+title:  "Bending Spoons — Many positions"
+date:   2019-06-11T20:30:00+02:00
+categories: hiring
+slug: 'bending-spoons'
+---
+
+<img src="https://bendingspoons.com/assets/img/logo.svg">
+
+<!-- Added 27/05/2019 -->
+## We are
+
+<a target="_blank" href="//bendingspoons.com/">Bending Spoons</a> is the 1st IOS app developer in Europe. Despite being such a young company, we've already achieved notable results, with hundreds of millions of downloads of our apps, and millions of users active every month. Far from being satisfied, we look with excitement at the future, and believe that through smart and hard work we’ll accomplish much more.
+
+We invest immensely in our team, and we couldn't be more proud of each other. We are a group of extremely young, talented, and ambitious software engineers, marketers, data scientists, and graphic designers. We work from our headquarters in Milan, but also fully support remote work (some of us reside in Copenhagen and Berlin).
+    
+We're always on the lookout for people that want to be part of our über-challenging journey to become the most successful app creators in the world.
+
+### Open positions
+## Backend Engineer
+
+We’re aiming to become the #1 in the world at developing and publishing mobile apps. How could software engineering not be at the very core of this enormously ambitious mission? Already serving tens of millions of users and adding hundreds of thousands every day, we rely on our exceptional engineers to build next-generation tools that will make us the most effective and efficient workforce in the industry. With bigger and bigger frontiers to conquer, we’re looking for a passionate, bright, and driven software engineer that’s eager to bring our tools and infrastructure to the next level.
+
+A few examples of your responsibilities:
+
+- Take an active role in identifying the tooling and infrastructural needs of the company, and participate in defining the plan to fulfil them.
+- Help define the software architecture of new tools or that of new features for existing tools, and then develop them. The work spans broadly from the most infrastructure- or backend-oriented to the development of complex front-ends.
+- Constantly improve the quality of our tools and infrastructure by fixing bugs and refactoring the code base where necessary.
+- Expand our set of libraries as needed to make yourself as well as other engineers more efficient and effective.
+- Stay informed on new, relevant technologies and test the promising ones to make sure we don’t miss out on game-changing opportunities to boost our productivity and the enjoyment of our work.
+
+<p class="underlined">What we offer</p>
+
+- <b>Huge impact</b>. Your tools and infrastructure will be powering our entire organization in its serving tens of millions of users and pursuing market domination. Will that get you out of bed excited in the morning?
+- <b>Talented, knowledgeable colleagues</b>. You’ll get the chance to learn (and teach to!) some of the brightest and most skilled people you’ll ever meet. Your talent is going to blossom here.
+- <b>Cool tech stack</b>. We strive to use the best, most modern tools and technologies, and when they fall short of our expectations we invent our own. It’s a geek’s paradise.
+- <b>Own products</b>. We don’t work for clients, but only develop our own apps. Freed from politics, we can move fast and be daring.
+- <b>Fun, young environment</b>. We have near-zero hierarchy and a very relaxed workplace. Also, we’re 28 years old on average and often hang out together, so you might actually end up making new friends!
+- <b>Top-notch office</b>. Our office is amazing! We designed it ourselves and it goes beyond excellent functionality by offering all sorts of amenities, such as foosball tables and gaming consoles.
+- <b>International reach</b>. Our audience is wildly international. Our company language is English. We’re a global reality.
+
+<p class="underlined">What we look for</p>
+
+- <b>Passion for the topic</b>. You have a long-standing, proven passion for writing software. It’s a big plus if you have a demonstrated interest in developing tools, complex front-ends, or infrastructures.
+- <b>Reasoning and depth of learning</b>. You’re structured and creative enough to solve most challenging problems independently, given the necessary knowledge. You learn new concepts and skills rapidly, and look to understand stuff truly in depth.
+- <b>Drive</b>. You’re energetic, hard-working, and persevere through adversity until the job is done, and done well. You get turned on by getting results, and always aim for excellence in what you do.
+- <b>Pragmatism</b>. Far from being too academic or obsessive in your perfectionism, you understand that, when getting things done in a competitive world, speed is often as important as quality.
+- <b>Curiosity and initiative</b>. You love exploring and you’re entrepreneurial in seeking out new opportunities and testing new ideas of your own accord. You don’t just wait to be told what to do all the time.
+- <b>Relevant experience</b>. You have at least five years of software development experience, or at least three of work on tools or infrastructures. Only challenging, significant projects count.
+- <b>Attention to detail</b>. You care to develop quality user experiences for your colleagues, go the extra mile to learn what they need, and tend to notice the details that make a difference.
+- <b>Diligence, organization</b>. You can blindly be entrusted with big responsibilities as well as small, more menial tasks.
+- <b>Humbleness</b>. You’re down to earth, eager to listen to people’s feedback and constructive criticism, and ready to get your hands dirty with whatever the team needs to succeed.
+- <b>Proficient in English</b>. You read and write proficiently, and speak at a conversational level in English.
+
+<p class="underlined">Commitment & contract</p>
+
+Full-time, permanent (tempo indeterminato).
+
+<p class="underlined">Location</p>
+
+Milan, Corso Como 15. It’s fine if you prefer to work remotely sometimes. We offer substantial support for relocation, including finding an apartment in Milan and paying the rent for twelve weeks.
+
+<p class="underlined">Compensation & benefits</p>
+
+Generous, top of market, and moreover can grow very rapidly and include stock options, depending on your performance. Breakfast, lunch, and snacks are paid-for, when you work from the office. You’ll receive the latest Mac, iPhone, and wireless noise-cancelling Bose headset.
+
+**IMPORTANT NOTICE**
+
+**Please notice that only applications submitted through our website will be considered. Thank you, and apply <a target="_blank" href="//bndspn.com/2KMHGtC">here</a>.**
+            
+<!-- Second position -->
+## Software Engineer, Mobile
+
+We’re aiming to become the #1 in the world at developing and publishing mobile apps. How could software engineering not be at the very core of this enormously ambitious mission? Already serving tens of millions of users and adding hundreds of thousands every day, we rely on our exceptional engineers to keep raising the bar in terms of code quality, speed of execution, and especially user experience. With bigger and bigger frontiers to conquer, we’re looking for a passionate, bright, and driven software engineer that’s eager to bring our apps to the next level.
+
+A few examples of your responsibilities:
+
+- Participate in and contribute to product development and product roadmap planning. We commend taking a proactive role on and ownership of the products you work on.
+- Help define the software architecture of new apps or that of new features for existing apps, and then develop them. The work spans broadly from engineering and coding features to polishing world-class user interfaces.
+- Constantly improve the quality of our products by fixing bugs and refactoring the code base where necessary.
+- Expand our set of libraries as needed to make yourself as well as other engineers more efficient and effective.
+- Stay informed on new mobile technologies and test the promising ones to make sure we don’t miss out on game-changing opportunities to boost our productivity and the enjoyment of our work.
+
+<p class="underlined">What we offer</p>
+
+- <b>Huge impact</b>. You’ll be working on products used by millions of people all around the world. The quality of your work will make a decisive difference both to the users and to Bending Spoons.
+- <b>Talented, knowledgeable colleagues</b>. You’ll get the chance to learn (and teach to!) some of the brightest and most skilled people you’ll ever meet. Your talent is going to blossom here.
+- <b>Cool tech stack</b>. We strive to use the best, most modern tools and technologies, and when they fall short of our expectations we invent our own. It’s a geek’s paradise.
+- <b>Own products</b>. We don’t work for clients, but only develop our own apps. Freed from politics, we can move fast and be daring.
+- <b>Fun, young environment</b>. We have near-zero hierarchy and a very relaxed workplace. Also, we’re 28 years old on average and often hang out together, so you might actually end up making new friends!
+- <b>Top-notch office</b>. Our office is amazing! We designed it ourselves and it goes beyond excellent functionality by offering all sorts of amenities, such as foosball tables and gaming consoles.
+- <b>International reach</b>. Our audience is wildly international. Our company language is English. We’re a global reality.
+
+
+<p class="underlined">What we look for</p>
+
+- <b>Passion for the topic</b>. You have a long-standing, proven passion for writing software. It’s a big plus if you have a demonstrated interest in developing tools, complex front-ends, or infrastructures.
+- <b>Reasoning and depth of learning</b>. You’re structured and creative enough to solve most challenging problems independently, given the necessary knowledge. You learn new concepts and skills rapidly, and look to understand stuff truly in depth.
+- <b>Drive</b>. You’re energetic, hard-working, and persevere through adversity until the job is done, and done well. You get turned on by getting results, and always aim for excellence in what you do.
+- <b>Pragmatism</b>. Far from being too academic or obsessive in your perfectionism, you understand that, when getting things done in a competitive world, speed is often as important as quality.
+- <b>Curiosity and initiative</b>. You love exploring and you’re entrepreneurial in seeking out new opportunities and testing new ideas of your own accord. You don’t just wait to be told what to do all the time.
+- <b>Relevant experience</b>. You have at least five years of software development experience, or at least three of work on tools or infrastructures. Only challenging, significant projects count.
+- <b>Attention to detail</b>. You care to develop quality user experiences for your colleagues, go the extra mile to learn what they need, and tend to notice the details that make a difference.
+- <b>Diligence, organization</b>. You can blindly be entrusted with big responsibilities as well as small, more menial tasks.
+- <b>Humbleness</b>. You’re down to earth, eager to listen to people’s feedback and constructive criticism, and ready to get your hands dirty with whatever the team needs to succeed.
+- <b>Proficient in English</b>. You read and write proficiently, and speak at a conversational level in English.
+
+<p class="underlined">Commitment & contract</p>  
+Full-time, permanent (tempo indeterminato).
+
+<p class="underlined">Location</p>
+
+Milan, Corso Como 15. It’s fine if you prefer to work remotely sometimes. We offer substantial support for relocation, including finding an apartment in Milan and paying the rent for twelve weeks.
+
+<p class="underlined">Compensation & benefits</p>
+
+Generous, top of market, and moreover can grow very rapidly and include stock options, depending on your performance. Breakfast, lunch, and snacks are paid-for, when you work from the office. You’ll receive the latest Mac, iPhone, and wireless noise-cancelling Bose headset.
+
+**IMPORTANT NOTICE**
+
+**Please notice that only applications submitted through our website will be considered. Thank you, and apply <a target="_blank" href="//bndspn.com/2KMHGtC">here</a>.**
+
+## Software Engineer, Intern
+
+With tens of millions of active users, our apps already make us the only European company among the top 10 App Store developers in the world. We’re not satisfied yet, however, as our objective is becoming the #1world publisher. How could software engineering not be at the very core of this enormously ambitious mission?
+
+Join our quest to conquer all competition and learn from our Engineers how to create beautiful, strong code to automate processes, amaze users, or manage tons of data. We can’t wait to teach you all our secrets.
+
+Your responsibilities will vary according the team you’ll be assigned to, but you can expect to:
+                
+- Constantly improve the quality of our products, tools, or infrastructures by fixing bugs and refactoring the code base where necessary.
+- Participate in product development for our products or tools, getting a chance of witnessing how complex product roadmaps come into being.
+- Work closely with our Software Engineers to expand our set of libraries and make our processes ever more efficient.
+- Learn about new, relevant technologies and test the promising ones to make sure we don’t miss out on game-changing opportunities to boost our productivity and the enjoyment of our work.
+  
+<p class="underlined">What we offer</p>
+- <b>Talented, knowledgeable colleagues</b>. You’ll get the chance to learn from some of the brightest and most skilled people you’ll ever meet. Your talent is going to blossom here.
+- <b>Cool tech stack</b>. We strive to use the best, most modern tools and technologies, and when they fall short of our expectations we invent our own. It’s a geek’s paradise.
+- <b>Own products</b>. We don’t work for clients, but only develop our own apps. Freed from politics, we can move fast and be daring.
+- <b>Fun, young environment</b>. We have near-zero hierarchy and a very relaxed workplace. Also, we’re 28 years old on average and often hang out together, so you might actually end up making new friends!
+- <b>Top-notch office</b>. Our office is amazing! We designed it ourselves and it goes beyond excellent functionality by offering all sorts of amenities, such as foosball tables and gaming consoles.
+- <b>International reach</b>. Our audience is wildly international. Our company language is English. We’re a global reality.
+
+<p class="underlined">What we look for</p>
+- <b>Passion for the topic</b>. You have a long-standing, proven passion for writing software, and an academic track record proving it.
+- <b>Reasoning and depth of learning</b>. You’re structured and creative enough to solve most challenging problems independently, given the necessary knowledge. You learn new concepts and skills rapidly, and look to understand stuff truly in depth.
+- <b>Drive</b>. You’re energetic, hard-working, and persevere through adversity until the job is done, and done well. You get turned on by getting results, and always aim for excellence in what you do.
+- <b>Curiosity and initiative</b>. You love exploring and you’re entrepreneurial in seeking out new opportunities and testing new ideas of your own accord. You don’t just wait to be told what to do all the time.
+- <b>Attention to detail</b>. You care to get the small things right as well as the big ones. You’re meticulous in checking that your code will work exactly as expected.
+- <b>Humbleness</b>. You’re down to earth, eager to listen to people’s feedback and constructive criticism, and ready to get your hands dirty with whatever the team needs to succeed.
+- <b>Proficient in English</b>. You read and write proficiently, and speak at a conversational level in English.
+
+<p class="underlined">Commitment & contract</p>
+
+6 months or internship contract, full-time or part-time.
+
+<p class="underlined">Location</p>
+
+Milan, Corso Como 15. It’s fine if you prefer to work remotely sometimes. We offer substantial support for relocation, including finding an apartment in Milan and paying the rent for twelve weeks.
+
+<p class="underlined">Compensation & benefits</p>
+
+Generous, top of market, and matching your skills and potential. Breakfast, lunch, and snacks are paid-for, when you work from the office. You’ll receive the latest Mac, iPhone, and wireless noise-cancelling Bose headset, as well as any software you might need to perform at your best.
+
+<b>IMPORTANT NOTICE</b>
+
+Please notice that <b>only applications submitted through our website will be considered.</b> Thank you, and apply <a href="//bndspn.com/2THCqcd" target="_blank">here</a>.
