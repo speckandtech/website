@@ -171,6 +171,7 @@
     @include flexbox();
     @include flex-direction(column);
     align-items: center;
+    justify-content: center;
 
     h2 {
         margin: 0 !important;
@@ -188,23 +189,44 @@
     }
     .silver-sponsor {
         img {
-            width: 192px;
+            width: 176px;
         }
     }
     .bronze-sponsor {
+        img {
+            width: 160px;
+        }
+    }
+    .partner {
         img {
             width: 144px;
         }
     }
 
-    #sponsor-container {
+    .all-sponsors-container {
+        @include flexbox();
+        @include flex-direction(column);
+        justify-content: center;
+        align-items: center;
+    }
+
+    .sponsor-type-container {
+        margin-top: 16px;
+        margin-bottom: 32px;
         @include flexbox();
         @include flex-direction(column);
         justify-content: space-evenly;
         align-items: center;
 
-        img {
-            padding: 16px;
+        .sponsor-type-label {
+            font-size: 0.7em;
+            font-variant: small-caps;
+            letter-spacing: 3px;
+        }
+        .sponsor-group{
+            margin-top: 8px;
+            padding: 24px;
+            border: 1px solid #e8424e36;
         }
 
         #new-sponsor {
