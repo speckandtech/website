@@ -23,8 +23,8 @@ For decades the traditional approach for solving mobility and transportation cha
 ## Te lo sei perso?
 ### o forse vuoi soltanto rivivere questa fantastica serata
 <section class="fb-links">
-<!--
+
 #### Dai un'occhiata al video
-<iframe class="video-embed" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F393625007935823%2F&width=500&show_text=false&appId=577818005714647&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe> -->
+<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F2315287768570259%2F&width=500&show_text=false&appId=577818005714647&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 #### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=1212680662263220">foto &#128247;</a>
 </section>
