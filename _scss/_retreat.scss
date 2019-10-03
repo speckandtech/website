@@ -357,12 +357,13 @@
 
         }
 
-        @include mobile() {
+        @include small-screen() {
             @include flex-direction(column);
             padding: 0 24px 0 24px;
 
             .day-container {
                 width: 100%;
+                margin: 16px 0;
             }
         }
     }
