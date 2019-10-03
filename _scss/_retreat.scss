@@ -294,8 +294,16 @@
 }
 
 #program {
-    // margin-left: 0 !important;
-    // margin-right: 0 !important;
+    margin-left: 0;
+    margin-right: 0;
+
+    @include small-screen() {
+        margin: auto 25%;
+    }
+
+    @include mobile() {
+        margin: auto 24px;
+    }
 
     .program-img {
         background-image: url('/img/retreat/television.gif');
@@ -326,6 +334,7 @@
 
     #program-container {
 
+        margin-top: 24px;
         @include flexbox();
         @include flex-direction(row);
         @include flex-wrap(wrap);
