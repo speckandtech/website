@@ -444,6 +444,10 @@
         @include flex-dir(row);
         @include justify-content(space-evenly);
 
+        .old-ticket {
+            cursor: default;
+        }
+
         .ticket-card {
             margin: 16px;
             padding: 24px;
@@ -478,10 +482,17 @@
                     margin: 0;
                     font-size: 60px;
                     color: $red;
+
+                    &.deleted {
+                        strong{
+                            text-decoration: line-through;
+                        }
+                    }
                 }
 
                 .subtext {
                     font-size: 24px;
+                    font-weight: bold;
                     color: lighten($color: $red, $amount: 20);
                 }
             }
