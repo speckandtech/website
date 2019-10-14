@@ -184,7 +184,7 @@
 
     .gold-sponsor {
         img {
-            width: 240px;
+            width: 304px;
         }
     }
     .silver-sponsor {
@@ -382,6 +382,23 @@
 
                 li:last-child{
                     border-bottom: 0;
+                }
+            }
+
+            .multiple-activities-program-entry {
+                @include flexbox();
+                @include flex-direction(row);
+                strong {
+                    @include flex-shrink(0);
+                }
+
+                ul {
+                    @include flex-shrink(2);
+                }
+                li {
+                    padding: 0 0 4px 0;
+                    border-bottom: 0px;
+                    white-space: pre-wrap;
                 }
             }
 
