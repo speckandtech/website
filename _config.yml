@@ -6,3 +6,8 @@ kramdown:
 highlighter: null # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: "/:year/:month/:title/"
+collections:
+  job_offers:
+    output: true
+    permalink: "/:collection/:title/"
+    sort_by: title
