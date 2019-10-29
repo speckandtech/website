@@ -1,0 +1,31 @@
+---
+layout: event
+title:  "#34 - Cyber intelligence"
+date:   2019-10-04T20:30:00+02:00
+categories: event
+slug: 'cyber-intelligence'
+---
+
+## Russian propaganda: how it works
+### Luigi Gubello - @evaristegal0is
+
+The majority of experts agree that 2016 US elections were targeted by IRA (Internet Research Agency), a Russian pro-government company that used the social networks to interfere with the elections 🇺🇸 Twitter, Facebook, and Youtube have become useful tools for Russian propaganda to sway the voters. In October 2018, Twitter released a big dataset containing all the tweets - over 9 million - shared by the Russian trolls 🤡 The analysed data show how Internet Research Agency has carefully developed its propaganda. This talk wants to illustrate how Russian propaganda on Twitter has worked.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6LBAi3LArZkAh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Exploring Hardware Security
+### Federico Scrinzi - Site Reliability Engineer at Google
+
+Studying and breaking secure hardware is not something that only state-sponsored attackers or highly-funded research groups can perform. Tools are becoming more accessible and you can start learning hardware security at home 🏠 Hardware hacking is perceived as black magic or something not important: let's change this misconception, learn about new classes of attacks and how to design secure hardware.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tUdsZrj6hEbZo5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
+<section class="fb-links">
+
+#### Check the video!
+<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F393382061598478%2F&width=500&show_text=false&appId=577818005714647&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F389651605250733%2F&width=500&show_text=false&appId=577818005714647&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=1265762083621744">pictures &#128247;</a>
+</section>

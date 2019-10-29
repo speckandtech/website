@@ -26,5 +26,5 @@ Modern software projects cannot exist without open source software (OSS). It all
 
 #### Check the video!
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F342684563015324%2F&show_text=0&width=500&height=281" class="video-embed" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-<!-- #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST30pics">pictures &#128247;</a> -->
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=1109634325901188">pictures &#128247;</a>
 </section>
