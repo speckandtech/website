@@ -41,18 +41,14 @@
 
         <div class="action" style="margin-top:30px;">
 
-        <!-- {% include next_events/coming_soon.html %} -->
-        {% include next_events/simple.html %}
-        <!-- {% include next_events/partner.html %} -->
-        <!-- {% include next_events/sponsor.html %} -->
-        <!-- {% include next_events/sponsor_and_partner.html %} -->
+          {% comment %}
+            {% include next_events/coming_soon.html %}
+            {% include next_events/simple.html %}
+            {% include next_events/partner.html %}
+            {% include next_events/sponsor_and_partner.html %}
+          {% endcomment %}
 
-        <!-- <div class="action" style="margin-top:30px;">
-          <span class="next-meetup">wear our colors</span>
-          <h4 style="line-height: 2.25;">Our T-shirts are almost sold out! 😮</h4>
-          <h4>What are you waiting for?</h4>
-          <a href="//speckandtech.bigcartel.com/" class="btn" target="_blank">👕 Get one! 👚</a>
-        </div> -->
+          {% include next_events/sponsor.html %}
 
       </div>
     </div>
