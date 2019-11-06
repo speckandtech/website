@@ -1,7 +1,7 @@
 ---
-  layout: site_base
-  title: Speck&Tech
-  description: Speck&Tech is a community of entrepreneurs, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area
+layout: site_base
+title: Speck&Tech
+description: Speck&Tech is a community of entrepreneurs, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area
 ---
 
 <div class="homepage">
@@ -39,27 +39,20 @@
 
       <div class="call-to-action">
 
-        <div class="action" style="margin-top:30px;">
-
-          {% comment %}
-            {% include next_events/coming_soon.html %}
-            {% include next_events/simple.html %}
-            {% include next_events/partner.html %}
-            {% include next_events/sponsor_and_partner.html %}
-          {% endcomment %}
-
-          {% include next_events/sponsor.html %}
-
+        <div class="action">
+          {% include homepage-main-cta.html %}
+        </div>
       </div>
-    </div>
 
   </section>
 
   <section id="about-homepage">
     <p>
       A community of
-      <strong>entrepreneurs, developers, designers, professionals</strong> and... anyone who wants to build a network of tech enthusiasts
-      within the <strong>Trento</strong> area, with the purpose of learning and sharing new ideas regarding development, design, entrepreneurship,
+      <strong>entrepreneurs, developers, designers, professionals</strong> and... anyone who wants to build a network of
+      tech enthusiasts
+      within the <strong>Trento</strong> area, with the purpose of learning and sharing new ideas regarding development,
+      design, entrepreneurship,
       startups and any related topic.
     </p>
   </section>
@@ -140,17 +133,17 @@
   <section id="events">
     <h2>Previous events</h2>
     {% for post in site.posts limit:6 %}
-      {% if post.categories contains "event" %}
-      <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-        <div class="article-head">
-          <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-          <h3 class="title">
-            <a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a>
-          </h3>
-        </div>
-      </article>
-      <hr>
-      {% endif %}
+    {% if post.categories contains "event" %}
+    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+      <div class="article-head">
+        <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+        <h3 class="title">
+          <a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a>
+        </h3>
+      </div>
+    </article>
+    <hr>
+    {% endif %}
     {% endfor %}
     <!-- link to older issues -->
     <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
@@ -171,14 +164,14 @@
   <hr class="job-offers-separator">
 
   {% for post in site.job_offers limit:4 %}
-      <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-        <div class="article-head">
-          <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-          <h3 class="title">
-            <a href="{{ post.url }}" class="js-pjax">{{ post.title }}</a>
-          </h3>
-        </div>
-      </article>
-      <hr>
+  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+    <div class="article-head">
+      <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+      <h3 class="title">
+        <a href="{{ post.url }}" class="js-pjax">{{ post.title }}</a>
+      </h3>
+    </div>
+  </article>
+  <hr>
   {% endfor %}
 </section>
