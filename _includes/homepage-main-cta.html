@@ -1,0 +1,47 @@
+{% assign data = site.data.homepage-event %}
+
+{% if data.type == "event" %}
+<div>
+    <span class="next-meetup">prossimo evento</span>
+    <div class="event-container">
+        <div>
+            <h4>
+                {% if data.pre-title != '' %}
+                <span>{{ data.pre-title }}</span><br>
+                {% endif %}
+                <b>{{ data.title }}</b>
+            </h4>
+            <h4>
+                {{ data.date }} - {{data.time}} @ <a target="_blank" href="{{data.location.url}}">{{data.location.name}}</a>
+            </h4>
+            {% if data.sponsor.name != '' %}
+            <div class="homepage-sponsor-container">
+                <span>sponsorizzato da</span>
+                <a target="_blank" href="{{data.sponsor.url}}">
+                    <img src="{{ data.sponsor.logo }}" alt="{{data.sponsor.description}}">
+                </a>
+            </div>
+            {% endif %}
+            {% if data.partner.name != '' %}
+            <div class="homepage-partner-container">
+                <span>in collaborazione con</span>
+                <a target="_blank" href="{{data.partner.url}}">
+                        <img src="{{data.partner.logo}}" alt="{{data.partner.description}}">
+                </a>
+            </div>
+            {% endif %}
+
+            <a class="btn" target="_blank" href="{{data.ticket-url}}">Registrati!</a>
+        </div>
+    </div>
+</div>
+{% else %}
+<div class="event-container">
+    <div>
+        <h4>
+            <b>Next event coming soon</b>
+        </h4>
+        <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
+    </div>
+</div>
+{% endif %}
