@@ -6,7 +6,7 @@ categories: event
 slug: 'scalability'
 ---
 
-## Gentilmente sponsorizzato da <br>[Bending Spoons](//bendingspoons.com)
+## Kindly sponsored by <br>[Bending Spoons](//bendingspoons.com)
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/pHjRJK2MeXCq3S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
@@ -24,11 +24,11 @@ Fatture in Cloud was born in late 2013 on a single-server machine and scaled fro
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Er7oM7941FsZdz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-## Te lo sei perso?
-### o forse vuoi soltanto rivivere questa fantastica serata
+## Weren't you there?
+### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 
-#### Dai un'occhiata al video
+#### Check the video!
 <iframe class="video-embed" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F393625007935823%2F&width=500&show_text=false&appId=577818005714647&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-<!-- #### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext1p">foto &#128247;</a> -->
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=1189476034583683">pictures &#128247;</a>
 </section>
