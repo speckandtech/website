@@ -1,0 +1,27 @@
+{
+    "type": "event",
+
+    "pre-title": "",
+    "title": "Web Programming",
+    "date": "12/11/2019",
+    "time": "20:30",
+
+    "location" : {
+        "name": "Le Gallerie",
+        "url": "//goo.gl/maps/so3Rj6nHT4nVnfNM9"
+    },
+
+    "partner": {
+        "name": "",
+        "logo": "",
+        "url": ""
+    },
+
+    "sponsor" : {
+        "name" :  "NOI Techpark",
+        "logo": "../../img/logos/noi-techpark.svg",
+        "url": "//noi.bz.it/en"
+    },
+
+    "ticket-url": "//bit.ly/ST-35"
+}
