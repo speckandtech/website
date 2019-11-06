@@ -66,11 +66,12 @@ function watchAll () {
     gulp.watch(
       [
         '*.html',
-        './_includes/**/*',
-        './_layouts/**/*',
-        './_posts/**/*',
-        './_job_offers/**/*',
-        './img/**/*',
+        './_includes/**',
+        './_layouts/**',
+        './_posts/**',
+        './_job_offers/**',
+        './_data/**',
+        './img/**',
     ], series(jekyllExec, browserSyncReload));
     gulp.watch('./js/*.js', browserSyncReload);
 }

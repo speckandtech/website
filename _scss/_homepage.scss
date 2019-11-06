@@ -74,6 +74,7 @@
 
   .action {
     flex-grow: 1;
+    margin-top:32px;
 
     .action-block {
       margin-bottom: 30px;
@@ -105,7 +106,7 @@
     }
 
     div:first-child {
-      margin-right: 32px;
+
       h4:first-child {
         margin-top: 54px;
       }
@@ -136,7 +137,8 @@
     }
   }
 
-  #partner {
+  .homepage-sponsor-container,
+  .homepage-partner-container {
     @include flexbox();
     @include flex-direction(column);
     @include justify-content(center);
@@ -162,11 +164,6 @@
       &#fablabLogo {
         width: 96px;
       }
-    }
-
-    #openmove-logo {
-      width: 96px;
-      height: auto;
     }
   }
 
