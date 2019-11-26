@@ -2,8 +2,8 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Web Programming",
-    "date": "12/11/2019",
+    "title": "Nothing to Hide",
+    "date": "19/12/2019",
     "time": "20:30",
 
     "location" : {
@@ -18,10 +18,10 @@
     },
 
     "sponsor" : {
-        "name" :  "NOI Techpark",
-        "logo": "../../img/logos/noi-techpark.svg",
-        "url": "//noi.bz.it/en"
+        "name" :  "",
+        "logo": "",
+        "url": ""
     },
 
-    "ticket-url": "//bit.ly/ST-35"
+    "ticket-url": "//bit.ly/ST-36"
 }
