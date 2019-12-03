@@ -6,3 +6,4 @@ node_modules
 .ruby-version
 
 .vscode/settings.json
+.jekyll-cache/
