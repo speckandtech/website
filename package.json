@@ -5,14 +5,15 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "check-deps": "npm-check -s -i typescript"
+    "check-deps": "npm-check -s -i typescript",
+    "gulp": "gulp"
   },
   "author": "Shane Osbourne",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "del": "^5.0.0",
-    "gulp": "4.0.2",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "6.1.0",
     "gulp-concat": "2.6.1",
     "gulp-gh-pages": "^0.5.4",

@@ -1,6 +1,4 @@
-Speck&amp;Tech
-=============================
-
+# Speck&amp;Tech
 
 ## System Preparation
 
@@ -8,7 +6,6 @@ To use this starter project, you'll need the following things installed on your 
 
 1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll`
 2. [NodeJS](http://nodejs.org) - use the installer.
-3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
 
 ## Local Installation
 
@@ -22,7 +19,7 @@ To use this starter project, you'll need the following things installed on your 
 This will give you file watching, browser synchronisation, auto-rebuild, CSS injecting etc etc.
 
 ```shell
-$ gulp
+$ npm run gulp
 ```
 
 **Jekyll**

@@ -1,0 +1,36 @@
+---
+layout: event
+title: "#35 - Web Programming"
+date:   2019-11-12T20:45:00+02:00
+categories: event
+slug: "web-programming"
+---
+
+## My experience with web components
+
+### Luca Fedrizzi - Web Developer @ [Belka](//www.belkadigital.com){:target="_blank"}
+
+Luca will talk about his first experience with web components and the Polymer library. From his first attempts to more complex components, he will share his journey and what he has learned from it. Think about this: should we use more web standards in real projects?
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/374moZJLvqQNXb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Introduction to GraphQL
+
+### Luca Galasso - Agile Developer @ [Wonderflow](//www.wonderflow.co/){:target="_blank"}
+
+Developing and maintaining APIs could be a mess if you choose the wrong technology. In this talk, we will evaluate the limits of REST and compare it to GraphQL, the alternative you should use in medium-big projects. Starting from zero, we will create a GraphQL server, understand how it works and clarify why the simplicity of GraphQL is only related to the data structure, and it does not contain any security logic.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dJKXvbNPG1ffaG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F545953139520983%2F&show_text=0&width=500&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F406890246884131%2F&show_text=0&width=500&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<!-- #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/pg/speckandtech/photos/?tab=album&album_id=1265762083621744">pictures &#128247;</a> -->
+</section>
