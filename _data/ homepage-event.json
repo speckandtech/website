@@ -18,9 +18,9 @@
     },
 
     "sponsor" : {
-        "name" :  "",
-        "logo": "",
-        "url": ""
+        "name" :  "ACS",
+        "logo": "/img/logos/acs.png",
+        "url": "//www.acs.it"
     },
 
     "ticket-url": "//bit.ly/ST-36"
