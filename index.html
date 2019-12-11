@@ -162,8 +162,8 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
 <section id="jobs">
   <h2>Who's hiring?</h2>
   <hr class="job-offers-separator">
-
-  {% for post in site.job_offers limit:4 %}
+  {% assign reversedJobOffers = site.job_offers | reverse %}
+  {% for post in reversedJobOffers %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
     <div class="article-head">
       <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>

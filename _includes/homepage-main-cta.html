@@ -2,7 +2,7 @@
 
 {% if data.type == "event" %}
 <div>
-    <span class="next-meetup">prossimo evento</span>
+    <span class="next-meetup">NEXT MEETUP</span>
     <div class="event-container">
         <div>
             <h4>
@@ -16,7 +16,7 @@
             </h4>
             {% if data.sponsor.name != '' %}
             <div class="homepage-sponsor-container">
-                <span>sponsorizzato da</span>
+                <span>sponsored by</span>
                 <a target="_blank" href="{{data.sponsor.url}}">
                     <img src="{{ data.sponsor.logo }}" alt="{{data.sponsor.description}}">
                 </a>
@@ -24,14 +24,14 @@
             {% endif %}
             {% if data.partner.name != '' %}
             <div class="homepage-partner-container">
-                <span>in collaborazione con</span>
+                <span>in partnership with</span>
                 <a target="_blank" href="{{data.partner.url}}">
                         <img src="{{data.partner.logo}}" alt="{{data.partner.description}}">
                 </a>
             </div>
             {% endif %}
 
-            <a class="btn" target="_blank" href="{{data.ticket-url}}">Registrati!</a>
+            <a class="btn" target="_blank" href="{{data.ticket-url}}">Get your ticket!</a>
         </div>
     </div>
 </div>
