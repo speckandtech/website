@@ -1,0 +1,41 @@
+---
+layout: event
+title: "#36 - Nothing to Hide"
+date:   2019-12-19T20:30:00+02:00
+categories: event
+slug: "nothing-to-hide"
+---
+
+## Kindly sponsored by [ACS](//www.acs.it/it/home.html)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fvPWMP6Hu8k9kE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## AI for Humans: The Future of your Digital Self
+
+### George Punter - Co-Founder @ [Ethi](//ethi.me/){:target="_blank"} and [TurgenSec](//turgensec.com){:target="_blank"}
+
+In this talk, George will demonstrate the extent and power of personal data collected by technology companies. He will explore the potential of personal data to do both good and bad, the dangers of giving up your "digital DNA", and the value these companies extract from this data.
+Data rights are finally legally recognised. With the combination of GDPR & rising awareness of personal data abuse, we might eventually be able to control our data, or at least understand as much about our digital footprint as profit-driven companies do.
+AI is only possible because it has data. Imagine your data being used to benefit you, instead of targeting you with gambling adverts. Imagine the potential for next-generation research to understand our society, which can only happen if we break data out from being locked in corporate databases. Data rights are just the start, now we need to use them.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qNvHk8uba25crG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Computational privacy: balancing privacy and utility in the digital era
+
+### Andrea Gadotti - Researcher @ [Computational Privacy Group](//cpg.doc.ic.ac.uk/){:target="_blank"}
+
+Data is incredibly useful for innovation, and in particular for business, researchers and policy-makers. Ultimately, data has huge potential for social good. However, the large-scale collection and use of data raises legitimate privacy concerns, especially in light of recent scandals such as the one of Cambridge Analytica. Traditionally, the standard tool to share data while protecting privacy has been anonymization. Yet, research has shown that this practice is not resistant to a wide range of re-identification attacks. In this presentation I will show why anonymization does not work for modern behavioral datasets ("big data"). I will also discuss how researchers are exploring alternative models to enable the privacy-conscientious use of big data, and why this is a never-ending attack/defense game.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTO8D2x9KKvGISRw0yDh5BqKSaJ6nPdjqoNbxH4NAqyXJZuG0LDEdIUObNz3wfngWbsGPLog4XgPZ42/embed?start=false&loop=false&delayms=15000" frameborder="0" width="595" height="485" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<!-- ## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F545953139520983%2F&show_text=0&width=500&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F406890246884131%2F&show_text=0&width=500&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST35p">pictures &#128247;</a>
+</section> -->
