@@ -2,8 +2,8 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Nothing to Hide",
-    "date": "19/12/2019",
+    "title": "Tech for good",
+    "date": "14/01/2020",
     "time": "20:30",
 
     "location" : {
@@ -18,10 +18,10 @@
     },
 
     "sponsor" : {
-        "name" :  "ACS",
-        "logo": "/img/logos/acs.png",
-        "url": "//www.acs.it"
+        "name" :  "",
+        "logo": "",
+        "url": ""
     },
 
-    "ticket-url": "//bit.ly/ST-36"
+    "ticket-url": "//bit.ly/ST_37"
 }
