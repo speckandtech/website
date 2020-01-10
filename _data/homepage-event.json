@@ -18,9 +18,9 @@
     },
 
     "sponsor" : {
-        "name" :  "",
-        "logo": "",
-        "url": ""
+        "name" :  "iSolutions",
+        "logo": "/img/logos/iSolutions.jpg",
+        "url": "//www.isolutions.it"
     },
 
     "ticket-url": "//bit.ly/ST_37"
