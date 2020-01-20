@@ -1,12 +1,6 @@
 @import "flexbox";
 @import "vars";
 
-::-webkit-scrollbar {
-    height: auto;              /* height of horizontal scrollbar ← You're missing this */
-    width: 4px;               /* width of vertical scrollbar */
-    background-color: 1px solid $red;
-}
-
 .retreat {
     font-size: 24px;
 
