@@ -1,9 +1,9 @@
 {
-    "type": "",
+    "type": "event",
 
     "pre-title": "",
-    "title": "Tech for Good",
-    "date": "14/01/2020",
+    "title": "Healthcare Data",
+    "date": "12/02/2020",
     "time": "20:30",
 
     "location" : {
@@ -12,16 +12,16 @@
     },
 
     "partner": {
-        "name": "",
+        "name": "EIT Health Alumni",
+        "logo": "/img/logos/EIT_health_alumni.svg",
+        "url": "//www.eithealth.eu/alumni"
+    },
+
+    "sponsor" : {
+        "name" :  "",
         "logo": "",
         "url": ""
     },
 
-    "sponsor" : {
-        "name" :  "iSolutions",
-        "logo": "/img/logos/iSolutions.jpg",
-        "url": "//www.isolutions.it"
-    },
-
-    "ticket-url": "//bit.ly/ST_37"
+    "ticket-url": ""
 }
