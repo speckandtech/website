@@ -33,8 +33,8 @@ Data is incredibly useful for innovation, and in particular for business, resear
 
 <section class="fb-links">
 
-<!-- #### Check the video!
+#### Check the video!
 
-<iframe class="video-embed" src="//www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F545953139520983%2F&show_text=0&width=500&height=282" width="500" height="282" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe> -->
+<iframe class="video-embed" src="https://www.youtube.com/embed/wt23esnkZ3A" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST36p">pictures &#128247;</a>
 </section>
