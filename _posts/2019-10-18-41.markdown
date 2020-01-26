@@ -10,8 +10,8 @@ slug: 'speckandtech-retreat-v2'
 After the success of the first edition, 60+ members of our community gathered again for an unforgettable weekend with old and new friends, doing outdoor sport, relaxing in the sauna and talking tech.
 Feel like taking a look at all the details? [Check the mini-site of the event](https://speckand.tech/retreat).
 
-<!-- ## The aftermovie
-<iframe class="video-embed" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F365874970644816%2F&show_text=0&width=560" width="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> -->
+## The aftermovie
+<iframe class="video-embed" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F1010447129315342%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ## The official brochure
 <iframe src="https://drive.google.com/file/d/1BZUKzEHCbvKrnNV6wNa0-nd2G9TIq6Q8/preview?usp=embed_googleplus" style="border: 0; width: 640; height: 700px;" allowfullscreen></iframe>
@@ -20,6 +20,22 @@ Feel like taking a look at all the details? [Check the mini-site of the event](h
 
 ### "The history of Speck&Tech” - Francesco Bonadiman
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/5Da2gI8aMld3qW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### "What I've learnt as a Software Engineer in the past year at Bending Spoons” - Simon Vocella & Davide Pedranz
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FxZHGocHBQJTIr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### “A platform for the generation of instructional interactive videos from virtual reality” - Paolo Busetta
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sJUFhOSh8GMzo7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### "SpazioDati at the Speck&Tech Retreat” - Francesco Bonadiman
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xnHgH156QMiQxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### “Sinapsi - Online Machine Learning applied to Hotel Revenue Management” - Filippo Battiti
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8E8cDBclrUmlKF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+### “Introduction to Hyperledger Fabric (or how to pay that fine once and for all with Distributed Ledger Technology)” - Luca Guadagnini
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cPiE8lg24Afn6N" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful event
