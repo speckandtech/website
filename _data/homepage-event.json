@@ -2,8 +2,8 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Healthcare Data",
-    "date": "12/02/2020",
+    "title": "Modern Ops",
+    "date": "16/03/2020",
     "time": "20:30",
 
     "location" : {
@@ -18,10 +18,10 @@
     },
 
     "sponsor" : {
-        "name" :  "",
-        "logo": "",
-        "url": ""
+        "name" :  "Amazon Web Services",
+        "logo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png",
+        "url": "//aws.amazon.com/"
     },
 
-    "ticket-url": "//bit.ly/ST-38"
+    "ticket-url": ""
 }
