@@ -55,7 +55,7 @@ function buildSass () {
     }))
     .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
     .pipe(gulp.dest('_site/css'))
-    .pipe(browser_sync.reload({stream:true}))
+    .pipe(browser_sync.reload({stream: true}))
     .pipe(gulp.dest('css'));
 }
 
@@ -82,9 +82,8 @@ function deployGhPages (cb) {
     cb();
 }
 
-const build = parallel(buildSass, concatJS, jekyllExec);
+const build = series(parallel(buildSass, concatJS), jekyllExec);
 
-exports.deploy = series(build, deployGhPages);
 exports.build = build;
-exports.js = concatJS;
-exports.default = series(build, parallel(watchAll, browserSyncStart));
+exports.deploy = series(build, deployGhPages);
+exports.default = series(browserSyncStart, build, watchAll);
