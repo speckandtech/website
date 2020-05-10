@@ -2,13 +2,13 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Modern Ops",
-    "date": "16/03/2020",
-    "time": "20:30",
+    "title": "S.T.A.Y. Home #1",
+    "date": "14/05/2020",
+    "time": "20:45",
 
     "location" : {
-        "name": "Le Gallerie",
-        "url": "//goo.gl/maps/so3Rj6nHT4nVnfNM9"
+        "name": "online",
+        "url": ""
     },
 
     "partner": {
@@ -18,10 +18,10 @@
     },
 
     "sponsor" : {
-        "name" :  "Amazon Web Services",
-        "logo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png",
-        "url": "//aws.amazon.com/"
+        "name" :  "",
+        "logo": "",
+        "url": ""
     },
 
-    "ticket-url": ""
+    "ticket-url": "//bit.ly/stayhome_1"
 }
