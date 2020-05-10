@@ -2,7 +2,7 @@
 
 {% if data.type == "event" %}
 <div>
-    <span class="next-meetup">NEXT MEETUP</span>
+    <span class="next-meetup">NEXT ONLINE MEETUP</span>
     <div class="event-container">
         <div>
             <h4>
@@ -35,7 +35,7 @@
             {% endif %}
 
             {% if data.ticket-url != "" %}
-                <a class="btn" target="_blank" href="{{data.ticket-url}}">Get your ticket!</a>
+                <a class="btn" target="_blank" href="{{data.ticket-url}}">Tickets!</a>
 
             {% else %}
                 <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
