@@ -1,0 +1,27 @@
+---
+layout: event
+title: "#1 - S.T.A.Y. Home"
+date:   2020-05-14T20:45:00+02:00
+categories: event
+slug: "stay-home-1"
+---
+
+## How the Internet reacted to COVID-19 and kept working
+
+### John Graham-Cumming - CTO of Cloudflare
+
+We’ve all seen news stories about the Internet being threatened by #COVID19. 
+As people were forced to work from home and children to study over the Internet, some worried it would collapse. 
+We heard how Netflix and others had to reduce their streaming quality to stop European networks from being overloaded. 
+I’ll talk about what really happened and what had to be done to keep the Internet running smoothly.
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe class="video-embed" src="https://www.youtube.com/embed/u-wZFOA7Ksc" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
