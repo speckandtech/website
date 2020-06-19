@@ -18,9 +18,9 @@
     },
 
     "sponsor" : {
-        "name" :  "",
-        "logo": "",
-        "url": ""
+        "name" :  "Amazon Web Services",
+        "logo": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png",
+        "url": "//aws.amazon.com/"
     },
 
     "ticket-url": ""
