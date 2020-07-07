@@ -1,0 +1,26 @@
+---
+layout: event
+title: "S.T.A.Y. Home #2"
+date:   2020-06-08T20:45:00+02:00
+categories: event
+slug: "stay-home-2"
+---
+
+## Saving lives with an App?
+
+### Matteo Gavagnin - CTO of Dimension
+
+Few weeks after #COVID19 was detected outside of China, a new topic started to gain traction: an app for smartphone can help perform contact tracing and therefore limit the spread of the disease. 
+Join me in the journey lived by countries, experts, companies, researchers and citizens, that will end with the #immuni app installed on our phones.
+Why we should definitely install it and convince others to do it too.
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe class="video-embed" src="https://www.youtube.com/embed/ExEFrizyvnY" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
