@@ -37,6 +37,6 @@
   "homepage": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync",
   "dependencies": {
     "common-js": "^0.3.8",
-    "npm": "^6.14.0"
+    "npm": "^6.14.6"
   }
 }
