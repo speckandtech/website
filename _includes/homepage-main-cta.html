@@ -12,7 +12,8 @@
                 <b>{{ data.title }}</b>
             </h4>
             <h4>
-            {{ data.date }} - {{data.time}}
+                {% if data.date != '' %}
+                {{ data.date }} - {{data.time}}
             </h4>
             <!--
             <h4>
