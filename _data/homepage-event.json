@@ -1,5 +1,6 @@
 {
-    "type": "event",
+//    "type": "event",
+    "type": "tshirts",
 
     "pre-title": "",
     "title": "",
