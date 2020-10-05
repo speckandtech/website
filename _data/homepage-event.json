@@ -2,9 +2,9 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "",
-    "date": "",
-    "time": "",
+    "title": "S.T.A.Y. Home #4",
+    "date": "14/10/2020",
+    "time": "20:45",
 
     "location" : {
         "name": "online",
@@ -23,5 +23,5 @@
         "url": ""
     },
 
-    "ticket-url": ""
+    "ticket-url": "//bit.ly/stayhome-4"
 }
