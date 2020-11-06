@@ -11,8 +11,8 @@ Ciao, we are [Belka](http://belkadigital.com){:target="_blank"}! We design and d
 
 ## WHO WE LOOK FOR
 We are looking for a Javascript-loving software developer (m/f) to be added to our team. If you’re always looking for the best Javascript frameworks and libraries and love to keep up with the open source community, write us now!
-Required skills: Proficiency in one of the major Javascript libraries such as React, Vue or similar.
-Nice to have: Experience with Typescript and Web Components.
+- Required skills: Proficiency in one of the major Javascript libraries such as React, Vue or similar.
+- Nice to have: Experience with Typescript and Web Components.
 
 ## WHAT WE OFFER
 You will have a lot of freedom and responsibility from the beginning. You will be an important part of our team. We don’t bench anyone. We are a tight team but at the same time you will have the opportunity to lead the work on the projects.
