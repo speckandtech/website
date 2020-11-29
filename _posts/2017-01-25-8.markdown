@@ -17,7 +17,7 @@ Serverless Architecture - How to make a Bot in minutes
 <div style="margin-bottom:5px">
 <strong>
 <a href="//www.slideshare.net/speckandtech/a-bot-in-minutes-with-serverless" title="A bot in minutes with serverless" target="_blank">A bot in minutes with serverless</a>
-</strong> from <strong><a target="_blank" href="//www.linkedin.com/in/tmartinho/">Tiago Martinho</a></strong> & <strong><a target="_blank" href="//www.linkedin.com/in/alessiocoser/">Alessio Coser</a></strong></div>
+</strong> from <strong><a target="_blank" href="//www.linkedin.com/in/tmartinho/">Tiago Martinho</a></strong> & <strong><a target="_blank" href="//www.linkedin.com/in/alessiocoser/">Alessio Coser</a></strong>
 
 ## Design sprint - What is it and how it works
 ###  Giulio Michelon - Belka, CEO & Co-founder
