@@ -7,7 +7,7 @@ slug: 'spooky-tech'
 ---
 
 ## The bad, the ugly and the weird about IoT
-### Gianluca Varisco -- Expert of Cibersecurity at [Digital Transformation Team](https://teamdigitale.governo.it/en/)
+### Gianluca Varisco -- Expert of Cybersecurity at [Digital Transformation Team](https://teamdigitale.governo.it/en/)
 
 The Internet of Things isn’t coming, it is already here 🛰 IoT is at the peak of the hype cycle - what they call the 'Peak of Inflated Expectations’. Every IT organisation wants to ride the IoT wave 🏄‍♀️ As with all new technologies, the battle over standards is always a struggle. The unresolved problem of software updates and short vendor support cycle combined with the lack of effort into systems security and application security makes these devices an easy target 🎯 Internet accessible embedded systems are being compromised via vulnerabilities (even old ones, like Shellshock) or because of their weak default configuration. As more things from the IoT start trickling into people’s homes, this talk will try to shine a light into this bizarre and scary future with a steady stream of funny and smart (as in clever, not internet-connected) jokes 💡 Think about misconfigured cameras, televisions, home routers, baby monitors, toys and spammy refrigerators! 📺
 
