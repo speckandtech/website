@@ -18,7 +18,7 @@ L'hackathon si è rivolta agli sviluppatori software ed esperti informatici su t
 
 <img width="100%" height="auto" src="{{ site.url }}/img/hackathon/fotogruppo.jpg" alt="Foto dei partecipanti">
 
-Abbiamo organizzato l'hackathon anche a Trento, a [Impact Hub Trentino](https://trento.impacthub.net/), spazio di innovazione sociale che fa parte di un network internazionale; UniTin, il network degli studenti dell’Università di Trento e HIT, Hub Innovazione Trentino.
+Abbiamo organizzato l'hackathon anche a Trento, assieme a [Impact Hub Trentino](https://trento.impacthub.net/), spazio di innovazione sociale che fa parte di un network internazionale; UniTin, il network degli studenti dell’Università di Trento e HIT, Hub Innovazione Trentino.
 
 L’evento in questa sede fa parte del progetto europeo URBAN INNO – Informatica Trentina.
 
