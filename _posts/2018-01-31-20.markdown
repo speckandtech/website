@@ -26,10 +26,10 @@ In this talk I will present how Machine and Deep Learning techniques can be effe
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aeIKdcwUb8?start=596" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <section class="fb-links center">
 #### Check out the pictures... and tag yourself!
 <p>
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/818551928342764/">Facebook reLive 📼</a>
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.826417020889588.1073741852.476076519256975&type=3">Photo album &#128247;</a>
 </p>
 </section>

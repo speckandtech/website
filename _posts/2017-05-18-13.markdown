@@ -37,7 +37,7 @@ Being alone, this is how I went from one idea to a functional product: challenge
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 #### Watch the video
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="https://www.facebook.com/speckandtech/videos/679132295618062/">Facebook reLive 📼</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tiT6fNtEdLs?start=1039" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### and don't forget to check the pictures
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="https://www.facebook.com/media/set/?set=a.681850812012877.1073741841.476076519256975&type=1&l=8c40da6b10">Photo album &#128247;</a>
 </section>
