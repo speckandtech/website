@@ -40,29 +40,35 @@
             {% endif %}
 
             {% if data.ticket-url != "" %}
-                <a class="btn" target="_blank" href="{{data.ticket-url}}">Tickets!</a>
+            <a class="btn" target="_blank" href="{{data.ticket-url}}">Tickets!</a>
 
             {% else %}
-                <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
+            <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
             {% endif %}
 
         </div>
     </div>
 </div>
-{% else %}
+{% else if data.type == "podcast" %}
 <div class="event-container">
     <div>
-         <!--
-        <h4>
-            <b>Next event coming soon!</b>
-        </h4>
-        <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
-        -->
         <h4>
             <b>Ascolta il nostro podcast!</b>
         </h4>
         <br>
-        <iframe src="https://anchor.fm/speckandtech/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+        <iframe class="podcast-iframe" src="https://anchor.fm/speckandtech/embed" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
+{% else %}
+<div class="event-container">
+    <div>
+
+        <h4>
+            <b>Next event coming soon!</b>
+        </h4>
+        <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
+    </div>
+</div>
+
 {% endif %}

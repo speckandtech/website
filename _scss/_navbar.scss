@@ -31,3 +31,18 @@ nav {
     }
   }
 }
+
+@include small-screen {
+  
+  nav {
+    ul {
+      text-align: center;
+    }
+  
+    .logo {
+      margin: 12px 0 10px 0;
+      position: relative;
+      display: block;
+    }
+  }
+}
