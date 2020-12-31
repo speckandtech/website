@@ -90,6 +90,16 @@
       font-size: .7em;
     }
 
+    .podcast-iframe {
+      width: 400px;
+      height: 102px;
+
+      @include mobile {
+        width: 100%;
+        height: auto;
+      }
+    }
+
     h5 {
       margin-top: 8px;
       font-size: 1.75em;
@@ -317,6 +327,10 @@
   max-width: 780px;
   margin: 2vw auto;
 
+  @include small-screen {
+    max-width: 90%;
+  }
+
   p {
     font-size: 24px;
     line-height: 1.5em
@@ -439,6 +453,10 @@
 #events, #jobs {
   max-width: 780px;
   margin: 0 auto;
+
+  @include small-screen {
+    max-width: 90%;
+  }
 
   h2 {
     margin-top: 1.8em;
