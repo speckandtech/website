@@ -22,5 +22,5 @@ Why we should definitely install it and convince others to do it too.
 
 #### Check the video!
 
-<iframe class="video-embed" src="https://www.youtube.com/embed/ExEFrizyvnY" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExEFrizyvnY?start=403" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>

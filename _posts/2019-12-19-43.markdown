@@ -35,6 +35,6 @@ Data is incredibly useful for innovation, and in particular for business, resear
 
 #### Check the video!
 
-<iframe class="video-embed" src="https://www.youtube.com/embed/wt23esnkZ3A" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wt23esnkZ3A?start=645" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST36p">pictures &#128247;</a>
 </section>
