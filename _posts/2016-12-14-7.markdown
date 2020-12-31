@@ -49,7 +49,7 @@ Our partner and sponsor for this event was EIT Digital, a leading European digit
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 #### Watch the video
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/593249524206340/">Facebook reLive 📼</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NU9hNEdtABE?start=675" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### and don't forget to check the pictures
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.597265887138037.1073741835.476076519256975&type=1&l=dba18f7216">Photo album &#128247;</a>
 </section>
