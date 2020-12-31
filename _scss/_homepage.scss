@@ -365,20 +365,17 @@
 
   .container {
     display: flex;
+    margin: 0 auto;
+    justify-content: center;
 
     .col-pic {
-      margin-left: 25%;
-      width: 25%;
+      width: 200px;
+      margin-right: 2vh;
     }
-
+    
     .col-quote {
-      width: 25%;
-    }
-
-    @include mobile() {
-      .col-quote {
-        width: 50%;
-      }
+      width: 200px;
+      margin: auto 0;
     }
 
     a {
@@ -396,20 +393,58 @@
     }
 
     img {
+      height: 200px;
+      width: auto;
       box-shadow: 6px 6px #42E7DA;
+    }
+    
+    p {
+      margin: 0;
+    }
+  }
+
+  @include mobile() {
+    padding: 10vw 0;
+
+    .container{
+      width: 200px;
+      flex-direction: column;
+      justify-content: center;
+      
+      .col-pic {
+        width: 100%;
+        margin-bottom: 5vw;
+        margin-right: 0;
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+      
+      .col-quote {
+        width: 100%;
+      }
     }
   }
 }
 
 #partners {
   text-align: center;
-  margin-top: 5em;
+  margin: 6vw 0;
 
   .container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+  }
+
+  @include mobile {
+    margin: 18vw 0;
+
+    .container>a:nth-child(2) {
+      padding-bottom: 5vw;
+    }
   }
 
   @include small-screen {
@@ -426,9 +461,14 @@
   }
 
   img {
-    margin: 8px 20px;
+    max-width: 240px;
+    padding: 8px 20px;
     @include small-screen {
       margin: 10px 0;
+    }
+    
+    @include mobile {
+      max-width: 200px;
     }
   }
 
@@ -498,7 +538,7 @@
 
   #intro {
     h1 {
-      font-size: 3em;
+      font-size: 2.8em;
     }
     .claim {
       font-size: 21px;
