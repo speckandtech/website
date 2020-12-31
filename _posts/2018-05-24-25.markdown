@@ -14,7 +14,7 @@ In this presentation I will provide an overview of the main components of proces
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ktXbhBIloEqf4a" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3cli2UDW1rk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cli2UDW1rk?start=892" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Taking Process Mining from a technical software solution to a full enterprise ready platform
 ### Manuel Haug -- Head of Product Management Core at [Celonis](https://www.celonis.com/)
@@ -23,7 +23,7 @@ Serving the largest companies in the world with a state of the art software is a
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3Erb8mX2UgR22D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TaU1OO8UZ4E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TaU1OO8UZ4E?start=77" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night

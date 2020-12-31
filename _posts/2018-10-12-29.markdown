@@ -10,7 +10,7 @@ slug: 'speckandtech-retreat'
 We gathered over 50 of our community members to spend some quality time together! Feel like taking a look at all the details? [Check the mini-site of the event](https://speckand.tech/retreat).
 
 ## The aftermovie
-<iframe class="video-embed" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fspeckandtech%2Fvideos%2F365874970644816%2F&show_text=0&width=560" width="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8o5CL9-_98?start=821" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The official brochure
 <iframe src="https://drive.google.com/file/d/1A_ajpS9l4-2yQrm6bl2Av8qMTJGHvijB/preview?usp=embed_googleplus" style="border: 0; width: 640; height: 700px;" allowfullscreen></iframe>
@@ -33,5 +33,5 @@ We gathered over 50 of our community members to spend some quality time together
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful event
 <section class="fb-links">
-#### Check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/retreat-live">video 📼</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhDVi7bQh7M?start=32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
