@@ -33,7 +33,7 @@ This talk will address both the technology underpinning in the creation of digit
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kdxYe0LTdZw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <section class="fb-links">
 #### check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-21pics">pictures &#128247;</a>
-#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/860414957489794/">video 📼</a>
 </section>

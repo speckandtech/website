@@ -47,8 +47,7 @@ We will add them if they will be available in the future.</strong> </center>
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 #### Watch the video
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/841386102726013/">Part 1</a>
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/841400129391277/">Part 2</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E2SKEUNVkg8?start=1032" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### and don't forget to check the pictures
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="http://bit.ly/ST-20pics">Photo album &#128247;</a>
 </section>

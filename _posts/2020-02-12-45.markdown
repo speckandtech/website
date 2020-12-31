@@ -33,6 +33,6 @@ The real impact of healthcare goes much beyond technology. Current tech stacks a
 
 #### Check the video!
 
-<iframe class="video-embed" src="https://www.youtube.com/embed/FrxxVUWuK4g" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FrxxVUWuK4g?start=583" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-38p">pictures &#128247;</a>
 </section>

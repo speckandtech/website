@@ -23,6 +23,6 @@ We live in a world where the Artificial Intelligence is constantly undergoing an
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
-#### Check the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/919233948274561/">video 📼</a>
-#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-25p">pictures &#128247;</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LduP-cTgWyI?start=968" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-25p">pictures &#128247;</a>
 </section>
