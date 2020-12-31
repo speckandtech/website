@@ -1,33 +1,37 @@
 nav {
-  position: absolute;
-  left: 0;
-  right: 0;
-  text-align: right;
+  max-width: 900px;
+  margin: 0 auto;
   padding: 1vh;
   font-size: 14px;
-  @extend .container;
+
+  position: relative;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 
   li {
     vertical-align: middle;
     display: inline-block;
-  }
-
-  .logo {
-    position: absolute;
-    left: 0;
+    a {
+      font-size: 18px;
+      padding: 2px 4px;
+    }
   }
 }
 
 @include mobile {
   nav {
-    ul {
-      text-align: center;
-    }
+    padding: 0 0 10vw 0;
+    flex-direction: column;
 
-    .logo {
-      margin: 12px 0 10px 0;
-      position: relative;
-      display: block;
+    ul {
+      padding-left: 0;
+      margin-top: 4vw;
+      a {
+        font-size: 24px;
+      }
     }
   }
 }
@@ -35,14 +39,7 @@ nav {
 @include small-screen {
   
   nav {
-    ul {
-      text-align: center;
-    }
-  
-    .logo {
-      margin: 12px 0 10px 0;
-      position: relative;
-      display: block;
-    }
+    margin: 0 5% !important;
+    max-width: 90% !important;
   }
 }
