@@ -34,7 +34,7 @@ Virtual Reality and Augmented Reality are two of the most chatted technologies c
 ### or maybe you just want to relive this wonderful night
 <section class="fb-links">
 #### Watch the video
-<a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/speckandtech/videos/577526832445276/">Facebook reLive 📼</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rqlnvM15Fz0?start=640" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### and don't forget to check the pictures
 <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//www.facebook.com/media/set/?set=a.579912205540072.1073741834.476076519256975&type=1&l=3383dbd7c7">Photo album &#128247;</a>
 </section>
