@@ -31,11 +31,6 @@ NICE-TO-HAVE
 - you like to instrument your code (prometheus);
 - you would like to learn, challenge yourself, improve and broaden your skill set.
 
-## WHAT WE OFFER
-You will have a lot of freedom and responsibility from the beginning. You will be an important part of our team. We don’t bench anyone. We are a tight team but at the same time you will have the opportunity to lead the work on the projects.
-We offer a full time position. Lunch is on us. You will receive a brand new MacBook, a big screen and a comfortable workplace at your arrive.
-Our office is at Impact Hub in Trento (in the brand new Albere neighborhood. This means working in a dynamic place filled with other interesting companies. The coworking space also offers a small kitchen (beers on us), a ping pong table and various events through the year!
-
 ## HOW TO APPLY
 Send your application to [jobs@spaziodati.eu](mailto:jobs@spaziodati.eu) and please make sure to include:
 - Your CV (any format is fine)
