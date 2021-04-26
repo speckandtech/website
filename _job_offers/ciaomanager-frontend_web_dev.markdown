@@ -1,4 +1,10 @@
-# Ciaomanager - Frontend web developer
+---
+layout: event
+title:  "Ciaomanager - frontend developer"
+date:   2021-04-25T12:00:00+02:00
+categories: hiring
+slug: 'ciaomanager-frontend'
+---
 
 ## CHI SIAMO
 
