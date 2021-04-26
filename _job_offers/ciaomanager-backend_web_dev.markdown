@@ -1,3 +1,10 @@
+---
+layout: event
+title:  "Ciaomanager - backend developer"
+date:   2021-04-26T12:00:00+02:00
+categories: hiring
+slug: 'ciaomanager-backend'
+---
 
 # Ciaomanager - Backend web developer
 
