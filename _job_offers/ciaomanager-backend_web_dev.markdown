@@ -6,8 +6,6 @@ categories: hiring
 slug: 'ciaomanager-backend'
 ---
 
-# Ciaomanager - Backend web developer
-
 ## CHI SIAMO
 
 Siamo [Ciaomanager](ciaomanager.com/?ref=speck) e realizziamo soluzioni innovative per Hotel e B&B in tutta Italia.  Creiamo software in cloud avanzati e complessi, ma con un frontend facile da utilizzare per gli utenti finali, per sostenere una crescita snella ed intelligente delle aziende ricettive.
