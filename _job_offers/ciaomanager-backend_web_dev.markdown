@@ -25,7 +25,7 @@ Il nostro backend gira su infrastruttura cloud via Node.JS.
 
 **Contratto:** Tempo indeterminato
 
-**Stipendio RAL (min-max):** 23.000€ - 28.000€ in base al livello di competenza, valutato in fase di selezione
+**Stipendio RAL (min-max):** 28.000€ - 32.000€ in base al livello di competenza, valutato in fase di selezione
 
 **Sede:** Trento (TN)
 
