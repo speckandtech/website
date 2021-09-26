@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "SpazioDati - software engineer"
-date:   2020-11-06T12:00:00+02:00
+title:  "SpazioDati - software engineer (backend)"
+date:   2021-09-26T12:15:00+02:00
 categories: hiring
 slug: 'spaziodati'
 ---
