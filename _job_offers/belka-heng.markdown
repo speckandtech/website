@@ -55,4 +55,4 @@ Qui entri in gioco tu: dopo qualche mese di affiancamento con Giovanni puoi aver
 - Sei motivatə dal feedback e dall'opportunità di migliorare il tuo lavoro, il tuo ruolo e le tue relazioni con il team
 
 ## COME APPLICARE
-Ti interessa la posizione? Candidati! [Candidati](https://www.belkadigital.com/hiring/head-of-engineering){:target="_blank"}
+Ti interessa la posizione? [Candidati!](https://www.belkadigital.com/hiring/head-of-engineering){:target="_blank"}

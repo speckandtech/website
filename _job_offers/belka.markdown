@@ -55,4 +55,4 @@ Non vogliamo un ruolo di semplice contabilità. Visto il ruolo chiave che ha in 
 - Hai una sincera passione per gli elenchi puntati
 
 ## COME APPLICARE
-Ti interessa la posizione? Candidati! [Candidati](https://www.belkadigital.com/hiring/responsabile-finanziario){:target="_blank"}
+Ti interessa la posizione? [Candidati!](https://www.belkadigital.com/hiring/responsabile-finanziario){:target="_blank"}

@@ -1,9 +1,9 @@
 ---
 layout: event
-title:  "SpazioDati - software engineer (backend)"
+title:  "SpazioDati - backend developer"
 date:   2021-09-26T12:15:00+02:00
 categories: hiring
-slug: 'spaziodati'
+slug: 'spaziodati-be'
 ---
 
 ## WHO WE ARE
@@ -13,7 +13,7 @@ Our main product, [Atoka](http://atoka.io){:target="_blank"}, is currently used 
 ## WHO WE LOOK FOR
 We have 3 teams working on our main product, Atoka. We’re looking for help in all of them. Teams are self-organized based on common and continuously evolving agile practices. We work in TypeScript, Python and Go. We’re currently trying to simplify our codebase with a microservice approach based on gRPC, service mesh and Kubernetes.
 
-REQUIREMENTS:
+## REQUIREMENTS
 - you have a B.S. or M.S. Computer Science or related field, or equivalent experience;
 - you are a quick-thinker, a problem-solver, who feels comfortable in writing code;
 - you take code quality seriously: continuous integration, testing, code review, linters;
@@ -21,7 +21,7 @@ REQUIREMENTS:
 - you know how to work with databases;
 - you’re a great team player.
 
-NICE-TO-HAVE
+## NICE-TO-HAVE
 - you are good with Python and Django;
 - you know golang;
 - you know how to write REST APIs;
