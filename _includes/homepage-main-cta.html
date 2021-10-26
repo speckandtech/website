@@ -11,17 +11,18 @@
                 {% endif %}
                 <b>{{ data.title }}</b>
             </h4>
+            <!--
             <h4>
                 {% if data.date != '' %}
                 {{ data.date }} - {{data.time}}
                 {% endif %}
             </h4>
-            <!--
+            -->
             <h4>
                 {{ data.date }} - {{data.time}} @ <a target="_blank"
                     href="{{data.location.url}}">{{data.location.name}}</a>
             </h4>
-            -->
+            
             {% if data.sponsor.name != '' %}
             <div class="homepage-sponsor-container">
                 <span>sponsored by</span>
