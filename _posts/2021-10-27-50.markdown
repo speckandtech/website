@@ -1,0 +1,34 @@
+---
+layout: event
+title: "#39 - Data Journalism"
+date:   2021-10-27T20:45:00+02:00
+categories: event
+slug: "data-journalism"
+---
+
+## Il datajournalism prima e dopo un'epidemia
+
+### Isaia Invernizzi - Giornalista @ [Il Post](//www.ilpost.it){:target="_blank"}
+
+La pandemia ci ha ricordato quanto sia importante il giornalismo fatto con i dati, che non vuol dire articoli pieni di dati: ricerca, raccolta, analisi, aggregazione, visualizzazione e spiegazione dei dati sono tutti passaggi essenziali di un lavoro spesso sottovalutato all'interno delle redazioni.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tc5vZPspsAvZae" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Designing digital commons
+
+### Matteo Moretti - Award-winning designer, co-founder @ [Sheldon.studio](//www.sheldon.studio){:target="_blank"}
+
+Open data has great potential, but it risks becoming a lost opportunity if the insiders' knowledge and tools to process it remain their prerogative. By analysing two case studies, the talk unveils the design approach of Sheldon.studio to turn open data into a digital commons, supporting a better-informed debate, a more vital civic consciousness, and fostering stronger participation in the democratic processes.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vmYO7Jd1OTYzzc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6RQIzPgrMQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>

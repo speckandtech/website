@@ -2,13 +2,13 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Data Journalism",
-    "date": "27/10/2021",
-    "time": "20:45",
+    "title": "",
+    "date": "",
+    "time": "",
 
     "location" : {
-        "name": "Impact Hub Trentino",
-        "url": "//g.page/impacthubtrentino?share"
+        "name": "",
+        "url": ""
     },
 
     "partner": {
@@ -23,5 +23,5 @@
         "url": ""
     },
 
-    "ticket-url": "//bit.ly/ST_39"
+    "ticket-url": ""
 }
