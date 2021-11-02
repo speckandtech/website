@@ -19,6 +19,7 @@
             </h4>
             -->
             <h4>
+            {% if data.date != '' %}
                 {{ data.date }} - {{data.time}} @ <a target="_blank"
                     href="{{data.location.url}}">{{data.location.name}}</a>
             </h4>
