@@ -2,13 +2,13 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "The algorithm of the night",
-    "date": "13/12/2021",
-    "time": "20:45",
+    "title": "",
+    "date": "",
+    "time": "",
 
     "location" : {
-        "name": "Impact Hub Trentino",
-        "url": "//g.page/impacthubtrentino?share"
+        "name": "",
+        "url": ""
     },
 
     "partner": {
@@ -23,5 +23,5 @@
         "url": ""
     },
 
-    "ticket-url": "//bit.ly/ST-40"
+    "ticket-url": ""
 }

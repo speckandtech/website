@@ -1,0 +1,36 @@
+---
+layout: event
+title: "#40 - The algorithm of the night"
+date:   2021-12-13T20:45:00+02:00
+categories: event
+slug: "algorithm-night"
+---
+
+## Musixmatch: enhancing the global music experience
+
+### Paolo Spazzini - Head of Design @ [Musixmatch](//www.musixmatch.com){:target="_blank"}
+
+Musixmatch is a crew of 100+ creative individuals who work together to impact the way millions of people consume and interact with music. We strive to create the most personal and compelling music experience through our products and our partners' ones, like Spotify and Instagram. In this talk, we’ll listen to a story about how Musixmatch has become the coolest music data company in the tech space and how it empowered music fans and creators to reach their ultimate goals: to share their passion and to be heard.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DPCGj43W9n86qT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+## Livecoding: come ti codo un concerto!
+
+### [RVVV](//soundcloud.com/rvvv-live){:target="_blank"} (Nicola Ariutti & Davide Bonafede)
+
+Livecoding: utilizziamo linguaggi di programmazione come una metodologia di improvvisazione e ricerca sia musicale che visiva. Una introduzione al mondo del livecoding seguita da una performance musicale con SuperCollider.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bfznPzFVdWmr1K" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28CkSRf1MUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>
