@@ -2,13 +2,13 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Data Economy",
-    "date": "07/04/2022",
-    "time": "20:45",
+    "title": "",
+    "date": "",
+    "time": "",
 
     "location" : {
-        "name": "Impact Hub Trentino",
-        "url": "//g.page/impacthubtrentino?share"
+        "name": "",
+        "url": ""
     },
 
     "partner": {
@@ -23,5 +23,5 @@
         "url": ""
     },
 
-    "ticket-url": "//bit.ly/ST_42"
+    "ticket-url": ""
 }
