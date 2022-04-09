@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "SpazioDati - frontend developer"
-date:   2021-04-08T12:45:00+02:00
+date:   2022-04-08T12:45:00+02:00
 categories: hiring
 slug: 'spaziodati-fe'
 ---
