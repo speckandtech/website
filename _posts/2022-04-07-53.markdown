@@ -33,6 +33,6 @@ When we think about web news as a source of information it seems that there's no
 
 #### Check the video!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VwhbIly6X44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6k4z90f-vSc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </section>
