@@ -1,0 +1,38 @@
+---
+layout: event
+title: "#42 - Data Economy"
+date:   2022-04-07T20:45:00+02:00
+categories: event
+slug: "data-economy"
+---
+
+## The New Oil
+
+### Darya Kamkalova - Data industry professional and podcaster
+
+Data is called the new oil and data monetisation opportunities quicken imagination. Visible and invisible data streams fuel our economy: vehicle sensors identify road hazards ahead, agricultural machinery diverts poor-quality produce from our tables, pedestrian flow affects smart street light management, and so on. The potential of data awes and excites us. But just like oil, raw data must be 'refined'. DATA, something relatively abstract, must become a PRODUCT, something very concrete, to deliver value. We will talk about data productisation and monetisation: how companies can create value with and generate revenue from their enterprise data.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LfzNtDKJgcLQ61" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+## What's happening to my clients? Extracting value from news articles
+
+### Ugo Scaiella - Software Engineering Manager at [SpazioDati](//spaziodati.eu){:target="_blank"}
+
+When we think about web news as a source of information it seems that there's nothing new to talk about. Google News et similia are out there for years and everybody can access that huge amount of information, mostly for free. However, if you want to extract real value from news articles, things are getting much more complicated. At SpazioDati we are focused on collecting as much information as possible about all Italian companies from many different sources and news is one of the richest, but at the same time hardest, kinds of sources we are dealing with. So we built Sedano, our news processing pipeline that is able to ingest, clean, deduplicate, annotate, classify and cluster several thousands of news articles per day and make them available to our users. We will talk about the challenges we faced, the solutions we implemented, and the open issues we are currently working on.
+
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ozuBESUClw8Ms" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6k4z90f-vSc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>

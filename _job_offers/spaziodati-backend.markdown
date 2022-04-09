@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "SpazioDati - backend developer"
-date:   2021-09-26T12:15:00+02:00
+date:   2022-04-09T12:15:00+02:00
 categories: hiring
 slug: 'spaziodati-be'
 ---
