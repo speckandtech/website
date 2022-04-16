@@ -34,5 +34,7 @@ When we think about web news as a source of information it seems that there's no
 #### Check the video!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6k4z90f-vSc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST42-p">pictures &#128247;</a>
+
 
 </section>
