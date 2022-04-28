@@ -2,12 +2,12 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "",
-    "date": "",
-    "time": "",
+    "title": "Speck & Trek #0",
+    "date": "07/05/2022",
+    "time": "09:30",
 
     "location" : {
-        "name": "",
+        "name": "Cima Marzola",
         "url": ""
     },
 
@@ -23,5 +23,5 @@
         "url": ""
     },
 
-    "ticket-url": ""
+    "ticket-url": "//bit.ly/speckandtrek0"
 }
