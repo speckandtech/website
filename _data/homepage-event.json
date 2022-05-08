@@ -2,13 +2,13 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Speck & Trek #0",
-    "date": "28/05/2022",
-    "time": "09:30",
+    "title": "Res Publica",
+    "date": "23/05/2022",
+    "time": "20:45",
 
     "location" : {
-        "name": "Cima Marzola",
-        "url": "//bit.ly/speckandtrek0"
+        "name": "Impact Hub Trentino",
+        "url": "//g.page/impacthubtrentino"
     },
 
     "partner": {
@@ -23,5 +23,5 @@
         "url": ""
     },
 
-    "ticket-url": "//bit.ly/speckandtrek0"
+    "ticket-url": "//bit.ly/ST_43"
 }
