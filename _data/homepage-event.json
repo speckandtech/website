@@ -2,13 +2,13 @@
     "type": "event",
 
     "pre-title": "",
-    "title": "Res Publica",
-    "date": "23/05/2022",
-    "time": "20:45",
+    "title": "",
+    "date": "",
+    "time": "",
 
     "location" : {
-        "name": "Impact Hub Trentino",
-        "url": "//g.page/impacthubtrentino"
+        "name": "",
+        "url": ""
     },
 
     "partner": {
@@ -23,5 +23,5 @@
         "url": ""
     },
 
-    "ticket-url": "//bit.ly/ST_43"
+    "ticket-url": ""
 }
