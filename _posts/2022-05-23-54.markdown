@@ -1,0 +1,37 @@
+---
+layout: event
+title: "#43 - Res Publica"
+date:   2022-05-23T20:45:00+02:00
+categories: event
+slug: "res-publica"
+---
+
+## Can we vote online yet?
+
+### Michele Pittoni - Site Reliability Engineer at [SpazioDati](//spaziodati.eu){:target="_blank"}
+
+It's 2022, we can do almost everything online with a computer that lives in our pocket, the metaverse is behind the corner… are we ready to safely put the most important democratic processes online too? Before we answer, we need to learn more about elections and all the many ways they can go wrong.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/feIKbS8b2opxa8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+## Dall'impresa alle istituzioni, cronache di attività digitale
+
+### [Stefano Quintarelli](//quintarelli.it){:target="_blank"} - Informatico, imprenditore seriale e Deputato nella XVII legislatura
+
+Nei miei 8 anni a servizio della cosa pubblica sono state molte le iniziative e le "battaglie" che ho portato avanti, ma quella che reputo più importante è stata sicuramente SPID, il "Sistema Pubblico di identità Digitale", di cui sono stato ideatore. In questo percorso ho appreso molte cose, e in questa chiacchierata parleremo un po' delle scelte fatte, dei limiti tecnici, della burocrazia e della politica italiana, e di come queste abbiano influito sullo sviluppo tecnologico. Analizzeremo quindi lo stato delle cose e le sfide principali che ci aspettano sulla strada della digitalizzazione del Paese.
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6F7E1vElbFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST43p">pictures &#128247;</a>
+
+
+</section>
