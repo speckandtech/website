@@ -12,7 +12,7 @@ slug: 'merry-uxmas'
 Being able to design and develop products and keeping them consistent along the process it's tough! There are hundreds of thousands of decisions that your team needs to take every single day and without a clear design framework to rely on you'll probably have an inconsistent and hard-to-use outcome 🤖 In the same way, your product will be hard to develop, maintain and it'll cost you a lot of $$$ 💰<br/>
 During the talk, there will be an overview on how to create a design system and how this will help your whole team in developing new products. Moreover, we will discover what developers can teach to designers about product design and vice-versa
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/sprZkp2uRO8krh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sprZkp2uRO8krh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Be a `*******` Designer 😜
 ### Francesco Casale – UX/UI Manager at Accenture Interactive
@@ -20,7 +20,7 @@ During the talk, there will be an overview on how to create a design system and 
 Do you want to be a `*******` Designer? Do you want to push a Design Culture inside your team or your company? 🤓<br/>
 Have a kickstart, understand the context that surrounds you, your stakeholders, yourself and your company.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/vSUR5GkGOZEOdB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vSUR5GkGOZEOdB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night

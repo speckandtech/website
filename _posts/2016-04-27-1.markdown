@@ -31,7 +31,7 @@ What happens when you need to build a desktop app that needs to communicate with
 
 During the talk we shared our experience with this technology that can blend React.js for the UI and C for hardware communication in the same environment. An interesting cocktail!
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/rRZORkgrfxMYag" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rRZORkgrfxMYag" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
   <strong>

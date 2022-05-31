@@ -11,14 +11,14 @@ slug: 'open-security'
 
 If you develop or distribute software of any kind, you are vulnerable to whole categories of attacks upon yourself or your loved ones. This includes blackmail, extortion or "just" simple malware injection… 👾 By targeting software developers such as yourself, malicious actors, including nefarious governments, can infect and attack thousands — if not millions — of end users. How can we avert this? The idea behind "reproducible" builds is to allow verification that no flaws have been introduced during build processes; this prevents against the installation of backdoor- introducing malware on developers' machines, ensuring attempts at extortion and other forms of subterfuge are quickly uncovered and thus ultimately futile 🙏 Through a story of three different developers, this talk will engage you on this growing threat to you and how it affects everyone involved in the production lifecycle of software development, as well as how reproducible builds can help prevent against it.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/tCT8IkD96aGWPm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tCT8IkD96aGWPm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Say No to the Dependency Hell 😈
 ### Ivan Pashchenko -- PhD Candidate in Software Security @ [UniTn](https://disi.unitn.it)
 
 Modern software projects cannot exist without open source software (OSS). It allows software projects to have rapid growth, credibility, and trust of their users. However, the wide adoption of OSS also brings huge security risks ⚠️ Improper maintenance of OSS components may result in serious and costly security breaches, like the Equifax case, when the company lost 100K credit card profiles. In this talk, we will have an overview of the current problems regarding the management of third-party components of software projects, the ways how to address them, and I will also present you our methodology for identification of possible security issues coming from OSS dependencies 👨‍💻 The methodology demonstrated its sustainability being used by SAP, a large international software development company.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/qooLQDLLw5UEL0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qooLQDLLw5UEL0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night

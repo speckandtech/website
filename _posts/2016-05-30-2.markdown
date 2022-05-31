@@ -10,7 +10,7 @@ categories: event
 
 Everybody talks about 5G, very few really understand what it is. So let’s first clear the stage by looking at the differences in the series of Gs and then let’s consider how 5G is going to be diverse. Then we can move into considering the path to 5G, already underway and still so far away, and the players. And here is where we will meet some surprises.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/5Hw8HeuiOF9KmH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5Hw8HeuiOF9KmH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>
@@ -23,7 +23,7 @@ Everybody talks about 5G, very few really understand what it is. So let’s firs
 
 Have you ever thought about a world where everything goes fast and real-time? Then come to meet websockets and socket.io. We will see it in action and quickly take a look at the API it offers.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/GED8oSDzTJM2ED" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GED8oSDzTJM2ED" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>

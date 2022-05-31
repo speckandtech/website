@@ -13,7 +13,7 @@ Generating useful and meaningful knowledge out of personal bigdata is a difficul
 This talk presents an interdisciplinary approach for solving this problem, based on the idea that the user and the world surrounding him can be modelled, defining most of the elements of her context as entities (locations, people, objects) in addition with their attributes and the relations among them 🤝 This allows to create a structure out of the unstructured, noisy and highly variable sensor data that can then be used by the machine to provide personalized, context-aware services to the final user with the final goal of improving her quality of life.
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ipaRuOt9MSZ9G7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ipaRuOt9MSZ9G7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Learning from Biometric Fingerprints to prevent Cyber Security threats 🕵️‍
 ### Valerio Maggio – Data Scientist @ FBK

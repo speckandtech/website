@@ -19,22 +19,22 @@ Feel like taking a look at all the details? [Check the mini-site of the event](h
 ## The slides of the event
 
 ### "The history of Speck&Tech” - Francesco Bonadiman
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/5Da2gI8aMld3qW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5Da2gI8aMld3qW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### "What I've learnt as a Software Engineer in the past year at Bending Spoons” - Simon Vocella & Davide Pedranz
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/FxZHGocHBQJTIr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FxZHGocHBQJTIr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### “A platform for the generation of instructional interactive videos from virtual reality” - Paolo Busetta
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/sJUFhOSh8GMzo7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sJUFhOSh8GMzo7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### "SpazioDati at the Speck&Tech Retreat” - Francesco Bonadiman
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/xnHgH156QMiQxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xnHgH156QMiQxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### “Sinapsi - Online Machine Learning applied to Hotel Revenue Management” - Filippo Battiti
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/8E8cDBclrUmlKF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8E8cDBclrUmlKF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### “Introduction to Hyperledger Fabric (or how to pay that fine once and for all with Distributed Ledger Technology)” - Luca Guadagnini
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/cPiE8lg24Afn6N" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cPiE8lg24Afn6N" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 
 ## Weren't you there?

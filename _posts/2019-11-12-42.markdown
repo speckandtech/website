@@ -12,7 +12,7 @@ slug: "web-programming"
 
 Luca will talk about his first experience with web components and the Polymer library. From his first attempts to more complex components, he will share his journey and what he has learned from it. Think about this: should we use more web standards in real projects?
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/374moZJLvqQNXb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/374moZJLvqQNXb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Introduction to GraphQL
 
@@ -20,7 +20,7 @@ Luca will talk about his first experience with web components and the Polymer li
 
 Developing and maintaining APIs could be a mess if you choose the wrong technology. In this talk, we will evaluate the limits of REST and compare it to GraphQL, the alternative you should use in medium-big projects. Starting from zero, we will create a GraphQL server, understand how it works and clarify why the simplicity of GraphQL is only related to the data structure, and it does not contain any security logic.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/dJKXvbNPG1ffaG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dJKXvbNPG1ffaG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 

@@ -10,7 +10,7 @@ categories: event
 
 Creating a product involves many different aspects, from user analysis to engineering, to funding and finally to market launch. This talk will cover some pieces of the history of Horus and the lessons we learned.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/FX9FuVzTvPGipM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FX9FuVzTvPGipM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>
@@ -23,7 +23,7 @@ Creating a product involves many different aspects, from user analysis to engine
 
 Virtual Reality and Augmented Reality are two of the most chatted technologies currently, but also for programmers these are fields still unexplored. VR and AR carry uncommon issues indeed, especially when the involvement of the user, and his immersion in the new environment, must be considered as one of the main goals the application has to achieve. After a brief analysis of these problems, and how to solve them in theoretical ways, focus will be moved on a practical case, discussing about how a VR experience can be built up using a modern game engine and the solutions it provides to solve the computational and cyber sickness issues.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/zb5P7HyOEucBJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zb5P7HyOEucBJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>

@@ -11,7 +11,7 @@ categories: event
 Drones are going into business. Having already made the leap from military to consumer use, they are now headed for industries from construction to inspection to surveillance. Nevertheless, there is the common thread of them increasing efficiency, increasing safety and doing so at lower costs.
 In this talk, he will present an outlook of the drone market followed by an introduction to Skysense's services. Skysense’s mission is to enable fully autonomous, unattended and persistent drone missions for enterprises at the forefront of the inspection and security markets. He will conclude with a brief history of Skysense, few anecdotes, and key learnings 🙂
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/YxbTKOIBPveBf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/YxbTKOIBPveBf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>
@@ -25,7 +25,7 @@ In this talk, he will present an outlook of the drone market followed by an intr
 One of the most common reasons great teams who build great products fail is their inability to drive market adoption and revenue.
 Most startups identify a problem and come up with a solution that they believe can change the world 🌍 They picture themselves building this world class solution and the world beating down their door to buy it. The problem is that they underestimate how hard it is to get people's attention - even when they have created the coolest thing in the world. Lowell has lived in the trenches and built 3 B2B companies through effective use of the right strategy and sales & marketing to drive revenue growth that ensures the survival of the company as a minimum and a large outcome for investors on the high side. He will share his experience in scaling companies and share advice and lessons learned for other entrepreneurs to learn from 😏
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/BZW3CWBX50Uqaj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BZW3CWBX50Uqaj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>
@@ -38,7 +38,7 @@ Most startups identify a problem and come up with a solution that they believe c
 
 Our partner and sponsor for this event was EIT Digital, a leading European digital innovation and entrepreneurial education organisation driving Europe's digital transformation.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/mN0XHeJcvSIrTk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/mN0XHeJcvSIrTk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>

@@ -12,7 +12,7 @@ slug: "data-journalism"
 
 La pandemia ci ha ricordato quanto sia importante il giornalismo fatto con i dati, che non vuol dire articoli pieni di dati: ricerca, raccolta, analisi, aggregazione, visualizzazione e spiegazione dei dati sono tutti passaggi essenziali di un lavoro spesso sottovalutato all'interno delle redazioni.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/tc5vZPspsAvZae" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tc5vZPspsAvZae" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Designing digital commons
 
@@ -20,7 +20,7 @@ La pandemia ci ha ricordato quanto sia importante il giornalismo fatto con i dat
 
 Open data has great potential, but it risks becoming a lost opportunity if the insiders' knowledge and tools to process it remain their prerogative. By analysing two case studies, the talk unveils the design approach of Sheldon.studio to turn open data into a digital commons, supporting a better-informed debate, a more vital civic consciousness, and fostering stronger participation in the democratic processes.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/vmYO7Jd1OTYzzc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vmYO7Jd1OTYzzc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 

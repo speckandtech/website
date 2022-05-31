@@ -11,14 +11,14 @@ slug: 'cyber-intelligence'
 
 The majority of experts agree that 2016 US elections were targeted by IRA (Internet Research Agency), a Russian pro-government company that used the social networks to interfere with the elections 🇺🇸 Twitter, Facebook, and Youtube have become useful tools for Russian propaganda to sway the voters. In October 2018, Twitter released a big dataset containing all the tweets - over 9 million - shared by the Russian trolls 🤡 The analysed data show how Internet Research Agency has carefully developed its propaganda. This talk wants to illustrate how Russian propaganda on Twitter has worked.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6LBAi3LArZkAh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6LBAi3LArZkAh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Exploring Hardware Security
 ### Federico Scrinzi - Site Reliability Engineer at Google
 
 Studying and breaking secure hardware is not something that only state-sponsored attackers or highly-funded research groups can perform. Tools are becoming more accessible and you can start learning hardware security at home 🏠 Hardware hacking is perceived as black magic or something not important: let's change this misconception, learn about new classes of attacks and how to design secure hardware.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/tUdsZrj6hEbZo5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tUdsZrj6hEbZo5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night

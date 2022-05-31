@@ -19,7 +19,7 @@ This talk will briefly explain how THRON uses Amazon AWS and will provide a few 
 
 SpazioDati collects public information about all Italian companies from many different sources, the most challenging being the World Wide Web. Our Internet Data Gathering project crawls and processes data from the entire Italian web, using distributed frameworks such as Hadoop, Nutch, Elasticsearch and Spark. This talk will give an overview of the extraction pipeline and present some of the issues we tackled during and after development.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/vLVWWRtL0caIwD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vLVWWRtL0caIwD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 <strong> <a href="//www.slideshare.net/speckandtech/crawling-and-processing-the-italian-corporate-web" title="Crawling and Processing the Italian Corporate Web" target="_blank">Crawling and Processing the Italian Corporate Web</a> </strong> from <strong><a href="https://www.linkedin.com/in/alessio-guerrieri/" target="_blank">Alessio Guerrieri</a></strong>
 
 ## Weren't you there?

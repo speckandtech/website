@@ -11,14 +11,14 @@ slug: 'mn-ia'
 
 Come viene utilizzata quotidianamente l'intelligenza artificiale nel mondo del customer care e dell'automazione orientata alla creazione di nuovi servizi nel mondo della messaggistica e dei social media 👥
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/GZisONfdOEMLQt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GZisONfdOEMLQt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Chi Controllerà l’Intelligenza Artificiale?
 ### Paolo Traverso -- Director @ [FBK](//www.fbk.eu)
 
 L’intelligenza Artificiale (AI) può diventare… incontrollabile? O si tratta della solita rivoluzione industriale come ce ne sono state tante? 🏭 O ha (e può fare) qualcosa di speciale - nel bene e nel male? E che cosa possiamo fare per far sì che sia una “buona AI”? Tante domande, alcune risposte.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/Mj6oLkpRLvOcGa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Mj6oLkpRLvOcGa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Te lo sei perso?
 ### o forse vuoi soltanto rivivere questa fantastica serata

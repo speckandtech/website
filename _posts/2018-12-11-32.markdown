@@ -12,7 +12,7 @@ slug: 'let-iot-snow'
 
 Indoor location information will soon be a commodity, available everywhere/anywhere. Similarly to how GPS changed our way of experiencing the outdoor, indoor localisation will have an impact on how we will shop, visit a hospital or run a manufacturing plant 🛒 Location intelligence is about connecting the dots on the map to provide value-added services for end users. In this talk we will have a short journey on how location intelligence will affect our way of experiencing physical spaces, and on the enabling technologies 👩‍💻
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/CdpU48C7S7oIZ8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CdpU48C7S7oIZ8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Arduino: Hardware, Software, IoT and Community
 ### Luca Cipriani -- CIO @ [Arduino](https://www.arduino.cc/)

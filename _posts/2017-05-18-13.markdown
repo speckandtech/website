@@ -31,7 +31,7 @@ I’m going to talk about:
 ### Tiziano Pojer - ActivePager, Founder
 
 Being alone, this is how I went from one idea to a functional product: challenges and ways to handle the work.
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2xCkUZ4zXFW7Hn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2xCkUZ4zXFW7Hn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 <strong> <a href="//www.slideshare.net/speckandtech/active-pager-one-man-band-business-from-nothing" title="Active Pager - One man band business from nothing" target="_blank">Active Pager - One man band business from nothing</a> </strong> from <strong><a target="_blank" href="//www.linkedin.com/in/tiziano-pojer-83313869/">Tiziano Pojer</a></strong>
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
