@@ -14,7 +14,7 @@
   }
 
   iframe {
-    border: 1px solid #CCC;
+    border: 1px solid #ccc;
     margin-bottom: 5px;
     width: 100%;
   }
@@ -26,17 +26,17 @@
   }
 
   .meta {
-    font-size: .8em;
+    font-size: 0.8em;
     margin: 0;
   }
 
   .post {
-    h2, h4 {
+    h2,
+    h4 {
       display: inline-block;
     }
 
     h2 {
-
       font-size: 35px;
       line-height: 35px;
       margin-top: 50px;
@@ -47,8 +47,8 @@
     }
   }
 
-  h4{
-    margin: .5vh 0;
+  h4 {
+    margin: 0.5vh 0;
     margin-bottom: 0;
   }
 
@@ -80,16 +80,16 @@
     margin: 1vh 0;
     display: flex;
     flex-direction: column;
-    p{
+    p {
       margin: 8px 0 8px 0;
     }
   }
 
   #fb_photo_album {
-    margin: 0 .2vw;
+    margin: 0 0.2vw;
   }
 
-  .center{
+  .center {
     text-align: center;
   }
 

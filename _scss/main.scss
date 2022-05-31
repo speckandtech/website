@@ -1,50 +1,71 @@
-@import "reset";
-@import "syntax";
 @import "vars";
-@import "footer";
-@import "homepage";
-@import "archive";
-@import "event";
-@import "retreat";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+
+// Variable overrides first
+$primary: $red;
+$enable-shadows: true;
+$prefix: "mo-";
+$font-family-sans-serif: "Neo Sans", sans-serif;
+$enable-cssgrid: true;
+$display-font-weight: 500;
+
+@import "./bootstrap/bootstrap";
 @import "font";
-@import "navbar";
+@import "homepage-animations";
 
-body {
-  background: white;
-  font-size: 16px;
-  font-family: 'Neo Sans', sans-serif;
+.bg-ligth-blue {
+  background-color: $ligth-blue;
 }
 
-p {
-  line-height: 1.4em;
-}
-
-a {
-  color: $red;
-
-  &:visited {
-    color: darken($red,20%);
-  }
-
+.hover:text-primary {
   &:hover {
-    color: darken($red, 20%);
-  }
-  &.noline {
-    text-decoration: none;
+    color: $red;
   }
 }
 
-.underline {
-  text-decoration: underline;
+#intro {
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 900px;
-  position: relative;
+#post {
+  margin-bottom: 24px;
+
+  iframe {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    border: 8px solid $red;
+    border-radius: 8px;
+  }
+
+  h2 {
+    margin-top: 24px;
+    font-size: 32px;
+  }
+  h3 {
+    font-size: 24px;
+    color: $gray-600;
+    margin-bottom: 16px;
+  }
+
+  h4 {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  p {
+    font-size: 20px;
+  }
 }
 
-hr {
-  border: 2px solid #E5E5E5;
-  margin-bottom: 2em;
+.unstyled-list {
+  list-style: none;
+  padding-left: 0;
 }

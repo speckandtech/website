@@ -1,70 +1,50 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width">
-    
-
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="keywords" content="tech events Trento" />
     <!--generic-->
     <title>{{ page.title }}</title>
-    <meta name="description" content="{{ page.description }}">
-
+    <meta name="description" content="{{ page.description }}" />
     <!--fb-->
-    <meta content="{{ site.title }}" property="og:site_name">
-
+    <meta content="{{ site.title }}" property="og:site_name" />
     {% if page.title %}
-      <meta content="{{ page.title }}" property="og:title">
+      <meta content="{{ page.title }}" property="og:title" />
     {% else %}
-      <meta content="{{ site.title }}" property="og:title">
+      <meta content="{{ site.title }}" property="og:title" />
     {% endif %}
-
     {% if page.layout == "event" %}
-      <meta content="event" property="og:type">
-      <!--
-      <meta content="Impact Hub Trentino" property="og:fn">
-      <meta content="Via Roberto da Sanseverino, 95" property="og:street_address">
-      <meta content="Trento" property="og:locality">
-      <meta content="Trentino-Alto Adige" property="og:region">
-      <meta content="38122" property="og:postal_code">
-      <meta content="Italy" property="og:country_name">
-    -->
-      <meta content="{{ page.date | date_to_xmlschema }}" property="og:start_time">
+      <meta content="event" property="og:type" />
+      <meta content="Impact Hub Trentino" property="og:fn" />
+      <meta content="Via Roberto da Sanseverino, 95" property="og:street_address" />
+      <meta content="Trento" property="og:locality" />
+      <meta content="Trentino-Alto Adige" property="og:region" />
+      <meta content="38122" property="og:postal_code" />
+      <meta content="Italy" property="og:country_name" />
+      <meta content="{{ page.date | date_to_xmlschema }} "
+            property="og:start_time"/>
     {% else %}
-      <meta content="website" property="og:type">
+      <meta content="website" property="og:type" />
     {% endif %}
-
-    {% if page.url %}
-      <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {% endif %}
-
+    {% if page.url %}<meta content="{{ site.url }}{{ page.url }}" property="og:url">{% endif %}
     {% if page.image %}
-      <meta content="{{ site.url }}/img/{{ page.image }}" property="og:image">
+      <meta content="{{ site.url }}/img/{{ page.image }}" property="og:image"/>
     {% else %}
-      <meta content="{{ site.url }}/img/og_image.jpg" property="og:image">
+      <meta content="{{ site.url }}/img/og_image.jpg" property="og:image"/>
     {% endif %}
     <meta property="og:description" content="{{ page.description }}" />
-
-    <style>
-      body {
-        font-size: 16px;
-      }
-    </style>
-
     <link rel="stylesheet" type="text/css" href="/css/main.css"/>
-    <link type="application/rss+xml" rel="alternate" title="Speck&amp;Tech Podcast" href="https://anchor.fm/s/45cb19bc/podcast/rss"/>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script src="https://kit.fontawesome.com/b82006b5ed.js" crossorigin="anonymous"></script>
-</head>
-
-
-<body>
+    <link type="application/rss+xml"
+          rel="alternate"
+          title="Speck&amp;Tech Podcast"
+          href="https://anchor.fm/s/45cb19bc/podcast/rss"/>
+  </head>
+  <body>
+    {% include navbar.html %}
     {{ content }}
-
-    <div class="footer">
-      {% include footer.html %}
-    </div>
-
+    <div class="footer">{% include footer.html %}</div>
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -75,6 +55,7 @@
         ga('send', 'pageview');
     </script>
     <script src="/js/all.js"></script>
-
-</body>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
 </html>

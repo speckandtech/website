@@ -1,78 +1,72 @@
 {% assign data = site.data.homepage-event %}
-
 {% if data.type == "event" %}
-<div>
+  <div class="">
     <span class="next-meetup">NEXT MEETUP</span>
     <div class="event-container">
-        <div>
-            <h4>
-                {% if data.pre-title != '' %}
-                <span>{{ data.pre-title }}</span><br>
-                {% endif %}
-                <b>{{ data.title }}</b>
-            </h4>
-            <!--
-            <h4>
-                {% if data.date != '' %}
-                {{ data.date }} - {{data.time}}
-                {% endif %}
-            </h4>
+      <div>
+        <h4>
+          {% if data.pre-title != '' %}
+            <span>{{ data.pre-title }}</span>
+            <br />
+          {% endif %}
+          <b>{{ data.title }}</b>
+        </h4>
+        <!--
+            <h4>{% if data.date != '' %}                {{ data.date }} - {{data.time}}{% endif %}</h4>
             -->
-            <h4>
-                {% if data.date != '' %}
-                {{ data.date }} - {{data.time}} @ <a target="_blank"
-                    href="{{data.location.url}}">{{data.location.name}}</a>
-                {% endif %}
-            </h4>
-            
-            {% if data.sponsor.name != '' %}
-            <div class="homepage-sponsor-container">
-                <span>sponsored by</span>
-                <a target="_blank" href="{{data.sponsor.url}}">
-                    <img src="{{ data.sponsor.logo }}" alt="{{data.sponsor.description}}">
-                </a>
-            </div>
-            {% endif %}
-            {% if data.partner.name != '' %}
-            <div class="homepage-partner-container">
-                <span>in partnership with</span>
-                <a target="_blank" href="{{data.partner.url}}">
-                    <img src="{{data.partner.logo}}" alt="{{data.partner.description}}">
-                </a>
-            </div>
-            {% endif %}
-
-            {% if data.ticket-url != "" %}
-            <a class="btn" target="_blank" href="{{data.ticket-url}}">Get your ticket!</a>
-
-            {% else %}
-            <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
-            {% endif %}
-
-        </div>
-    </div>
-</div>
-{% else if data.type == "podcast" %}
-<div class="event-container">
-    <div>
         <h4>
-            <b>Ascolta il nostro podcast!</b>
+          {% if data.date != '' %}
+            {{ data.date }} - {{ data.time }} @ <a target="_blank" href="{{ data.location.url }}">{{ data.location.name }}</a>
+          {% endif %}
         </h4>
-        <br>
-
-        <iframe class="podcast-iframe" src="https://anchor.fm/speckandtech/embed" frameborder="0" scrolling="no"></iframe>
-        <!--<link type="application/rss+xml" rel="alternate" title="Speck&amp;Tech Podcast" href="https://anchor.fm/s/45cb19bc/podcast/rss"/>-->
+        {% if data.sponsor.name != '' %}
+          <div class="homepage-sponsor-container">
+            <span>sponsored by</span>
+            <a target="_blank" href="{{ data.sponsor.url }}">
+              <img src="{{ data.sponsor.logo }}" alt="{{ data.sponsor.description }}">
+            </a>
+          </div>
+        {% endif %}
+        {% if data.partner.name != '' %}
+          <div class="homepage-partner-container">
+            <span>in partnership with</span>
+            <a target="_blank" href="{{ data.partner.url }}">
+              <img src="{{ data.partner.logo }}" alt="{{ data.partner.description }}">
+            </a>
+          </div>
+        {% endif %}
+        {% if data.ticket-url != "" %}
+          <a class="btn btn-primary text-white btn-lg"
+             target="_blank"
+             href="{{ data.ticket-url }}">Get your ticket!</a>
+        {% else %}
+          <a class="btn btn-primary text-white btn-lg mt-3"
+             target="_blank"
+             href="//t.me/speckandtech">Stay tuned!</a>
+        {% endif %}
+      </div>
     </div>
-</div>
+  </div>
+  {% comment %} {% else if data.type == "podcast" %}
+  <div class="event-container">
+    <div>
+      <h4>
+        <b>Ascolta il nostro podcast!</b>
+      </h4>
+      <br>
+      <iframe class="podcast-iframe" src="https://anchor.fm/speckandtech/embed" frameborder="0" scrolling="no"></iframe>
+      <!--<link type="application/rss+xml" rel="alternate" title="Speck&amp;Tech Podcast" href="https://anchor.fm/s/45cb19bc/podcast/rss"/>-->
+    </div>
+  </div> {% endcomment %}
 {% else %}
-<div class="event-container">
+  <div class="event-container">
     <div>
-
-        <h4>
-            <b>Next event coming soon!</b>
-        </h4>
-        <a class="btn" target="_blank" href="//t.me/speckandtech">Stay tuned!</a>
+      <h4>
+        <b>Next event coming soon!</b>
+      </h4>
+      <a class="btn btn-primary text-white btn-lg mt-3"
+         target="_blank"
+         href="https://t.me/speckandtech">Stay tuned!</a>
     </div>
-</div>
-
+  </div>
 {% endif %}

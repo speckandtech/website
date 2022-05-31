@@ -1,13 +1,21 @@
 ---
 layout: site_base
 ---
-
-<div class="site event">
-    <a href="/">S&amp;T</a> / <h1>{{ page.title }}</h1>
-
-    <p class="meta">{{ page.date | date_to_string }}</p>
-
-    <div class="post">
-        {{ content }}
+<div class="mb-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 d-flex align-items-center my-4">
+        <a href="/">S&amp;T</a> <span class="mx-2 d-inline-block">/</span>
+        <h1>{{ page.title }}</h1>
+      </div>
     </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 offset-lg-2 col-lg-8">
+        <p class="meta">{{ page.date | date_to_string }}</p>
+        <div id="post">{{ content }}</div>
+      </div>
+    </div>
+  </div>
 </div>
