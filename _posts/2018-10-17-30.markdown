@@ -11,7 +11,7 @@ slug: 'open-source'
 
 Open source started as a marketing program for free software back in 1998. Starting as a controversial and disruptive idea, it has moved through the stages of acceptance to become the dominant idea in creating software systems. Why did it start and what was the timeline? Why did open source work so well? What's next?
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/h7AaxRSRz22RW9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/h7AaxRSRz22RW9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Software Heritage: Archiving the Free Software Commons for Fun & Profit
 ### [Stefano Zacchiroli](//en.wikipedia.org/wiki/Stefano_Zacchiroli) -- Associate Professor of Computer Science, CTO of [Software Heritage](//www.softwareheritage.org/), former Debian Project Leader, OSI Board Member
@@ -20,16 +20,16 @@ The ambition of the Software Heritage project is to collect, preserve, and share
 Initially focused on the collection and preservation goals - which were at the time urgent, due to the recurrent disappearances of development forges - Software Heritage has since rolled out several mechanisms to peruse its archive, making progress on the sharing goal.
 In this talk, we will review the status of the Software Heritage project, emphasizing how users and developers can, today, benefit from the availability of a great public library of source code.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3u5dC2Vuec39ur" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3u5dC2Vuec39ur" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ---
 
 ## Thanks to our wonderful Sponsors for the night!
 ## [MuSe - Museum of Science](//muse.it)
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3R482xkgJEmlHX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3R482xkgJEmlHX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## [IDM Südtirol Alto Adige](//www.idm-suedtirol.com)
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/w87wP1pKnASQo4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/w87wP1pKnASQo4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night

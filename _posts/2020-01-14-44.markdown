@@ -7,7 +7,7 @@ slug: "tech-for-good"
 ---
 
 ## Kindly sponsored by [iSolutions](//www.isolutions.it/)
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/xCrjyQSTnxVq9w" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xCrjyQSTnxVq9w" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## When Tech meets Culture: perspectives from Africa
 
@@ -15,7 +15,7 @@ slug: "tech-for-good"
 
 This talk introduces some of the problematics about International Development Aid going through the highlights of my work experience as ICT manager in an international development project in Sierra Leone. Moreover, it will give different perspectives about Africa compared to the one usually portrayed by media, highlighting some success stories of African innovations and discussing the role of technology in tackling some of the future African continent’s challenges.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/eYLq82LvsjciRx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/eYLq82LvsjciRx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Teaching (coding) for good
 
@@ -23,7 +23,7 @@ This talk introduces some of the problematics about International Development Ai
 
 In this talk, I will discuss about a subject that really matters to me: teaching and learning. While I do most of my teaching inside the formal context of the university, as a professor, I am more and more interested in promoting education outside the classroom, in informal contexts, by involving the most diverse people as tutors and mentors. I will focus on computer science, coding and computational thinking, because I strongly believe they provide students with a creative form of expression that can have a profound impact on the way they learn.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wdJuwunViFCVUT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wdJuwunViFCVUT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 

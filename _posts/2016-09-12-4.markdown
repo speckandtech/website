@@ -8,7 +8,7 @@ categories: event
 ## Smart Cities
 ### Derrick de Kerckhove - Director of the McLuhan Program in Culture & Technology at the University of Toronto
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/tPG87HfRXNUYQU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tPG87HfRXNUYQU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>
@@ -19,7 +19,7 @@ categories: event
 ## Smart Cities
 ### Roberto Minerva - Chairman of the IEEE IoT
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wOGtuzM53OJcyC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wOGtuzM53OJcyC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>

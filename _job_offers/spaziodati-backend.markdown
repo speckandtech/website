@@ -4,6 +4,7 @@ title:  "SpazioDati - backend developer"
 date:   2022-05-28T12:15:00+02:00
 categories: hiring
 slug: 'spaziodati-be'
+description: "SpazioDati works on applying Semantic Text Analysis and Machine Learning models on massive amounts of corporate data to provide services - both B2B and B2C - of Sales Intelligence, Lead Generation, Data Cleansing, and more."
 ---
 
 ## WHO WE ARE

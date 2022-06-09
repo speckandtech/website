@@ -12,7 +12,7 @@ slug: "vroom-vroom"
 
 In this talk, I will present my experience working with a Formula 1 team as a Software Development Engineer. I will introduce you to the kind of software used in Formula 1, focusing in particular on the aspects I worked on specifically, and how I approached them. The goal of this talk is to give you a glimpse of what it is like to build software for Formula 1 and stimulate your curiosity.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/kfnA05WYmogniD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kfnA05WYmogniD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 
 ## Formula SAE: Racing Cars Built by Students
@@ -21,7 +21,7 @@ In this talk, I will present my experience working with a Formula 1 team as a So
 
 Formula SAE is one of the most challenging, fun, and ambitious projects that a student can take part in. It’s a worldwide championship between college Universities where each team has the objective of designing, building, and racing a single-seat racing car. In this talk, we will present our team and we will dive deeper into the technologies that we use to develop every control unit in the vehicle.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/5mfYAlHsZxl1pA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5mfYAlHsZxl1pA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 

@@ -39,10 +39,7 @@ function browserSyncReload(done) {
 // * Concat the js files needed for production
 // */
 function concatJS() {
-  return gulp
-    .src(["js/typed.min.js", "js/site.js"])
-    .pipe(concat("all.js"))
-    .pipe(gulp.dest("js/"));
+  return gulp.src(["js/site.js"]).pipe(concat("all.js")).pipe(gulp.dest("js/"));
 }
 
 /**

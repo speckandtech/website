@@ -17,13 +17,13 @@ We gathered over 50 of our community members to spend some quality time together
 
 ## The slides of the event
 ### “The first 1000 days of Speck&Tech”
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/vocyQx1nvLBrPH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vocyQx1nvLBrPH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### "High performance teams" - Marco Cecconi
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/bmume54wGxzuVA" width="960" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bmume54wGxzuVA" width="960" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### "Nothing is ever what it seems” - Luca Bosotti
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/otUSi8NRrYFcLQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/otUSi8NRrYFcLQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ### "Monitoring for reliability" - Michele Pittoni
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHgfoYsXhhFC7Y8C-Hbw6NkCae0hDmVub8MrCqQROC0Z0jYWcxZ58CvtYk_i_mtUIvCNdFGLOlpNGh/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

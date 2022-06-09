@@ -3,173 +3,194 @@ layout: site_base
 title: Speck&Tech
 description: Speck&Tech is a community of entrepreneurs, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area
 ---
-
 <div class="homepage">
-  <nav>
-    <div class="logo">
-      <a href="/">
-        <img src="../img/small-logo.svg" alt="logo">
-      </a>
-    </div>
-    <ul>
-      <li>
-        <a target="_blank" href="//t.me/speckandtech"><i class="fab fa-telegram-plane"></i></a>
-      </li>
-      <li> |
-        <a target="_blank" href="//youtube.com/c/speckandtech"><i class="fab fa-youtube"></i></a>
-      </li>
-      <li> |
-        <a target="_blank" href="//fb.me/speckandtech/"><i class="fab fa-facebook-f"></i></a>
-      </li>
-      <li> |
-        <a target="_blank" href="//instagr.am/speckandtech"><i class="fab fa-instagram"></i></a>
-      </li>
-      <li> |
-        <a href="about">about</a>
-      </li>
-    </ul>
-  </nav>
-
-  <section id="intro">
-    <div>
+  <section id="intro"
+           style="background-image: url('/img/home-backgrounds/speck-trek.jpg');">
+    <div class="text-center">
       {% include animated_logo.html %}
-      <h1>SPECK<span>&amp;</span>TECH</h1>
-      <p class="claim">
-        <span id="claim-text"></span>
-      </p>
-
-      <div class="call-to-action">
-
-        <div class="action">
-          {% include homepage-main-cta.html %}
+      <h1 class="display-1 mt-3">
+        SPECK<span>&amp;</span>TECH
+      </h1>
+      <div class="call-to-action mt-5">
+        <div class="action">{% include homepage-main-cta.html %}</div>
+      </div>
+    </div>
+  </section>
+  <section id="about-homepage">
+    <div class="container">
+      <div class="row py-5">
+        <div class="col-12 offset-lg-2 col-lg-8">
+          <p class="fs-1">
+            A community of
+            <strong>entrepreneurs, developers, designers, professionals</strong> and... anyone who wants to build a network of
+            tech enthusiasts
+            within the <strong>Trento</strong> area, with the purpose of learning and sharing new ideas regarding development,
+            design, entrepreneurship,
+            startups and any related topic.
+          </p>
         </div>
       </div>
-
+    </div>
   </section>
-
-  <section id="about-homepage">
-    <p>
-      A community of
-      <strong>entrepreneurs, developers, designers, professionals</strong> and... anyone who wants to build a network of
-      tech enthusiasts
-      within the <strong>Trento</strong> area, with the purpose of learning and sharing new ideas regarding development,
-      design, entrepreneurship,
-      startups and any related topic.
-    </p>
-  </section>
-
   <section id="quote">
     <div class="container">
-      <div class="col-pic">
-        <img src="img/jgcumming-cto.jpg" alt="John Graham-Cumming, CTO of Cloudflare">
-      </div>
-      <div class="col-quote">
-        <blockquote>"It's a great event!"</blockquote>
-        <p><a href="https://twitter.com/jgrahamc">John Graham-Cumming</a> <i>CTO@Cloudflare</i></p>
+      <div class="row py-5">
+        <div class="col-12 offset-lg-2 col-lg-8">
+          <div class="row bg-primary">
+            <div class="col-lg-6">
+              <img class="img-fluid rounded p-3"
+                   src="/img/jgcumming-cto.jpg"
+                   alt="John Graham-Cumming, CTO of Cloudflare">
+            </div>
+            <div class="col-lg-6 d-flex align-items-center">
+              <figure class="p-3">
+                <blockquote class="blockquote text-white">
+                  <p>"It's a great event!"</p>
+                </blockquote>
+                <figcaption class="blockquote-footer text-white">
+                  <a class="text-white" href="https://twitter.com/jgrahamc">John Graham-Cumming</a> CTO @ Cloudflare
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
-
   <section id="podcast">
-    <h2>Podcast</h2>
     <div class="container">
-      <p>
-        In 2020 we started recording a <strong>podcast</strong>.<br>
-        The medium is different but it's still us, full of <strong>technology and speck</strong>. <br>
-        You can find it on any platform.
-      </p>
-
-      <a href="//anchor.fm/speckandtech/">Here you can listen to all the episodes 🔗</a>
-
-      <h3 class="iframe_title">The first episode ⬇️</h3>
-      
-      <!-- First podcast episode -->
-      <div class="iframe_container">
-        <iframe 
-          src="//anchor.fm/speckandtech/embed/episodes/001--Elezioni-online-e-fallimenti-spettacolari-eoadqj" 
-          height="160px" 
-          width="100%" 
-          frameborder="0" 
-          scrolling="no"></iframe>
+      <div class="row py-5">
+        <div class="col-12 offset-lg-2 col-lg-8">
+          <h2 class="display-4 text-center">Podcast</h2>
+          <div class="mt-3">
+            <p>
+              In 2020 we started recording a <strong>podcast</strong>.
+              <br>
+              The medium is different but it's still us, full of <strong>technology and speck</strong>.
+              <br>
+              You can find it on any platform.
+            </p>
+            <a href="//anchor.fm/speckandtech/">Here you can listen to all the episodes 🔗</a>
+            <p class="mt-3">The first episode ⬇️</p>
+            <!-- First podcast episode -->
+            <div class="iframe_container mt-4">
+              <iframe src="//anchor.fm/speckandtech/embed/episodes/001--Elezioni-online-e-fallimenti-spettacolari-eoadqj"
+                      height="160px"
+                      width="100%"
+                      frameborder="0"
+                      scrolling="no"></iframe>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
-
-  <div class="next-sponsor">
-    <h2>
-      Would you like to sponsor Speck&amp;Tech?
-    </h2>
-    <p>
-      <a href="mailto:speckandtech@gmail.com" class="btn">💌 Contact us! 💌</a>
-    </p>
-  </div>
-
-  <div class="next-speaker">
-    <h2>
-      Do you wanna be our next speaker?
-    </h2>
-    <p>
-      <a href="https://speckandtech.typeform.com/to/z6YEpK" class="btn" target="_blank">💌 Write us! 💌</a>
-    </p>
-  </div>
-
-  <section id="partners">
-    <h2>Powered by</h2>
+  <div class="next-speaker bg-primary mt-5">
     <div class="container">
-
-      <a target="_blank" href="//belka.us">
-        <img width="350px" src="img/logos/belka_logo.svg" alt="Supported by Belka">
-      </a>
-
-      <a target="_blank" href="//atoka.io">
-        <img width="350px" src="img/atoka.svg" alt="Supported by Atoka">
-      </a>
-     
+      <div class="row py-5 text-center">
+        <div class="col-12 offset-lg-2 col-lg-8">
+          <h2 class="display-6 text-center text-white">Do you wanna be our next speaker?</h2>
+          <p>
+            <a href="https://speckandtech.typeform.com/to/z6YEpK"
+               class="text-white fs-2"
+               target="_blank">💌 Write us! 💌</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section id="partners" class="mt-5">
+    <div class="container">
+      <div class="row py-5">
+        <div class="col-12 offset-lg-2 col-lg-8">
+          <h2 class="display-4 text-center">Powered by</h2>
+          <div class="d-flex align-items-center justify-content-center">
+            <div class="w-25 p-3">
+              <a target="_blank" href="https://www.belkadigital.com/">
+                <img class="img-fluid"
+                     src="img/logos/belka_logo.svg"
+                     alt="Supported by Belka">
+              </a>
+            </div>
+            <div class="w-25 p-3">
+              <a target="_blank" href="https://atoka.io/pages/en/">
+                <img class="img-fluid" src="img/atoka.svg" alt="Supported by Atoka">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
-
-  <section id="events">
-    <h2>Previous events</h2>
-    {% for post in site.posts limit:6 %}
-    {% if post.categories contains "event" %}
-    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-      <div class="article-head">
-        <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-        <h3 class="title">
-          <a href="{{ post.url | remove_first:'/'}}" class="js-pjax">{{ post.title }}</a>
-        </h3>
+  <div class="next-sponsor bg-primary py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 offset-lg-2 col-lg-8">
+          <h2 class="display-6 text-center text-white">Would you like to sponsor Speck&amp;Tech?</h2>
+          <p class="text-center mt-3">
+            <a href="mailto:speckandtech@gmail.com" class="text-white fs-2">💌 Contact us! 💌</a>
+          </p>
+        </div>
       </div>
-    </article>
-    <hr>
-    {% endif %}
-    {% endfor %}
-    <!-- link to older issues -->
-    <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-      <div class="article-head">
-        <p class="date">I'm looking for older events 🧐</p>
-        <h3 class="title">
-          <a href="archive" class="js-pjax noline"><span class="underline">Archive</span> 🦕</a>
-        </h3>
+    </div>
+  </div>
+  <section id="events" class="mt-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 offset-lg-2 col-lg-8">
+          <h2 class="display-4 text-center">Previous events</h2>
+          {% for post in site.posts limit:6 %}
+            {% if post.categories contains "event" %}
+              <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+                <div class="article-head">
+                  <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+                  <h3 class="title">
+                    <a href="{{ post.url | remove_first:'/' }}" class="js-pjax">{{ post.title }}</a>
+                  </h3>
+                </div>
+              </article>
+              <hr/>
+            {% endif %}
+          {% endfor %}
+          <!-- link to older issues -->
+          <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+            <div class="article-head">
+              <p class="date">I'm looking for older events 🧐</p>
+              <h3 class="title">
+                <a href="archive" class="js-pjax noline"><span class="underline">Archive</span> 🦕</a>
+              </h3>
+            </div>
+          </article>
+        </div>
       </div>
-    </article>
-    <hr>
+    </div>
     <!-- /link to older issues -->
   </section>
 </div>
-
 <section id="jobs">
-  <h2>Who's hiring?</h2>
-  <hr class="job-offers-separator">
-  {% assign reversedJobOffers = site.job_offers | reverse %}
-  {% for post in reversedJobOffers %}
-  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-    <div class="article-head">
-      <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-      <h3 class="title">
-        <a href="{{ post.url }}" class="js-pjax">{{ post.title }}</a>
-      </h3>
+  <div class="container">
+    <div class="row my-5">
+      <div class="col-12 offset-lg-2 col-lg-8">
+        <h2 class="display-4 text-center">Who's hiring?</h2>
+        <div class="grid mt-4">
+          {% assign reversedJobOffers = site.job_offers | reverse %}
+          {% for post in reversedJobOffers %}
+            <div class="g-col-12 g-col-sm-6 g-col-lg-4">
+              <div class="card border border-5 border-primary">
+                <div class="card-body">
+                  <a href="{{ post.url }}">
+                    <h5 class="card-title">{{ post.title }}</h5>
+                  </a>
+                  <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %d, %Y" }}</h6>
+                  <p class="card-text">{{ post.description }}</p>
+                  <a href="{{ post.url }}" class="card-link">Read more</a>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
     </div>
-  </article>
-  <hr>
-  {% endfor %}
+  </div>
 </section>
+</div>

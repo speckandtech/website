@@ -10,7 +10,7 @@ categories: event
 
 How can we create organizations and governments that are cooperative, productive, and creative? These questions are especially important right now, because of global competition, environmental challenges, and government failure. The engine that drives this possible revolution is big data: the newly ubiquitous digital data that is becoming available about all aspects of human life. By using these data to build a predictive, computational theory of human behavior we can hope to engineer better social systems. In this talk we will show how to improve companies, cities and societies through a deep understanding of human behaviors and targeted interventions that leverage human connections 👫
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/CiVKzflyWkpqKm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CiVKzflyWkpqKm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen>
 </iframe>
 <div style="margin-bottom:5px">
 <strong>

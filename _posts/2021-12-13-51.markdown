@@ -12,7 +12,7 @@ slug: "algorithm-night"
 
 Musixmatch is a crew of 100+ creative individuals who work together to impact the way millions of people consume and interact with music. We strive to create the most personal and compelling music experience through our products and our partners' ones, like Spotify and Instagram. In this talk, we’ll listen to a story about how Musixmatch has become the coolest music data company in the tech space and how it empowered music fans and creators to reach their ultimate goals: to share their passion and to be heard.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/DPCGj43W9n86qT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DPCGj43W9n86qT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 
 ## Livecoding: come ti codo un concerto!
@@ -21,7 +21,7 @@ Musixmatch is a crew of 100+ creative individuals who work together to impact th
 
 Livecoding: utilizziamo linguaggi di programmazione come una metodologia di improvvisazione e ricerca sia musicale che visiva. Una introduzione al mondo del livecoding seguita da una performance musicale con SuperCollider.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/bfznPzFVdWmr1K" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bfznPzFVdWmr1K" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 

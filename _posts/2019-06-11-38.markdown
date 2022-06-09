@@ -8,21 +8,21 @@ slug: 'scalability'
 
 ## Kindly sponsored by <br>[Bending Spoons](//bendingspoons.com)
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/pHjRJK2MeXCq3S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pHjRJK2MeXCq3S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Live Quiz : infrastructure and challenges
 ### Gabriele Platania -- Python Backend Developer @ [Bending Spoons](//bendingspoons.com)
 
 Live Quiz is the most popular Italian game show you can play on your smartphone: every day about 100k people play the quiz at the same time and try to win the daily prize 🏆 Despite the simple appearance, the game is much more complex than you might think. In this talk, we will explore the backstage of Live Quiz and see what guarantees a perfect game experience every day 🎰
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/JbYBhtZ5H9wM6i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JbYBhtZ5H9wM6i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Scaling an invoicing SaaS from zero to over 350k customers
 ### Daniele Ratti -- CEO @ [Fatture in Cloud.it](//www.fattureincloud.it)
 
 Fatture in Cloud was born in late 2013 on a single-server machine and scaled from zero to 35k customers at the end of 2018. Then, we faced the mandatory electronic invoicing which came into effect in Italy on 1st January 2019, and we experienced a huge growth to 350k customers in few months 💥 In these 5 years, I've learned a lot about cloud architecture, scalability, optimization, DevOps, and we eventually achieved a 99,99% uptime even in the huge growth period 📈
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/Er7oM7941FsZdz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Er7oM7941FsZdz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 ### or maybe you just want to relive this wonderful night
