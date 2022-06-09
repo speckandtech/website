@@ -36,8 +36,7 @@
             {% for post in site.posts limit:3 %}
               {% if post.categories contains "event" %}
                 <li class="nav-item mb-2">
-                  <a href="{{ post.url | remove_first:'/' }}"
-                     class="nav-link p-0 text-muted">{{ post.title }}</a>
+                  <a href="{{ post.url }}" class="nav-link p-0 text-muted">{{ post.title }}</a>
                 </li>
               {% endif %}
             {% endfor %}
