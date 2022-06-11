@@ -17,6 +17,13 @@ $display-font-weight: 500;
   background-color: $ligth-blue;
 }
 
+.bg-blue {
+  background-color: $blue;
+}
+.text-blue {
+  color: $blue;
+}
+
 .hover:text-primary {
   &:hover {
     color: $red;
