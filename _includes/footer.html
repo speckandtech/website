@@ -23,10 +23,10 @@
           <h5>Pages</h5>
           <ul class="nav flex-column">
             <li class="nav-item mb-2">
-              <a href="/about" class="nav-link p-0 text-muted">About</a>
+              <a href="/about" class="nav-link p-0">About</a>
             </li>
             <li class="nav-item mb-2">
-              <a href="/donations" class="nav-link p-0 text-muted">Donations</a>
+              <a href="/donations" class="nav-link p-0">Donations</a>
             </li>
           </ul>
         </div>
@@ -36,17 +36,20 @@
             {% for post in site.posts limit:3 %}
               {% if post.categories contains "event" %}
                 <li class="nav-item mb-2">
-                  <a href="{{ post.url }}" class="nav-link p-0 text-muted">{{ post.title }}</a>
+                  <a href="{{ post.url }}" class="nav-link p-0">{{ post.title }}</a>
                 </li>
               {% endif %}
             {% endfor %}
+            <li class="nav-item mb-2">
+              <a href="/archive" class="nav-link p-0">Archive</a>
+            </li>
           </ul>
         </div>
         <div class="col-6 col-md-2 mb-3">
           <h5>Info</h5>
           <ul class="nav flex-column">
             <li class="nav-item mb-2">
-              <a href="{{ site.url }}/code-of-conduct" class="nav-link p-0 text-muted">Code of conduct</a>
+              <a href="{{ site.url }}/code-of-conduct" class="nav-link p-0">Code of conduct</a>
             </li>
           </ul>
         </div>
@@ -54,27 +57,27 @@
       <div class="d-flex flex-column flex-sm-row justify-content-center py-4 my-4 border-top">
         <ul class="list-unstyled d-flex">
           <li class="ms-4">
-            <a class="link-dark" href="https://twitter.com/speckandtech">
+            <a href="https://twitter.com/speckandtech">
               <i class="bi bi-twitter fs-2"></i>
             </a>
           </li>
           <li class="ms-4">
-            <a class="link-dark" href="https://instagr.am/speckandtech">
+            <a href="https://instagr.am/speckandtech">
               <i class="bi bi-instagram fs-2"></i>
             </a>
           </li>
           <li class="ms-4">
-            <a class="link-dark" href="https://t.me/speckandtech">
+            <a href="https://t.me/speckandtech">
               <i class="bi bi-telegram fs-2"></i>
             </a>
           </li>
           <li class="ms-4">
-            <a class="link-dark" href="https://youtube.com/c/speckandtech">
+            <a href="https://youtube.com/c/speckandtech">
               <i class="bi bi-youtube fs-2"></i>
             </a>
           </li>
           <li class="ms-4">
-            <a class="link-dark" href="https://fb.me/speckandtech/">
+            <a href="https://fb.me/speckandtech/">
               <i class="bi bi-facebook fs-2"></i>
             </a>
           </li>
