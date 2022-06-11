@@ -3,23 +3,43 @@ layout: site_base
 title: Archive of past talks
 description: All the talks ever given at Speck&Tech
 ---
-
-<div class="site event">
-	<a href="/">S&amp;T</a> / <h1>{{ page.title }}</h1>
-	<section id="events" class="archive">
-		<p class="subtitle">
-			Here's the list of all the talks ever given at our events! You can find the abstracts, information about the speakers, slides (when available) and the links to photo albums and live-streaming. Enjoy 🤓
-		</p>
-		{% for post in site.posts %}
-			{% if post.categories contains "event" %}
-				<article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-					<div class="article-head">
-						<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-						<h3 class="title"><a href="{{ post.url | remove_first:'/archive'}}" class="js-pjax">{{ post.title }}</a></h3>
-					</div>
-				</article>
-				<hr>
-			{% endif %}
-		{% endfor %}
-	</section>
+<div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 d-flex align-items-center my-4">
+        <a href="/">S&amp;T</a> <span class="mx-2 d-inline-block">/</span>
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-7">
+        <p>
+          <strong>
+            Here's the list of all the talks ever given at our events!
+            <br/>
+            You can find the abstracts, information about the speakers, slides (when available) and the links to photo albums and live-streaming. Enjoy 🤓
+          </strong>
+        </p>
+      </div>
+    </div>
+    <div class="row mt-4 mb-5 pb-5">
+      <div class="col-12">
+        {% for post in site.posts %}
+          {% if post.categories contains "event" %}
+            <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+              <div class="article-head">
+                <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+                <h3 class="title">
+                  <a href="{{ post.url | remove_first:'/archive' }}" class="js-pjax">{{ post.title }}</a>
+                </h3>
+              </div>
+            </article>
+            {% if forloop.last == false %}<hr/>{% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>
