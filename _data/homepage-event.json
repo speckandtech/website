@@ -18,9 +18,9 @@
     },
 
     "sponsor" : {
-        "name" :  "",
-        "logo": "",
-        "url": ""
+        "name" :  "Waterjade",
+        "logo": "/img/logos/waterjade.png",
+        "url": "//www.waterjade.com"
     },
 
     "ticket-url": "//bit.ly/ST-44"

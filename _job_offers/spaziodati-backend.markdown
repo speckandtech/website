@@ -4,7 +4,7 @@ title:  "SpazioDati - backend developer"
 date:   2022-05-28T12:15:00+02:00
 categories: hiring
 slug: 'spaziodati-be'
-description: "SpazioDati works on applying Semantic Text Analysis and Machine Learning models on massive amounts of corporate data to provide services - both B2B and B2C - of Sales Intelligence, Lead Generation, Data Cleansing, and more."
+description: "We have 3 teams working on our main product, Atoka. We’re looking for help in all of them. Teams are self-organized based on common and continuously evolving agile practices. We work in TypeScript, Python and Go. We’re currently trying to simplify our codebase with a microservice approach based on gRPC, service mesh and Kubernetes."
 ---
 
 ## WHO WE ARE

@@ -4,7 +4,7 @@ title:  "SpazioDati - frontend developer"
 date:   2022-05-27T12:45:00+02:00
 categories: hiring
 slug: 'spaziodati-fe'
-description: "SpazioDati works on applying Semantic Text Analysis and Machine Learning models on massive amounts of corporate data to provide services - both B2B and B2C - of Sales Intelligence, Lead Generation, Data Cleansing, and more."
+description: "Our Frontend Team is responsible for creating products on the web which will deliver such large amounts of data to our customers in an accessible way, customise their experience and build ad-hoc solutions for their needs, including integrating our tools in their existing software."
 ---
 
 ## WHO WE ARE
