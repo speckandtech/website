@@ -9,6 +9,38 @@ $font-family-sans-serif: "Neo Sans", sans-serif;
 $enable-cssgrid: true;
 $display-font-weight: 500;
 
+$spacer: 1rem !default;
+$spacers: (
+  0: 0,
+  1: $spacer * 0.25,
+  2: $spacer * 0.5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 6,
+  7: $spacer * 12,
+  8: $spacer * 24,
+) !default;
+
+$utilities: (
+  "width": (
+    property: width,
+    class: w,
+    responsive: true,
+    values: (
+      0: 0,
+      10: 10%,
+      20: 20%,
+      30: 30%,
+      40: 40%,
+      50: 50%,
+      60: 60%,
+      90: 90%,
+      100: 100%,
+    ),
+  ),
+);
+
 @import "./bootstrap/bootstrap";
 @import "font";
 @import "homepage-animations";
@@ -19,6 +51,10 @@ $display-font-weight: 500;
 
 .bg-blue {
   background-color: $blue;
+}
+
+.text-red {
+  color: $red;
 }
 .text-blue {
   color: $blue;
@@ -31,13 +67,14 @@ $display-font-weight: 500;
 }
 
 #intro {
-  height: 80vh;
+  min-height: 80vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 4rem 0;
 }
 
 #post {
