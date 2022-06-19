@@ -4,7 +4,7 @@ title:  "Waterjade - Senior Data scientist"
 date:   2022-06-18T18:45:00+02:00
 categories: hiring
 slug: 'waterjade-ds'
-description: "Waterjade monitors water resources at basin scale and provides water inflow forecasts for industrial use."
+description: "Waterjade monitors water resources at basin scale and provides water inflow forecasts for industrial use. We are looking for a Data Scientist to complement our team and take our prediction chain, mainly based on physical models, to the next level."
 ---
 
 ## WHO WE ARE
