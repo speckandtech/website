@@ -2,13 +2,13 @@
   "type": "event",
 
   "pre-title": "",
-  "title": "Hydro Data",
-  "date": "30/06/2022",
-  "time": "20:45",
+  "title": "",
+  "date": "",
+  "time": "",
 
   "location": {
-    "name": "Impact Hub Trentino",
-    "url": "//g.page/impacthubtrentino"
+    "name": "",
+    "url": ""
   },
 
   "partner": {
@@ -18,11 +18,11 @@
   },
 
   "sponsor": {
-    "name": "Waterjade",
-    "logo": "/img/logos/waterjade.png",
-    "url": "//www.waterjade.com",
-    "description": "Waterjade"
+    "name": "",
+    "logo": "",
+    "url": "",
+    "description": ""
   },
 
-  "ticket-url": "//bit.ly/ST-44"
+  "ticket-url": ""
 }

@@ -1,0 +1,35 @@
+---
+layout: event
+title: "#44 - Hydro Data"
+date:   2022-06-30T20:45:00+02:00
+categories: event
+slug: "hydro-data"
+---
+
+## Climate change and water resources in the Alps. Which future is waiting for us?
+
+### Giacomo Bertoldi - Senior Researcher at [EURAC](//www.eurac.edu/en/institutes-centers/institute-for-alpine-environment){:target="_blank"}
+
+Current climate change is already affecting water resource availability in the Alps. In this talk, we will give an overview of the current and future impacts of climate change in our region on water and related sectors, and show how data and computational models could help quantify water resources and better plan adaptation strategies.
+
+
+## The new technological frontier in water resources management: the digital twin of the catchment area
+
+### Matteo Dall'Amico & Stefano Tasin - CEO & CTO of [MobyGIS](//www.waterjade.com/en/mobygis-en/){:target="_blank"}
+
+How much water is there and when will it become available? These are the questions most water managers, like hydropower operators or water utilities, are asking to comply with water supply. The water discharge in a river is the result of a complex hydrological balance that starts in the upper part of the catchment and continues downstream: precipitation, snow melting, evapotranspiration, infiltration, and runoff are all processes that contribute to water availability. With climate change, current prediction procedures, often based purely on historical data, are incapable of following the new climatic trend. A new approach based on satellite imageries, physical models and machine learning is getting the edge in the market, with higher accuracy and a global reach: the Digital Twin aims to digitize processes in order to be replicated in a virtual concept, to better monitor water availability and forecast its evolution.
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ImMhdk7nfC8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST44-p">pictures &#128247;</a>
+
+
+</section>
