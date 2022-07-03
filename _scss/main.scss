@@ -113,3 +113,12 @@ $utilities: (
   list-style: none;
   padding-left: 0;
 }
+
+.img-in-background {
+  width: 200px;
+  max-width: 200px;
+  height: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
