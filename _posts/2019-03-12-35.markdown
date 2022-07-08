@@ -29,6 +29,6 @@ Astrofisico e scrittore italiano è, per gli italiani, l’astronauta per eccell
 <section class="fb-links">
 
 #### Dai un'occhiata al video
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmusetrento%2Fvideos%2F249922825915401%2F&width=500&show_text=false&appId=577818005714647&height=281" width="500" height="281" style="border:none;overflow:hidden" class="video-embed" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIizjT_ETOg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext1p">foto &#128247;</a>
 </section>

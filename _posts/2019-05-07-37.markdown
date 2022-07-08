@@ -25,6 +25,6 @@ L’intelligenza Artificiale (AI) può diventare… incontrollabile? O si tratta
 <section class="fb-links">
 
 #### Dai un'occhiata al video
-<iframe class="video-embed" width="500" height="281" src="https://www.youtube.com/embed/5fQ3iL3E0r8?start=1276" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tYcnLjNjAGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### e non dimenticare le <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/musenext3p">foto &#128247;</a>
 </section>
