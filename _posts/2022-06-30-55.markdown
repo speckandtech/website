@@ -12,6 +12,7 @@ slug: "hydro-data"
 
 Current climate change is already affecting water resource availability in the Alps. In this talk, we will give an overview of the current and future impacts of climate change in our region on water and related sectors, and show how data and computational models could help quantify water resources and better plan adaptation strategies.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BOqhxGvbNR9OuZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## The new technological frontier in water resources management: the digital twin of the catchment area
 
