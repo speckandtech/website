@@ -20,8 +20,7 @@ In short: We’re a successful company with some excellent people, working on fu
 That’s where you come in.
 
 <img style="max-width: 100%" src="https://belkadigital.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6c57f2d9-eb06-4575-84b9-4a75be41f45a%2FUntitled.png?table=block&id=705138a7-701d-4fa8-9739-0a75c858e82a&spaceId=7768c21a-7e73-420b-83da-f03d3022f8d9&width=2000&userId=&cache=v2">
-
-We have the best people, seriously.
+(We have the best people, seriously.)
 
 ## Now, let’s talk about you
 
