@@ -13,7 +13,7 @@
         </h4>
         {% if data.date != '' %}
           <h4 class="mt-4">
-            📅 {{ data.date }} - {{ data.time }}
+            📅 {{ data.date | date:"%d/%m/%y - %H:%M" }}
             <br />
             <span class="mt-3 d-block">📍
               <a target="_blank" href="{{ data.location.url }}">{{ data.location.name }}</a>
