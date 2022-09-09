@@ -4,7 +4,7 @@ title:  "BELKA - UX/UI Design Intern (remote/onsite)"
 date:   2022-09-09T12:00:00+02:00
 categories: hiring
 slug: 'belka-design-intern'
-image: 'jobs/Belka-Intership-UX-UI-Instagram-Website.jpg'
+image: 'jobs/Belka-Intership-UX-UI-Instagram-Website.webp'
 description: "You’re passionate about designing impactful solutions to user problems. You're brave and open to challenges, enjoy working in teams, and always look to improve the way you work. You also have a fantastic portfolio? Apply and show it to us!"
 ---
 
@@ -20,7 +20,7 @@ In short: We’re a successful company with some excellent people, working on fu
 
 That’s where you come in.
 
-<img style="max-width: 100%" src="/img/jobs/Belka-Team-2022.jpeg">
+<img style="max-width: 100%" src="/img/jobs/Belka-Team-2022.webp">
 (We have the best people, seriously.)
 
 # 🤝 What Belka offers you

@@ -4,7 +4,7 @@ title:  "BELKA - Junior Engineer (Front-end/No-code)"
 date:   2022-08-10T12:00:00+02:00
 categories: hiring
 slug: 'belka-fe'
-image: 'jobs/Belka-Intership-UX-UI-Instagram-Website.jpg'
+image: 'jobs/Belka-Intership-UX-UI-Instagram-Website.webp'
 description: "We’re looking for a junior engineer to join our ambitious and cheerful team. You love building software but are not afraid of no-code. You think designers are ok. You like making things happen with the magic of pixels. Remote or onsite, it’s up to you."
 ---
 
@@ -20,7 +20,7 @@ In short: We’re a successful company with some excellent people, working on fu
 
 That’s where you come in.
 
-<img style="max-width: 100%" src="/img/jobs/Belka-Team-2022.jpeg">
+<img style="max-width: 100%" src="/img/jobs/Belka-Team-2022.webp">
 (We have the best people, seriously.)
 
 ## Now, let’s talk about you
