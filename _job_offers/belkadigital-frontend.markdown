@@ -4,6 +4,7 @@ title:  "BELKA - Junior Engineer (Front-end/No-code)"
 date:   2022-08-10T12:00:00+02:00
 categories: hiring
 slug: 'belka-fe'
+image: 'jobs/Belka-Intership-UX-UI-Instagram-Website.webp'
 description: "We’re looking for a junior engineer to join our ambitious and cheerful team. You love building software but are not afraid of no-code. You think designers are ok. You like making things happen with the magic of pixels. Remote or onsite, it’s up to you."
 ---
 
@@ -19,7 +20,7 @@ In short: We’re a successful company with some excellent people, working on fu
 
 That’s where you come in.
 
-<img style="max-width: 100%" src="https://belkadigital.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6c57f2d9-eb06-4575-84b9-4a75be41f45a%2FUntitled.png?table=block&id=705138a7-701d-4fa8-9739-0a75c858e82a&spaceId=7768c21a-7e73-420b-83da-f03d3022f8d9&width=2000&userId=&cache=v2">
+<img style="max-width: 100%" src="/img/jobs/Belka-Team-2022.webp">
 (We have the best people, seriously.)
 
 ## Now, let’s talk about you
@@ -56,6 +57,5 @@ That’s where you come in.
 - *Learning!*  Never stop growing. People here are motivated to improve their skills constantly. To support your thirst for knowledge you have a yearly budget of 1000€ you can spend on courses, conferences, books or whatever can help you learn something.
 - *Coaching!*  You will have a person guiding you through your growth journey in Belka. Moreover, we organize a monthly AMA with top engineers around the world. We like to share our new discoveries about the tech world with a quarterly internal conference called Devs Share Stuff.
 
-<br>
 
-👉 [Apply now!](https://airtable.com/shrvED9zS4Nv6enBo)
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="https://airtable.com/shrvED9zS4Nv6enBo">Apply now!</a>

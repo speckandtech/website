@@ -178,7 +178,7 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
             <div class="col-12 offset-lg-2 col-lg-8">
                 <h2 class="display-4 text-center">Who's hiring?</h2>
                 <div class="grid mt-4">
-                    {% assign JobOffers = site.job_offers | sort="date" | reverse %}
+                    {% assign JobOffers = site.job_offers | sort:"date" | reverse %}
                     {% for post
                         in JobOffers %}
                         <div class="g-col-12 g-col-sm-6 g-col-lg-4">
