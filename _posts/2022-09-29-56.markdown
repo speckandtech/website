@@ -1,0 +1,38 @@
+---
+layout: event
+title: "#45 - Signal Boost"
+date:   2022-09-29T20:45:00+02:00
+categories: event
+slug: "signal-boost"
+---
+
+## Building the Gigabit society
+
+### Matteo Piazza - Responsabile Area Progetti e Interventi Speciali @ Trentino Digitale
+
+L'Europa punta a diventare una "gigabit society" entro il 2030. Le infrastrutture digitali e in particolari le reti di telecomunicazione rappresentano un elemento strategico per la digitalizzazione e la ricerca, settori a cui il PNRR dedica il 33% dei fondi (63 miliardi di euro). Parleremo di come il territorio trentino abbia già da tempo abbracciato la sfida, e in particolare delle numerose reti di telecomunicazioni e tecnologie utilizzate nella realizzazioni di tali reti, dalla fibra alle reti radio, per dare connettività a tutto il territorio, dalle città di fondovalle fino ai remoti rifugi di alta quota.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1CUB7BGgDC35k7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Wi-Fi Sensing: Attack on Privacy & Countermeasures
+
+### Renato Lo Cigno - Professor of Communication Networks at the [University of Brescia](//www.unibs.it){:target="_blank"}
+
+Recent years have seen the discovery that by using advanced ML (Machine Learning) and AI (Artificial Intelligence) techniques it is possible to extract information on the environment from Wi-Fi signals, and specifically also information on people's location and activities, even if they do not carry any Wi-Fi device. This talk will explain why and how this "magic" is possible, and how we are studying countermeasures to protect people's privacy without destroying Wi-Fi communications.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fzenKwy1OzPrz9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6BQGClCMlcc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-45p">pictures &#128247;</a>
+
+
+</section>
