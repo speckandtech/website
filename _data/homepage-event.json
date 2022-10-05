@@ -2,13 +2,13 @@
   "type": "event",
 
   "pre-title": "",
-  "title": "Speck&Trek #3",
-  "date": "2022-10-08T08:45:00+02:00",
-  "time": "08:45",
+  "title": "Tech without borders",
+  "date": "2022-10-13T20:45:00+02:00",
+  "time": "20:45",
 
   "location": {
-    "name": "Forte Vezzena",
-    "url": "//bit.ly/speckandtrek3"
+    "name": "Impact Hub Trentino",
+    "url": "//g.page/impacthubtrentino"
   },
 
   "partner": {
@@ -24,5 +24,5 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speckandtrek3"
+  "ticket-url": "//bit.ly/ST_46"
 }
