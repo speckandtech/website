@@ -1,3 +1,5 @@
 {
-  "ignore": "H006,D018"
+  "indent": "2",
+  "ignore": "H006,D018",
+  "profile": "django"
 }
