@@ -1,637 +1,88 @@
-@import "flexbox";
-@import "vars";
+.retreate-page-section {
+  iframe {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    border: 8px solid $red;
+    border-radius: 8px;
+  }
 
-.retreat {
+  h1 {
+    font-size: 60px;
+    @media only screen and (min-width: 600px) {
+      font-size: 100px;
+    }
+  }
+
+  h2 {
+    margin-top: 24px;
+    font-size: 32px;
+    margin-bottom: 12px;
+  }
+
+  h3 {
     font-size: 24px;
+    color: $gray-600;
+    margin-bottom: 16px;
+  }
 
-    overflow: hidden;
+  h4 {
+    font-size: 20px;
+    font-weight: bolder;
+  }
 
-    h1 {
-        font-size: 3em;
-        margin-bottom: 16px;
-    }
+  p,
+  li {
+    font-size: 20px;
+  }
 
-    h1,h2 {
-        color: $red;
-    }
-    h2 {
-        font-size: 1.5em;
-        text-align: center;
-    }
+  p {
+    line-height: 1.8em;
+  }
+
+  margin-top: 56px;
+
+  .retreat-page-section-title {
+    text-align: center;
+    color: $red;
+    font-size: 52px;
+    margin-bottom: 26px;
+  }
+
+  .day-container {
+    border: 4px solid $red;
+    box-shadow: 12px 12px #42e7da;
+    margin-top: 32px;
+    padding: 24px;
     h3 {
-        text-align: center;
-        font-size: 1em;
+      text-align: center;
     }
-    .small-text {
-        margin: 0.3em 0 0.5em 0;
-        font-size: 18px;
-        line-height: 1.5em;
+  }
+  .ticket-card {
+    border: 4px solid $red;
+    padding: 62px 32px;
+    box-shadow: 12px 12px #42e7da;
+
+    h3 {
+      font-size: 32px;
     }
+
     .big-text {
-        margin-bottom: 0.5em;
-        font-size: 1em;
-        line-height: 1.5em;
+      font-size: 46px;
+
+      &.deleted {
+        text-decoration: line-through;
+        font-size: 26px;
+      }
     }
-    .centered-text {
-        text-align: center;
-    }
-    .right-align {
-        text-align: right;
-    }
-    img {
-        max-width: 768px;
-        height: auto;
-    }
-    .background-img {
-        box-shadow: 12px 12px $ligth-blue;
-    }
-    .retreate-page-section {
-        box-sizing: border-box;
-        margin: auto 25%;
-        padding-top: 64px;
-    }
-
-    @include mobile() {
-        overflow: hidden;
-
-        h1 {
-            font-size: 40px;
-            margin-bottom: 16px;
-        }
-
-        .big-p {
-            font-size: 20px;
-        }
-
-        .small-p {
-            font-size: 16px;
-        }
-
-        .retreate-page-section {
-            margin: auto 24px;
-            padding-top: 48px;
-        }
-    }
-}
-
-.page-heading {
-    height: 100vh;
-    margin-bottom: 0;
-
-    .heading-text {
-        z-index: 2;
-        position: absolute;
-        top: 25%;
-        bottom: 25%;
-        left: 50%;
-        height: 50%;
-        width: 50%;
-        margin-left: -25%;
-        @include flexbox();
-        @include flex-direction(column);
-        @include justify-content(center);
-        @include align-items(flex-end);
-
-        @include mobile() {
-            position: static;
-            margin: 0 24px;
-            width: auto;
-            left: 0;
-        }
-        @include mobile-big() {
-            position: static;
-            margin: 0 24px;
-            width: auto;
-            left: 0;
-        }
-    }
-
-    .fb-video-container {
-        position: absolute;
-        z-index: 0;
-        height: 100vh;
-        width: 100vw;
-        overflow: hidden;
-
-        .fb-video-overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            height: 100vh;
-            width: 100vw;
-            z-index: 1;
-            background-color: rgba(white, 0.72);
-        }
-
-        .heading-video {
-            height: 100vh;
-            width: 100vw;
-        }
-
-        @include mobile () {
-            display: none;
-        }
-        @include small-screen(){
-            display: none;
-        }
-    }
-
-    @include small-screen() {
-        margin-top: 0;
-        background-image: url('/img/retreat/mobile-background.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: 50% 0;
-    }
-
-    @include mobile () {
-        padding: 48px 0;
-        height: auto;
-        background-image: url('/img/retreat/mobile-background.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: 50% 50%;
-    }
-
-    @include mobile-big () {
-        padding-top: 48px;
-        height: auto;
-
-    }
-}
-
-#sponsors {
-
-    @include flexbox();
-    @include flex-direction(column);
-    align-items: center;
-    justify-content: center;
-
-    h2 {
-        margin: 0 !important;
-    }
-
-    #new-sponsor {
-        width: 200px;
-        text-align: center;
-    }
-
-    .gold-sponsor {
-        img {
-            width: 304px;
-        }
-    }
-    .silver-sponsor {
-        img {
-            width: 176px;
-        }
-    }
-    .bronze-sponsor {
-        img {
-            width: 160px;
-        }
-    }
-    .partner {
-        img {
-            width: 144px;
-        }
-    }
-
-    .all-sponsors-container {
-        @include flexbox();
-        @include flex-direction(column);
-        justify-content: center;
-        align-items: center;
-    }
-
-    .sponsor-type-container {
-        margin-top: 16px;
-        margin-bottom: 32px;
-        @include flexbox();
-        @include flex-direction(column);
-        justify-content: space-evenly;
-        align-items: center;
-
-        &.gold-sponsor-container {
-            margin: 48px 0 32px 0;
-            .sponsor-type-label {
-                font-size: 0.8em;
-                font-weight: bold;
-            }
-        }
-
-        .sponsor-type-label {
-            font-size: 0.7em;
-            font-variant: small-caps;
-            letter-spacing: 3px;
-        }
-        .sponsor-group{
-            margin-top: 8px;
-            padding: 24px;
-        }
-
-        #new-sponsor {
-            padding: 16px 16px;
-            width: 200px;
-            height: auto;
-        }
-
-
-        @include mobile() {
-            @include flex-direction(column);
-
-            a {
-                margin: 16px 0;
-            }
-        }
-
-        @include small-screen() {
-            @include flex-wrap(wrap);
-
-            a {
-                margin: 16px;
-            }
-        }
-    }
+  }
 }
 
 .img-gallery {
-
-    @include flexbox();
-    @include flex-direction(row);
-    @include justify-content(center);
-
-    margin-top: 48px;
-
-    a {
-        margin: 0 24px;
-    }
-
-    & :nth-child(2) {
-        margin-top: 40px;
-    }
-
-    img {
-        max-width: 448px;
-        height: auto;
-    }
-
-    @include mobile() {
-        @include flex-direction(column);
-        margin: 0 24px 0 24px;
-
-        a {
-            margin: 0 auto 0 0;
-        }
-
-        & :nth-child(2) {
-            margin: 24px 0 24px auto;
-        }
-
-        img {
-            width: 100%;
-        }
-    }
-}
-
-#program {
-    margin-left: 0;
-    margin-right: 0;
-
-    @include small-screen() {
-        margin: auto 25%;
-    }
-
-    @include mobile() {
-        margin: auto 24px;
-    }
-
-    .program-img {
-        background-image: url('/img/retreat/television.gif');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: 50% 50%;
-        width: 256px;
-        height: 256px;
-        margin: 0 auto;
-        display: block;
-        box-shadow: 12px 12px $ligth-blue;
-        border-radius: 30%;
-    }
-
-    .to-be-announced {
-        margin-top: 24px;
-
-        p {
-            margin-top: 0;
-            margin-bottom: 8px;
-        }
-
-        @include mobile() {
-            margin-left: 24px;
-            margin-right: 24px;
-        }
-    }
-
-    #program-container {
-
-        margin-top: 24px;
-        @include flexbox();
-        @include flex-direction(row);
-        @include flex-wrap(wrap);
-        @include justify-content(space-evenly);
-
-        h3 {
-            color: white;
-            background-color: $red;
-            padding: 16px 0;
-            //border-radius: 13px 13px 0 0;
-        }
-
-        .day-container {
-            width: 400px;
-            height: auto;
-            box-shadow: 12px 12px #42E7DA;
-            border: 4px solid $red;
-            //border-radius: 13px;
-
-            text-align: center;
-            &, &>div{
-                @include flexbox();
-                @include flex-dir(column);
-
-            }
-
-            .day-moment {
-                font-size: 20px;
-                padding: 15px 0 12px 0;
-                border-top: 1px solid darken($color: white, $amount: 15);
-                border-bottom: 1px solid darken($color: white, $amount: 15);
-                background: #e8424e36;
-            }
-
-            ul {
-                padding: 0;
-                margin: 0;
-
-                li {
-                    text-align: left;
-                    padding: 8px 16px;
-                    list-style: none;
-                    border-bottom: 1px solid darken($color: white, $amount: 15);
-                }
-
-                li:last-child{
-                    border-bottom: 0;
-                }
-            }
-
-            .multiple-activities-program-entry {
-                @include flexbox();
-                @include flex-direction(row);
-                strong {
-                    @include flex-shrink(0);
-                }
-
-                ul {
-                    @include flex-shrink(2);
-                }
-                li {
-                    padding: 0 0 4px 0;
-                    border-bottom: 0px;
-                    white-space: pre-wrap;
-                }
-            }
-
-
-        }
-
-        @include small-screen() {
-            @include flex-direction(column);
-            padding: 0 24px 0 24px;
-
-            .day-container {
-                width: 100%;
-                margin: 16px 0;
-            }
-        }
-    }
-}
-
-#cost {
-
-    @include flexbox();
-    @include flex-direction(column);
-    @include align-items(center);
-
-    li {
-        margin-top: 8px;
-        // padding-left: 16px;
-        // list-style: none;
-    }
-
-    .cost-explanation-container {
-       @include flexbox();
-    }
-
-    .cost-explanation {
-        margin: 0 8px 16px 8px;
-
-        .big-text {
-            position: relative;
-            &:after {
-                content: "";
-                position: absolute;
-                z-index: -1;
-                bottom: 2px;
-                left: 10px;
-                width: calc(100% - 32px);
-                height: 20px;
-                background-color: rgba($ligth-blue, 0.6);
-            }
-        }
-
-        @include small-screen() {
-            margin: 0;
-        }
-    }
-
-    @include small-screen() {
-        .cost-explanation-container {
-            display: block;
-        }
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    #ticket-card-container {
-        @include flexbox();
-        @include flex-dir(row);
-        @include justify-content(space-evenly);
-
-        .old-ticket {
-            cursor: default;
-        }
-
-        .ticket-card {
-            margin: 16px;
-            padding: 24px;
-            border: 4px solid $red;
-            background-color: white;
-            min-width: 256px;
-            min-height: 256px;
-            box-shadow: 12px 12px $ligth-blue;
-
-            &:hover {
-                background-color: rgba($ligth-blue, 0.125);
-                transition: background-color 200ms cubic-bezier(0.47, 0, 0.745, 0.715);
-            }
-
-            @include flexbox();
-            @include flex-dir(column);
-            @include align-items(center);
-
-            h3 {
-                font-size: 36px;
-                margin-bottom: 16px;
-            }
-
-            .price {
-
-                margin-top: auto;
-                @include flexbox();
-                @include flex-dir(column);
-                @include align-items(center);
-
-                p {
-                    margin: 0;
-                    font-size: 60px;
-                    color: $red;
-
-                    &.deleted {
-                        strong{
-                            text-decoration: line-through;
-                        }
-                    }
-                }
-
-                .subtext {
-                    font-size: 24px;
-                    font-weight: bold;
-                    color: lighten($color: $red, $amount: 20);
-                }
-            }
-        }
-
-        @include mobile() {
-            @include flex-direction(column);
-        }
-    }
-}
-
-#faq {
-    .faq-container {
-        margin: 24px 0;
-    }
-}
-
-#contacts {
-
-    .contacts-container {
-        @include flexbox();
-        @include flex-direction(row);
-        @include justify-content(space-evenly);
-
-        @include mobile() {
-            @include flex-wrap(wrap);
-            @include align-items(center);
-        }
-    }
-
-    .contact {
-        padding: 16px;
-        margin: 16px;
-        width: 120px;
-        height: 120px;
-        border: 4px solid transparent;
-
-        @include flexbox();
-        @include flex-direction(column);
-        @include justify-content(center);
-        @include align-items(center);
-
-        img {
-            width: auto;
-            height: 60px;
-        }
-
-        p {
-            margin-top: 24px;
-            margin-bottom: 0;
-        }
-
-        &:hover {
-            border: 4px solid $red;
-            animation: border 0.2s cubic-bezier(0.47, 0, 0.745, 0.715);
-        }
-
-        @include small-screen() {
-            width: 96px;
-            height: 96px;
-            margin: 8px;
-        }
-    }
-}
-
-@keyframes border {
-    from {border: 4px solid transparent;}
-    to {border: 4px solid $red;}
-}
-
-@keyframes fadein {
-    from {
-        opacity: 0;
-        box-shadow: 0px 0px #42E7DA;
-    }
-    to   {
-        opacity: 1;
-        box-shadow: 12px 12px #42E7DA;
-    }
-}
-
-#visitorContainer{
-    z-index: 99999;
-    position: fixed;
-    bottom: 8px;
-    right: 8px;
-    width: 192px;
-    min-height: 48px;
-    padding: 8px 16px;
-    color: white;
-    background-color: $red;
-    // box-shadow: 8px 8px $ligth-blue;
-
-    #visitorNumber {
-        padding: 8px 16px;
-    }
-
-    @include flexbox();
-    @include align-items(center);
-    @include justify-content(center);
-
-    p {
-        margin: 0;
-    }
-
-    @include mobile() {
-        z-index: 0;
-        bottom: 0;
-        right: 0;
-        left: 0;
-        width: 100%;
-        text-align: center;
-        padding: 0;
-    }
+  img {
+    width: 100%;
+    margin-top: 32px;
+    box-shadow: 12px 12px #42e7da;
+  }
 }

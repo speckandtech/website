@@ -7,6 +7,7 @@ $enable-shadows: true;
 $prefix: "mo-";
 $font-family-sans-serif: "Neo Sans", sans-serif;
 $enable-cssgrid: true;
+$enable-grid-classes: true;
 $display-font-weight: 500;
 
 $spacer: 1rem !default;
@@ -44,6 +45,8 @@ $utilities: (
 @import "./bootstrap/bootstrap";
 @import "font";
 @import "homepage-animations";
+@import "post";
+@import "retreat";
 
 .bg-ligth-blue {
   background-color: $ligth-blue;
@@ -79,45 +82,6 @@ $utilities: (
   justify-content: center;
   align-items: center;
   padding: 4rem 0;
-}
-
-#post {
-  margin-bottom: 24px;
-
-  iframe {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin-top: 8px;
-    margin-bottom: 24px;
-    border: 8px solid $red;
-    border-radius: 8px;
-  }
-
-  h2 {
-    margin-top: 24px;
-    font-size: 32px;
-  }
-  h3 {
-    font-size: 24px;
-    color: $gray-600;
-    margin-bottom: 16px;
-  }
-
-  h4 {
-    font-size: 20px;
-    font-weight: bolder;
-  }
-
-  p,
-  li {
-    font-size: 20px;
-  }
-}
-
-#post.mkdown {
-  img {
-    width: 100%;
-  }
 }
 
 .text-lg {

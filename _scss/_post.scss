@@ -1,0 +1,38 @@
+#post {
+  margin-bottom: 24px;
+
+  iframe {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    border: 8px solid $red;
+    border-radius: 8px;
+  }
+
+  h2 {
+    margin-top: 24px;
+    font-size: 32px;
+  }
+  h3 {
+    font-size: 24px;
+    color: $gray-600;
+    margin-bottom: 16px;
+  }
+
+  h4 {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  p,
+  li {
+    font-size: 20px;
+  }
+}
+
+#post.mkdown {
+  img {
+    width: 100%;
+  }
+}
