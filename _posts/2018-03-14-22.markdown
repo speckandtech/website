@@ -29,7 +29,7 @@ We will add them if they will be available in the future.</strong> </center>
 
 ## Spindox
 ### Cristiano Carlevaro - Manager of [Spindox](https://www.spindox.it/en/) Labs in Trento
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3TyWp6snJ1tEkQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/speckandtech/spindox-digital-soul" title="Spindox - Digital Soul" target="_blank">Spindox - Digital Soul</a> </strong> from <strong><a href="//www.linkedin.com/in/cristiano-carlevaro-408b4429/" target="_blank">Cristiano Carlevaro</a></strong>
+<br>
 
 ## EIT Digital
 ### Federico Guerrini - Communication Lead Italy & Digital Industry at [EIT Digital](https://www.eitdigital.eu)
