@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "BELKA - UX/UI Design Intern (remote/onsite)"
-date:   2022-09-09T12:00:00+02:00
+date:   2022-10-16T12:00:00+02:00
 categories: hiring
 slug: 'belka-design-intern'
 image: 'jobs/Belka-Intership-UX-UI-Instagram-Website.webp'
