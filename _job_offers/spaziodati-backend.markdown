@@ -37,3 +37,5 @@ Send your application to [jobs@spaziodati.eu](mailto:jobs@spaziodati.eu) and ple
 - Your CV (any format is fine)
 - Let us know why you'd like to take this position, what you expect and what you think you could bring to the team
 - Please, please, please, include a github account, some code you've written, an open source project you contributed to, or at least a link to your work that you like (it doesn't matter if it's completely unrelated like a videogame, an art project or whatever else). Precedence will be given to applications that meet this criteria.
+
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="mailto:jobs@spaziodati.eu">Apply now!</a>
