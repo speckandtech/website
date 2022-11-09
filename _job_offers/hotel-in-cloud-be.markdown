@@ -51,7 +51,7 @@ I due principali rami di sviluppo in azienda sono:
 - Google Cloud
 - Machine Learning (algoritmi proprietari)
 
-## ☝️Pratiche adottate
+## ☝️ Pratiche adottate
 - Continuous Deployment (CD)
 - Continuous Integration (CI)
 - Retrospettive
@@ -60,7 +60,7 @@ I due principali rami di sviluppo in azienda sono:
 - Software testing
 - Postmortem
 
-##  ☑️Processo di assunzione
+## ☑️ Processo di assunzione
 - Call conoscitiva max 30 minuti
 - Test tecnico
 - Call approfondita
