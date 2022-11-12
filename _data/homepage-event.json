@@ -2,13 +2,13 @@
   "type": "event",
 
   "pre-title": "",
-  "title": "Retreat v3",
-  "date": "2022-12-02T17:00:00+02:00",
-  "time": "17:00",
-
+  "title": "Coming soon",
+  "date": "2022-12-14T20:45:00+02:00",
+  "time": "20:45",
+  
   "location": {
-    "name": "Alpholiday Dolomiti",
-    "url": "//speckand.tech/retreat"
+    "name": "Impact Hub Trentino",
+    "url": "//g.page/impacthubtrentino"
   },
 
   "partner": {
@@ -24,5 +24,5 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/retreat-v3"
+  "ticket-url": ""
 }
