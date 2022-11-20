@@ -34,5 +34,22 @@
 #post.mkdown {
   img {
     width: 100%;
+
+    &.medium_center {
+      max-width: 400px;
+      margin: 0 auto;
+      display: block;
+    }
+  }
+
+  .small_gallery {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 24px;
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
   }
 }
