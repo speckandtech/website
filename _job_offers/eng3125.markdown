@@ -1,0 +1,54 @@
+---
+layout: event
+title:  "ENGINEERING - SOLUTION ARCHITECT"
+date:   2022-11-21T12:00:00+02:00
+categories: hiring
+slug: 'engineering-3125'
+description: "Ti proponiamo un'opportunità nell'ambito della competence centre ECM e Intelligent Content Services come Appian Developer. Lavorerai su soluzioni di ECM/CS in ambito di soluzioni Enterprise. I ruoli disponibili sono per ruoli di analisi, sviluppo e configurazione dei prodotti di riferimento. Il gruppo in cui i verrai inserito è un gruppo di 48 persone con clienti in Utilities, Industry e Healt Care."
+---
+
+## ENGINEERING – THE DIGITAL TRANSFORMATION COMPANY 
+
+Engineering è la Digital Transformation Company, leader in Italia e in continua espansione nel mondo, con circa 12.000 dipendenti e oltre 40 sedi. 
+Il Gruppo Engineering, formato da oltre 20 aziende in 12 Paesi, supporta da più di 40 anni le aziende e le organizzazioni nell’evolvere continuamente grazie a una profonda conoscenza dei processi aziendali in tutti i segmenti di mercato, e sfruttando le opportunità offerte da tecnologie digitali avanzate e soluzioni proprietarie. 
+Il Gruppo integra soluzioni di mercato best-of-breed e servizi gestiti, e continua a espandere la propria esperienza attraverso operazioni di M&A e partnership con i principali attori tecnologici. Engineering investe fortemente in innovazione, attraverso la propria divisione R&I, e nel capitale umano, attraverso la propria IT & Management Academy. Engineering si pone come attore chiave nella creazione di ecosistemi digitali per connettere mercati diversi, sviluppando soluzioni componibili per una continua trasformazione del business.
+
+## COSA TI PROPONIAMO?
+
+Ti proponiamo un'opportunità nell'ambito della competence centre ECM e Intelligent Content Services come Appian Developer.
+Lavorerai su soluzioni di ECM/CS in ambito di soluzioni Enterprise. 
+I ruoli disponibili sono per ruoli di analisi, sviluppo e configurazione dei prodotti di riferimento. Il gruppo in cui i verrai inserito è un gruppo di 48 persone con clienti in Utilities, Industry e Healt Care.
+
+
+## SEI IL CANDIDATO IDEALE?
+
+Sei il candidato ideale se possiedi i seguenti requisiti:
+
+- Analisi tecnica, Progettazione e Stesura dei documenti tecnici
+- Progettazione e sviluppo di WebServices
+- Conoscenza architettrue microservizi
+- Esperienza itegrazione soluzione ECM
+- Conoscenza dei paradigmi object-oriented e aspect-oriented;
+- Conoscenza architettura basate su SOAP/REST;
+- Sviluppo di applicazioni in linguaggio Java 8 e superiori, in particolare con Spring;
+- Sviluppo con tecnologie J2EE: Hibernate/JPA, JTA
+- Conoscenza di Appian
+- Conoscenza del linguaggio SQL
+- Buona conoscenza ed esperienza di database relazionali.
+- Esperienza con il linguaggio java-script;
+- Conoscenza di framework Angular (versione 4 o superiore), React  e/o Bootstrap;
+- Conoscenze ALM
+- Buona conoscenza Eclipse IDE, SVN
+- Gradita e ricercata la conoscenza, certificazioni ed esperienza sulle piattaforme ECM
+- OpenText xECM
+- OpenText Documentum
+- IBM FileNet
+- MongoDB
+- Alfresco
+- Oracle WCC
+
+SEDE: Roma
+
+L’annuncio è rivolto a tutti i candidati, senza distinzione di sesso, nel rispetto del Codice delle pari opportunità di cui al D.Lgs. 198/2006 e ss.mm.ii.
+
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="//eng.csod.com/ux/ats/careersite/4/home/requisition/3125?c=eng">Apply now!</a>
