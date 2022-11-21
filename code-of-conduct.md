@@ -26,7 +26,7 @@ Harassment of any kind will not be tolerated at Speck&Tech. This includes:
 - sustained disruption of talks or other events
 - inappropriate physical contact or unwelcome sexual attention
 
-Participants asked to stop any harassing behavior must immediately comply. **If a participant engages in any of the aforementioned behavior, we may take any action we deem appropriate, from warning the offender to immediately expelling themm from our events**.
+Participants asked to stop any harassing behavior must immediately comply. **If a participant engages in any of the aforementioned behavior, we may take any action we deem appropriate, from warning the offender to immediately expelling them from our events**.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the Association immediately.
 
