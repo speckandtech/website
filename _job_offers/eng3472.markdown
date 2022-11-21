@@ -1,0 +1,51 @@
+---
+layout: event
+title:  "ENGINEERING - Software Developer"
+date:   2022-11-21T12:00:00+02:00
+categories: hiring
+slug: 'engineering-3472'
+description: "Ti proponiamo un'opportunità all'interno di un gruppo di sviluppo dell'area Triveneto per lo sviluppo e la manutenzione di applicazioni a microservizi basate su tecnologie recenti in ambito Pubblica Amministrazione."
+---
+
+## ENGINEERING – THE DIGITAL TRANSFORMATION COMPANY
+
+Engineering è la Digital Transformation Company, leader in Italia e in continua espansione nel mondo, con circa 12.000 dipendenti e oltre 40 sedi. 
+Il Gruppo Engineering, formato da oltre 20 aziende in 12 Paesi, supporta da più di 40 anni le aziende e le organizzazioni nell’evolvere continuamente grazie a una profonda conoscenza dei processi aziendali in tutti i segmenti di mercato, e sfruttando le opportunità offerte da tecnologie digitali avanzate e soluzioni proprietarie. 
+Il Gruppo integra soluzioni di mercato best-of-breed e servizi gestiti, e continua a espandere la propria esperienza attraverso operazioni di M&A e partnership con i principali attori tecnologici. Engineering investe fortemente in innovazione, attraverso la propria divisione R&I, e nel capitale umano, attraverso la propria IT & Management Academy. Engineering si pone come attore chiave nella creazione di ecosistemi digitali per connettere mercati diversi, sviluppando soluzioni componibili per una continua trasformazione del business.
+
+## COSA TI PROPONIAMO?     
+
+Ti proponiamo un'opportunità all'interno di un gruppo di sviluppo dell'area Triveneto per lo sviluppo e la manutenzione di applicazioni a microservizi basate su tecnologie recenti in ambito Pubblica Amministrazione.
+
+## IN QUALI ATTIVITÀ SARAI COINVOLTO?/QUALI SARANNO LE TUE RESPONSABILITÀ?
+
+Le attività in cui sarai coinvolto sono:
+- Sviluppo di nuove componenti software a microservizi da deployare in cloud
+- Manutenzione di componenti software a microservizi 
+- Ottimizzazione delle applicazioni per l'ambito cloud
+
+## Sei il candidato ideale?
+
+Gli skill richiesti sono:
+- Ottima conoscenza linguaggio Java 11/17 
+- Ottima conoscenza Spring boot 2.5.x e superiore, Spring cloud versione compatibile con Spring boot
+- Ottima conoscenza Gradle/Maven
+- Conoscenza di ElasticSearch, Kafka, Redis
+- Conoscenza DB relazionale PosgreSQL e DB noSQL
+- Autenticazione basata su token (JWT)
+- Angular 13, Angular Material
+- Bootstrap Italia 1.4+
+- Web analytics Italia (attenzione al rispetto della privacy)
+
+Costituisce elemento aggiuntivo la conoscenza di:
+- Charts.js + ng-charts
+- Cypress + plugin Instanbul + plugin Axe
+- Sonarqube + ESLint
+
+Titoli preferenziali: Laurea STEM o conoscenze equivalenti.
+
+Sedi di inserimento: Tutta Italia
+
+L’annuncio è rivolto a tutti i candidati, senza distinzione di sesso, nel rispetto del Codice delle pari opportunità di cui al D.Lgs. 198/2006 e ss.mm.ii.
+
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="//eng.csod.com/ux/ats/careersite/4/home/requisition/3472?c=eng">Apply now!</a>
