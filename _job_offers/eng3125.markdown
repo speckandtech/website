@@ -4,7 +4,7 @@ title:  "ENGINEERING - SOLUTION ARCHITECT"
 date:   2022-11-21T12:00:00+02:00
 categories: hiring
 slug: 'engineering-3125'
-description: "Ti proponiamo un'opportunità nell'ambito della competence centre ECM e Intelligent Content Services come Appian Developer. Lavorerai su soluzioni di ECM/CS in ambito di soluzioni Enterprise. I ruoli disponibili sono per ruoli di analisi, sviluppo e configurazione dei prodotti di riferimento. Il gruppo in cui i verrai inserito è un gruppo di 48 persone con clienti in Utilities, Industry e Healt Care."
+description: "Ti proponiamo un'opportunità nell'ambito della competence centre ECM e Intelligent Content Services come Appian Developer. Lavorerai su soluzioni di ECM/CS in ambito di soluzioni Enterprise. I ruoli disponibili sono per ruoli di analisi, sviluppo e configurazione dei prodotti di riferimento."
 ---
 
 ## ENGINEERING – THE DIGITAL TRANSFORMATION COMPANY 
