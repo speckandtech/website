@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "HOTEL IN CLOUD - Backend Web Developer"
+title:  "Hotel in Cloud - Backend Web Developer"
 date:   2022-11-23T12:00:00+02:00
 categories: hiring
 slug: 'hotel-in-cloud-be'
