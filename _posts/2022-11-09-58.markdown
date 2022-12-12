@@ -33,5 +33,7 @@ We're used to thinking of technology as always progressing, and in terms of hard
 #### Check the video!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yhomDiwByxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST-47p">pictures &#128247;</a>
+
 
 </section>
