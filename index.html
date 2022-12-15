@@ -180,10 +180,9 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
                 {% include mega_job_banner.html %}
                 <div class="grid mt-4">
                     {% assign JobOffers = site.job_offers | sort:"date" | reverse %}
-                    {% for post
-                        in JobOffers %}
+                    {% for post in JobOffers %}
                         <div class="g-col-12 g-col-sm-6 g-col-lg-4">
-                            <div class="card border border-5 border-primary">
+                            <div class="card border border-5 border-primary h-100">
                                 <div class="card-body">
                                     <a href="{{ post.url }}">
                                         <h5 class="card-title">{{ post.title }}</h5>
