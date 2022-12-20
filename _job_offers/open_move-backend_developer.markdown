@@ -52,3 +52,5 @@ La sede è a Rovereto (TN), facilmente raggiungibile sia in auto che con i mezzi
 
 # COME CANDIDARTI
 Invia il tuo CV aggiornato a [info@openmove.com](mailto:info@openmove.com)
+
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="mailto:info@openmove.com">Candidati ora!</a>
