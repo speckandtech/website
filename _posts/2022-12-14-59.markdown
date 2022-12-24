@@ -12,7 +12,7 @@ slug: "all-I-want-4-xmas"
 
 Digital products are more complex today than ever before. Creating them requires multiple team members and other stakeholders. Design work is not something that can happen in isolation, and how effectively we manage others' contributions can help us make or break a design. I’ll share some of the things I have learned from past mistakes on how to shape better conversations around design work.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/grpWs2kFxQ3jRh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2sSskfV80K1Goh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 
 ## Your website is ugly - how to fix it (and why you should care)
