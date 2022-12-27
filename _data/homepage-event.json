@@ -2,13 +2,13 @@
   "type": "event",
 
   "pre-title": "",
-  "title": "",
-  "date": "",
-  "time": "",
+  "title": "Loading...",
+  "date": "2023-01-17T20:45:00+02:00",
+  "time": "20:45",
   
   "location": {
-    "name": "",
-    "url": ""
+    "name": "Impact Hub Trentino",
+    "url": "//g.page/impacthubtrentino"
   },
 
   "partner": {
@@ -18,11 +18,11 @@
   },
 
   "sponsor": {
-    "name": "",
-    "logo": "",
-    "url": "",
+    "name": "W\u00FCrth Phoenix",
+    "logo": "//www.wuerth-phoenix.com/fileadmin/dist/img/logo.svg",
+    "url": "//www.wuerth-phoenix.com/it",
     "description": ""
   },
 
-  "ticket-url": ""
+  "ticket-url": "//bit.ly/ST-49"
 }
