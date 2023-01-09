@@ -2,7 +2,7 @@
   "type": "event",
 
   "pre-title": "",
-  "title": "Loading...",
+  "title": "The cyber menace",
   "date": "2023-01-17T20:45:00+02:00",
   "time": "20:45",
   
@@ -19,7 +19,7 @@
 
   "sponsor": {
     "name": "Würth Phoenix",
-    "logo": "/img/logos/wurth-phoenix.svg",
+    "logo": "/img/logos/wurth-phoenix.jpg",
     "url": "//www.wuerth-phoenix.com/it",
     "description": ""
   },
