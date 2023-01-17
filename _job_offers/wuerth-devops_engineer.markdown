@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Würth Phoenix - DevOps Engineer"
-date:   2023-01-17T12:45:00+02:00
+title: "Würth Phoenix - DevOps Engineer"
+date: 2023-01-17T12:45:00+02:00
 categories: hiring
 slug: "wuerth-devops"
 description: "Nel ruolo di DevOps Engineer partecipa allo sviluppo del Continuous Integration con la nostra soluzione NetEye, soluzione di monitoraggio per l’infrastruttura IT. "

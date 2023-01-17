@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Würth Phoenix - Technical Consultant Microsoft Business Intelligence"
-date:   2023-01-17T12:45:00+02:00
+title: "Würth Phoenix - Technical Consultant Microsoft Business Intelligence"
+date: 2023-01-17T12:45:00+02:00
 categories: hiring
 slug: "wuerth-technical-consultant"
 description: "Nel ruolo di Technical Consultant parteciperà - assieme ad un team di esperti – a progetti di implementazione di soluzioni in ambito BI."

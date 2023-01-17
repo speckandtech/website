@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Würth Phoenix - Customer Solution Engineer"
-date:   2023-01-17T12:45:00+02:00
+title: "Würth Phoenix - Customer Solution Engineer"
+date: 2023-01-17T12:45:00+02:00
 categories: hiring
 slug: "wuerth-customer-solution-engineer"
 description: "Nel ruolo di Customer Solution Engineer offrirai servizi di consulenza per le soluzioni WÜRTHPHOENIX NetEye, giocando un ruolo chiave nel successo e nella soddisfazione dei clienti."

@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Würth Phoenix - Frontend VueJS Developer"
-date:   2023-01-17T12:45:00+02:00
+title: "Würth Phoenix - Frontend VueJS Developer"
+date: 2023-01-17T12:45:00+02:00
 categories: hiring
 slug: "wuerth-frontend-vuejs"
 description: "Nel ruolo di sviluppatore Front End con focus su VueJS, partecipa attivamente allo sviluppo di WÜRTHPHOENIX NetEye."

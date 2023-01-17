@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Würth Phoenix - Sviluppatore Software iOS"
-date:   2023-01-17T12:45:00+02:00
+title: "Würth Phoenix - Sviluppatore Software iOS"
+date: 2023-01-17T12:45:00+02:00
 categories: hiring
 slug: "wuerth-ios-developer"
 description: "Nel ruolo di Sviluppatore Software iOS parteciperà con i colleghi del team allo sviluppo di soluzioni enterprise mobili in ambito Sales Force Automation per i nostri clienti internazionali all'interno del Gruppo Würth."
