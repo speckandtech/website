@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Engineering - Solution Architect"
-date:   2022-11-21T12:00:00+02:00
+title: "Engineering - Solution Architect"
+date: 2022-11-21T12:00:00+02:00
 categories: hiring
 slug: 'engineering-3125'
 description: "Ti proponiamo un'opportunità nell'ambito della competence centre ECM e Intelligent Content Services come Appian Developer. Lavorerai su soluzioni di ECM/CS in ambito di soluzioni Enterprise. I ruoli disponibili sono per ruoli di analisi, sviluppo e configurazione dei prodotti di riferimento."

@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Hotel in Cloud - Backend Web Developer"
-date:   2022-11-23T12:00:00+02:00
+title: "Hotel in Cloud - Backend Web Developer"
+date: 2022-11-23T12:00:00+02:00
 categories: hiring
 slug: 'hotel-in-cloud-be'
 description: "Cerchiamo backend web developer per rafforzare gli sviluppi della nostra suite gestionale utilizzata da gestori di strutture ricettive in tutta Italia. Seniority: Junior (anche primo lavoro)"

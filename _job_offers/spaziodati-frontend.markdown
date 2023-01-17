@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "SpazioDati - frontend developer"
-date:   2022-10-07T12:45:00+02:00
+title: "SpazioDati - frontend developer"
+date: 2022-10-07T12:45:00+02:00
 categories: hiring
 slug: 'spaziodati-fe'
 description: "Our Frontend Team is responsible for creating products on the web which will deliver such large amounts of data to our customers in an accessible way, customise their experience and build ad-hoc solutions for their needs, including integrating our tools in their existing software."

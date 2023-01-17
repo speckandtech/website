@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Engineering - Software Developer"
-date:   2022-11-21T12:00:00+02:00
+title: "Engineering - Software Developer"
+date: 2022-11-21T12:00:00+02:00
 categories: hiring
 slug: 'engineering-3472'
 description: "Ti proponiamo un'opportunità all'interno di un gruppo di sviluppo dell'area Triveneto per lo sviluppo e la manutenzione di applicazioni a microservizi basate su tecnologie recenti in ambito Pubblica Amministrazione."
