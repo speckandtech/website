@@ -1,9 +1,9 @@
 ---
 layout: event
-title:  "Engineering - Software Developer"
-date:   2022-11-20T12:00:00+02:00
+title: "Engineering - Software Developer"
+date: 2022-11-20T12:00:00+02:00
 categories: hiring
-slug: 'engineering-2705'
+slug: 'engineering-3482'
 description: "Ti proponiamo un'opportunità in Engineering dove avrai l'occasione di realizzare progetti complessi partecipando a tutte le fasi del ciclo di vita di una mobile app: raccolta requisiti, analisi e progettazione, realizzazione, collaudo."
 ---
 

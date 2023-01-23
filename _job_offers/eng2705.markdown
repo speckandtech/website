@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Engineering - Software Developer iOS"
-date:   2022-11-19T12:00:00+02:00
+title: "Engineering - Software Developer iOS"
+date: 2022-11-19T12:00:00+02:00
 categories: hiring
 slug: 'engineering-2705'
 description: "Ti proponiamo un'esperienza come Developer iOS Esperto. Il candidato ideale è una persona dinamica che è in grado di lavorare su più progetti contemporaneamente e che sa proporre soluzioni tecniche in linea con le richieste del cliente."

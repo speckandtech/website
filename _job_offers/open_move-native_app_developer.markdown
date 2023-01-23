@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "OpenMove - Native app developer"
-date:   2022-12-20T14:45:00+02:00
+title: "OpenMove - Native app developer"
+date: 2022-12-20T14:45:00+02:00
 categories: hiring
 slug: 'open-move-native-app-developer'
 description: 'Cerchiamo un Native app Developer che lavori con noi allo sviluppo di applicazioni mobile native Android orientate al mondo della mobilità. Una persona propositiva, entusiasta, volenterosa di lavorare in team e appassionata di tecnologia.'

@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "OpenMove - Frontend developer"
-date:   2022-12-20T14:45:00+02:00
+title: "OpenMove - Frontend developer"
+date: 2022-12-20T14:45:00+02:00
 categories: hiring
 slug: 'open-move-frontend-developer'
 description: 'Cerchiamo un Frontend Developer per lavorare allo sviluppo frontend di applicazioni iOS e Android in React Native o di applicazioni web in React, che creda che la tecnologia applicata alla mobilità migliori la vita delle persone e l’ambiente.'

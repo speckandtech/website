@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "OpenMove - Account manager"
-date:   2022-12-20T14:45:00+02:00
+title: "OpenMove - Account manager"
+date: 2022-12-20T14:45:00+02:00
 categories: hiring
 slug: 'open-move-account-manager'
 description: 'Cerchiamo una figura commerciale che gestisca i rapporti coi clienti e l’intera attività commerciale aziendale e che faccia scouting di opportunità commerciali sul mercato. Una persona precisa e con ottime capacità relazionali.'

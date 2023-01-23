@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Euleria - mobile application developer"
-date:   2022-12-05T09:15:00+02:00
+date: 2022-12-05T09:15:00+02:00
 categories: hiring
 slug: "euleria-mobile"
 description: "Sei uno sviluppatore React Native? Magari hai anche già lavorato con dispositivi Bluetooth? Ecco l'occasione che cercavi!"

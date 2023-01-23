@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "OpenMove - Project manager"
-date:   2022-12-20T14:45:00+02:00
+title: "OpenMove - Project manager"
+date: 2022-12-20T14:45:00+02:00
 categories: hiring
 slug: 'open-move-project-manager'
 description: 'Cerchiamo una persona che gestisca i progetti aziendali, concertando risorse interne ed esterne, capace di bilanciare il carico di lavoro. Una persona organizzata e pragmatica che entri nel merito di prodotti, tecnologia e processi aziendali.'

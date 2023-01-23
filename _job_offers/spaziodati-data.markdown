@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "SpazioDati - Data Engineer"
-date:   2022-12-10T12:15:00+02:00
+title: "SpazioDati - Data Engineer"
+date: 2022-12-10T12:15:00+02:00
 categories: hiring
 slug: 'spaziodati-data'
 description: "We are looking for software developers that are ready to 'get their hands dirty' for building a better world (of data, at least), one where information is clean and easily accessible; to achieve such goals is not easy, one should be strict but pragmatic, open-minded but skilled on troubles that are common when dealing with data."

@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "OpenMove - Backend developer"
-date:   2022-12-20T14:45:00+02:00
+title: "OpenMove - Backend developer"
+date: 2022-12-20T14:45:00+02:00
 categories: hiring
 slug: 'open-move-backend-developer'
 description: 'Cerchiamo un Backend Developer per lavorare col nostro team allo sviluppo backend di applicazioni Node.js, che sia una persona con la voglia di mettersi quotidianamente in gioco, orientata al risultato e volenterosa di lavorare in squadra.'
