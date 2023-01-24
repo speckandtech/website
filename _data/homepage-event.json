@@ -2,8 +2,8 @@
   "type": "event",
 
   "pre-title": "",
-  "title": "The cyber menace",
-  "date": "2023-01-17T20:45:00+02:00",
+  "title": "",
+  "date": "2023-02-27T20:45:00+02:00",
   "time": "20:45",
   
   "location": {
@@ -18,11 +18,11 @@
   },
 
   "sponsor": {
-    "name": "Würth Phoenix",
-    "logo": "/img/logos/wurth-phoenix.svg",
-    "url": "//www.wuerth-phoenix.com/it",
+    "name": "",
+    "logo": "",
+    "url": "",
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/ST-49"
+  "ticket-url": ""
 }
