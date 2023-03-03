@@ -2,8 +2,8 @@
   "type": "event",
 
   "pre-title": "",
-  "title": "To Infinity and beyond",
-  "date": "2023-02-27T20:45:00+02:00",
+  "title": "",
+  "date": "2023-03-20T20:45:00+02:00",
   "time": "20:45",
   
   "location": {
@@ -18,11 +18,11 @@
   },
 
   "sponsor": {
-    "name": "",
-    "logo": "",
-    "url": "",
+    "name": "Gruber Logistics",
+    "logo": "//www.gruber-logistics.com/wp-content/uploads/2018/11/Gruber-logistics-logo-color.png",
+    "url": "//www.gruber-logistics.com",
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck50"
+  "ticket-url": ""
 }
