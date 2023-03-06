@@ -1,8 +1,8 @@
 {
-  "type": "event",
+  "type": "loading",
 
   "pre-title": "",
-  "title": "Loading...",
+  "title": "",
   "date": "2023-03-20T20:45:00+02:00",
   "time": "20:45",
   
