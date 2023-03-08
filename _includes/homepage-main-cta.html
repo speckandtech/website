@@ -1,9 +1,9 @@
 {% assign data = site.data.homepage-event %}
-{% if data.type == "event" %}
-  <div>
-    <span class="next-meetup">NEXT MEETUP</span>
-    <div class="event-container">
-      <div>
+<div class="position-relative">
+  <span class="next-meetup">NEXT MEETUP</span>
+  <div class="event-container">
+    <div>
+      {% if data.type == "event" %}
         <h4 class="mt-2">
           {% if data.pre-title != '' %}
             <span>{{ data.pre-title }}</span>
@@ -11,56 +11,52 @@
           {% endif %}
           <b class="text-red display-4">{{ data.title }}</b>
         </h4>
-        {% if data.date != '' %}
-          <h4 class="mt-4">
-            📅 {{ data.date | date:"%d/%m/%y - %H:%M" }}
-            <br />
-            <span class="mt-3 d-block">📍
-              <a target="_blank" href="{{ data.location.url }}">{{ data.location.name }}</a>
-            </span>
-          </h4>
-        {% endif %}
-        {% if data.ticket-url != "" %}
-          <a class="btn btn-primary text-white btn-lg mt-4"
-             target="_blank"
-             href="{{ data.ticket-url }}">Get your ticket!</a>
-        {% else %}
-          <a class="btn btn-primary text-white btn-lg mt-3"
-             target="_blank"
-             href="//t.me/speckandtech">Stay tuned!</a>
-        {% endif %}
-        {% if data.sponsor.name != '' %}
-          <div class="mt-5">
-            <p>powered by</p>
-            <a target="_blank" href="{{ data.sponsor.url }}">
-              <div class="mx-auto w-50 w-sm-30 w-lg-20">
-                <img class="img-fluid mx-auto d-block"
-                     src="{{ data.sponsor.logo }}"
-                     alt="{{ data.sponsor.description }}"/>
-              </div>
-            </a>
-          </div>
-        {% endif %}
-        {% if data.partner.name != '' %}
-          <div class="mt-5">
-            <span>in partnership with</span>
-            <a target="_blank" href="{{ data.partner.url }}">
-              <img src="{{ data.partner.logo }}" alt="{{ data.partner.description }}" />
-            </a>
-          </div>
-        {% endif %}
-      </div>
+        {% elsif data.type == "loading" %}
+        <h4>
+          <b class="text-red display-4">Loading...</b>
+        </h4>
+      {% endif %}
+      {% if data.date != '' and data.type == "event" %}
+        <h4 class="mt-4">
+          📅 {{ data.date | date:"%d/%m/%y - %H:%M" }}
+          <br />
+          <span class="mt-3 d-block">📍
+            <a target="_blank" href="{{ data.location.url }}">{{ data.location.name }}</a>
+          </span>
+        </h4>
+      {% endif %}
+      {% if data.type == "loading" and data.ticket-url != "" %}
+        <p class="mt-5 h4">Tickets are already available on Eventbrite</p>
+      {% endif %}
+      {% if data.ticket-url != "" %}
+        <a class="btn btn-primary text-white btn-lg mt-4"
+           target="_blank"
+           href="{{ data.ticket-url }}">Get your ticket!</a>
+      {% else %}
+        <a class="btn btn-primary text-white btn-lg mt-3"
+           target="_blank"
+           href="//t.me/speckandtech">Stay tuned!</a>
+      {% endif %}
+      {% if data.sponsor.name != '' and data.type == "event" %}
+        <div class="mt-5">
+          <p>powered by</p>
+          <a target="_blank" href="{{ data.sponsor.url }}">
+            <div class="mx-auto w-50 w-sm-30 w-lg-20">
+              <img class="img-fluid mx-auto d-block"
+                   src="{{ data.sponsor.logo }}"
+                   alt="{{ data.sponsor.description }}"/>
+            </div>
+          </a>
+        </div>
+      {% endif %}
+      {% if data.partner.name != '' %}
+        <div class="mt-5">
+          <span>in partnership with</span>
+          <a target="_blank" href="{{ data.partner.url }}">
+            <img src="{{ data.partner.logo }}" alt="{{ data.partner.description }}" />
+          </a>
+        </div>
+      {% endif %}
     </div>
   </div>
-{% else %}
-  <div class="event-container">
-    <div>
-      <h4>
-        <b>Next event coming soon!</b>
-      </h4>
-      <a class="btn btn-primary text-white btn-lg mt-3"
-         target="_blank"
-         href="https://t.me/speckandtech">Stay tuned!</a>
-    </div>
-  </div>
-{% endif %}
+</div>
