@@ -1,21 +1,17 @@
-{% assign data = site.data.homepage-event %}
-<div class="position-relative">
-  <span class="next-meetup">NEXT MEETUP</span>
+<div class="card border border-5 border-primary h-100 py-5 px-3 text-center position-relative mx-md-auto w-md-60 w-lg-100 shadow">
+  <div class="position-absolute top-0 start-50 start-lg-0 translate-middle h1 p-4 bg-primary text-light rounded-circle -rotate-40 shadow">
+    <p class="mb-0 text-light h1">{{ data.edition }}</p>
+  </div>
+  <span class="mt-4 mt-lg-0">NEXT MEETUP</span>
   <div class="event-container">
     <div>
-      {% if data.type == "event" %}
-        <h4 class="mt-2">
-          {% if data.pre-title != '' %}
-            <span>{{ data.pre-title }}</span>
-            <br />
-          {% endif %}
-          <b class="text-red display-4">{{ data.title }}</b>
-        </h4>
-        {% elsif data.type == "loading" %}
-        <h4>
-          <b class="text-red display-4">Loading...</b>
-        </h4>
-      {% endif %}
+      <h4 class="mt-2">
+        {% if data.pre-title != '' %}
+          <span>{{ data.pre-title }}</span>
+          <br />
+        {% endif %}
+        <b class="text-red display-4">{{ data.title }}</b>
+      </h4>
       {% if data.date != '' and data.type == "event" %}
         <h4 class="mt-4">
           📅 {{ data.date | date:"%d/%m/%y - %H:%M" }}
@@ -38,14 +34,14 @@
            href="//t.me/speckandtech">Stay tuned!</a>
       {% endif %}
       {% if data.sponsor.name != '' and data.type == "event" %}
-        <div class="mt-5">
+        <div class="mt-5 position-relative">
           <p>powered by</p>
-          <a target="_blank" href="{{ data.sponsor.url }}">
-            <div class="mx-auto w-50 w-sm-30 w-lg-20">
-              <img class="img-fluid mx-auto d-block"
-                   src="{{ data.sponsor.logo }}"
-                   alt="{{ data.sponsor.description }}"/>
-            </div>
+          <a class="w-60 d-block mx-auto"
+             target="_blank"
+             href="{{ data.sponsor.url }}">
+            <img class="w-100 d-block"
+                 src="{{ data.sponsor.logo }}"
+                 alt="{{ data.sponsor.description }}"/>
           </a>
         </div>
       {% endif %}
@@ -53,7 +49,9 @@
         <div class="mt-5">
           <span>in partnership with</span>
           <a target="_blank" href="{{ data.partner.url }}">
-            <img src="{{ data.partner.logo }}" alt="{{ data.partner.description }}" />
+            <img class="w-100"
+                 src="{{ data.partner.logo }}"
+                 alt="{{ data.partner.description }}"/>
           </a>
         </div>
       {% endif %}

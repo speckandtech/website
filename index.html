@@ -4,19 +4,7 @@ title: Speck&Tech
 description: Speck&Tech is a community of entrepreneurs, students, professionals and ... anyone that aims at building a network of tech enthusiasts within the Trento area
 ---
 <div class="homepage">
-  <section id="intro"
-           style="background-image: url('/img/home-backgrounds/51-pathfinder.jpg')">
-    <div class="text-center">
-      {% include animated_logo.html %}
-      <h1 class="display-1 mt-3">
-        SPECK<span>&amp;</span>TECH
-      </h1>
-      <h2>Tasty tech events in Trento</h2>
-      <div class="call-to-action mt-5">
-        <div class="action">{% include homepage-main-cta.html %}</div>
-      </div>
-    </div>
-  </section>
+  {% include hero.html %}
   <section id="about-homepage">
     <div class="container">
       <div class="row py-5">
@@ -179,12 +167,8 @@ description: Speck&Tech is a community of entrepreneurs, students, professionals
                   <a href="{{ post.url }}">
                     <h5 class="card-title">{{ post.title }}</h5>
                   </a>
-                  <h6 class="card-subtitle mb-2 text-muted">
-                    {{ post.date | date: "%b %d, %Y" }}
-                  </h6>
-                  <p class="card-text">
-                    {{ post.description }}
-                  </p>
+                  <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %d, %Y" }}</h6>
+                  <p class="card-text">{{ post.description }}</p>
                   <a href="{{ post.url }}" class="card-link">Read more</a>
                 </div>
               </div>
