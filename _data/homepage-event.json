@@ -1,11 +1,13 @@
 {
   "type": "event",
 
+  "background": "/img/home-backgrounds/51-pathfinder.jpg",
+  "edition": 51,
   "pre-title": "",
   "title": "Pathfinder",
   "date": "2023-03-20T20:45:00+02:00",
   "time": "20:45",
-  
+
   "location": {
     "name": "Impact Hub Trentino",
     "url": "//g.page/impacthubtrentino"
@@ -19,7 +21,7 @@
 
   "sponsor": {
     "name": "Gruber Logistics",
-    "logo": "//www.gruber-logistics.com/wp-content/uploads/2018/11/Gruber-logistics-logo-color.png",
+    "logo": "/img/sponsor/gruber-logistics.png",
     "url": "//www.gruber-logistics.com",
     "description": ""
   },
