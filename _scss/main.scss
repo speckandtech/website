@@ -63,6 +63,10 @@ $utilities: (
   color: $blue;
 }
 
+.-rotate-40 {
+  transform: rotate(-40deg);
+}
+
 .hover:text-primary {
   &:hover {
     color: $red;
@@ -73,7 +77,13 @@ $utilities: (
   text-decoration: none;
 }
 
-#intro {
+@media only screen and (min-width: 992px) {
+  .start-lg-0 {
+    left: 0 !important;
+  }
+}
+
+#hero {
   min-height: 80vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -108,6 +118,8 @@ $utilities: (
     height: 200px;
   }
 }
+
+// Used in mega_job_banner
 
 .img_background_cover {
   background-size: cover;
