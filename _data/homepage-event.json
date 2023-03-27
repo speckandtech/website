@@ -1,28 +1,28 @@
 {
-  "type": "loading",
+  "type": "event",
 
   "pre-title": "",
-  "title": "",
-  "date": "2023-03-20T20:45:00+02:00",
-  "time": "20:45",
+  "title": "40 Years of Tech",
+  "date": "2023-04-19T20:45:00+02:00",
+  "time": "20:30",
   
   "location": {
-    "name": "Impact Hub Trentino",
-    "url": "//g.page/impacthubtrentino"
+    "name": "Auditorium Lettere e Filosofia",
+    "url": "//goo.gl/maps/G8ErqGHhbKBaHsxs8"
   },
 
   "partner": {
-    "name": "",
-    "logo": "",
-    "url": ""
+    "name": "DISI UniTN",
+    "logo": "//research.iottestbed.disi.unitn.it/static/images/logo_disi.png",
+    "url": "//disi.unitn.it"
   },
 
   "sponsor": {
-    "name": "Gruber Logistics",
-    "logo": "//www.gruber-logistics.com/wp-content/uploads/2018/11/Gruber-logistics-logo-color.png",
-    "url": "//www.gruber-logistics.com",
+    "name": "Opencontent",
+    "logo": "/img/open-content.svg",
+    "url": "//www.opencontent.it",
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/ST-51"
+  "ticket-url": "//bit.ly/speck52"
 }
