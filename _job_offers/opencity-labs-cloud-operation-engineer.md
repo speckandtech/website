@@ -40,8 +40,8 @@ con sistemi di configuration management (Puppet, Chef, Ansible);
 
 - con orchestratori di container come Docker Swarm, Hashicorp Nomad, Kubernetes;
 - con Amazon Web Services, Azure, Kafka o l’OS Ubuntu Server;
-  su infrastrutture con grandi quantità di dati (i terabyte è la nostra dimensione in termine di files, le centinaia di GB per i database);
-  in un’azienda o un team di prodotto;
+- su infrastrutture con grandi quantità di dati (i terabyte è la nostra dimensione in termine di files, le centinaia di GB per i database);
+- in un’azienda o un team di prodotto;
 - con il framework di sviluppo agile Scrum o in team che hanno adottato Domain Driven Design.
 
 Cosa offriamo

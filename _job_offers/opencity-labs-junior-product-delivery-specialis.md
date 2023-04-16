@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Opencity Labs - Customer Solution Engineer"
+title: "Opencity Labs - Junior Product Delivery Specialist"
 date: 2023-04-17T12:45:00+02:00
 categories: hiring
 slug: "opencity-labs-junior-product-delivery-specialist"
@@ -39,13 +39,13 @@ Il candidato:
 
 # Cosa offriamo
 
-adottiamo un modello organizzativo basato sulla digital collaboration: usiamo le tecnologie digitali per favorire un metodo di lavoro efficace e che mette al centro le persone e le competenze
-formazione continua: ogni anno un programma di formazione per la tua crescita
-un progetto innovativo: adottiamo continuamente nuove tecnologie e ne diventiamo rapidamente esperti
-assistenza sanitaria integrativa
-almeno 2k euro di budget per la propria postazione;
-team distribuito in Italia: lavoro 100% remoto, con approccio agile. Staff meeting in presenza, quando serve
-impiego full-time: CCNL Metalmeccanici a tempo indeterminato, RAL fino a 33k (in base al livello di esperienza)
+- adottiamo un modello organizzativo basato sulla digital collaboration: usiamo le tecnologie digitali per favorire un metodo di lavoro efficace e che mette al centro le persone e le competenze
+- formazione continua: ogni anno un programma di formazione per la tua crescita
+- un progetto innovativo: adottiamo continuamente nuove tecnologie e ne diventiamo rapidamente esperti
+- assistenza sanitaria integrativa
+- almeno 2k euro di budget per la propria postazione;
+- team distribuito in Italia: lavoro 100% remoto, con approccio agile. Staff meeting in presenza, quando serve
+- impiego full-time: CCNL Metalmeccanici a tempo indeterminato, RAL fino a 33k (in base al livello di esperienza)
 
 # La selezione
 
