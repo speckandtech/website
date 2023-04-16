@@ -7,7 +7,7 @@ slug: "opencity-labs-technical-assistant"
 description: "OpenCity Labs è alla ricerca di  un junior technical assistant. La posizione - alle dirette dipendenze del CEO - consente di avere grande visibilità sul funzionamento di una azienda tecnologica organizzata in modo moderno che sviluppa e distribuisce una piattaforma open source già utilizzata da centinaia di amministrazioni su tutto il territorio nazionale."
 ---
 
-# Back-end software developer (Symfony)
+# Opencity Labs - Technical assistant
 
 # Chi siamo
 
