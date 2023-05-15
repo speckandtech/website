@@ -1,30 +1,30 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/52-40-years-of-tech.webp",
-  "edition": 52,
+  "background": "/img/home-backgrounds/53-high-throughput.jpg",
+  "edition": 53,
   "pre-title": "",
-  "title": "40 Years of Tech",
-  "date": "2023-04-19T20:30:00+02:00",
-  "time": "20:30",
+  "title": "High throughput",
+  "date": "2023-05-29T20:45:00+02:00",
+  "time": "20:45",
 
   "location": {
-    "name": "Auditorium Lettere e Filosofia",
-    "url": "//goo.gl/maps/G8ErqGHhbKBaHsxs8"
+    "name": "Impact Hub Trentino",
+    "url": "//g.page/impacthubtrentino"
   },
 
   "partner": {
-    "name": "DISI UniTN",
-    "logo": "//research.iottestbed.disi.unitn.it/static/images/logo_disi.png",
-    "url": "//disi.unitn.it"
+    "name": "",
+    "logo": "",
+    "url": ""
   },
 
   "sponsor": {
-    "name": "OpenCity Labs",
-    "logo": "/img/sponsor/opencity-labs-logo.png",
-    "url": "//opencitylabs.it",
+    "name": "",
+    "logo": "",
+    "url": "",
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck52"
+  "ticket-url": "//bit.ly/speck53"
 }

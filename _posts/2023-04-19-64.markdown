@@ -1,0 +1,25 @@
+---
+layout: event
+title: "#52 - 40 Years of Tech"
+date:   2023-04-19T20:45:00+02:00
+categories: event
+slug: "40-years-of-tech"
+---
+
+## Where have we been and where are we going?
+
+### Andrew S. Tanenbaum - Professor Emeritus of Computer Science @ [Vrije Universiteit Amsterdam](//vu.nl){:target="_blank"}
+
+The world of computers has moved at an incredible pace during the past 40 years. In 1983, the computer world was dominated by the IBM System/370 mainframes, the smallest model of which (the 135) had 96 KB of RAM and cost $475,000. But if you didn’t have that kind of money, you could get a VAX 11/780 minicomputer with 1 MB for a mere $120,000. That year also marked the introduction of the IBM PC/XT, which ran MS-DOS from a revolutionary 10-MB hard disk. A high-speed Hayes modem ran at 1200 bps but it cost $1199. That didn’t matter so much, however, because the first graphical browser, Mosaic, wouldn’t be released for another decade. By way of comparison, an iPad is about 500 times faster than the System 370/135, has 10,000 times more RAM and costs about 1000x less. But this talk isn’t only about the past 40 years. It is also about the next 40 years.
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/xloQRA3ttIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>
