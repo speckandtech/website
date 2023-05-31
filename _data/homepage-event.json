@@ -1,11 +1,11 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/53-high-throughput.jpg",
-  "edition": 53,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 54,
   "pre-title": "",
-  "title": "High throughput",
-  "date": "2023-05-29T20:45:00+02:00",
+  "title": "",
+  "date": "2023-06-27T20:45:00+02:00",
   "time": "20:45",
 
   "location": {
@@ -26,5 +26,5 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck53"
+  "ticket-url": ""
 }
