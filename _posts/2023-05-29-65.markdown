@@ -20,6 +20,7 @@ Perlmutter is the newest supercomputer at Berkeley Lab, California, and features
 
 Internet Exchange Points (IXPs) play an important role in the architecture of the modern Internet, but they are mostly transparent for the end users and therefore are an often unknown piece of the puzzle. This talk wants to shed some light on what happens "behind the scenes" of the daily usage of the Internet, and why a growing number of operators choose to connect to MIX, the largest IXP in Italy.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gIvkSAL90KPerw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Weren't you there?
 
