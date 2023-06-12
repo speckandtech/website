@@ -1,10 +1,10 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/home-background.jpg",
+  "background": "/img/home-backgrounds/54-woodwork.jpg",
   "edition": 54,
   "pre-title": "",
-  "title": "",
+  "title": "Woodwork",
   "date": "2023-06-27T20:45:00+02:00",
   "time": "20:45",
 
@@ -20,9 +20,9 @@
   },
 
   "sponsor": {
-    "name": "",
-    "logo": "",
-    "url": "",
+    "name": "Microtec",
+    "logo": "/img/sponsor/microtec-logo.jpg",
+    "url": "//microtec.eu",
     "description": ""
   },
 
