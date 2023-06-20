@@ -24,10 +24,15 @@ collections:
 
 encoding: UTF-8
 markdown: kramdown
-highlighter: null
-plugins: []
+
 kramdown:
   parse_block_html: true
+sass:
+  sass_dir: _scss
+  style: compressed
+  sourcemap: never
+
+plugins: []
 
 keep_files: []
 include: []
