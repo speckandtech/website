@@ -1,13 +1,34 @@
 name: SpeckAndTech
 title: Speck&Tech
-url: https://speckand.tech
-kramdown:
-  parse_block_html: true
-highlighter: null # or rouge or null
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+description: ""
+
+baseurl: / # the subpath of the site
+url: / # the base hostname & protocol for the site
 permalink: "/:year/:month/:title/"
+
+port: 4268
+# destination: _site
+# assets_dir: _assets
+# data_dir: _data
+# drafts_dir: _drafts
+# posts_dir: _posts
+# layouts_dir: _templates/layouts
+# includes_dir: _templates/includes
+# collections_dir: _pages
 collections:
   job_offers:
     output: true
     permalink: "/:collection/:title/"
     sort_by: title
+
+encoding: UTF-8
+markdown: kramdown
+highlighter: null
+plugins: []
+kramdown:
+  parse_block_html: true
+
+keep_files: []
+include: []
+exclude: ["node_modules", "gulpfile.js", "package.json"]
