@@ -3,8 +3,7 @@ title: Speck&Tech
 
 description: ""
 
-baseurl: / # the subpath of the site
-url: / # the base hostname & protocol for the site
+url: https://speckand.tech
 permalink: "/:year/:month/:title/"
 
 port: 4268
