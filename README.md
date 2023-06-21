@@ -3,48 +3,46 @@
 - [Speck\&Tech](#specktech)
   - [System Preparation](#system-preparation)
   - [Local Installation](#local-installation)
-  - [Usage](#usage)
-    - [Development mode](#development-mode)
-    - [Jekyll](#jekyll)
+  - [Jekyll Development Mode](#jekyll-development-mode)
   - [Deploy](#deploy)
   - [Management](#management)
     - [Events on the homepage hero](#events-on-the-homepage-hero)
       - [Use the "event" type](#use-the-event-type)
       - [Use the "loading" type](#use-the-loading-type)
 
-
 ## System Preparation
 
-To use this starter project, you'll need the following things installed on your machine.
+You'll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and the [Bundler](https://bundler.io/) gem installed on your machine:
 
-1. [Ruby](https://www.ruby-lang.org/en/)
-2. [NodeJS](http://nodejs.org) - use the installer.
-3. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll`
+```shell
+brew install ruby   # or use asdf or rbenv
+gem install bundler
+```
 
 ## Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
-2. Inside the directory, run `npm install`
+2. Inside the directory, run `bundle install`. It will fetch [Jekyll](http://jekyllrb.com) and its dependencies.
 
-## Usage
+Compatibility issues with your platform? Fear not! Just run `bundle lock --add-platform <platform>`.
 
-### Development mode
+## Jekyll Development Mode
 
-This will give you file watching, browser synchronisation, auto-rebuild, CSS injecting etc.
+To get the server running:
 
 ```shell
-$ npm run gulp
+bundle exec jekyll serve
+# in alternative
+jekyll serve
 ```
 
-### Jekyll
-
-As this is just a Jekyll project, you can use any of the commands listed in their [docs](http://jekyllrb.com/docs/usage/)
+It will take care of livereloading and Sass compiling. If you need more info, please see the [Jekyll docs](http://jekyllrb.com/docs/usage/).
 
 ## Deploy
 
 When you push to `master`, Github Pages will take care of building the website and deploying it at [http://speckand.tech](https://www.ruby-lang.org/en/).
 
----
+<br><hr><br>
 
 ## Management
 
