@@ -36,3 +36,7 @@ plugins: []
 keep_files: []
 include: []
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Variables
+
+RETREAT_EDITION: 4

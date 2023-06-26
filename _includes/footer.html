@@ -4,10 +4,7 @@
       <div class="row">
         <div class="col-md-5 mb-3">
           <div>
-            <img height="60px"
-                 width="auto"
-                 src="{{ site.url }}/img/small-logo-alone.svg"
-                 alt="small logo"/>
+            <img height="60px" width="auto" src="{{ site.url }}/img/small-logo-alone.svg" alt="small logo" />
             <p class="mt-3">
               <strong>Associazione culturale Speck&amp;Tech</strong>
               <br />
@@ -29,20 +26,18 @@
               <a href="/support-us" class="nav-link p-0">Support us</a>
             </li>
             <li class="nav-item mb-2">
-              <a href="/retreat" class="nav-link p-0">Retreat v3</a>
+              <a href="/retreat" class="nav-link p-0">Retreat v{{site.RETREAT_EDITION}}</a>
             </li>
           </ul>
         </div>
         <div class="col-6 col-md-2 mb-3">
           <h5>Last events</h5>
           <ul class="nav flex-column">
-            {% for post in site.posts limit:3 %}
-              {% if post.categories contains "event" %}
-                <li class="nav-item mb-2">
-                  <a href="{{ post.url }}" class="nav-link p-0">{{ post.title }}</a>
-                </li>
-              {% endif %}
-            {% endfor %}
+            {% for post in site.posts limit:3 %} {% if post.categories contains "event" %}
+            <li class="nav-item mb-2">
+              <a href="{{ post.url }}" class="nav-link p-0">{{ post.title }}</a>
+            </li>
+            {% endif %} {% endfor %}
             <li class="nav-item mb-2">
               <a href="/archive" class="nav-link p-0">Archive</a>
             </li>
@@ -55,9 +50,7 @@
               <a href="{{ site.url }}/code-of-conduct" class="nav-link p-0">Code of conduct</a>
             </li>
             <li class="nav-item mb-2">
-              <a href="https://github.com/speckandtech/speckandtech.github.io/issues"
-                 target="_blank"
-                 class="nav-link p-0">Report an error</a>
+              <a href="https://github.com/speckandtech/speckandtech.github.io/issues" target="_blank" class="nav-link p-0">Report an error</a>
             </li>
           </ul>
         </div>
