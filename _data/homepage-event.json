@@ -1,11 +1,11 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/54-woodwork.jpg",
-  "edition": 54,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 55,
   "pre-title": "",
-  "title": "Woodwork",
-  "date": "2023-06-27T20:45:00+02:00",
+  "title": "Loading...",
+  "date": "2023-07-17T20:45:00+02:00",
   "time": "20:45",
 
   "location": {
@@ -20,11 +20,11 @@
   },
 
   "sponsor": {
-    "name": "Microtec",
-    "logo": "/img/sponsor/microtec-logo.jpg",
-    "url": "//microtec.eu",
+    "name": "",
+    "logo": "",
+    "url": "",
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck54"
+  "ticket-url": "//bit.ly/speck55"
 }
