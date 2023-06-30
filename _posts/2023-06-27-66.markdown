@@ -1,0 +1,34 @@
+---
+layout: event
+title: "#54 - Woodwork"
+date:   2023-06-27T20:45:00+02:00
+categories: event
+slug: "woodwork"
+---
+
+## Innovating wood
+
+### Carlo Saporito Moretto - Corporate Business Process Manager @ [MiCROTEC](//microtec.eu/){:target="_blank"}
+
+Wood plays a key role in our societies, especially in achieving sustainable development in the construction sector. Making the best of this precious raw material is essential. MiCROTEC is the leading provider of innovative wood scanning solutions that allow making the best of every single tree. What makes MiCROTEC so successful at what it does? Innovation is the key and it permeates the company’s every activity, from the development of superior hardware to the deployment of AI to detect defects.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2Csw4gEui7uWev" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+## From leaf to orbit
+
+### Daniele Marinelli - Researcher @ [Fondazione Edmund Mach](//cri.fmach.it){:target="_blank"}
+
+Forests are vital to our planet's health and to many human activities. Given the increasing impact of climate change and human actions, monitoring the condition of our forests has become imperative. At the Forest Ecology Unit of Fondazione Edmund Mach, we employ an array of cutting-edge technologies to examine forest dynamics and enhance management practices. From tree-mounted sensors to orbiting satellites, the talk will provide an overview of the technologies at our disposal and how we are using them.
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/OLEav1OQLKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>
