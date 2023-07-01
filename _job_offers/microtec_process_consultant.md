@@ -7,14 +7,12 @@ slug: 'microtec_process_consultant'
 description: 'Work within our BPM & BI team to promote strategic change initiatives with wide process, organizational and technological resonance throughout the company.'
 ---
 
-Location: Bressanone, Venice / IT
-Department: Sales & Marketing
-E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)
-Website: [www.microtec.eu](https://www.microtec.eu)
-
 # The position
 
 As a Process consultant you will be working within our BPM & BI team to promote strategic change initiatives with wide process, organizational and technological resonance throughout the company. You goal will be to catalyze change by empowering others.
+
+Location: Bressanone, Venice / IT  
+Department: Sales & Marketing  
 
 # Your tasks
 
@@ -39,10 +37,13 @@ As a Process consultant you will be working within our BPM & BI team to promote 
 
 # About the company
 
-MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.
+MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.  
 
-Employees: 400
-Turnover: 80 Mio €
+E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)  
+Website: [www.microtec.eu](https://www.microtec.eu)  
+
+Employees: 400  
+Turnover: 80 Mio €  
 
 # Application
 

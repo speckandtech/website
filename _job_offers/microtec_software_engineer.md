@@ -7,14 +7,12 @@ slug: 'microtec_software_engineer'
 description: 'Become an expert of our scanning optimization solutions, having the possibility to see the industrial processes at 360°. You will implement, validate and optimize our software in relation to industry needs, contributing to the success of our innovating company.'
 ---
 
-Location: Venice / IT
-Department: Sales & Marketing
-E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)
-Website: [www.microtec.eu](https://www.microtec.eu)
-
 # The position
 
 As Software Engineer in our technical and operating departments you will become an expert of our scanning optimization solutions, having the possibility to see the industrial processes at 360°. You will implement, validate and optimize our software in relation to industry needs, contributing to the success of our innovating company.
+
+Location: Venice / IT  
+Department: Sales & Marketing  
 
 # Your tasks
 
@@ -40,10 +38,13 @@ As Software Engineer in our technical and operating departments you will become 
 
 # About the company
 
-MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.
+MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.  
 
-Employees: 400
-Turnover: 80 Mio €
+E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)  
+Website: [www.microtec.eu](https://www.microtec.eu)  
+
+Employees: 400  
+Turnover: 80 Mio €  
 
 # Application
 

@@ -7,14 +7,12 @@ slug: 'microtec_data_analyst'
 description: 'Working within our BPM & BI team to promote data-driven decision making through analyses and insightful reporting across the group.'
 ---
 
-Location: Bressanone / IT
-Department: Administration & Finance
-E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)
-Website: [www.microtec.eu](https://www.microtec.eu)
-
 # The position
 
 As a Data Analyst at Microtec you will be working within our BPM & BI team to promote data-driven decision making through analyses and insightful reporting across the group.
+
+Location: Bressanone / IT  
+Department: Administration & Finance  
 
 # Your tasks
 
@@ -40,10 +38,13 @@ As a Data Analyst at Microtec you will be working within our BPM & BI team to pr
 
 # About the company
 
-MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.
+MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.  
 
-Employees: 400
-Turnover: 80 Mio €
+E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)  
+Website: [www.microtec.eu](https://www.microtec.eu)  
+
+Employees: 400  
+Turnover: 80 Mio €  
 
 # Application
 

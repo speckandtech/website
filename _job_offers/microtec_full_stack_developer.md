@@ -7,14 +7,12 @@ slug: 'microtec_full_stack_developer'
 description: 'As a Full-Stack Developer you are responsible for developing and designing the front-end web architecture, ensuring the responsiveness of applications, and among other duties, you will work alongside graphic designers for web design features. In this role you will oversee a project from the draft to the final product, having good organizational skills and attention to detail.'
 ---
 
-Location: Bressanone / IT
-Department: Product & SW Development
-E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)
-Website: [www.microtec.eu](https://www.microtec.eu)
-
 # The position
 
 As a Full-Stack Developer you are responsible for developing and designing the front-end web architecture, ensuring the responsiveness of applications, and among other duties, you will work alongside graphic designers for web design features. In this role you will oversee a project from the draft to the final product, having good organizational skills and attention to detail.
+
+Location: Bressanone / IT  
+Department: Product & SW Development  
 
 # Your tasks
 
@@ -43,10 +41,13 @@ As a Full-Stack Developer you are responsible for developing and designing the f
 
 # About the company
 
-MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.
+MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.  
 
-Employees: 400
-Turnover: 80 Mio €
+E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)  
+Website: [www.microtec.eu](https://www.microtec.eu)  
+
+Employees: 400  
+Turnover: 80 Mio €  
 
 # Application
 

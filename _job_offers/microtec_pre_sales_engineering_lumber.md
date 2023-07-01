@@ -7,14 +7,12 @@ slug: 'microtec_pre_sales_engineering_lumber'
 description: 'As a Pre-Sales Engineer, you will be responsible for managing the technical feasibility process of technologically advanced solutions with a focus on the wood processing sector (“green, dry & planer mill” and “secondary processing”). In this role, you will analyse customer needs and provide, by demos and context analysis, the fundamental information to describe the quantitative and qualitative advantages with the use of MiCROTEC products.'
 ---
 
-Location: Bressanone, Venice / IT
-Department: Sales & Marketing
-E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)
-Website: [www.microtec.eu](https://www.microtec.eu)
-
 # The position
 
 As a Pre-Sales Engineer, you will be responsible for managing the technical feasibility process of technologically advanced solutions with a focus on the wood processing sector (“green, dry & planer mill” and “secondary processing”). In this role, you will analyse customer needs and provide, by demos and context analysis, the fundamental information to describe the quantitative and qualitative advantages with the use of MiCROTEC products.
+
+Location: Bressanone, Venice / IT  
+Department: Sales & Marketing  
 
 # Your tasks
 
@@ -43,10 +41,13 @@ As a Pre-Sales Engineer, you will be responsible for managing the technical feas
 
 # About the company
 
-MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.
+MiCROTEC – the world leading wood scanning solutions – is the global technology and market leader in intelligent wood property recognition for optimizing the use in the wood processing industry and has been setting the standards in this market since 1980. There is no process that is not streamlined, optimized, and accelerated by MiCROTEC technologies and systems. Always committed to providing the customer with the most economically & ecologically sustainable wood utilization.  
 
-Employees: 400
-Turnover: 80 Mio €
+E-mail: [careers@microtec.eu](mailto:careers@microtec.eu)  
+Website: [www.microtec.eu](https://www.microtec.eu)  
+
+Employees: 400  
+Turnover: 80 Mio €  
 
 # Application
 
