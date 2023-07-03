@@ -12,10 +12,13 @@
 
 ## System Preparation
 
-You'll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and the [Bundler](https://bundler.io/) gem installed on your machine:
+You'll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and the [Bundler](https://bundler.io/) gem installed on your machine.  
+As our site is hosted on GitHub, you are required to procure the [same dependency versions](https://pages.github.com/versions/) they ship. 
+We suggest using [rbenv](https://github.com/rbenv/rbenv).
 
 ```shell
-brew install ruby   # or use asdf or rbenv
+brew install rbenv ruby-build
+rbenv install 2.7.4
 gem install bundler
 ```
 
