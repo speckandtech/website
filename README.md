@@ -1,48 +1,45 @@
 # Speck&amp;Tech
 
-- [Speck\&Tech](#specktech)
-  - [System Preparation](#system-preparation)
-  - [Local Installation](#local-installation)
-  - [Jekyll Development Mode](#jekyll-development-mode)
-  - [Deploy](#deploy)
-  - [Management](#management)
-    - [Events on the homepage hero](#events-on-the-homepage-hero)
-      - [Use the "event" type](#use-the-event-type)
-      - [Use the "loading" type](#use-the-loading-type)
+### System Preparation
 
-## System Preparation
+You'll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and the [Bundler](https://bundler.io/) gem installed on your machine. As our site is hosted on GitHub pages, you are required to procure the [same dependency versions](https://pages.github.com/versions/) they ship. We suggest using the [rbenv](https://github.com/rbenv/rbenv) version manager.
 
-You'll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and the [Bundler](https://bundler.io/) gem installed on your machine:
+```bash
+# install the Ruby version manager
+brew install rbenv ruby-build
+rbenv install $(cat .ruby-version)
 
-```shell
-brew install ruby   # or use asdf or rbenv
+# set the local Ruby version
+rbenv local $(cat .ruby-version)
+
+# install the package manager
 gem install bundler
 ```
 
-## Local Installation
+### Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
 2. Inside the directory, run `bundle install`. It will fetch [Jekyll](http://jekyllrb.com) and its dependencies.
 
 Compatibility issues with your platform? Fear not! Just run `bundle lock --add-platform <platform>`.
 
-## Jekyll Development Mode
+### Jekyll Development Mode
 
 To get the server running:
 
-```shell
-bundle exec jekyll serve
+```bash
+bundle exec jekyll serve [--livereload]
 # in alternative
-jekyll serve
+jekyll serve [--livereload]
 ```
 
 It will take care of livereloading and Sass compiling. If you need more info, please see the [Jekyll docs](http://jekyllrb.com/docs/usage/).
 
-## Deploy
+### Deploy
 
 When you push to `master`, Github Pages will take care of building the website and deploying it at [http://speckand.tech](https://www.ruby-lang.org/en/).
 
-<br><hr><br>
+<br><br>
 
 ## Management
 

@@ -22,12 +22,9 @@ collections:
     sort_by: title
 
 encoding: UTF-8
-markdown: kramdown
 
-kramdown:
-  parse_block_html: true
 sass:
-  sass_dir: _assets/scss
+  sass_dir: _assets/css
   style: compressed
   sourcemap: never
 
