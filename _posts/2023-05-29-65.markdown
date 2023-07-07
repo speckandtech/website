@@ -31,5 +31,6 @@ Internet Exchange Points (IXPs) play an important role in the architecture of th
 #### Check the video!
 
 <iframe width="100%" height="480px" src="https://www.youtube.com/embed/O3MjD_i219A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST53p">pictures &#128247;</a>
 
 </section>

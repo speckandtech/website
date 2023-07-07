@@ -1,11 +1,10 @@
 _site
 .idea
-node_modules
 .publish
 .DS_Store
-.ruby-version
 
 .vscode/**
 .jekyll-cache/
+.sass-cache/
 
 env

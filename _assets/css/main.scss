@@ -1,3 +1,11 @@
+--- 
+---
+
+/*
+ * Speck&Tech
+ * 
+ */
+
 @import "vars";
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
 
@@ -170,6 +178,14 @@ $utilities: (
   &.silver {
     width: 300px;
     height: 300px;
+  }
+}
+
+.event-number {
+  height: 100px;
+  width: 100px;
+  p {
+    padding-top: 5px;
   }
 }
 

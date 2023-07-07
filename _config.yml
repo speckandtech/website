@@ -7,8 +7,8 @@ url: https://speckand.tech
 permalink: "/:year/:month/:title/"
 
 port: 4268
-# destination: _site
-# assets_dir: _assets
+destination: _site
+assets_dir: _assets
 # data_dir: _data
 # drafts_dir: _drafts
 # posts_dir: _posts
@@ -22,21 +22,18 @@ collections:
     sort_by: title
 
 encoding: UTF-8
-markdown: kramdown
 
-kramdown:
-  parse_block_html: true
 sass:
-  sass_dir: _scss
+  sass_dir: _assets/css
   style: compressed
   sourcemap: never
 
 plugins: []
 
 keep_files: []
-include: []
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+include: ["_assets"]
+exclude: ["_assets/css/bootstrap"]
 
 # Variables
-
 RETREAT_EDITION: 4
