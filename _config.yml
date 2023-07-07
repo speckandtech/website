@@ -31,5 +31,9 @@ sass:
 plugins: []
 
 keep_files: []
+
 include: ["_assets"]
 exclude: ["_assets/css/bootstrap"]
+
+# Variables
+RETREAT_EDITION: 4
