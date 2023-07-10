@@ -1,10 +1,14 @@
-_site
-.idea
-.publish
 .DS_Store
-
 .vscode/**
+.djlintrc
+.idea
+
+.publish
+.jekyll-metadata
 .jekyll-cache/
 .sass-cache/
 
 env
+_site
+
+*.tmp
