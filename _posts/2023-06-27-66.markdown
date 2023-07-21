@@ -31,5 +31,6 @@ Forests are vital to our planet's health and to many human activities. Given the
 #### Check the video!
 
 <iframe width="100%" height="480px" src="https://www.youtube.com/embed/OLEav1OQLKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//bit.ly/ST54p">pictures &#128247;</a>
 
 </section>
