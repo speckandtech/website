@@ -9,7 +9,7 @@
   "time": "17:00",
 
   "location": {
-    "name": "Alpholiday Dimaro",
+    "name": "AlpHoliday Dimaro",
     "url": "//goo.gl/maps/iTjQiabLbD272gt5A"
   },
 
@@ -26,5 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/retreat-v4"
+  "ticket-url": "//bit.ly/retreat-v4",
+  "more-url": "/retreat"
 }

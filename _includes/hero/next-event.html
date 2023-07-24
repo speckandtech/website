@@ -33,6 +33,10 @@
            target="_blank"
            href="//t.me/speckandtech">Stay tuned!</a>
       {% endif %}
+      {% if data.more-url != "" %}
+        <a class="btn btn-outline-primary text-primary btn-lg mt-4"
+           href="{{ data.more-url }}">Learn more</a>
+      {% endif %}
       {% if data.sponsor.name != '' and data.type == "event" %}
         <div class="mt-5 position-relative">
           <p>powered by</p>
