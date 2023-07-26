@@ -12,6 +12,7 @@ slug: "boost-browser"
 
 At Pitch, we made an unconventional choice by picking ClojureScript, a functional programming language that compiles to JavaScript, as our primary language. In this talk, I will explore the reasons behind this decision, delve into the key features of ClojureScript, and share real-life experiences of using it in a large-scale codebase. Whether you're new to the language or curious about its benefits, this presentation will shed light on the advantages of ClojureScript, its impact at Pitch, and how the insights gained can inspire developers across various programming languages.
 
+<iframe src="//pitch.com/embed/c6c9a989-b976-4d5a-aabe-e9ac3dac5339" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 ## Give your Web App superpowers by using GPUs
 
