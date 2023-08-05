@@ -6,7 +6,7 @@ categories: event
 slug: 'mn-homo-faber'
 ---
 ## Gentilmente sponsorizzato da [OpenMove](//www.openmove.com)
-<img src="../../../img/openMove-slide.jpg">
+<img src="../../../img/sponsor/openMove-slide.jpg">
 
 ## Alberto Ferlenga
 ### Rettore @ [IUAV](//www.iuav.it/homepage/)
