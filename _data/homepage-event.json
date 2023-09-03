@@ -1,16 +1,16 @@
 {
   "type": "event",
 
-  "background": "/img/retreat/retreat-background.jpg",
-  "edition": 4,
+  "background": "/img/home-backgrounds/56-quantum-computing.jpg",
+  "edition": 56,
   "pre-title": "",
-  "title": "Retreat v4",
-  "date": "2023-10-06T17:00:00+02:00",
-  "time": "17:00",
+  "title": "Quantum Computing",
+  "date": "2023-09-21T20:45:00+02:00",
+  "time": "20:45",
 
   "location": {
-    "name": "AlpHoliday Dimaro",
-    "url": "//goo.gl/maps/iTjQiabLbD272gt5A"
+    "name": "Impact Hub Trento",
+    "url": "//goo.gl/maps/iqcXNiRs9xGZGbQn9"
   },
 
   "partner": {
@@ -26,6 +26,5 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/retreat-v4",
-  "more-url": "/retreat"
+  "ticket-url": "//bit.ly/ST56"
 }
