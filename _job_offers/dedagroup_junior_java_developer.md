@@ -4,7 +4,7 @@ title: "Dedagroup – Junior Java Developer"
 date: 2023-09-13T17:00:00+02:00
 categories: hiring
 slug: 'dedagroup_junior_java_developer'
-description: ''
+description: 'Sarai inserito/a all’interno della nostra Deda Next, azienda del Gruppo che offre alle Pubbliche Amministrazioni Centrali e Locali e alle Utilities, servizi e soluzioni per la trasformazione digitale, per la trasparenza e l’interoperabilità dei dati, per la transizione ecologica ed una maggiore efficacia ed efficienza gestionale'
 ---
 
 **Sedi di riferimento:** Roma, Benevento, Bologna, Trento  

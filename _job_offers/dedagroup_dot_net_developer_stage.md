@@ -4,7 +4,7 @@ title: "Dedagroup – .Net Developer Stage"
 date: 2023-09-13T17:00:00+02:00
 categories: hiring
 slug: 'dedagroup_dot_net_developer_stage'
-description: ''
+description: 'Sarai inserita/o all’interno della Divisione “International Business” di Dedagroup S.p.A. che collabora con gruppi bancari e finanziari per migliorarne la loro efficienza e competitività e per supportarli nell’evoluzione digitale dei propri modelli di business, sviluppando tecnologia finanziaria e dei metodi di pagamento'
 ---
 
 **Sede:** Trento  

@@ -4,7 +4,7 @@ title: "Dedagroup – Junior Network Security Engineer"
 date: 2023-09-13T17:00:00+02:00
 categories: hiring
 slug: 'dedagroup_junior_network_security_engineer'
-description: ''
+description: 'Sarai inserito/a all’interno di Deda Cloud, Azienda del gruppo specializzata nel supportare le esigenze di business con un ecosistema di servizi gestiti e soluzioni Cloud. Avrai l'opportunità di progettare, installare, configurare, implementare e supportare tutti gli aspetti degli ambienti infrastrutturali di networking.'
 ---
   
 **Sedi di riferimento:** Verona, Trento, Milano, Bologna, Padova  
