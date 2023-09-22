@@ -1,0 +1,38 @@
+---
+layout: event
+title: "#56 - Quantum Computing"
+date:   2023-09-21T20:45:00+02:00
+categories: event
+slug: "quantum-computing"
+---
+
+## Machine learning with quantum computers
+
+### Davide Pastorello - Assistant Professor @ [UniBo](//unibo.it/){:target="_blank"}
+
+Once introduced the fundamental ideas of quantum computing, we will discuss the possibilities offered by quantum computers in machine learning.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/63YR8PVElIedhT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Privacy in the era of quantum computers
+
+### Nicolò Leone - Postdoctoral researcher @ [UniTrento](//www.unitn.it/){:target="_blank"}
+
+The advent of real functional quantum computers will cause a privacy problem. Indeed, quantum computers are particularly good at solving algorithms that ensure information privacy, like the RSA algorithm. In this talk, we will see how quantum computers can be used to restore unconditional security and privacy.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/feUidTyb7rQ4lJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/mlR65Nh2r0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</section>

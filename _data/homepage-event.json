@@ -1,11 +1,11 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/56-quantum-computing.jpg",
-  "edition": 56,
+  "background": "/img/home-backgrounds/57-llms.jpg",
+  "edition": 57,
   "pre-title": "",
-  "title": "Quantum Computing",
-  "date": "2023-09-21T20:45:00+02:00",
+  "title": "",
+  "date": "2023-10-16T20:45:00+02:00",
   "time": "20:45",
 
   "location": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/ST56",
+  "ticket-url": "",
   "more-url": ""
 }
