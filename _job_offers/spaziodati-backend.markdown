@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "SpazioDati - backend developer"
-date: 2022-10-01T12:15:00+02:00
+date: 2023-09-25T12:55:00+02:00
 categories: hiring
 slug: 'spaziodati-be'
 description: "We have 3 teams working on our main product, Atoka. We’re looking for help in all of them. Teams are self-organized based on common and continuously evolving agile practices. We work in TypeScript, Python and Go. We’re currently trying to simplify our codebase with a microservice approach based on gRPC, service mesh and Kubernetes."
@@ -9,7 +9,7 @@ description: "We have 3 teams working on our main product, Atoka. We’re lookin
 
 ## WHO WE ARE
 [SpazioDati](http://spaziodati.eu){:target="_blank"} works on applying Semantic Text Analysis and Machine Learning models on massive amounts of corporate data to provide services - both B2B and B2C - of Sales Intelligence, Lead Generation, Data Cleansing, and more.
-Our main product, [Atoka](http://atoka.io){:target="_blank"}, is currently used by thousands of small and big companies in Italy and abroad, and we plan on expanding to new horizons soon. We're based on open-source software and contribute back when possible.
+Our main product, [Atoka](http://atoka.io){:target="_blank"}, is currently used by thousands of small and big companies in Italy and abroad, and we plan on expanding to new horizons soon.
 
 ## WHO WE LOOK FOR
 We have 3 teams working on our main product, Atoka. We’re looking for help in all of them. Teams are self-organized based on common and continuously evolving agile practices. We work in TypeScript, Python and Go. We’re currently trying to simplify our codebase with a microservice approach based on gRPC, service mesh and Kubernetes.
@@ -20,7 +20,8 @@ We have 3 teams working on our main product, Atoka. We’re looking for help in 
 - you take code quality seriously: continuous integration, testing, code review, linters;
 - very good knowledge of web development (HTTP, web servers, etc.);
 - you know how to work with databases;
-- you’re a great team player.
+- you’re a great team player;
+- you have a working knowledge of the Italian language, or are willing to learn it.
 
 ## NICE-TO-HAVE
 - you are good with Python and Django;
