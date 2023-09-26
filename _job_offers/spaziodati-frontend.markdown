@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "SpazioDati - frontend developer"
-date: 2022-10-07T12:45:00+02:00
+date: 2023-09-25T12:45:00+02:00
 categories: hiring
 slug: 'spaziodati-fe'
 description: "Our Frontend Team is responsible for creating products on the web which will deliver such large amounts of data to our customers in an accessible way, customise their experience and build ad-hoc solutions for their needs, including integrating our tools in their existing software."
@@ -9,7 +9,7 @@ description: "Our Frontend Team is responsible for creating products on the web 
 
 ## WHO WE ARE
 [SpazioDati](http://spaziodati.eu){:target="_blank"} works on applying Semantic Text Analysis and Machine Learning models on massive amounts of corporate data to provide services - both B2B and B2C - of Sales Intelligence, Lead Generation, Data Cleansing, and more.
-Our main product, [Atoka](http://atoka.io){:target="_blank"}, is currently used by thousands of small and big companies in Italy and abroad, and we plan on expanding to new horizons soon. We're based on open-source software and contribute back when possible.
+Our main product, [Atoka](http://atoka.io){:target="_blank"}, is currently used by thousands of small and big companies in Italy and abroad, and we plan on expanding to new horizons soon.
 
 ## WHO WE LOOK FOR
 Our Frontend Team is responsible for creating products on the web which will deliver such large amounts of data to our customers in an accessible way, customise their experience and build ad-hoc solutions for their needs, including integrating our tools in their existing software. We use the latest and greatest tools which fits our needs, such as Django, React, Typescript, Less css preprocessor, testing our code at various levels with pytest, mocha and protractor. We also follow the (quite fast paced) trends in this field by continuously experimenting with new tools, frameworks and languages fearlessly replacing and refactoring existing code when we see fit.
@@ -30,6 +30,7 @@ We are looking for software developers that are ready to “get their hands dirt
 - very good knowledge of HTML5/CSS3
 - you know javascript (btw: having used Jquery in a few projects !== knowing Javascript)
 - you’re a great team player
+- you have a working knowledge of the Italian language, or are willing to learn it
 
 ## NICE-TO-HAVE
 - you are familiar with Python and Django;
