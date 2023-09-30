@@ -1,7 +1,7 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/57-llms.jpg",
+  "background": "/img/home-backgrounds/57-talking-machines.jpg",
   "edition": 57,
   "pre-title": "",
   "title": "Talking Machines",
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "",
+  "ticket-url": "//bit.ly/speck57",
   "more-url": ""
 }
