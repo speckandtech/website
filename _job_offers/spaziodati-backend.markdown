@@ -3,7 +3,7 @@ layout: event
 title: "SpazioDati - backend developer"
 date: 2023-09-25T12:55:00+02:00
 categories: hiring
-slug: 'spaziodati-be'
+slug: 'spaziodati-backend'
 description: "We have 3 teams working on our main product, Atoka. We’re looking for help in all of them. Teams are self-organized based on common and continuously evolving agile practices. We work in TypeScript, Python and Go. We’re currently trying to simplify our codebase with a microservice approach based on gRPC, service mesh and Kubernetes."
 ---
 
