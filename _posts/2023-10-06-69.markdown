@@ -1,0 +1,14 @@
+---
+layout: event
+title:  '🏞 S&T Retreat v4'
+date:   2023-10-06T16:45:00+02:00
+categories: event
+slug: 'speckandtech-retreat-v4'
+---
+
+## The retreat - v4!
+Our biggest Retreat ever - with almost 100 speckers for a long weekend together, amazing weather, a career fair in the sun and a vinyl-only DJ set.
+
+
+## The official brochure
+<iframe src="https://drive.google.com/file/d/1IwUdZ_fwitxGbcSJ6mz3i8SaQwskJAg1/preview?usp=embed_googleplus" style="border: 0; width: 640; height: 700px;" allowfullscreen></iframe>
