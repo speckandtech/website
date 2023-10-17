@@ -1,0 +1,37 @@
+---
+layout: event
+title: "#57 - Talking Machines"
+date:   2023-10-16T20:45:00+02:00
+categories: event
+slug: "talking-machines"
+---
+
+## Building intelligent applications with Large Language Models
+
+### Valentina Alto - Cloud Specialist @ [Microsoft](//www.microsoft.com){:target="_blank"}
+
+Large Language Models (LLMs) have proved extraordinary capabilities in language understanding and generation, but their most promising feature is probably their reasoning capability. The fact that LLMs can understand complex problems, plan step-by-step solutions, and even work by intuition, make them powerful reasoning engine to be placed at the core of AI-powered application. In this session, we are going to explore how LLMs are revolutionizing the world of software development and paving the way for a new landscape for LLM-powered applications.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3vfYANZ9A6OcOa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Why LLMs should be handled with care
+
+### Sara Tonelli - Head of the Digital Humanities research unit @ [Fondazione Bruno Kessler](//dh.fbk.eu){:target="_blank"}
+
+Ever since OpenAI released ChatGPT, LLMs have been applied to the most diverse domains, from education to medicine. However, what they basically do is to look for patterns in huge amounts of text and use those patterns to guess what the next word in a string is. Having no access to the real world, LLMs are therefore great at mimicry but show important limitations when employed for critical tasks, which may affect human well-being, social justice, and access to digital services. This talk will discuss all the above issues, highlighting the risks but also the huge potential of LLMs.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/H59CCIAw0vTkpB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/okVaq1HCA-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>
