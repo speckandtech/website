@@ -1,11 +1,11 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/57-talking-machines.jpg",
-  "edition": 57,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 58,
   "pre-title": "",
-  "title": "Talking Machines",
-  "date": "2023-10-16T20:45:00+02:00",
+  "title": "Code for Impact",
+  "date": "2023-11-08T20:45:00+02:00",
   "time": "20:45",
 
   "location": {
@@ -14,9 +14,9 @@
   },
 
   "partner": {
-    "name": "",
-    "logo": "",
-    "url": ""
+    "name": "NOI Techpark",
+    "logo": "/img/sponsor/NOI.svg",
+    "url": "//noi.bz.it"
   },
 
   "sponsor": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck57",
+  "ticket-url": "//bit.ly/speck58",
   "more-url": ""
 }
