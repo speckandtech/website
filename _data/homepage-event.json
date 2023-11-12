@@ -1,22 +1,22 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/58-code-impact.jpg",
-  "edition": 58,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 59,
   "pre-title": "",
-  "title": "Code for Impact",
-  "date": "2023-11-08T20:45:00+02:00",
-  "time": "20:45",
+  "title": "",
+  "date": "",
+  "time": "",
 
   "location": {
-    "name": "Impact Hub Trento",
-    "url": "//maps.app.goo.gl/XrAZsFMstdN2Eabh6"
+    "name": "",
+    "url": ""
   },
 
   "partner": {
-    "name": "NOI Techpark",
-    "logo": "/img/sponsor/NOI.svg",
-    "url": "//noi.bz.it"
+    "name": "",
+    "logo": "",
+    "url": ""
   },
 
   "sponsor": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck58",
+  "ticket-url": "",
   "more-url": ""
 }
