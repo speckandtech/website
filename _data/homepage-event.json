@@ -4,13 +4,13 @@
   "background": "/img/home-backgrounds/home-background.jpg",
   "edition": 59,
   "pre-title": "",
-  "title": "",
-  "date": "",
-  "time": "",
+  "title": "Genomic Bites",
+  "date": "2023-12-11T20:45:00+02:00",
+  "time": "20:45",
 
   "location": {
-    "name": "",
-    "url": ""
+    "name": "Impact Hub Trento",
+    "url": "//maps.app.goo.gl/XrAZsFMstdN2Eabh6"
   },
 
   "partner": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "",
+  "ticket-url": "//bit.ly/speck59",
   "more-url": ""
 }
