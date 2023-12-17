@@ -1,11 +1,11 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/59-genomic-bites.jpg",
-  "edition": 59,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 60,
   "pre-title": "",
-  "title": "Genomic Bites",
-  "date": "2023-12-11T20:45:00+02:00",
+  "title": "",
+  "date": "2024-01-31T20:45:00+02:00",
   "time": "20:45",
 
   "location": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck59",
+  "ticket-url": "//bit.ly/speck60",
   "more-url": ""
 }
