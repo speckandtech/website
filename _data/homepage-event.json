@@ -1,11 +1,11 @@
 {
   "type": "event",
 
-  "background": "/img/home-backgrounds/60-stories-in-pixels.jpg",
-  "edition": 60,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 61,
   "pre-title": "",
-  "title": "Stories in Pixels",
-  "date": "2024-01-31T20:45:00+02:00",
+  "title": "Architecture Without Stress",
+  "date": "2024-02-26T20:45:00+02:00",
   "time": "20:45",
 
   "location": {
@@ -20,12 +20,12 @@
   },
 
   "sponsor": {
-    "name": "",
-    "logo": "",
-    "url": "",
+    "name": "Fincons Group",
+    "logo": "//www.finconsgroup.com/imgpub/2044508/0/0/logo_fincons.svg",
+    "url": "//www.finconsgroup.com",
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck60",
+  "ticket-url": "//bit.ly/speck61",
   "more-url": ""
 }
