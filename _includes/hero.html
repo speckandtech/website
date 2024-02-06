@@ -3,7 +3,7 @@
   <section id="hero" style="background-image: url('{{ data.background }}')">
     <div class="container">
       <div class="row">
-        <div class="col-lg-7">{% include hero/our-brand.html %}</div>
+        <div class="col-lg-7 logo-container {% if data.title-white %}text-white{% endif %}">{% include hero/our-brand.html %}</div>
         <div class="col-lg-5 mt-5 mt-lg-0">{% include hero/next-event.html %}</div>
       </div>
     </div>
