@@ -1,9 +1,9 @@
---- 
+---
 ---
 
 /*
  * Speck&Tech
- * 
+ *
  */
 
 @import "vars";
@@ -125,6 +125,12 @@ $utilities: (
     max-width: 400px;
     height: 200px;
   }
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 // Used in mega_job_banner
