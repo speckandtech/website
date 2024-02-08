@@ -22,3 +22,18 @@ Every day, we're inundated with a staggering amount of information that continue
 Contrary to popular beliefs that depict data as truthful or objective, a data activist navigates the data-sphere from an opposite worldview: data is never neutral, and data visualization is inevitably rhetorical. But don’t worry: this is a feature, not a bug. This talk will focus on the many ways in which data can be used for activism, with a particular focus on data-inspired housing rights initiatives like Inside Airbnb and OCIO Venezia, and the works by the information design studio Sheldon.studio.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/lqwA579M8hfqmv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/xzusEfsutWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//photos.app.goo.gl/ofopdCq4MqnQWnjJ6">pictures &#128247;</a>
+
+</section>
