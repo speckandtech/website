@@ -42,7 +42,8 @@
           <p>powered by</p>
           <a class="w-60 d-block mx-auto"
              target="_blank"
-             href="{{ data.sponsor.url }}">
+             {% comment %} href="{{ data.sponsor.url }}" {% endcomment %}
+          >
             <img class="w-100 d-block"
                  src="{{ data.sponsor.logo }}"
                  alt="{{ data.sponsor.description }}"/>
