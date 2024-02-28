@@ -41,7 +41,7 @@
         {% if data.sponsor.name != '' and data.type == "event" %}
         <div class="mt-5 position-relative">
           <p>Powered by</p>
-          <a target="_blank" {% comment %} href="{{ data.sponsor.url }}" {% endcomment %}>
+          <a target="_blank" href="{{ data.sponsor.url }}">
             <img src="{{ data.sponsor.logo }}" alt="{{ data.sponsor.description }}" />
           </a>
         </div>
