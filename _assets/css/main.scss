@@ -199,6 +199,19 @@ $utilities: (
   .alternative-cta:hover {
     color: white !important;
   }
+  h4 {
+    text-wrap: balance;
+  }
+  a img {
+    width: auto;
+    max-height: 150px;
+    max-width: 150px;
+  }
+  .collabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
 }
 
 // Mega Job Banner
