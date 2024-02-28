@@ -37,29 +37,24 @@
         <a class="alternative-cta btn btn-outline-primary text-primary btn-lg mt-4"
            href="{{ data.more-url }}">Learn more</a>
       {% endif %}
-      {% if data.sponsor.name != '' and data.type == "event" %}
+      <div class="collabs">
+        {% if data.sponsor.name != '' and data.type == "event" %}
         <div class="mt-5 position-relative">
-          <p>powered by</p>
-          <a class="w-60 d-block mx-auto"
-             target="_blank"
-             {% comment %} href="{{ data.sponsor.url }}" {% endcomment %}
-          >
-            <img class="w-100 d-block"
-                 src="{{ data.sponsor.logo }}"
-                 alt="{{ data.sponsor.description }}"/>
+          <p>Powered by</p>
+          <a target="_blank" {% comment %} href="{{ data.sponsor.url }}" {% endcomment %}>
+            <img src="{{ data.sponsor.logo }}" alt="{{ data.sponsor.description }}" />
           </a>
         </div>
-      {% endif %}
-      {% if data.partner.name != '' %}
+        {% endif %}
+        {% if data.partner.name != '' %}
         <div class="mt-5">
-          <span>in partnership with</span>
+          <p>In partnership with</p>
           <a target="_blank" href="{{ data.partner.url }}">
-            <img class="w-100"
-                 src="{{ data.partner.logo }}"
-                 alt="{{ data.partner.description }}"/>
+            <img src="{{ data.partner.logo }}" alt="{{ data.partner.description }}" />
           </a>
         </div>
-      {% endif %}
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>
