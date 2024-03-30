@@ -1,0 +1,36 @@
+---
+layout: event
+title: "#62 - Buon sangue non mente"
+date:   2024-03-27T19:45:00+02:00
+categories: event
+slug: "buon-sangue-non-mente"
+---
+
+## Creare il sangue artificiale
+
+### Alvise Berti - Medico dell'Ospedale S. Chiara di Trento e Ricercatore @ [CISMed](//www.cismed.unitn.it/){:target="_blank"}
+
+La necessità di sangue ed emoderivati è costantemente elevata negli ospedali di tutto il mondo. Per questo motivo, negli anni, la creazione di "sangue artificiale" ha rappresentato una sfida che molti ricercatori hanno intrapreso. La sintesi in laboratorio di globuli rossi, partendo da cellule ematopoietiche totipotenti per sostituire le convenzionali "trasfusioni", è stata ad oggi sperimentata ma è ancora distante dal divenire pratica clinica. Tuttavia, altre componenti del sangue sono ad oggi utilizzate a scopi sostitutivi, mentre altre ancora sono state sintetizzate in laboratorio e vengono utilizzate per scopi terapeutici. Questa talk ci porterà alla scoperta di quali sono gli avanzamenti in questo campo.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/11ghSurIptearE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Quando il sangue parla
+
+### Stefano Nazzi - Autore di [Indagini](//www.ilpost.it/episodes/podcasts/indagini){:target="_blank"} e Giornalista da tanti anni @ [Il Post](//ilpost.it){:target="_blank"}
+
+Le tracce ematiche sono ormai un elemento cruciale nelle indagini criminali: la Bloodstain Pattern Analysis (BPA) studia forma, dimensione e direzione delle tracce di sangue per riscostruire come è avvenuto un delitto; l'esame del DNA permette invece di scoprire chi quel delitto l'ha commesso ed identificare i colpevoli. Ed è possibile cancellare una traccia di sangue? In questa chiacchierata parleremo di repertazione delle tracce, dell'importanza di seguire protocolli, dell'uso del luminol e di quali errori evitare tramite esempi attuali e del passato.
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/5kKIuvPlr1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</section>
