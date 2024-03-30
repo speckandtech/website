@@ -190,7 +190,13 @@ $utilities: (
 .event-number {
   height: 100px;
   width: 100px;
+  display: flex;
+  align-items: center;
   p {
+    width: 100px;
+    margin: 0 -24px;
+    text-align: center;
+    font-size: 32px; // TODO: temporary
     padding-top: 5px;
   }
 }

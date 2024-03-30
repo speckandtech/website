@@ -1,6 +1,6 @@
 {
   "type": "event",
-  "title-white": true,
+  "title-white": false,
   "background": "/img/home-backgrounds/63-ict-days.jpg",
   "edition": 63.1,
   "pre-title": "",
