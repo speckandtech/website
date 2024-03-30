@@ -1,11 +1,11 @@
 {
   "type": "event",
-  "title-white": true,
-  "background": "/img/home-backgrounds/62-buon-sangue-non-mente.jpg",
-  "edition": 62,
+  "title-white": false,
+  "background": "/img/home-backgrounds/63-ict-days.jpg",
+  "edition": 63.1,
   "pre-title": "",
-  "title": "Buon sangue non mente",
-  "date": "2024-03-27T19:45:00+02:00",
+  "title": "6G: bridging gaps, connecting futures",
+  "date": "2024-04-17T19:45:00+02:00",
   "time": "19:45",
 
   "location": {
@@ -14,18 +14,18 @@
   },
 
   "partner": {
-    "name": "UniTiN",
-    "logo": "//static.wixstatic.com/media/877252_2e9fa33e3500402092ec083fe48ae4be~mv2.png/v1/fill/w_910,h_914,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Logo%20Unitin%202018_logo_SENATO.png",
-    "url": "//www.unitintrento.it/"
+    "name": "UniTrento DISI",
+    "logo": "/img/sponsor/DISI-centrale.png",
+    "url": "//disi.unitn.it"
   },
 
   "sponsor": {
-    "name": "AVIS Comunale Trento",
-    "logo": "//uploads.tickettailor.com/c_limit,w_630/v1/production/userfiles/event_description_image_158893_1707206222_57741.png?_a=BAAASyDQ",
-    "url": "//www.aviscomunaletrento.it",
+    "name": "",
+    "logo": "",
+    "url": "",
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck62",
-  "more-url": "//www.avistrentino.org/diventa-donatore/"
+  "ticket-url": "//bit.ly/speck63_1",
+  "more-url": ""
 }
