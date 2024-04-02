@@ -2,10 +2,10 @@
   "type": "event",
   "title-white": false,
   "background": "/img/home-backgrounds/63-ict-days.jpg",
-  "edition": 63.1,
+  "edition": 63.0,
   "pre-title": "",
-  "title": "6G: bridging gaps, connecting futures",
-  "date": "2024-04-17T19:45:00+02:00",
+  "title": "Digital Freedom",
+  "date": "2024-04-10T19:45:00+02:00",
   "time": "19:45",
 
   "location": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck63_1",
+  "ticket-url": "//bit.ly/speck63_0",
   "more-url": ""
 }
