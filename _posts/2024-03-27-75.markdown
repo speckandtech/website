@@ -32,5 +32,6 @@ Le tracce ematiche sono ormai un elemento cruciale nelle indagini criminali: la 
 
 <iframe width="100%" height="480px" src="https://www.youtube.com/embed/5kKIuvPlr1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### and take a look at the <a id="fb_photo_album" class="btn-facebook" target="_blank" href="//photos.app.goo.gl/zRgfDDqXgpbdtjFq6">pictures &#128247;</a>
 
 </section>
