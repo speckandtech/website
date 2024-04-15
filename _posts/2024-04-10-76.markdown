@@ -8,19 +8,11 @@ slug: "digital-freedom"
 
 ## Software libero and freedom in the digital society
 
-### Richard Matthew Stallman - Founder of the [Free Software Foundation](//fsf.org){:target="_blank"}, 
+### Richard Matthew Stallman - Founder of the [Free Software Foundation](//fsf.org){:target="_blank"}
 
 There are many threats to freedom in the digital society. They include massive surveillance, censorship, digital handcuffs, nonfree software that controls users, and the War on Sharing. Computers for voting make election results untrustworthy.
 Other threats come from the use of web services. Finally, we have no assured right to make any particular use of the Internet; every activity is precarious, permitted only as long as companies are willing to cooperate with our doing it.
 All of these threats originate more or less in the use of nonfree software. That is why free software is the first battle in the liberation of cyberspace.
 
 
-## Weren't you there?
-
-### or maybe you just want to relive this wonderful night
-
-<section class="fb-links">
-
-#### We will soon publish video and photos here, stay tuned!
-
-</section>
+## We will publish video and photos here, [stay tuned!](//t.me/speckandtech){:target="_blank"}
