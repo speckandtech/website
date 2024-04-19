@@ -1,22 +1,22 @@
 {
   "type": "event",
   "title-white": false,
-  "background": "/img/home-backgrounds/63-ict-days.jpg",
-  "edition": 63.1,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 64,
   "pre-title": "",
-  "title": "6G: bridging gaps, connecting futures",
-  "date": "2024-04-17T19:45:00+02:00",
-  "time": "19:45",
+  "title": "AI Ethics",
+  "date": "2024-05-20T20:15:00+02:00",
+  "time": "20:15",
 
   "location": {
-    "name": "Auditorium di Lettere",
-    "url": "//maps.app.goo.gl/UqWy44PJgZqJtuRe8"
+    "name": "Impact Hub Trento",
+    "url": "//maps.app.goo.gl/SnjApjWWet4ZZ88s5"
   },
 
   "partner": {
-    "name": "UniTrento DISI",
-    "logo": "/img/sponsor/DISI-centrale.png",
-    "url": "//disi.unitn.it"
+    "name": "",
+    "logo": "",
+    "url": ""
   },
 
   "sponsor": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck63_1",
+  "ticket-url": "",
   "more-url": ""
 }
