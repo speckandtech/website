@@ -25,6 +25,8 @@ All of these threats originate more or less in the use of nonfree software. That
 
 <iframe width="100%" height="480px" src="https://archive.org/embed/speck-tech-rms" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-#### soon we will publish the photos, [stay tuned!](//t.me/speckandtech){:target="_blank"}
+#### and take a look at the pictures &#128247;
+
+<iframe width="100%" height="480px" src="https://archive.org/embed/speck-tech-rms-pics" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 </section>
