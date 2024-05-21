@@ -1,22 +1,22 @@
 {
   "type": "event",
   "title-white": false,
-  "background": "/img/home-backgrounds/64-ai-ethics.jpg",
-  "edition": 64,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 65,
   "pre-title": "",
-  "title": "AI Ethics",
-  "date": "2024-05-20T20:15:00+02:00",
-  "time": "20:15",
+  "title": "Coming soon!",
+  "date": "2024-06-06T20:00:00+02:00",
+  "time": "20:00",
 
   "location": {
-    "name": "Impact Hub Trento",
-    "url": "//maps.app.goo.gl/SnjApjWWet4ZZ88s5"
+    "name": "SOI-School of Innovation",
+    "url": "//maps.app.goo.gl/i4tDAha6JXXMYWvT6"
   },
 
   "partner": {
-    "name": "",
-    "logo": "",
-    "url": ""
+    "name": "Hub Innovazione Trentino",
+    "logo": "//www.trentinoinnovation.eu/wp-content/uploads/2021/08/logo.png",
+    "url": "//www.trentinoinnovation.eu/partecipa/trento-open-festival-dellopen-source/"
   },
 
   "sponsor": {
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "//bit.ly/speck64",
+  "ticket-url": "",
   "more-url": ""
 }

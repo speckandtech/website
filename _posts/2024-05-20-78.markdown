@@ -1,0 +1,37 @@
+---
+layout: event
+title: "#65 - AI Ethics"
+date:   2024-05-20T20:15:00+02:00
+categories: event
+slug: "ai-ethics"
+---
+
+## AI nel diritto penale, dalle indagini alla redazione delle sentenze
+
+### Carlotta Capizzi - ICT Compliance @ [Gruppo Cassa Centrale](//www.cassacentrale.it){:target="_blank"}
+
+In questa talk parlerò dell'utilizzo dell'AI sia come strumento per facilitare la commissione di reati (ad esempio attraverso l'utilizzo di social engineering nella commissione di frodi bancarie), che come strumento investigativo all'interno del procedimento penale (ad esempio attraverso l'utilizzo di sistemi di sorveglianza speciali), che come supporto ai giudici nella determinazione della pena e nella stesura delle sentenze. Infine tratterò delle possibili discriminazioni che l'utilizzo acritico di sistemi di AI può determinare nell'amministrazione della giustizia, distinguendo tra discriminazioni matematico/statistiche e sociali (come succede anche nella valutazione del credit score nella richiesta di mutui).
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3JNe861PlDsE3V" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Vecchi e nuovi diritti per l'AI
+
+### Carlo Casonato - Professor of comparative constitutional law @ [University of Trento](//www.giurisprudenza.unitn.it){:target="_blank"}
+
+In questo talk vorrei proporre 2 linee di pensiero volte ad aggiornare il catalogo dei diritti umani alla luce delle caratteristiche tecniche dell'AI, delle sue potenzialità e dei rischi del suo utilizzo. La prima considera l'adattamento di alcuni principi tradizionali (consenso informato e non discriminazione) rispetto alle sfide poste dall'AI. La seconda comprende 4 nuovi diritti: diritto all'eroe, diritto alla discontinuità, diritto ad un ambiente umano, diritto alla AI. Farò anche qualche riferimento all'AI Act, il nuovo regolamento approvato recentemente dal Parlamento dell'Unione Europea.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8ZkDQ6J2enUVXj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+
+## Weren't you there?
+
+### or maybe you just want to relive this wonderful night
+
+<section class="fb-links">
+
+#### Check the video!
+
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/c-xZMuPi80I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>
