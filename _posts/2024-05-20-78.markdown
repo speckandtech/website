@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "#65 - AI Ethics"
+title: "#64 - AI Ethics"
 date:   2024-05-20T20:15:00+02:00
 categories: event
 slug: "ai-ethics"
