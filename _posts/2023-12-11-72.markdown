@@ -22,7 +22,7 @@ Shotgun metagenomics provides a comprehensive snapshot of the entire microbial c
 In this talk we will present Biocentis, a biotech startup whose mission is to apply innovative gene-editing techniques to mitigate agriculture and public health issues dictated by malicious insects, being either pests or human-disease vectors. To achieve this goal we implement gene-drive, genetic tools to control the insect population size by selectively reducing insect fertility. However, Biocentis is not only molecular biology: we believe that computer and data science represent key factors to inform and guide strategic decisions. Today we will present the modeling and simulation framework whose design and implementation are the current focus of the Biocentis data team, a component that aims at providing accurate and fine-grained simulations of all relevant aspects affecting an insect life cycle: from the genome to the phenotype up to higher behavioral and ecological implications.
 In addition, we will brief you on how we are using mathematical and data-driven approaches to optimize the release strategy of transgenic insects.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/etrOTEGMy36MoS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+<iframe src="//static.biocentis.com/biocentis_brochure.pdf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
 
 
 ## Weren't you there?
