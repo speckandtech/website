@@ -1,10 +1,10 @@
 {
   "type": "event",
   "title-white": false,
-  "background": "/img/home-backgrounds/home-background.jpg",
+  "background": "/img/home-backgrounds/65-open-data.jpg",
   "edition": 65,
   "pre-title": "",
-  "title": "Coming soon!",
+  "title": "Open Data",
   "date": "2024-06-06T20:00:00+02:00",
   "time": "20:00",
 
@@ -26,6 +26,6 @@
     "description": ""
   },
 
-  "ticket-url": "",
+  "ticket-url": "//bit.ly/speck65",
   "more-url": ""
 }
