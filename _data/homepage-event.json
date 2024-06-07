@@ -1,31 +1,27 @@
 {
   "type": "event",
   "title-white": false,
-  "background": "/img/home-backgrounds/65-open-data.jpg",
-  "edition": 65,
+  "background": "/img/home-backgrounds/home-background.jpg",
+  "edition": 66,
   "pre-title": "",
-  "title": "Open Data",
-  "date": "2024-06-06T20:00:00+02:00",
+  "title": "Coming soon!",
+  "date": "",
   "time": "20:00",
-
   "location": {
-    "name": "SOI-School of Innovation",
-    "url": "//maps.app.goo.gl/i4tDAha6JXXMYWvT6"
+    "name": "",
+    "url": ""
   },
-
   "partner": {
-    "name": "Hub Innovazione Trentino",
-    "logo": "//www.trentinoinnovation.eu/wp-content/uploads/2021/08/logo.png",
-    "url": "//www.trentinoinnovation.eu/partecipa/trento-open-festival-dellopen-source/"
+    "name": "",
+    "logo": "",
+    "url": ""
   },
-
   "sponsor": {
     "name": "",
     "logo": "",
     "url": "",
     "description": ""
   },
-
-  "ticket-url": "//bit.ly/speck65",
+  "ticket-url": "",
   "more-url": ""
 }
