@@ -4,28 +4,24 @@
   "background": "/img/home-backgrounds/home-background.jpg",
   "edition": 66,
   "pre-title": "",
-  "title": "",
+  "title": "Coming soon!",
   "date": "",
-  "time": "",
-
+  "time": "20:00",
   "location": {
     "name": "",
     "url": ""
   },
-
   "partner": {
     "name": "",
     "logo": "",
     "url": ""
   },
-
   "sponsor": {
     "name": "",
     "logo": "",
     "url": "",
     "description": ""
   },
-
   "ticket-url": "",
   "more-url": ""
 }
