@@ -1,15 +1,15 @@
 {
   "type": "event",
   "title-white": false,
-  "background": "/img/home-backgrounds/home-background.jpg",
+  "background": "/img/home-backgrounds/66-stocks-stuff.jpg",
   "edition": 66,
   "pre-title": "",
-  "title": "Coming soon!",
-  "date": "",
-  "time": "20:00",
+  "title": "Stocks and stuff",
+  "date": "2024-07-01T20:15:00+02:00",
+  "time": "20:15",
   "location": {
-    "name": "",
-    "url": ""
+    "name": "Impact Hub Trento",
+    "url": "//maps.app.goo.gl/SnjApjWWet4ZZ88s5"
   },
   "partner": {
     "name": "",
@@ -22,6 +22,6 @@
     "url": "",
     "description": ""
   },
-  "ticket-url": "",
+  "ticket-url": "//bit.ly/speck66",
   "more-url": ""
 }
