@@ -1,6 +1,6 @@
 {
   "type": "event",
-  "title-white": false,
+  "title-white": true,
   "background": "/img/home-backgrounds/retreat-v5.jpg",
   "edition": 5,
   "pre-title": "",
