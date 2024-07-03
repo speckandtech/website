@@ -1,15 +1,15 @@
 {
   "type": "event",
-  "title-white": false,
-  "background": "/img/home-backgrounds/66-stocks-stuff.jpg",
-  "edition": 66,
+  "title-white": true,
+  "background": "/img/home-backgrounds/retreat-v5.jpg",
+  "edition": 5,
   "pre-title": "",
-  "title": "Stocks and stuff",
-  "date": "2024-07-01T20:15:00+02:00",
-  "time": "20:15",
+  "title": "Retreat v5",
+  "date": "2024-10-04T17:00:00+02:00",
+  "time": "17:00",
   "location": {
-    "name": "Impact Hub Trento",
-    "url": "//maps.app.goo.gl/SnjApjWWet4ZZ88s5"
+    "name": "Alpholiday Dolomiti",
+    "url": "//www.instagram.com/alpholidaydolomiti"
   },
   "partner": {
     "name": "",
@@ -22,6 +22,6 @@
     "url": "",
     "description": ""
   },
-  "ticket-url": "//bit.ly/speck66",
-  "more-url": ""
+  "ticket-url": "//speckand.tech/retreat",
+  "more-url": "//bit.ly/retreat-v5"
 }
