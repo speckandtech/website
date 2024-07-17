@@ -1,9 +1,8 @@
 ---
 layout: event
-title: "Thread Solutions - Mulesoft Developer"
-date: 2024-07-16T12:00:00+02:00
+title: 'Thread Solutions - Mulesoft Developer'
+date: 2024-07-16
 categories: hiring
-slug: 'thread-solutions-devops-eng'
 description: 'Come Mulesoft Developer entrerai a far parte di un team di professionisti tra i più qualificati a livello europeo per fornire un contributo rilevante ai nostri progetti cliente, dove misurarti mettendo in gioco le tue competenze digitali e la tua creatività all\’interno di un continuo processo di crescita.'
 ---
 
@@ -82,3 +81,7 @@ Come Mulesoft Developer entrerai a far parte di un team di professionisti tra i 
 * Buono pasto;
 * Piano di Welfare Aziendale;
 * Sei una persona, non un numero.
+
+<br>
+
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="https://thread.solutions/posizioni-aperte/mulesoft-developer">Candidati ora!</a>

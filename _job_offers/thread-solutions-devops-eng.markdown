@@ -1,9 +1,8 @@
 ---
 layout: event
-title: "Thread Solutions - DevOps Engineer"
-date: 2024-07-16T12:00:00+02:00
+title: 'Thread Solutions - DevOps Engineer'
+date: 2024-07-16
 categories: hiring
-slug: 'thread-solutions-devops-eng'
 description: "Come DevOps Engineer, sarai fondamentale nel potenziare l'attuale team devops e supportare la crescita aziendale di Thread Solutions."
 ---
 
@@ -79,3 +78,7 @@ Come DevOps Engineer, sarai fondamentale nel potenziare l'attuale team devops e 
 * Buono pasto;
 * Piano di Welfare Aziendale;
 * Sei una persona, non un numero.
+
+<br>
+
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="https://thread.solutions/posizioni-aperte/devops-engineer">Candidati ora!</a>

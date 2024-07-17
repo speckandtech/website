@@ -1,9 +1,8 @@
 ---
 layout: event
-title: "Thread Solutions - Integration Architect”"
-date: 2024-07-16T12:00:00+02:00
+title: 'Thread Solutions - Integration Architect'
+date: 2024-07-16
 categories: hiring
-slug: 'thread-solutions-integration-architect'
 description: 'Siamo alla ricerca di un profilo “Integration Architect” da inserire all\’interno del nostro team di sviluppo. Il candidato supporterà il cliente a comprendere e adottare le soluzioni tecnologiche più all\’avanguardia, che meglio rispondono alle esigenze aziendali.'
 ---
 
@@ -62,3 +61,7 @@ Sei la persona giusta per noi se hai:
 * Buono pasto;
 * Piano di Welfare Aziendale;
 * Sei una persona, non un numero.
+
+<br>
+
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="https://thread.solutions/posizioni-aperte/integration-architect">Candidati ora!</a>
