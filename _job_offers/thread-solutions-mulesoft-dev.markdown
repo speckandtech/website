@@ -1,13 +1,14 @@
 ---
 layout: event
-title: 'Thread Solutions - Mulesoft Developer'
+title: 'Thread Solutions - Integration Developer'
 date: 2024-07-16
 categories: hiring
-description: 'Come Mulesoft Developer entrerai a far parte di un team di professionisti tra i più qualificati a livello europeo per fornire un contributo rilevante ai nostri progetti cliente, dove misurarti mettendo in gioco le tue competenze digitali e la tua creatività all\’interno di un continuo processo di crescita.'
+description: 'Come Integration Developer entrerai a far parte di un team di professionisti tra i più qualificati a livello europeo per fornire un contributo rilevante ai nostri progetti cliente, dove misurarti mettendo in gioco le tue competenze digitali e la tua creatività all’interno di un continuo processo di crescita.'
 ---
 
 **Sede di lavoro:** Trento<br>
-**Tipo di contratto:** Full time
+**Tipo di contratto:** Full time<br>
+**Seniority:** Junior/Senior
 
 <br>
 
@@ -22,7 +23,7 @@ In Thread Solutions siamo pionieri concreti: guardiamo avanti per costruire il f
 
 ## Panoramica del Ruolo
 
-Come Mulesoft Developer entrerai a far parte di un team di professionisti tra i più qualificati a livello europeo per fornire un contributo rilevante ai nostri progetti cliente, dove misurarti mettendo in gioco le tue competenze digitali e la tua creatività all’interno di un continuo processo di crescita.
+Come Integration Developer entrerai a far parte di un team di professionisti tra i più qualificati a livello europeo per fornire un contributo rilevante ai nostri progetti cliente, dove misurarti mettendo in gioco le tue competenze digitali e la tua creatività all’interno di un continuo processo di crescita.
 
 
 ## Responsabilità principali
@@ -88,4 +89,4 @@ Come Mulesoft Developer entrerai a far parte di un team di professionisti tra i 
 
 <br>
 
-<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="https://thread.solutions/posizioni-aperte/mulesoft-developer">Candidati ora!</a>
+<a class="btn btn-primary text-white btn-lg mt-3" target="_blank" href="https://thread.solutions/posizioni-aperte/integration-developer">Candidati ora!</a>

@@ -3,7 +3,7 @@ layout: event
 title: 'Thread Solutions - Integration Architect'
 date: 2024-07-16
 categories: hiring
-description: 'Siamo alla ricerca di un profilo “Integration Architect” da inserire all\’interno del nostro team di sviluppo. Il candidato supporterà il cliente a comprendere e adottare le soluzioni tecnologiche più all\’avanguardia, che meglio rispondono alle esigenze aziendali.'
+description: 'Siamo alla ricerca di un profilo “Integration Architect” da inserire all’interno del nostro team di sviluppo. Il candidato supporterà il cliente a comprendere e adottare le soluzioni tecnologiche più all’avanguardia, che meglio rispondono alle esigenze aziendali.'
 ---
 
 **Sede di lavoro:** Trento<br>
