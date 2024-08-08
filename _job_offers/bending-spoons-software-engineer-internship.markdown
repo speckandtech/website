@@ -4,7 +4,7 @@ title: "Bending Spoons - Software Engineer (Internship)"
 date: 2024-08-08T12:12:00+02:00
 categories: hiring
 slug: 'bending-spoons-software-engineer-internship'
-description: ""
+description: "You will Work closely with other software engineers to expand our set of libraries and make our processes ever-more efficient, learn about the latest and greatest technologies, test the promising ones to make sure we don’t miss out on game-changing opportunities to boost our productivity and the enjoyment of our work."
 
 ---
 
