@@ -1,20 +1,20 @@
 {
   "type": "event",
   "title-white": true,
-  "background": "/img/home-backgrounds/retreat-v5.jpg",
-  "edition": 5,
+  "background": "/img/home-backgrounds/67-wnf.jpg",
+  "edition": 67,
   "pre-title": "",
-  "title": "Retreat v5",
-  "date": "2024-10-04T17:00:00+02:00",
-  "time": "17:00",
+  "title": "Impossible Food",
+  "date": "2024-09-27T19:00:00+02:00",
+  "time": "19:00",
   "location": {
-    "name": "Alpholiday Dolomiti",
-    "url": "//www.instagram.com/alpholidaydolomiti"
+    "name": "IPRASE Rovereto",
+    "url": "//maps.app.goo.gl/rHaBAXHRrMSLxUSv5"
   },
   "partner": {
-    "name": "",
-    "logo": "",
-    "url": ""
+    "name": "Wired Next Fest",
+    "logo": "//assets.swoogo.com/uploads/medium/2402638-63ff90159ca6a.png",
+    "url": "//eventi.wired.it/nextfest24-trentino/home/"
   },
   "sponsor": {
     "name": "",
@@ -22,6 +22,6 @@
     "url": "",
     "description": ""
   },
-  "ticket-url": "//bit.ly/retreat-v5",
-  "more-url": "//speckand.tech/retreat"
+  "ticket-url": "//bit.ly/speck67",
+  "more-url": "//eventi.wired.it/nextfest24-trentino/home/"
 }
