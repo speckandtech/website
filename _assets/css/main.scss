@@ -95,11 +95,17 @@ $utilities: (
   min-height: 80vh;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: left;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 4rem 0;
+}
+
+@media (max-width: 992px) {
+  #hero {
+    background-position: right -47px;
+  }
 }
 
 .text-lg {
