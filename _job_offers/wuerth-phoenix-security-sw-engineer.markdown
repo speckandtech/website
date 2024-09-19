@@ -4,7 +4,7 @@ title: "Würth Phoenix - Security Software Engineer con ruolo di Security Champi
 date: 2024-09-18T12:10:00+02:00
 categories: hiring
 slug: 'wuerth-phoenix-security-sw-engineer'
-description: "Per ampliare il nostro Team Research&Development siamo alla ricerca di un Security Software Engineer, che possa svolgere un ruolo fondamentale nella protezione dei nostri sistemi e dati dalle minacce informatiche sempre più sofisticate, con la responsabilità, quindi, di integrare la sicurezza nel processo di sviluppo software. La figura ricercata, inoltre, avrebbe anche l’opportunità di sviluppare le sue capacità di leadership e mentoring diventando un Security Champion e promuovendo la consapevolezza sulla sicurezza informatica all’interno dell’intera organizzazione."
+description: "Siamo alla ricerca di un Security Software Engineer, che possa svolgere un ruolo fondamentale nella protezione dei nostri sistemi e dati dalle minacce informatiche sempre più sofisticate, con la responsabilità, quindi, di integrare la sicurezza nel processo di sviluppo software."
 
 ---
 
