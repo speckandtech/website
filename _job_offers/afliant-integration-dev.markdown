@@ -1,7 +1,7 @@
 ---
 layout: event
-title: 'Thread Solutions - Integration Developer'
-date: 2024-07-16
+title: 'Afliant - Integration Developer'
+date: 2024-09-16
 categories: hiring
 description: 'Come Integration Developer entrerai a far parte di un team di professionisti tra i più qualificati a livello europeo per fornire un contributo rilevante ai nostri progetti cliente, dove misurarti mettendo in gioco le tue competenze digitali e la tua creatività all’interno di un continuo processo di crescita.'
 ---
@@ -12,13 +12,13 @@ description: 'Come Integration Developer entrerai a far parte di un team di prof
 
 <br>
 
-## Riguardo a Thread Solutions
+## Riguardo a Afliant
 
-Thread Solutions è una tech company che unisce creatività, innovazione ed efficacia, sviluppando soluzioni digitali all'avanguardia in vari settori tra cui retail, sanità, manifatturiero, logistica, fintech, sport e marketing digitale. Sulla base della consolidato riconoscimento del mercato nei settori dell’integrazione dati e dello sviluppo applicativo stiamo perseguendo una decisa  espansione nel campo dei Big Data, Analytics e Intelligenza Artificiale, e ci poniamo come un partner strategico ideale per le aziende che vogliono adottare strategie data-driven e implementare l'AI nel proprio business.
+Nata dalla fusione tra Thread Solutions e U-Hopper, Afliant è una tech company che unisce creatività, innovazione ed efficacia, sviluppando soluzioni digitali all'avanguardia in vari settori tra cui retail, sanità, manifatturiero, logistica, fintech, sport e marketing digitale. Sulla base della consolidato riconoscimento del mercato nei settori dell’integrazione dati e dello sviluppo applicativo stiamo perseguendo una decisa  espansione nel campo dei Big Data, Analytics e Intelligenza Artificiale, e ci poniamo come un partner strategico ideale per le aziende che vogliono adottare strategie data-driven e implementare l'AI nel proprio business.
 Il nostro team comprende developer, designer e data scientist che lavorano con passione e competenza per valorizzare i dati dei nostri clienti, rendendoli integrati, fruibili e significativi grazie all'uso di piattaforme di data integration, tecnologie predittive e soluzioni AI avanzate.
 Utilizziamo metodologie agili per garantire flessibilità, rapidità ed eccellenza nel delivery dei nostri progetti. Le nostre partnership strategiche con leader di mercato come Databricks e Salesforce, insieme al forte legame che manteniamo con il mondo della ricerca a livello nazionale ed europeo ci permettono di offrire soluzioni personalizzate e innovative. In parallelo, abbiamo sviluppato un portfolio di prodotti proprietari SaaS, che offriamo ai nostri clienti su specifiche nicchie verticali.  
 Il nostro team, composto da 45 professionisti altamente qualificati, è la nostra risorsa più preziosa. Ci impegniamo a fornire un ambiente di lavoro stimolante e gratificante attraverso un piano di welfare all’avanguardia, certificazione della qualità ISO 9001, formazione continua e obbligatoria, politiche di flessibilità, ambienti di lavoro curati e dispositivi tecnologici di ultima generazione.
-In Thread Solutions siamo pionieri concreti: guardiamo avanti per costruire il futuro, oggi. Se sei un professionista tecnico con 2-5 anni di esperienza e desideri far parte di un'azienda che valorizza il talento e promuove l'innovazione, unisciti a noi e contribuisci al nostro viaggio verso l'eccellenza.
+In Afliant siamo pionieri concreti: guardiamo avanti per costruire il futuro, oggi. Se sei un professionista tecnico con 2-5 anni di esperienza e desideri far parte di un'azienda che valorizza il talento e promuove l'innovazione, unisciti a noi e contribuisci al nostro viaggio verso l'eccellenza.
 
 
 ## Panoramica del Ruolo
