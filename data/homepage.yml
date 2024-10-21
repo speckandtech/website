@@ -1,0 +1,32 @@
+
+number:       69
+title:        The Web Knows
+date:         2024-11-06T20:15:00+02:00
+live:         true
+
+background:   /assets/images/graphics/header.png
+
+ticket_link:  https://bit.ly/speck69
+# info_link:    https://eventi.wired.it/nextfest24-trentino/home
+
+location:
+  name:       Impact Hub Trentino
+  link:       https://maps.app.goo.gl/7dPToQhzALt5jkmh6
+
+# partner:
+#   title:      In partnership with
+#   name:       null
+#   logo:       assets/images/partners/wired_next_fest.webp
+#   link:       https://eventi.wired.it/nextfest24-trentino
+
+partner:
+  title:      In collaboration with
+  name:       null
+  logo:       /assets/images/sponsors/noi_techpark.png
+  link:       https://noi.bz.it
+
+sponsor:
+  title:      Sponsored by
+  name:       null
+  logo:       /assets/images/sponsors/wikimedia.png
+  link:       https://www.wikimedia.org/

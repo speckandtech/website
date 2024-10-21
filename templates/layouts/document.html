@@ -1,0 +1,27 @@
+
+{% assign page_name = page.path | split: '/' | last | split: '.' | first %}
+
+<!DOCTYPE html>
+<html lang=en layout={{ page.layout }} page={{ page_name }}>
+
+  <head>
+    {% include components/head.html %}
+  </head>
+
+  <body>
+
+    {% include components/navigation.html %}
+
+    {{ content }}
+
+    <footer>
+        {% include components/footer.html %}
+    </footer>
+
+    <script>
+      {% include scripts/main.js %}
+    </script>
+
+  </body>
+
+</html>

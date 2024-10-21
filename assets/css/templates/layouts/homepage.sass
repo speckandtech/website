@@ -1,0 +1,242 @@
+
+/*
+ * Homepage Layout
+ *
+ */
+
+
+html[layout=homepage]
+  body
+
+    header
+      @apply w-full p-0 pb-[80px] bg-no-repeat bg-white bg-cover
+
+      section
+        @apply items-center
+      section.heading
+        @apply absolute top-[150px] min-h-[auto] transition-none
+      section.heading h1
+        @apply w-full max-w-[calc(100vw-20px*2)] text-white text-bold leading-[1] transition-none
+
+      [window]
+        @apply z-[100]
+
+    header section.windows
+      @apply min-h-[auto]
+
+    main
+
+      section p
+        @apply font-normal text-pretty leading-[1.5]
+      section p a
+        @apply text-[var(--color-primary)]
+
+      section.socials
+        @apply mt-[20px] mb-[80px] flex
+        [row-wrap]
+          @apply justify-center
+        a
+          @apply m-[10px]
+        a svg
+          @apply min-w-[50px] min-h-[50px]
+
+      section.socials p
+        @apply text-[20px] text-center
+      section.socials a svg
+        @apply fill-[var(--color-primary)]
+      section.socials a:hover svg
+        @apply fill-[var(--color-primary-dark)]
+
+      section.activities
+
+        p
+          @apply text-center
+        aside
+          @apply text-center relative flex flex-col items-center
+        aside h1
+          @apply mb-[20px] font-semibold text-[35px] underline text-[var(--color-primary)]
+        aside span
+          @apply max-w-[500px] leading-[1.5]
+
+        .pictures
+          @apply h-[280px] mt-[50px] relative
+
+      section.sponsors
+        @apply mt-[100px]
+
+        .sponsor-wrapper
+          @apply flex flex-wrap justify-center
+
+        a.sponsor, a.sponsor-cta
+          @apply h-[150px] w-[30%] min-w-[240px] m-[10px] flex flex-col justify-center
+          @apply border-[2px] border-neutral-100/50 border-solid rounded-[16px]
+
+        a.sponsor
+          @apply items-center bg-neutral-100/50
+          svg
+            @apply max-h-[70px] w-[180px]
+          svg path
+            @apply fill-black/50
+
+        a.sponsor:hover
+          @apply bg-neutral-100/75 border-neutral-100
+          svg path
+            @apply fill-black/75
+
+        a.sponsor-cta span
+          @apply text-center
+        a.sponsor-cta:hover span
+          @apply text-[var(--color-primary-dark)]
+        a.sponsor-cta:hover
+          @apply border-neutral-100
+
+      section.sponsors p
+        @apply mb-[40px] text-center
+
+
+@media (min-width: 840px)
+
+  html[layout=homepage] body
+
+    header
+      @apply h-[800px] max-w-[1600px] rounded-b-[10px]
+
+      section.heading h1
+        @apply text-[75px]
+
+    main
+
+      section.intro
+        @apply pt-[50px] pb-[400px] z-[90]
+      section.intro p
+        @apply w-[575px] my-[30px] text-[40px] text-balance
+
+      section.activities
+        [row]
+          @apply items-start justify-between
+        [row] aside
+          @apply w-[45%] py-[40px] px-[5px]
+
+      section.activities p,
+      section.sponsors p
+        @apply items-start text-[30px]
+
+
+@media (max-width: 1600px)
+
+  html[layout=homepage] body header
+    @apply rounded-none
+
+
+@media (min-width: 960px)
+
+  html[layout=homepage] body
+    header section.windows
+
+      [window].event
+        @apply top-[350px] left-[-50px]
+      [window].partner
+        @apply top-[320px] right-[-50px]
+      [window].sponsor
+        @apply top-[600px] right-[20px]
+
+@media (max-width: 960px)
+
+  html[layout=homepage] body
+    header section
+      @apply flex-row flex-wrap justify-center
+
+    header section.heading
+      @apply top-[130px]
+    header section.heading h1
+        @apply text-[50px] text-center
+    header section.heading h1 br
+        @apply hidden
+
+    header section.windows
+      @apply top-[220px]
+
+      [window].event
+        @apply top-[0px]
+      [window].partner
+        @apply top-[360px] left-[50px]
+      [window].sponsor
+        @apply top-[360px] right-[50px]
+
+@media (max-width: 840px)
+
+  html[layout=homepage] body
+
+    header
+      @apply h-[650px] mb-[100px]
+
+    header section.windows
+
+      [window].partner
+        @apply top-[360px] left-[20px]
+      [window].sponsor
+        @apply top-[360px] right-[20px]
+      [window].partner, [window].sponsor
+        img
+          @apply max-w-[200px]
+
+    main
+
+      section.intro
+        @apply pt-[40px] pb-[80px]
+
+        p
+          @apply w-full text-[25px]
+        p br
+          @apply hidden
+        .pictures
+          @apply row flex-wrap
+
+      section.activities
+
+        [row]
+          @apply flex-col items-center
+        [row] aside
+          @apply w-[100%] py-[40px] px-[5px]
+        .pictures
+          @apply h-auto text-center
+
+      section.sponsors
+
+        p
+          @apply text-[25px]
+        [row]
+          @apply flex-wrap
+
+
+@media (max-width: 700px)
+
+  html[layout=homepage] body
+
+    header
+      section.heading h1
+        @apply leading-[1.2]
+      section.heading h1 br
+        @apply block
+
+    header[windows='3']
+      @apply mb-[450px]
+
+    header[windows='2']
+      @apply mb-[180px]
+
+    header[windows='1']
+      @apply mb-0
+
+    header section.windows
+      @apply top-[260px]
+
+      [window].event
+        @apply top-[75px]
+      [window].partner
+        @apply top-[480px] left-[10px]
+      [window].sponsor
+        @apply top-[720px] right-[10px]
+      [window].partner, [window].sponsor
+        img
+          @apply max-w-[200px]

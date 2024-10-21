@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang=en layout=job>
+
+  <head>
+    {% include components/head.html %}
+  </head>
+
+  <body>
+
+    {% include components/navigation.html %}
+
+    <header>
+      <h2><a href="{{ page.company_link }}" target=_blank>{{ page.company }}</a></h2>
+      <h1>{{ page.title }}</h1>
+      <p>Posted on {{ page.date | date: "%d/%m/%y" }}</p>
+    </header>
+
+    <main>
+      <section>
+        <article>
+          {{ content }}
+        </article>
+        <p><a class=cta href="{{ page.application_link }}" target=_blank>Apply for this job!</a></p>
+      </section>
+    </main>
+
+    <footer>
+      {% include components/footer.html %}
+    </footer>
+
+    <script>
+      {% include scripts/main.js %}
+    </script>
+
+  </body>
+
+</html>

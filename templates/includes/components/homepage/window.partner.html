@@ -1,0 +1,24 @@
+{% if event.partner %}
+  <div window class="partner">
+
+    <div handle>
+      <span>./partner.png</span>
+      {% include graphics/details/window_buttons.svg %}
+    </div>
+
+    <a content target=_blank href="{{ event.partner.link }}">
+      {% if event.partner.title %}
+        <span>{{ event.partner.title }}</span>
+      {% endif %}
+
+      {% if event.partner.name %}
+        <span b>{{ event.partner.name }}</span>
+      {% endif %}
+
+      {% if event.partner.logo %}
+        <img src="{{ event.partner.logo }}" />
+      {% endif %}
+    </a>
+
+  </div>
+{% endif %}

@@ -1,14 +1,22 @@
-.DS_Store
-.vscode/**
-.djlintrc
-.idea
 
-.publish
+.env
+.dot
+
+vendor
+.jekyll
 .jekyll-metadata
-.jekyll-cache/
-.sass-cache/
+.jekyll-cache
+.css
+.vscode
+.vercel
 
-env
 _site
+_drafts
 
+public
+
+.DS_Store
+
+*.old
 *.tmp
+*.ignore.*

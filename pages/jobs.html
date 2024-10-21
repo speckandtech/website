@@ -1,0 +1,69 @@
+---
+
+permalink: /jobs
+
+---
+
+<!DOCTYPE html>
+<html lang=en layout=jobs>
+
+  <head>
+    {% include components/head.html %}
+  </head>
+
+  <body>
+
+    {% include components/navigation.html %}
+
+    <header>
+
+      <section>
+
+        <h1>Job postings</h1>
+        <p>
+          Looking for your next opportunity or to advance your career? Check out the latest job postings from our community sponsors.
+        </p>
+
+      </section>
+
+    </header>
+
+    <main>
+
+      <section class=jobs>
+
+        {% assign jobs_by_company = site.jobs | group_by: "company" %}
+
+        {% for company in jobs_by_company reversed %}
+
+          <h2>{{ company.name }}</h2>
+          <ul>
+              {% for job in company.items reversed %}
+                  <li>
+                      <a href="/{{ job.permalink }}">
+                          <h3>{{ job.title }}</h3>
+                      </a>
+                  </li>
+              {% endfor %}
+          </ul>
+
+        {% endfor %}
+
+      </section>
+
+      <div overlay></div>
+
+    </main>
+
+
+    <footer>
+      {% include components/footer.html %}
+    </footer>
+
+    <script>
+      {% include scripts/main.js %}
+    </script>
+
+  </body>
+
+</html>

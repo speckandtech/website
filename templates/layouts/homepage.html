@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang=en layout=homepage>
+
+  <head>
+    {% include components/head.html %}
+    <style>
+      header { background-image: url('{{ site.data.homepage.background }}') }
+    </style>
+  </head>
+
+  <body>
+
+    {% include components/navigation.html %}
+
+    {{ content }}
+
+    <footer>
+      {% include components/footer.html %}
+    </footer>
+
+    <script>
+      {% include scripts/main.js %}
+      {% include scripts/drag.js %}
+    </script>
+
+  </body>
+
+</html>

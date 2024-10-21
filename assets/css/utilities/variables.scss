@@ -1,0 +1,23 @@
+
+/*
+ * Variables
+ *
+ */
+
+
+$breakpoint: 840px;
+$content-size: 800px;
+
+:root {
+
+  --color-primary: #e7424f;
+  --color-primary-dark: #ca3642;
+  --color-secondary: #17939B;
+  --color-secondary-dark: #0e7d85;
+
+  --font-family: 'NeoSans', sans-serif;
+
+  --content-width: 800px;
+  --nav-width: calc(800px - 15px - 10px)
+
+}

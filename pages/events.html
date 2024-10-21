@@ -1,0 +1,77 @@
+---
+
+permalink: /events
+
+---
+
+<!DOCTYPE html>
+<html lang=en layout=events>
+
+  <head>
+    {% include components/head.html %}
+  </head>
+
+  <body>
+
+    {% include components/navigation.html %}
+
+    <header>
+
+      <section>
+
+        <h1>Past events</h1>
+        <p>
+          Here's the list of the major events organized by Speck&Tech since 2016. You can find all the talks, their abstracts,
+          information about the speakers, slides (when available) and the links to video recordings and photo albums.
+        </p>
+
+      </section>
+
+    </header>
+
+    <main>
+
+      <section class=events>
+
+        {% assign posts_by_year = site.events | group_by_exp:"post", "post.date | date: '%Y'" %}
+        {% for year in posts_by_year reversed %}
+
+          <h2>{{ year.name }}</h2>
+          <ul>
+
+            {% for event in year.items reversed %}
+
+              <li>
+                <a href="{{ event.url }}">
+
+                  {% if event.number %}<span>{{ event.number }}</span>{% endif %}
+                  <h3>{{ event.title }}</h3>
+                  <time datetime="{{ event.date | date: "%M-%d" }}">{{ event.date | date: "%B %-d" }}</time>
+
+                </a>
+              </li>
+
+            {% endfor %}
+
+          </ul>
+
+        {% endfor %}
+
+      </section>
+
+      <div overlay></div>
+
+    </main>
+
+
+    <footer>
+      {% include components/footer.html %}
+    </footer>
+
+    <script>
+      {% include scripts/main.js %}
+    </script>
+
+  </body>
+
+</html>
