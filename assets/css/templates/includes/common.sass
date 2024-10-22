@@ -1,0 +1,83 @@
+
+div[sticker]
+  @apply z-[900]
+
+div[picture]
+  @apply z-[950]
+
+  div
+    @apply p-[15px] rounded-md shadow-xl bg-white
+    @apply flex flex-col items-center justify-center
+
+    label
+      @apply mt-[15px] text-[14px]
+
+div[img-container]
+  @apply w-full relative flex-col-center
+
+footer
+  @apply flex flex-col items-center justify-center
+
+  section[footer]
+
+    aside div
+      @apply flex flex-col
+
+      label
+        @apply font-medium
+      span, a
+        @apply my-[4px]
+      a
+        @apply underline text-[--color-secondary]
+
+    aside.info
+      svg.logo
+        @apply mb-[15px]
+
+    aside.links
+      @apply flex grow items-start justify-end
+
+@media (min-width: $breakpoint)
+
+  div[sticker], div[picture]
+    @apply h-fit w-fit absolute
+
+  footer
+    @apply flex mt-[150px] py-[50px]
+
+    section[footer]
+      @apply flex-row justify-center
+
+      aside div label
+        @apply mb-[15px]
+      aside.links
+        @apply flex-row pl-[20px]
+      aside.links div:not(:first-of-type)
+        @apply ml-[40px]
+
+@media (max-width: $breakpoint)
+
+  div[picture]
+    @apply mx-auto my-[20px] inline-block
+  div[picture] img
+    @apply w-[300px]
+  div[picture]:first-of-type
+    @apply mt-[40px]
+
+  div[sticker]
+    @apply hidden
+
+  footer
+    @apply flex mt-[150px] pt-[15px] pb-[30px]
+
+    section[footer]
+      @apply flex-col justify-center
+
+      aside div label
+        @apply mb-[10px]
+      aside.info
+        @apply pb-[20px]
+      aside.links
+        @apply flex-col
+      aside.links div
+        @apply mt-[20px]

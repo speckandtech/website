@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang=en layout=event-retreat>
+
+  <head>
+    {% include components/head.html %}
+  </head>
+
+  <body>
+
+    {% include components/navigation.html %}
+
+    {% include components/header.html %}
+
+    <main>
+
+      {{ content }}
+
+      <div overlay></div>
+
+    </main>
+
+    <footer>
+      {% include components/footer.html %}
+    </footer>
+
+    <script>
+      {% include scripts/main.js %}
+    </script>
+
+  </body>
+
+</html>

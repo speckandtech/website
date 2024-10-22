@@ -1,0 +1,68 @@
+
+/*
+ * List Pages Layout
+ *
+ */
+
+
+html[layout=events],
+html[layout=jobs]
+  body
+
+    main
+
+      ul
+        @apply m-0 p-0 list-none
+      ul li
+        @apply my-[20px] flex
+      ul li a
+        @apply flex flex-row items-baseline
+
+
+html[layout=events]
+  body
+
+    main
+      section.events
+
+        h2
+          @apply mt-[40px] mb-[20px] font-normal flex justify-center
+
+        ul li
+          @apply my-[20px] justify-center
+        ul li h3
+          @apply mx-[10px] my-0 text-[35px] text-[color:var(--color-primary)] font-semibold
+        ul li span, ul li time
+          @apply text-[18px]
+        ul li span
+          @apply text-[color:var(--color-primary)] font-semibold tracking-[-1px]
+
+        ul li a:hover
+          h3, span, time
+            @apply text-[color:var(--color-primary-dark)]
+
+@media (max-width: 700px)
+
+  html[layout=events] body
+
+      main
+        section.events
+          ul li
+            @apply my-[40px] justify-start
+          ul li a
+            @apply flex-col
+
+
+html[layout=jobs]
+  body
+
+    main
+      section.jobs
+
+        h2
+          @apply mt-[40px] mb-[20px] text-[35px] text-[color:var(--color-primary)]
+
+        ul li a h3
+          @apply ml-[40px] my-0 text-[25px] font-normal
+        ul li a:hover h3
+          @apply text-[color:var(--color-primary)]

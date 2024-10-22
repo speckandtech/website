@@ -1,0 +1,96 @@
+
+/*
+ * Typography
+ *
+ */
+
+h1
+  @apply text-4xl
+
+h2
+  @apply text-2xl
+
+h3
+  @apply text-xl
+
+h4
+  @apply text-lg
+
+h1, h2, h3, h4
+  @apply m-0 mb-2 font-medium leading-[1.2] tracking-[-1px] text-balance
+
+  a
+    @apply underline
+  a:hover
+    @apply text-[var(--color-primary-dark)]
+
+p, ul li
+  @apply text-[1.2rem] leading-[1.5]
+
+p
+  @apply m-0 p-0
+  &[lg]
+    @apply text-[1.5rem]
+
+a
+  color: inherit
+  text-decoration: inherit
+
+a.link
+  @apply text-[var(--color-primary)] cursor-pointer
+  &:hover
+    @apply text-[var(--color-primary-dark)]
+
+a.cta, a.cta-secondary, a.cta-event, [button]
+  @apply pt-[12px] pb-[10px] px-[15px] font-medium rounded-[calc(40px*2/5)]
+
+a.cta, [button]
+  @apply text-white bg-[var(--color-primary)] cursor-pointer
+  &:hover
+    @apply text-white bg-[var(--color-primary-dark)]
+
+a.cta-secondary
+  @apply text-[var(--color-primary)] bg-white cursor-pointer
+  &:hover
+    @apply text-[var(--color-primary-dark)] bg-white
+
+[button]
+  @apply py-[10px] px-[15px] font-medium rounded-[calc(40px*2/5)]
+
+strong, b, [b]
+  @apply font-medium
+
+small
+  @apply text-[80%]
+
+sub, sup
+  @apply text-[75%] relative align-[initial]
+
+sub
+  @apply bottom-[-.25em]
+
+sup
+  @apply top-[-.5em]
+
+button, select
+  @apply normal-case
+
+div[row]
+  @apply w-full flex flex-row items-center relative
+
+div[row-wrap]
+  @apply w-full flex flex-row items-center relative flex-wrap
+
+section p, p[s]
+  @apply my-[10px] mx-0
+
+section p, span
+  @apply text-pretty
+
+iframe[yt]
+  @apply w-full min-h-[500px] bg-black rounded-[calc(40px*2/5)] border-none
+
+@media (max-width: $breakpoint)
+  h1, h2, h3, h4, p, a, span
+    &[h]
+      @apply hidden

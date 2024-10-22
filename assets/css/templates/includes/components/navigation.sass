@@ -1,0 +1,76 @@
+
+nav
+  @apply h-[40px] py-[10px] pl-[15px] pr-[10px] top-[30px] z-[1001]
+  @apply bg-white shadow-lg fixed flex justify-end rounded-[calc(60px*2/5)]
+
+  .branding
+    @apply h-[40px] flex flex-row items-center absolute -left-[10px]
+  .branding svg
+    @apply absolute -left-[15px]
+  .branding h1
+    @apply mt-[7px] mb-[0px] ml-[55px] leading-[20px]
+    @apply text-bold text-[var(--color-primary)]
+
+  .links
+    @apply items-center text-base font-medium
+  .links a
+    @apply mx-[8px] leading-[15px]
+  .links a:not(.cta)
+    @apply mt-[2px]
+  .links a.cta
+    @apply mr-[2px] -my-[5px]
+  .links a:not(.cta):hover,
+  .links a.active
+    @apply text-[color:var(--color-primary-dark)]
+
+  [button].menu
+    @apply h-[18px] w-[18px] min-h-[18px] min-w-[18px] mt-[1px] mr-[2px]
+    @apply flex items-center justify-center absolute right-[10px]
+  [button].menu span[bar]
+    @apply h-[2.5px] w-[18px] bg-white absolute
+  [button].menu span[bar]:nth-of-type(1)
+    transform: translate(0, -6px)
+  [button].menu span[bar]:nth-of-type(2)
+    transform: translate(0, 0)
+  [button].menu span[bar]:nth-of-type(3)
+    transform: translate(0, 6px)
+
+nav.open
+  @apply shadow-xl justify-center
+  height: auto
+
+  .links
+    @apply w-full pt-[60px] pb-[10px] top-[80px] right-[0px] flex flex-col
+  .links a
+    @apply my-[10px] mx-[0] text-2xl
+  .links a.cta
+    @apply w-[calc(100%-28px*2)] text-center
+
+  [button].menu span[bar]:nth-of-type(1)
+    transform: translate(0, 0) rotate(45deg)
+  [button].menu span[bar]:nth-of-type(2)
+    opacity: 0
+  [button].menu span[bar]:nth-of-type(3)
+    transform: translate(0, 0) rotate(-45deg)
+
+
+@media (min-width: $breakpoint)
+  nav
+    .links
+      @apply flex
+    [button].menu
+      @apply hidden pointer-events-none
+
+@media (max-width: $breakpoint)
+  nav
+    .links
+      @apply hidden
+    [button].menu
+      @apply flex pointer-events-auto
+
+
+div[overlay]
+  @apply h-[100vh] w-[100vw] m-0 fixed top-[0px] left-[0px] z-[1000] opacity-0
+  @apply bg-black bg-opacity-70 select-none pointer-events-none
+  &.active
+    @apply opacity-100

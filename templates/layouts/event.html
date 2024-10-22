@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+<html lang=en layout=event>
+
+  <head>
+    {% include components/head.html %}
+  </head>
+
+  <body>
+
+    {% include components/navigation.html %}
+
+    <header>
+      <section>
+
+        <h1>{{ page.title }}</h1>
+        <span>{{ page.date | date: "%B %d, %Y" }}</span>
+
+      </section>
+    </header>
+
+    <main>
+      <section>
+
+        {% for talk in page.talks %}
+
+          <article>
+
+            <h2>{{ talk.title }}</h2>
+
+            {% for speaker in talk.speakers %}
+              <h3>
+
+                {% if speaker.link %}
+                  <a href="{{ speaker.link }}">{{ speaker.name }}</a>{% if speaker.role %}, {% endif %}
+                {% else %}
+                  <span>{{ speaker.name }}</span>{% if speaker.role %}, {% endif %}
+                {% endif %}
+
+                {% if speaker.role %}
+                  {{ speaker.role }}
+                {% endif %}
+
+                {% if speaker.org %}
+                  @{% if speaker.org_link %}
+                    <a href="{{ speaker.org_link }}">{{ speaker.org }}</a>
+                  {% else %}
+                    {{ speaker.org }}
+                  {% endif %}
+                {% endif %}
+
+              </h3>
+            {% endfor %}
+
+            {% if talk.description %}
+              {{ talk.description | markdownify }}
+            {% endif %}
+
+            {% if talk.slides %}
+              <a href="{{talk.slides}}" class="cta-event slides" target="_blank">Slides</a>
+            {% endif %}
+
+          </article>
+
+        {% endfor %}
+
+        {% if page.media.pictures %}
+          <div row class="pictures">
+            {% for picture in page.media.pictures %}
+              {% include common/picture.html label=picture.label src=picture.src w=320 r=picture.r x=picture.x %}
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        <div row class="media">
+
+          {% if page.media.video_recording %}
+            <a class="cta live-yt"  target="_blank" href="{{page.media.video_recording}}">Video recording</a>
+          {% endif %}
+
+          {% if page.media.album_fb %}
+            <a class="cta album-fb" target="_blank" href="{{page.media.album_fb}}">FB Photo album</a>
+          {% endif %}
+
+          {% if page.media.album %}
+            <a class="cta album-gp" target="_blank" href="{{page.media.album}}">Photo album</a>
+          {% endif %}
+
+        </div>
+
+        {% if page.media.video_yt %}
+          <iframe yt src="{{page.media.video_yt}}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {% endif %}
+
+        {{ content }}
+
+      </section>
+    </main>
+
+    <footer>
+      {% include components/footer.html %}
+    </footer>
+
+    <script>
+      {% include scripts/main.js %}
+    </script>
+
+  </body>
+
+</html>

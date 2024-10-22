@@ -1,0 +1,130 @@
+---
+
+layout: homepage
+permalink: /
+
+---
+
+{% assign window_counter = 0 %}
+{% assign homepage = site.data.homepage %}
+
+{% if homepage.live %}
+  {% assign window_counter = window_counter | plus: 1 %}
+
+  {% if homepage.partner %}
+    {% assign window_counter = window_counter | plus: 1 %}
+  {% endif %}
+
+  {% if homepage.sponsor %}
+    {% assign window_counter = window_counter | plus: 1 %}
+  {% endif %}
+{% endif %}
+
+<header windows="{{ window_counter }}">
+  <section class="heading">
+    <h1>
+      Tasty tech <br>
+      events in Trento
+    </h1>
+  </section>
+
+  <section class="windows">
+    {% include components/homepage/window.event.html %}
+    {% include components/homepage/window.partner.html %}
+    {% include components/homepage/window.sponsor.html %}
+  </section>
+</header>
+
+<main>
+  <section class="intro">
+    <p>
+      We're a <b>growing community</b><br>
+      of geeks, entrepreneurs, professionals and students forming a network of tech enthusiasts in Trento.
+    </p>
+
+    <p>
+      Our purpose is to learn and share new ideas about the latest trends in a variety of fields like
+      {% assign latest_events = site.events | slice: -4, 4 %}
+      {% for event in latest_events reversed %}
+        <a href="{{ event.permalink }}">{{ event.topic }}</a>,
+      {% endfor %}
+      <br>and <a href="/events">many more topics</a>.
+    </p>
+
+    <div class="pictures">
+      {% include common/picture.html label="S&T 66" src="66.1.png" w=350 r=04.5 x="-top-[10px] -right-[120px]" %}
+      {% include common/picture.html label="S&T 64" src="65.1.png" w=350 r=-6.0 x="top-[350px] -right-[150px]" %}
+      {% include common/picture.html label="S&T 58" src="58.1.jpg" w=360 r=02.0 x="top-[750px] -right-[80px]" %}
+      {% include common/picture.html label="S&T 57" src="57.1.jpg" w=360 r=-4.0 x="top-[850px] -left-[20px]" %}
+      {% comment %} {% include common/picture.html label="S&T 56" src="56.1.jpg" w=320 r=-7.0 x="top-[900px] -left-[60px]" %} {% endcomment %}
+    </div>
+  </section>
+
+  <section class="socials">
+    <p>You can always find us here</p>
+    <div row-wrap>
+      <a target="_black" href="https://youtube.com/@speckandtech">{% include graphics/icons/youtube.svg %}</a>
+      <a target="_black" href="https://t.me/speckandtech">{% include graphics/icons/telegram.svg %}</a>
+      <a target="_black" href="https://facebook.com/speckandtech">{% include graphics/icons/facebook.svg %}</a>
+      <a target="_black" href="https://instagram.com/speckandtech">{% include graphics/icons/instagram.svg %}</a>
+      <a target="_black" href="https://linkedin.com/company/speck&tech">{% include graphics/icons/linkedin.svg %}</a>
+      <a target="_black" href="https://x.com/speckandtech">{% include graphics/icons/x.svg %}</a>
+    </div>
+  </section>
+
+  <section class="activities">
+    <p>We do much more than meetups!</p>
+
+    <div row>
+      <aside class="speck&trek">
+        <h1><a href="#">Speck&Trék</a></h1>
+        <span>
+          Have you ever imagined a tech talk in a <i>malga trentina</i>? When the weather is good, we organize a hike in
+          the mountains where we can enjoy a day in the beautiful Alps’ nature. The day culminates with a refreshing
+          open discussion and a tech talk in the afternoon, accompanied by an aperitivo.
+        </span>
+
+        {% comment %} {% include common/sticker.html  src="pig" w=300 r=-7 x="top-[80px] left-[50px]" %} {% endcomment %}
+      </aside>
+
+      <aside class="pan&botoni">
+        <h1><a href="#">Pan e Botóni</a></h1>
+        <span>
+          Think you’re too old to be a geek? Don't worry, there’s something for you and your loved ones too! We aim to
+          make technology accessible for everyone. That’s why we partner with local senior communities to host digital
+          literacy events.
+        </span>
+      </aside>
+    </div>
+
+    <div class="pictures">
+      {% include common/picture.html label="Speck&Trek" src="trek.1.jpg" w=320 r=4 x="bottom-[30px] right-[55%]" %}
+      {% include common/picture.html label="Speck&Trek" src="trek.2.jpg" w=280 r=-6 x="bottom-0 left-[55%]" %}
+    </div>
+    <div class="pictures">
+      {% include common/picture.html label="Pan e Botóni" src="botoni.1.jpg" w=300 r=-2 x="bottom-0 right-[52%]" %}
+      {% include common/picture.html label="Pan e Botóni" src="botoni.2.jpg" w=350 r=4 x="bottom-[20px] left-[52%]" %}
+    </div>
+  </section>
+
+  <section class="sponsors">
+    <p>Over the years, we’ve been supported<br>by a bunch of amazing companies:</p>
+
+    <div class="sponsor-wrapper">
+      <a class="sponsor" href="#">{% include graphics/logos/aws.svg %}</a>
+      <a class="sponsor" href="#">{% include graphics/logos/bending_spoons.svg %}</a>
+      <a class="sponsor" href="#">{% include graphics/logos/dedagroup.svg %}</a>
+      <a class="sponsor" href="#">{% include graphics/logos/engineering.svg %}</a>
+      <a class="sponsor" href="#">{% include graphics/logos/hotel_in_cloud.svg %}</a>
+      <a class="sponsor" href="#">{% include graphics/logos/noi_techpark.svg %}</a>
+      <a class="sponsor" href="#">{% include graphics/logos/openmove.svg %}</a>
+      <a class="sponsor" href="#">{% include graphics/logos/spaziodati.svg %}</a>
+      <a class="sponsor-cta" href="#">
+        <span>Wanna be part of this list?</span>
+        <span>Reach out to us!</span>
+      </a>
+    </div>
+  </section>
+
+  <div overlay></div>
+</main>

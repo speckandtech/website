@@ -1,41 +1,49 @@
-name: SpeckAndTech
+
 title: Speck&Tech
+email: comms@speckand.tech
 
 description: ""
 
-url: https://speckand.tech
-permalink: "/:year/:month/:title/"
+url:     / # the base hostname & protocol for the site
+baseurl: / # the subpath of the site
 
 port: 4268
-destination: _site
-assets_dir: _assets
-# data_dir: _data
-# drafts_dir: _drafts
-# posts_dir: _posts
-# layouts_dir: _templates/layouts
-# includes_dir: _templates/includes
-# collections_dir: _pages
+destination: public
+assets_dir: assets
+data_dir: data
+collections_dir: collections
+posts_dir: posts
+drafts_dir: drafts
+layouts_dir: templates/layouts
+includes_dir: templates/includes
+
 collections:
-  job_offers:
+  events:
     output: true
-    permalink: "/:collection/:title/"
-    sort_by: title
+  jobs:
+    output: true
 
 encoding: UTF-8
 markdown: kramdown
-kramdown:
-   parse_block_html: true
-sass:
-  sass_dir: _assets/css
-  style: compressed
-  sourcemap: never
 
 plugins: []
 
-keep_files: []
-
-include: ["_assets"]
-exclude: ["_assets/css/bootstrap"]
-
-# Variables
-RETREAT_EDITION: 5
+keep_files: [".git"]
+include: ["assets", "pages", "posts"]
+exclude:
+  [
+    ".env",
+    ".css",
+    ".gitattributes",
+    ".gitconfig",
+    ".gitignore",
+    "old_posts",
+    "Gemfile",
+    "Gemfile.lock",
+    "vercel.json",
+    "assets/css",
+    "templates",
+    "scripts",
+    "drafts",
+    "data",
+  ]

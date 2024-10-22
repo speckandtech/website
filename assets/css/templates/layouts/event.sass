@@ -1,0 +1,57 @@
+
+/*
+ * Event Layout
+ *
+ */
+
+
+html[layout=event], html[layout=event-old]
+  body
+
+    header
+      @apply h-[150px] text-center
+    header h1
+      @apply text-[var(--color-primary)] text-semibold
+
+    main
+      section
+
+        article
+          @apply mb-[90px]
+
+          h2
+            @apply mb-[10px] font-medium text-[1.55rem]
+          h3
+            @apply mb-[10px] font-normal text-[1.50rem]
+          p
+            @apply mt-[30px] mb-[30px]
+
+          iframe
+            @apply w-[calc(100%-8px*2)] h-[650px] my-[10px] rounded-[8px]
+            @apply border-[8px] border-solid border-[var(--color-primary)]
+
+        .pictures
+          @apply mb-[50px] py-[20px] flex-wrap
+
+        .pictures [picture]
+          @apply m-[25px] relative
+
+        .media
+          @apply mb-[50px] justify-center
+
+        .media a.cta-event
+          @apply mx-[10px]
+
+        a.cta-event
+          @apply px-[25px] text-white bg-[var(--color-primary)] relative
+        a.cta-event.slides
+          @apply bg-[var(--color-secondary)]
+        a.cta-event.slides:hover
+          @apply bg-[var(--color-secondary-dark)]
+
+        a.cta-event.live-yt
+          @apply text-black bg-[lightgray]
+          @apply flex flex-col items-center justify-center
+
+          svg
+            @apply w-[140px] absolute left-[-20px] bottom-[6px]

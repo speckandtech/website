@@ -1,6 +1,10 @@
 
+#
+# ASSOCIAZIONE SPECK & TECH
+#
+# Author:    Andrea Leone
+# Date:      11/01/2024
+#
+
 source "https://rubygems.org"
-
-ruby "~> 2.7.4"
-
-gem 'github-pages', group: :jekyll_plugins
+gem "jekyll",      "~> 4.3.3"

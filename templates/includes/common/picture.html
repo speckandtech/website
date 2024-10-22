@@ -1,0 +1,7 @@
+
+<div picture class="{{ include.x }}">
+  <div style="transform: rotate({{ include.r | default: '0' }}deg)">
+    <img src="/assets/images/pictures/{{ include.src }}" class="w-[{{ include.w | default: '100' }}px]" />
+    <label>{{ include.label }}</label>
+  </div>
+</div>

@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [],
+  "redirects": [],
+  "buildCommand": "bundle exec jekyll build && npx tailwindcss -i .css/main.css.tmp -o public/assets/css/main.css -c scripts/tw.config.js --minify"
+}

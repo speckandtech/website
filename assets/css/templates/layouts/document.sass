@@ -1,0 +1,56 @@
+
+/*
+ * Document Layout
+ *
+ */
+
+
+html
+  body
+    @apply m-[0] p-[0] flex flex-col items-center
+    font-family: var(--font-family)
+    z-index: 0
+
+    header
+      @apply pt-[150px] pb-[20px]
+
+    header, main, footer
+      @apply w-full flex flex-col items-center relative overflow-x-clip
+
+      section
+        @apply min-h-full flex flex-col relative z-[300]
+
+    main
+        @apply min-h-[70vh]
+
+
+html[layout=page]
+  body
+    main
+      @apply min-h-[100vh]
+
+
+@media (min-width: $breakpoint)
+  html body
+
+    section
+      @apply w-[var(--content-width)]
+
+      p a
+        @apply text-[color:var(--color-primary-dark)]
+
+    nav
+      @apply w-[var(--nav-width)]
+
+
+@media (max-width: $breakpoint)
+  html body
+
+    section
+      @apply w-[calc(100vw-20px*2)]
+
+    nav
+      @apply w-[calc(100vw-50px*2)]
+
+*
+  transition: 0.35s ease-in-out

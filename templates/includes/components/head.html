@@ -1,0 +1,18 @@
+
+{% if page.title %}
+  {% assign title = page.title | append: ' / ' | append: site.title %}
+{% endif %}
+
+<title>{{ title | default: site.title }}</title>
+
+<meta charset=UTF-8>
+<meta http-equiv=Authors      content="Andrea Leone <git@leone.gdn>">
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=viewport           content="width=device-width, initial-scale=1.0">
+
+<link rel=apple-touch-icon    sizes=180x180 href=/assets/ico/apple-touch-icon.png >
+<link rel=icon type=image/png sizes=32x32   href=/assets/ico/favicon-32x32.png >
+<link rel=icon type=image/png sizes=16x16   href=/assets/ico/favicon-16x16.png >
+
+<link rel=manifest   href="/assets/ico/site.webmanifest">
+<link rel=stylesheet href="/assets/css/{{ page.style | default: 'main' | append: '.css' }}">
