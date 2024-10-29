@@ -34,7 +34,7 @@
                 {% if speaker.link %}
                   <a href="{{ speaker.link }}">{{ speaker.name }}</a>{% if speaker.role %}, {% endif %}
                 {% else %}
-                  {{ speaker.name }}{% if speaker.role %}, {% endif %}
+                  <span>{{ speaker.name }}</span>{% if speaker.role %}, {% endif %}
                 {% endif %}
 
                 {% if speaker.role %}
@@ -66,19 +66,29 @@
 
         <div row class="media">
 
+          {% if page.media.video_recording %}
+            <a class="cta live-yt"  target="_blank" href="{{page.media.video_recording}}">Video recording</a>
+          {% endif %}
+
           {% if page.media.live_yt %}
             <a class="cta live-yt"  target="_blank" href="{{page.media.live_yt}}">YouTube Recording</a>
           {% endif %}
 
           {% if page.media.album_fb %}
-            <a class="cta album-fb" target="_blank" href="{{page.media.album_fb}}">Photo album</a>
+            <a class="cta album-fb" target="_blank" href="{{page.media.album_fb}}">FB Photo album</a>
           {% endif %}
 
           {% if page.media.album %}
             <a class="cta album-gp" target="_blank" href="{{page.media.album}}">Photo album</a>
           {% endif %}
 
-        <div>
+        </div>
+
+        {% if page.media.video_yt %}
+          <iframe yt src="{{page.media.video_yt}}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {% endif %}
+
+        {{ content }}
 
       </section>
     </main>
