@@ -1,17 +1,17 @@
 
-number:       69
-title:        The Web Knows
-date:         2024-11-06T20:15:00+02:00
+number:       70
+title:        A Chemical Romance
+date:         2024-12-05T19:30:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.png
 
-ticket_link:  https://bit.ly/speck69
+ticket_link:  https://bit.ly/speck70
 # info_link:    https://eventi.wired.it/nextfest24-trentino/home
 
 location:
-  name:       Impact Hub Trentino
-  link:       https://maps.app.goo.gl/7dPToQhzALt5jkmh6
+  name:       MUSE – Museo delle Scienze di Trento
+  link:       https://maps.app.goo.gl/6LSAFGpvVsYzRCwn9
 
 # partner:
 #   title:      In partnership with
@@ -19,14 +19,14 @@ location:
 #   logo:       assets/images/partners/wired_next_fest.webp
 #   link:       https://eventi.wired.it/nextfest24-trentino
 
-partner:
-  title:      In collaboration with
-  name:       null
-  logo:       /assets/images/sponsors/noi_techpark.png
-  link:       https://www.sfscon.it
+# partner:
+#   title:      In collaboration with
+#   name:       null
+#   logo:       /assets/images/sponsors/noi_techpark.png
+#   link:       https://www.sfscon.it
 
-sponsor:
-  title:      Powered by
-  name:       null
-  logo:       /assets/images/sponsors/wikimedia.png
-  link:       https://wiki.wikimedia.it/
+# sponsor:
+#   title:      Powered by
+#   name:       null
+#   logo:       /assets/images/sponsors/wikimedia.png
+#   link:       https://wiki.wikimedia.it/
