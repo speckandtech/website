@@ -2,12 +2,11 @@
 number:       70
 title:        A Chemical Romance
 date:         2024-12-05T19:30:00+02:00
-live:         true
+live:         false
 
 background:   /assets/images/graphics/header.jpg
 
 ticket_link:  https://bit.ly/speck70
-# info_link:    https://eventi.wired.it/nextfest24-trentino/home
 
 location:
   name:       MUSE – Museo delle Scienze di Trento
