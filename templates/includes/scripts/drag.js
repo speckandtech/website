@@ -1,20 +1,13 @@
 
-// define which elements are draggable
-const elements = [
-  '[window].event',
-  '[window].sponsor',
-  '[window].partner',
-]
-
-elements.forEach(q => makeDraggable(q))
+document.querySelectorAll('[window]')
+  .forEach(element => makeDraggable(element))
 
 // the logic to make the element draggable
-function makeDraggable(q) {
+function makeDraggable(element) {
   if (window.innerWidth < 950) return
 
   const
-    element = $(q),
-    handle = $(q + ' [handle]');
+    handle = element.querySelector('[handle]');
 
   let pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
 
@@ -40,12 +33,12 @@ function makeDraggable(q) {
     pos4 = e.clientY;
 
     // set the new position of the element
-    element.style.top  = (element.offsetTop - pos2) + 'px';
+    element.style.top = (element.offsetTop - pos2) + 'px';
     element.style.left = (element.offsetLeft - pos1) + 'px';
   }
 
   function stopDragElement() {
-    document.onmouseup   = null;
+    document.onmouseup = null;
     document.onmousemove = null;
   }
 

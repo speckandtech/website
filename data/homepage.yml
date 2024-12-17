@@ -4,7 +4,7 @@ title:        A Chemical Romance
 date:         2024-12-05T19:30:00+02:00
 live:         true
 
-background:   /assets/images/graphics/header.png
+background:   /assets/images/graphics/header.jpg
 
 ticket_link:  https://bit.ly/speck70
 # info_link:    https://eventi.wired.it/nextfest24-trentino/home
@@ -13,20 +13,14 @@ location:
   name:       MUSE – Museo delle Scienze di Trento
   link:       https://maps.app.goo.gl/6LSAFGpvVsYzRCwn9
 
-# partner:
-#   title:      In partnership with
-#   name:       null
-#   logo:       assets/images/partners/wired_next_fest.webp
-#   link:       https://eventi.wired.it/nextfest24-trentino
+partner:
+  title:      In partnership with
+  name:       null
+  logo:       assets/images/partners/muse.webp
+  link:       https://www.muse.it/eventi/a-chemical-romance-2024/
 
-# partner:
-#   title:      In collaboration with
-#   name:       null
-#   logo:       /assets/images/sponsors/noi_techpark.png
-#   link:       https://www.sfscon.it
-
-# sponsor:
-#   title:      Powered by
-#   name:       null
-#   logo:       /assets/images/sponsors/wikimedia.png
-#   link:       https://wiki.wikimedia.it/
+sponsor:
+  title:      Powered by
+  name:       null
+  logo:       assets/images/sponsors/caritro+avis.png
+  link:       https://www.avistrentino.org/diventa-donatore/
