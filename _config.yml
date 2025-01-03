@@ -1,3 +1,4 @@
+
 title: Speck&Tech
 email: comms@speckand.tech
 
@@ -6,10 +7,10 @@ description: The website of Speck&Tech
 port: 4268
 destination: public
 assets_dir: assets
-collections_dir: pages
 data_dir: data
-drafts_dir: drafts
+collections_dir: collections
 posts_dir: posts
+drafts_dir: drafts
 layouts_dir: templates/layouts
 includes_dir: templates/includes
 plugins_dir: scripts
@@ -28,8 +29,14 @@ converters:
     prefix: '@tailwind components; @tailwind utilities; '
     exclude: []
 
+collections:
+  events:
+    output: true
+  jobs:
+    output: true
+
 keep_files: [".git"]
-include: ["assets", "data", "pages"]
+include: ["assets", "pages", "posts"]
 exclude:
   [
     ".env",
