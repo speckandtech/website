@@ -1,12 +1,12 @@
 
 number:       71
 title:        Where is my mind
-date:         2025-01-25T20:15:00+02:00
-live:         false
+date:         2025-01-29T20:15:00+02:00
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  null
+ticket_link:  https://bit.ly/speck71
 info_link:    https://t.me/speckandtech
 
 location:
