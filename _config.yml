@@ -1,35 +1,35 @@
-
 title: Speck&Tech
 email: comms@speckand.tech
 
-description: ""
-
-url:     / # the base hostname & protocol for the site
-baseurl: / # the subpath of the site
+description: The website of Speck&Tech
 
 port: 4268
 destination: public
 assets_dir: assets
+collections_dir: pages
 data_dir: data
-collections_dir: collections
-posts_dir: posts
 drafts_dir: drafts
+posts_dir: posts
 layouts_dir: templates/layouts
 includes_dir: templates/includes
-
-collections:
-  events:
-    output: true
-  jobs:
-    output: true
+plugins_dir: scripts
 
 encoding: UTF-8
 markdown: kramdown
 
+sass:
+  sass_dir: assets/css
+  style: compressed
+  sourcemap: never
+
 plugins: []
+converters:
+  sass:
+    prefix: '@tailwind components; @tailwind utilities; '
+    exclude: []
 
 keep_files: [".git"]
-include: ["assets", "pages", "posts"]
+include: ["assets", "data", "pages"]
 exclude:
   [
     ".env",
@@ -41,7 +41,6 @@ exclude:
     "Gemfile",
     "Gemfile.lock",
     "vercel.json",
-    "assets/css",
     "templates",
     "scripts",
     "drafts",
