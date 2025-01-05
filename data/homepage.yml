@@ -1,26 +1,26 @@
 
 number:       71
-title:        Spazio
-date:         2024-12-05T19:30:00+02:00
-live:         false
+title:        Where is my mind
+date:         2025-01-29T20:15:00+02:00
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://bit.ly/speck70
-# info_link:    https://eventi.wired.it/nextfest24-trentino/home
+ticket_link:  https://bit.ly/speck71
+info_link:    https://t.me/speckandtech
 
 location:
-  name:       MUSE – Museo delle Scienze di Trento
-  link:       https://maps.app.goo.gl/6LSAFGpvVsYzRCwn9
+  name:       Impact Hub Trentino
+  link:       https://maps.app.goo.gl/XvPudqEngWhhRk2f7
 
-partner:
-  title:      In partnership with
-  name:       null
-  logo:       assets/images/partners/muse.webp
-  link:       https://www.muse.it/eventi/a-chemical-romance-2024/
-
-sponsor:
-  title:      Powered by
-  name:       null
-  logo:       assets/images/sponsors/caritro+avis.png
-  link:       https://www.avistrentino.org/diventa-donatore/
+# partner:
+#   title:      In partnership with
+#   name:       null
+#   logo:       null
+#   link:       null
+#
+# sponsor:
+#   title:      Powered by
+#   name:       null
+#   logo:       null
+#   link:       null

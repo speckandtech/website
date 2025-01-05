@@ -11,7 +11,7 @@
 ### System Preparation
 
 Our site is statically built with Jekyll and deployed on Vercel.
-You'll need [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and the [Bundler](https://bundler.io/) gem installed on your machine.
+To get started, you'll need at least [Ruby](https://www.ruby-lang.org/en/documentation/installation/) 3.4.0 and the [Bundler](https://bundler.io/) gem installed on your machine.
 We suggest using the [rbenv](https://github.com/rbenv/rbenv) version manager to install the dependencies.
 
 ```bash
@@ -33,7 +33,7 @@ gem install bundler
 1. Clone this repository.
 2. Run `bundle install`. It will fetch [Jekyll](http://jekyllrb.com) and its dependencies.
 
-Compatibility issues with your platform? Fear not! Just run `bundle lock --add-platform <platform>`.
+Compatibility issues with your platform? Fear not! Just run `bundle lock --add-platform <platform>`
 
 <br/>
 
@@ -42,14 +42,16 @@ Compatibility issues with your platform? Fear not! Just run `bundle lock --add-p
 To get the server running:
 
 ```bash
-bundle exec jekyll serve [--livereload]
-# or
 jekyll serve [--livereload]
+# or, better
+bundle exec jekyll serve [--livereload]
 
-# then run
-[ruby] ./scripts/styling.rb
+# in alternative
+bundle exec jekyll build
 ```
 
-The two scripts will take care of the live reloading and the style compilation. For more info, please see the [Jekyll](http://jekyllrb.com/docs/usage/) and [TailwindCSS](https://tailwindcss.com/) docs.
+The Jekyll build process will take care of compiling the Sass code and process it with Tailwind.
+It makes use of the Tailwind CLI via a [specific Ruby gem](https://github.com/flavorjones/tailwindcss-ruby).
+For more info, please see the [Jekyll](http://jekyllrb.com/docs/usage/) and [TailwindCSS](https://tailwindcss.com/) docs.
 
 When you push to `master`, Vercel will build the website and deploy to [https://speckand.tech](https://speckand.tech).
