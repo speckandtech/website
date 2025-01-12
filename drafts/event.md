@@ -5,7 +5,7 @@ title:      Speck&Tech
 date:       YYYY-MM-DD
 
 permalink:  YYYY/MM/title
-layout:     event-old
+layout:     event
 topic:      something
 
 talks:
@@ -44,8 +44,7 @@ sponsors:
 media:
   video_recording: _
   video_yt: _
-  album_fb: _   # deprecated
-  album_g: _
+  album: _
   pictures:
     - src: _
     - src: _
