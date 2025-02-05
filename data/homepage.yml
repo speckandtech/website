@@ -17,10 +17,10 @@ partner:
   title:      In partnership with
   name:       null
   logo:       assets/images/partners/muse.webp
-# link:       https://bit.ly/speck72
+  link:       https://www.muse.it/
 
 sponsor:
   title:      In collaboration with
   name:       null
   logo:       assets/images/partners/t2060.png
-#   link:       null
+  link:       https://trentino2060.it/
