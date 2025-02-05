@@ -1,23 +1,23 @@
 
-number:       71
-title:        Where is my mind
-date:         2025-01-29T20:15:00+02:00
+number:       72
+title:        Oltre l'atmosfera
+date:         2025-02-27T20:15:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://bit.ly/speck71
+ticket_link:  https://bit.ly/speck72
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       Impact Hub Trentino
-  link:       https://maps.app.goo.gl/iVcw4VQnp21oxDYn8
+  name:       MUSE — Museo delle Scienze
+  link:       https://maps.app.goo.gl/gNBW2KsWeM3zGTvS7
 
 partner:
   title:      In partnership with
   name:       null
-  logo:       assets/images/partners/coscienza.png
-  link:       https://www.coscienzafestival.com
+  logo:       assets/images/partners/muse.webp
+# link:       https://bit.ly/speck72
 
 # sponsor:
 #   title:      Powered by
