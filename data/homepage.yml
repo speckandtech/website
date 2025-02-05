@@ -19,8 +19,8 @@ partner:
   logo:       assets/images/partners/muse.webp
 # link:       https://bit.ly/speck72
 
-# sponsor:
-#   title:      Powered by
-#   name:       null
-#   logo:       null
+sponsor:
+  title:      In collaboration with
+  name:       null
+  logo:       assets/images/partners/t2060.png
 #   link:       null

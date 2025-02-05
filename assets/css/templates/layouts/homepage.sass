@@ -140,13 +140,7 @@ html[layout=homepage]
       [window].partner
         @apply top-[320px] right-[-50px]
       [window].sponsor
-        @apply top-[650px] right-[-70px]
-
-      // OVERRIDE
-      [window].sponsor
-        @apply w-[450px]
-        img
-          @apply w-[400px]
+        @apply top-[560px] right-[-100px]
 
     header[windows='1'] section.windows
 
@@ -154,6 +148,11 @@ html[layout=homepage]
         @apply top-[350px] left-[100px]
 
     header[windows='2'] section.windows
+
+      [window].event
+        @apply top-[375px] left-[-50px]
+
+    header[windows='3'] section.windows
 
       [window].event
         @apply top-[375px] left-[-50px]
@@ -197,7 +196,7 @@ html[layout=homepage]
         @apply top-[360px] right-[20px]
       [window].partner, [window].sponsor
         img
-          @apply max-w-[200px]
+          @apply max-w-[180px]
 
     main
 
