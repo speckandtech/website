@@ -57,7 +57,7 @@ div[window].event
         @apply h-[30px]
 
 
-div[window].sponsor, div[window].partner
+div[window].sponsor, div[window].sponsor2, div[window].partner
   a[content]
     @apply flex flex-col items-center justify-center
   a[content] span
@@ -85,19 +85,19 @@ div[window].sponsor, div[window].partner
     .event-buttons
       @apply mt-[30px]
 
-  div[window].sponsor, div[window].partner
+  div[window].sponsor, div[window].partner, div[window].sponsor2
     @apply w-[250px] p-[20px] pt-[55px]
 
 
 @media (max-width: 700px)
 
-  div[window].event, div[window].sponsor, div[window].partner
+  div[window].event, div[window].sponsor, div[window].partner, div[window].sponsor2
     @apply w-[calc(100vw-20px*4)] p-[20px] pt-[60px]
 
   div[window].event
     @apply w-[80vw]
 
-  div[window].sponsor, div[window].partner
+  div[window].sponsor, div[window].partner, div[window].sponsor2
     @apply max-w-[300px]
 
   div[window].event div[content]

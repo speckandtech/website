@@ -136,11 +136,14 @@ html[layout=homepage]
     header section.windows
 
       [window].event
-        @apply top-[330px] //right-[80px]
+        @apply top-[330px] right-[80px]
       [window].partner
-        @apply top-[320px] right-[-50px]
+        @apply top-[320px] right-[-20px]
+      [window].sponsor2
+        @apply top-[620px] right-[-100px]
       [window].sponsor
-        @apply top-[560px] right-[-100px]
+        @apply top-[440px] right-[-300px]
+
 
     header[windows='1'] section.windows
 
@@ -178,6 +181,8 @@ html[layout=homepage]
         @apply top-[0px]
       [window].partner
         @apply top-[360px] left-[50px]
+      [window].sponsor2
+        @apply top-[545px] right-[100px]
       [window].sponsor
         @apply top-[360px] right-[50px]
 
@@ -194,6 +199,8 @@ html[layout=homepage]
         @apply top-[360px] left-[20px]
       [window].sponsor
         @apply top-[360px] right-[20px]
+      [window].sponsor2
+        @apply top-[525px] right-[100px]
       [window].partner, [window].sponsor
         img
           @apply max-w-[180px]
@@ -252,9 +259,11 @@ html[layout=homepage]
       [window].event
         @apply top-[75px]
       [window].partner
-        @apply top-[530px] left-[10px]
+        @apply top-[460px] left-[10px]
       [window].sponsor
-        @apply top-[720px] right-[10px]
-      [window].partner, [window].sponsor
+        @apply top-[650px] right-[10px]
+      [window].sponsor2
+        @apply top-[830px] right-[50px]
+      [window].partner, [window].sponsor, [window].sponsor2
         img
           @apply max-w-[200px]
