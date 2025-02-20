@@ -29,3 +29,8 @@ sponsor2:
   name:       null
   logo:       assets/images/partners/geniusloci.png
   link:       https://www.geniusloci.tech
+
+sponsor3:
+  name:       null
+  logo:       assets/images/sponsors/caritro.webp
+  link:       https://www.fondazionecaritro.it/
