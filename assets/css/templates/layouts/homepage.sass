@@ -92,6 +92,19 @@ html[layout=homepage]
         a.sponsor-cta:hover
           @apply border-neutral-100
 
+        .sponsor-stickers
+          @apply flex flex-wrap justify-center mt-5
+
+          a.sponsor-highlight
+            @apply row
+
+            svg
+              @apply max-h-[70px] w-[180px]
+            svg path
+              @apply fill-black/50
+            span
+              @apply mt-2 ml-2 flex items-center text-[20px] text-black/50
+
       section.sponsors p
         @apply mb-[40px] text-center
 
@@ -278,3 +291,9 @@ html[layout=homepage]
       [window].partner, [window].sponsor, [window].sponsor2, [window].sponsor3
         img
           @apply max-w-[200px]
+
+    main
+      section.sponsors
+        .sponsor-stickers
+          a.sponsor-highlight
+            @apply column items-center
