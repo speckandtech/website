@@ -21,7 +21,9 @@
         <article>
           {{ content }}
         </article>
-        <p><a class=cta href="{{ page.application_link }}" target=_blank>Apply for this job!</a></p>
+        {% if page.application_link %}
+          <p><a class=cta href="{{ page.application_link }}" target=_blank>Apply for this job!</a></p>
+        {% endif %}
       </section>
     </main>
 
