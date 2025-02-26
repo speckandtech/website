@@ -14,27 +14,24 @@ layout:     job
 
 ## Riguardo a Genius Loci
 
-Siamo una startup innovativa che opera nel settore della tecnologia applicata al real estate. Il nostro prodotto, Genius Property, rivoluziona il modo di valutare le proprietà immobiliari, fornendo dati, indicatori e soluzioni basate su dati geografici, algoritmi di intelligenza artificiale e geo-analytics.
+Genius Loci è una startup innovativa che opera nel settore della tecnologia applicata al real estate. Il nostro prodotto, Genius Property, rivoluziona il modo di valutare le proprietà immobiliari, fornendo dati, indicatori e soluzioni basate su dati geografici, algoritmi di intelligenza artificiale e geo-analytics.
 
-Stiamo cercando un **Business Developer** dinamico con mindset orientato ai risultati per guidare lo sviluppo commerciale di Genius Property. La figura sarà responsabile di definire la value proposition delle soluzioni proposte, dell’acquisizione di nuovi clienti, della gestione delle relazioni commerciali e dell’identificazione di nuove opportunità di business.
-Lavorerà a stretto contatto con i decision makers aziendali partecipando attivamente alle scelte di business.
+Stiamo cercando un **Junior Project Manager** motivato e organizzato per supportare la gestione dei progetti legati a **Genius Property**. La figura sarà coinvolta nel coordinamento delle attività progettuali, nella gestione delle tempistiche e nella comunicazione con i diversi stakeholder.
 
 ## Responsabilità principali
 
-* Segmentazione e **identificazione dei mercati** da espandere a partire dai business case dell'azienda
-* Identificare e contattare potenziali **clienti**.
-* **Presentare** il prodotto Genius Property, evidenziandone i benefici e le applicazioni pratiche.
-* Sviluppare e mantenere **relazioni** di lungo termine con clienti e partner strategici.
-* Collaborare con il **team di prodotto** per fornire feedback e migliorare l’offerta.
-* Raggiungere gli **obiettivi** di vendita / sviluppo stabiliti.
+* Supportare la pianificazione, l'esecuzione e il monitoraggio dei **progetti** (anche internazionali).
+* **Coordinare le attività** tra i diversi team interni ed esterni.
+* **Monitorare** i progressi, individuare eventuali criticità / soluzioni.
+* Preparare **report** di avanzamento e documentazione di progetto.
+* Facilitare la comunicazione tra **clienti e team tecnici**.
 
 ## Requisiti
 
-* Esperienza comprovata nel ruolo di Business Developer, preferibilmente in ambito tecnologico o real estate.
-* Ottime capacità **comunicative e di negoziazione**.
-* Attitudine **proattiva** e orientata ai risultati.
-* Capacità di lavorare in **autonomia** e in team.
-* La conoscenza del mercato immobiliare e delle dinamiche di sviluppo territoriale è un plus.
+* Esperienza, anche breve, nella **gestione di progetti**.
+* Ottime **capacità organizzative** e di problem-solving.
+* Ottime competenze **comunicative e relazionali**.
+* Conoscenza di **strumenti di project management (es. Trello, Asana, MS Project) è un plus.
 
 ## Cosa offriamo
 
