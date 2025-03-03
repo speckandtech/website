@@ -1,36 +1,26 @@
 
-number:       72
-title:        Oltre l'atmosfera
-date:         2025-02-27T19:30:00+02:00
-live:         true
+number:       73
+title:        Non è un gioco da ragazze
+date:         2025-03-25T19:30:00+02:00
+live:         false
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://bit.ly/speck72
+ticket_link:  https://bit.ly/speck73
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       MUSE — Museo delle Scienze
-  link:       https://maps.app.goo.gl/gNBW2KsWeM3zGTvS7
+  name:       Centro Giovani Smart Lab
+  link:       https://maps.app.goo.gl/xCCVbk2TyMiNTsQ7A
 
-partner:
-  title:      In partnership with
-  name:       null
-  logo:       assets/images/partners/muse.webp
-  link:       https://www.muse.it/
+# partner:
+#   title:      In partnership with
+#   name:       null
+#   logo:       assets/images/partners/muse.webp
+#   link:       https://www.muse.it/
 
-sponsor:
-  title:      In collaboration with
-  name:       null
-  logo:       assets/images/partners/t2060.png
-  link:       https://trentino2060.it/
-
-sponsor2:
-  name:       null
-  logo:       assets/images/partners/geniusloci.png
-  link:       https://www.geniusloci.tech
-
-sponsor3:
-  name:       null
-  logo:       assets/images/sponsors/caritro.webp
-  link:       https://www.fondazionecaritro.it/
+# sponsor:
+#   title:      In collaboration with
+#   name:       null
+#   logo:       assets/images/partners/t2060.png
+#   link:       https://trentino2060.it/

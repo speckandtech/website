@@ -24,14 +24,14 @@
       <a target=_blank href="{{ event.location.link }}">{{ event.location.name }}</a>
     </span>
 
-    <div row class=event-buttons>
-      {% if event.ticket_link %}
-        <a target=_blank href="{{ event.ticket_link }}" class=cta>Get the tickets</a>
-      {% endif %}
-      {% if event.info_link %}
-        <a target=_blank href="{{ event.info_link }}" class=cta-secondary>More info</a>
-      {% endif %}
-    </div>
+      <div row class=event-buttons>
+        {% if event.live and event.ticket_link %}
+          <a target=_blank href="{{ event.ticket_link }}" class=cta>Get the tickets</a>
+        {% endif %}
+        {% if event.info_link %}
+          <a target=_blank href="{{ event.info_link }}" class=cta-secondary>More info</a>
+        {% endif %}
+      </div>
   </div>
 
 </div>
