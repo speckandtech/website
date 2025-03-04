@@ -15,12 +15,12 @@ location:
 
 partner:
   title:      In partnership con
-  name:       Ludimus
+  name:       null
   logo:       https://ludimus.it/static/img/logo.svg
   link:       https://www.ludimus.it
 
 sponsor:
   title:      In collaborazione con
-  name:       Cooperativa Smart
+  name:       null
   logo:       assets/images/sponsors/smartlab.png
   link:       https://www.cooperativasmart.it/smartlab/
