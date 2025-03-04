@@ -149,26 +149,11 @@ html[layout=homepage]
     header section.windows
 
       [window].event
-        @apply top-[320px]
+        @apply top-[320px] left-[-80px]
       [window].partner
         @apply top-[150px] right-[-120px]
       [window].sponsor
-        @apply top-[400px] left-[410px]
-
-    header[windows='1'] section.windows
-
-      [window].event
-        @apply top-[350px]
-
-    header[windows='2'] section.windows
-
-      [window].event
-        @apply top-[375px] left-[-50px]
-
-    header[windows='3'] section.windows
-
-      [window].event
-        @apply top-[375px] left-[-50px]
+        @apply top-[450px] right-[-30px]
 
 
 @media (max-width: 960px)
@@ -202,11 +187,10 @@ html[layout=homepage]
       @apply h-[650px]
 
     header section.windows
-
       [window].partner
-        @apply top-[360px] left-[20px]
+        @apply top-[360px] left-[50px]
       [window].sponsor
-        @apply top-[360px] right-[20px]
+        @apply top-[360px] right-[30px]
       [window].partner, [window].sponsor
         img
           @apply max-w-[180px]
@@ -260,19 +244,23 @@ html[layout=homepage]
       @apply mb-0
 
     header section.windows
-      @apply top-[260px]
+      @apply top-[240px]
 
       [window].event
         @apply top-[75px]
       [window].partner
         @apply top-[540px] left-[5px]
       [window].sponsor
-        @apply top-[780px] left-[0px]
+        @apply top-[860px] right-[0px]
       [window].partner, [window].sponsor
         img
           @apply max-w-[200px]
 
     main
+
+      section.intro
+        @apply mt-[600px]
+
       section.sponsors
         .sponsor-stickers
           a.sponsor-highlight
