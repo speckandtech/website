@@ -14,13 +14,13 @@ location:
   link:       https://maps.app.goo.gl/qW5DPDHj4LC623SF6
 
 partner:
-  title:      In partnership with
+  title:      In partnership con
   name:       Ludimus
-  logo:       assets/images/partners/muse.webp
-  link:       https://www.muse.it/
+  logo:       https://ludimus.it/static/img/logo.svg
+  link:       https://www.ludimus.it
 
-# sponsor:
-#   title:      In collaboration with
-#   name:       null
-#   logo:       assets/images/partners/t2060.png
-#   link:       https://trentino2060.it/
+sponsor:
+  title:      In collaborazione con
+  name:       Cooperativa Smart
+  logo:       assets/images/sponsors/smartlab.png
+  link:       https://www.cooperativasmart.it/smartlab/
