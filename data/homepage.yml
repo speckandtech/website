@@ -1,6 +1,6 @@
 
 number:       73
-title:        Non è un gioco da ragazze
+title:        <s>Non</s> è un gioco da ragazze
 date:         2025-03-25T19:30:00+02:00
 live:         false
 
@@ -11,16 +11,16 @@ info_link:    https://t.me/speckandtech
 
 location:
   name:       Centro Giovani Smart Lab
-  link:       https://maps.app.goo.gl/xCCVbk2TyMiNTsQ7A
+  link:       https://maps.app.goo.gl/qW5DPDHj4LC623SF6
 
-# partner:
-#   title:      In partnership with
-#   name:       null
-#   logo:       assets/images/partners/muse.webp
-#   link:       https://www.muse.it/
+partner:
+  title:      In partnership con
+  name:       Ludimus
+  logo:       https://ludimus.it/static/img/logo.svg
+  link:       https://www.ludimus.it
 
-# sponsor:
-#   title:      In collaboration with
-#   name:       null
-#   logo:       assets/images/partners/t2060.png
-#   link:       https://trentino2060.it/
+sponsor:
+  title:      In collaborazione con
+  name:       Cooperativa Smart
+  logo:       assets/images/sponsors/smartlab.png
+  link:       https://www.cooperativasmart.it/smartlab/
