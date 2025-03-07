@@ -2,11 +2,11 @@
 number:       73
 title:        <s>Non</s> è un gioco da ragazze
 date:         2025-03-25T19:30:00+02:00
-live:         false
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://bit.ly/speck73
+ticket_link:  https://tinyurl.com/speck73
 info_link:    https://t.me/speckandtech
 
 location:
