@@ -1,26 +1,26 @@
 
-number:       73
-title:        <s>Non</s> è un gioco da ragazze
-date:         2025-03-25T19:30:00+02:00
+number:       74
+title:        (A)I, Robot
+date:         2025-04-09T19:30:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck73
+ticket_link:  https://tinyurl.com/ictspeck74
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       Centro Giovani Smart Lab
-  link:       https://maps.app.goo.gl/qW5DPDHj4LC623SF6
+  name:       Dipartimento di Lettere e Filosofia
+  link:       https://maps.app.goo.gl/A5DihMZxAwPETBLR6
 
-partner:
-  title:      In partnership con
-  name:       null
-  logo:       https://ludimus.it/static/img/logo.svg
-  link:       https://www.ludimus.it
+# partner:
+#   title:      In partnership con
+#   name:       null
+#   logo:       https://ludimus.it/static/img/logo.svg
+#   link:       https://www.ludimus.it
 
 sponsor:
-  title:      In collaborazione con
+  title:      In collaboration with
   name:       null
-  logo:       assets/images/sponsors/smartlab.png
-  link:       https://www.cooperativasmart.it/smartlab/
+  logo:       /assets/images/partners/unitn_disi.webp
+  link:       https://www.disi.unitn.it/it

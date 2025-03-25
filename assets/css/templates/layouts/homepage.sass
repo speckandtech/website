@@ -153,7 +153,7 @@ html[layout=homepage]
       [window].partner
         @apply top-[150px] right-[-120px]
       [window].sponsor
-        @apply top-[450px] right-[-30px]
+        @apply top-[350px] right-[-30px]
 
 
 @media (max-width: 960px)
@@ -238,7 +238,7 @@ html[layout=homepage]
       @apply mb-[650px]
 
     header[windows='2']
-      @apply mb-[280px]
+      @apply mb-[0px]
 
     header[windows='1']
       @apply mb-0
@@ -247,11 +247,11 @@ html[layout=homepage]
       @apply top-[240px]
 
       [window].event
-        @apply top-[75px]
+        @apply top-[120px]
       [window].partner
         @apply top-[540px] left-[5px]
       [window].sponsor
-        @apply top-[860px] right-[0px]
+        @apply top-[600px] right-[0px]
       [window].partner, [window].sponsor
         img
           @apply max-w-[200px]
@@ -259,9 +259,13 @@ html[layout=homepage]
     main
 
       section.intro
-        @apply mt-[600px]
+        @apply mt-[350px]
 
       section.sponsors
         .sponsor-stickers
           a.sponsor-highlight
             @apply column items-center
+
+
+header .heading h1
+  @apply text-[var(--color-primary)] !important
