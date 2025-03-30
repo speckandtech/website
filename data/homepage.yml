@@ -7,10 +7,10 @@ live:         true
 background:   /assets/images/graphics/header.jpg
 
 ticket_link:  https://tinyurl.com/ictspeck74
-info_link:    https://t.me/speckandtech
+info_link:    https://www.ictdays.it/
 
 location:
-  name:       Dipartimento di Lettere e Filosofia
+  name:       Auditorium di Lettere
   link:       https://maps.app.goo.gl/A5DihMZxAwPETBLR6
 
 # partner:
