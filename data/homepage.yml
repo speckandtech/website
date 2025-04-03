@@ -13,14 +13,14 @@ location:
   name:       Auditorium di Lettere
   link:       https://maps.app.goo.gl/A5DihMZxAwPETBLR6
 
-# partner:
-#   title:      In partnership con
-#   name:       null
-#   logo:       https://ludimus.it/static/img/logo.svg
-#   link:       https://www.ludimus.it
-
-sponsor:
+partner:
   title:      In collaboration with
   name:       null
   logo:       /assets/images/partners/unitn_disi.webp
-  link:       https://www.disi.unitn.it/it
+  link:       https://www.ictdays.it
+
+sponsor:
+  title:      Powered by
+  name:       null
+  logo:       /assets/images/sponsors/telmekom.png
+  link:       https://www.telmekom.com/it
