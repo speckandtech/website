@@ -15,12 +15,12 @@ location:
 
 partner:
   title:      In collaboration with
-  name:       UniTrento DISI
+  name:       null
   logo:       /assets/images/partners/unitn_disi.webp
   link:       https://www.ictdays.it
 
 sponsor:
   title:      Powered by
-  name:       Telmekom
+  name:       null
   logo:       /assets/images/sponsors/telmekom.png
   link:       https://www.telmekom.com/it
