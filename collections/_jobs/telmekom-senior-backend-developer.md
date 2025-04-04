@@ -4,6 +4,9 @@ company:    Telmekom
 title:      Senior Backend Developer
 date:       2025-04-04
 
+company_link: https://www.telmekom.com/
+application_link: https://telmekom.onboard.org/it/jobs/XGJN0aGM
+
 permalink:  2025/04/telmekom-senior-be-dev
 layout:     job
 

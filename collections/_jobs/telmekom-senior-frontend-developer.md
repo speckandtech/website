@@ -4,6 +4,9 @@ company:    Telmekom
 title:      Senior Frontend Developer
 date:       2025-04-04
 
+company_link: https://www.telmekom.com/
+application_link: https://telmekom.onboard.org/it/jobs/wmn7aA4g
+
 permalink:  2025/04/telmekom-senior-fe-dev
 layout:     job
 
