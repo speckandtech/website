@@ -2,10 +2,10 @@
 
 company:    Telmekom
 title:      Senior Frontend Developer
-date:       2024-04-04
+date:       2025-04-04
 
-permalink:  2024/04/telmekom-senior-fe-dev
-layout:     event
+permalink:  2025/04/telmekom-senior-fe-dev
+layout:     job
 
 ---
 
@@ -41,7 +41,7 @@ all'avanguardia.
 * Familiarità con librerie di componenti (ng-zorro preferenziale)
 * Familiarità con React Native (preferenziale)
 
-### Offerta
+## Offerta
 
 * Apprezzamento e ascolto aperto
 * Promozione della creatività e dell'innovazione

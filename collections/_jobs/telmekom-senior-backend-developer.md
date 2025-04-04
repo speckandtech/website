@@ -2,10 +2,10 @@
 
 company:    Telmekom
 title:      Senior Backend Developer
-date:       2024-04-04
+date:       2025-04-04
 
-permalink:  2024/04/telmekom-senior-be-dev
-layout:     event
+permalink:  2025/04/telmekom-senior-be-dev
+layout:     job
 
 ---
 
