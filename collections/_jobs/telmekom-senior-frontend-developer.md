@@ -30,7 +30,7 @@ all'avanguardia.
 * Implementazione e manutenzione di test unitari e di integrazione per garantire la qualità del codice
 * Lavorare a stretto contatto con gli ingegneri back-end, il team DevOps e i product manager per sviluppare e fornire funzionalità di alta qualità
 * Garantire il rispetto delle migliori pratiche di sviluppo del software, tra cui revisioni regolari del codice, test automatizzati e documentazione completa
-* Risoluzione dei problemi e miglioramento continu
+* Risoluzione dei problemi e miglioramento continuo
 
 ## Requisiti
 
