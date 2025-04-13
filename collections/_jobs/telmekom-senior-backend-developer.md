@@ -44,7 +44,7 @@ all'avanguardia.
 * Esperienza in scrittura e manutenzione di test e nell'implementazione di pipeline CI/CD
 * Familiarità con i message broker
 
-### Offerta
+## Offerta
 
 * Apprezzamento e ascolto aperto
 * Promozione della creatività e dell'innovazione
