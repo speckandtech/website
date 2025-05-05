@@ -1,8 +1,8 @@
 
 number:       75
-title:        Cleanroom
+title:        Clean Room
 date:         2025-05-21T20:15:00+02:00
-live:         false
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
