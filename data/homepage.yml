@@ -1,12 +1,12 @@
 
 number:       76
-title:        Coming soon!
+title:        Hackers & Makers
 date:         2025-06-23T20:15:00+02:00
-live:         false
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  null
+ticket_link:  https://tinyurl.com/speck76
 info_link:    https://t.me/speckandtech
 
 location:
