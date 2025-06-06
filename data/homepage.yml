@@ -1,20 +1,14 @@
 
-number:       75
-title:        Clean Room
-date:         2025-05-21T20:15:00+02:00
+number:       76
+title:        Hackers & Makers
+date:         2025-06-23T20:15:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://speckand.tech/2025/05/clean-room
+ticket_link:  https://tinyurl.com/speck76
 info_link:    https://t.me/speckandtech
 
 location:
   name:       Impact Hub Trento
   link:       https://maps.app.goo.gl/XrAZsFMstdN2Eabh6
-
-partner:
-  title:      null
-  name:       null
-  logo:       https://www.trentinoinnovation.eu/wp-content/uploads/2021/08/logo.png
-  link:       https://www.trentinoinnovation.eu
