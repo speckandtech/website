@@ -2,7 +2,7 @@
 number:       77
 title:        Change my mind
 date:         2025-07-08T20:15:00+02:00
-live:         true
+live:         false
 
 background:   /assets/images/graphics/header.jpg
 
