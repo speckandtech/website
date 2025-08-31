@@ -1,14 +1,20 @@
 
-number:       77
-title:        Change my mind
-date:         2025-07-08T20:15:00+02:00
+number:       78
+title:        Watt's next?
+date:         2025-10-02T20:15:00+02:00
 live:         false
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck77
+ticket_link:  https://tinyurl.com/speck78
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       Impact Hub Trento
-  link:       https://maps.app.goo.gl/XrAZsFMstdN2Eabh6
+  name:       Progetto Manifattura
+  link:       https://maps.app.goo.gl/tSfSMHB6w7w2uygz5
+
+partner:
+  title:      null
+  name:       null
+  logo:       https://assets.swoogo.com/uploads/medium/2402638-63ff90159ca6a.png
+  link:       https://eventi.wired.it/nextfest25-trentino/
