@@ -1,26 +1,21 @@
 
-number:       🗺
-title:        Trento Mapathon
-date:         2025-09-21T14:00:00+02:00
+number:       78
+title:        Watt's next?
+date:         2025-10-02T20:15:00+02:00
 live:         true
 
-background:   /assets/images/graphics/header.jpg
+background:   /assets/images/graphics/header_new.jpg
 
-ticket_link:  https://tinyurl.com/trento-mapathon
+ticket_link:  https://tinyurl.com/speck78
 info_link:    https://t.me/speckandtech
 
-location:
-  name:       Impact Hub Trento
-  link:       https://maps.app.goo.gl/J5T8W9Lt4RKCWcxcA
 
-sponsor:
-  title:      null
-  name:       null
-  logo:       https://www.wikimedia.it/wp-content/uploads/2017/05/Wikimedia_Italia-logo_horizontal.png
-  link:       https://www.wikimedia.it/
+location:
+  name:       Progetto Manifattura
+  link:       https://maps.app.goo.gl/q3MBX8Bq1crPNPAN9
 
 partner:
   title:      null
   name:       null
-  logo:       https://www.myti.it/wp-content/uploads/2019/02/openstreetmap.jpg
-  link:       https://www.openstreetmap.org/
+  logo:       https://assets.swoogo.com/uploads/medium/2402638-63ff90159ca6a.png
+  link:       https://eventi.wired.it/nextfest25-trentino/
