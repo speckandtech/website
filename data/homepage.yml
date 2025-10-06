@@ -1,27 +1,21 @@
 
-number:       78
-title:        Watt's next?
-date:         2025-10-02T20:15:00+02:00
-live:         true
+number:       79
+title:        Stay tuned!
+date:         2025-11-05T20:15:00+02:00
+live:         false
 
-background:   /assets/images/graphics/header_new.jpg
+background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck78
+ticket_link:  https://tinyurl.com/speck79
 info_link:    https://t.me/speckandtech
 
 
 location:
-  name:       Be Factory Rovereto
-  link:       https://maps.app.goo.gl/q3MBX8Bq1crPNPAN9
-
-partner:
-  title:      null
-  name:       null
-  logo:       https://assets.swoogo.com/uploads/medium/2402638-63ff90159ca6a.png
-  link:       https://eventi.wired.it/nextfest25-trentino/
+  name:       Impact Hub Trentino
+  link:       https://maps.app.goo.gl/EnqidAJvdeWT9z2b8
 
 sponsor:
   title:      null
   name:       null
-  logo:       https://career.bmgroup.com/wp-content/uploads/2024/07/logo-bmgroup.svg
-  link:       https://bmgroup.com/
+  logo:       /assets/images/sponsors/telmekom.png
+  link:       https://www.telmekom.com/it
