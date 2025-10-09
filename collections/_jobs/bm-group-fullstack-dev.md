@@ -2,7 +2,7 @@
 
 company:    BM Group
 title:      "Fullstack Developer: IOT Cloud industrial applications"
-date:       2025-09-29
+date:       2025-10-09
 
 company_link: https://career.bmgroup.com
 application_link: https://career.bmgroup.com/annunci/fullstack-developer-iot-cloud-industrial-applications/
@@ -11,6 +11,15 @@ permalink:  jobs/fullstack-dev
 layout:     job
 
 ---
+
+La risorsa sarà inserita nel Team di IOT dove si occuperà dello sviluppo di progetti e di applicativi software.
+
+
+## La nostra azienda
+
+Polytec, azienda di BM Group, sviluppa sistemi di automazione e soluzioni robotizzate tecnologicamente avanzate, accompagnando l’industria nel percorso di trasformazione digitale.
+
+BM Group è un gruppo industriale italiano che unisce società con specializzazioni diverse, accomunate da un unico obiettivo: consentire all’industria quella trasformazione tecnologica necessaria per diventare fabbrica intelligente e sostenibile. Il team di BM Group è giovane, dinamico e collabora costantemente con centri di ricerca e università. Per ogni nuova figura si definisce un programma di inserimento in fase di assunzione in base all’esperienza e alle competenze. Organizziamo e promuoviamo corsi di formazione in ottica di miglioramento continuo.
 
 ## Attività di riferimento
 
