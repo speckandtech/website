@@ -1,8 +1,8 @@
 
 number:       79
-title:        Stay tuned!
+title:        World Wide Walls
 date:         2025-11-05T20:15:00+02:00
-live:         false
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
@@ -18,4 +18,10 @@ sponsor:
   title:      null
   name:       null
   logo:       /assets/images/sponsors/telmekom.png
-  link:       https://www.telmekom.com/it
+  link:       https://www.telmekom.com
+
+partner:
+  title:      null
+  name:       null
+  logo:       /assets/images/sponsors/noi_techpark.png
+  link:       https://noi.bz.it
