@@ -9,7 +9,6 @@ background:   /assets/images/graphics/header.jpg
 ticket_link:  https://tinyurl.com/speck79
 info_link:    https://t.me/speckandtech
 
-
 location:
   name:       Impact Hub Trentino
   link:       https://maps.app.goo.gl/EnqidAJvdeWT9z2b8
@@ -17,11 +16,11 @@ location:
 sponsor:
   title:      null
   name:       null
-  logo:       /assets/images/sponsors/telmekom.png
-  link:       https://www.telmekom.com
+  logo:       /assets/images/sponsors/G1.png
+  link:       null
 
 partner:
   title:      null
   name:       null
-  logo:       /assets/images/sponsors/noi_techpark.png
-  link:       https://noi.bz.it
+  logo:       /assets/images/sponsors/G2.png
+  link:       null
