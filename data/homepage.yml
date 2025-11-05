@@ -1,27 +1,26 @@
 
-number:       79
-title:        World Wide Walls
-date:         2025-11-05T20:15:00+02:00
+number:       80
+title:        Rest In Pixels
+date:         2025-12-09T19:30:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck79
+ticket_link:  https://tinyurl.com/speck80
 info_link:    https://t.me/speckandtech
 
-
 location:
-  name:       Impact Hub Trentino
-  link:       https://maps.app.goo.gl/EnqidAJvdeWT9z2b8
+  name:       MUSE - Museo delle Scienze di Trento
+  link:       https://maps.app.goo.gl/BE4fw1YUBNu9a8HC6
 
 sponsor:
   title:      null
   name:       null
-  logo:       /assets/images/sponsors/telmekom.png
-  link:       https://www.telmekom.com
+  logo:       /assets/images/sponsors/pat.png
+  link:       https://www.trentinofamiglia.it/Giovani
 
 partner:
   title:      null
   name:       null
-  logo:       /assets/images/sponsors/noi_techpark.png
-  link:       https://noi.bz.it
+  logo:       /assets/images/sponsors/pg.jpg
+  link:       https://www.trentinofamiglia.it/Giovani
