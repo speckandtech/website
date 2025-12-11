@@ -1,4 +1,6 @@
 require "tempfile"
+require "fileutils"
+require "shellwords"
 
 module Jekyll
   module Pipelines
@@ -31,9 +33,15 @@ module Jekyll
 
         file = Tempfile.new
         file.write page.content
+        file.close
 
         path = File.join page.site.dest, page.path.sub(/\.(sass|scss)$/, ".css")
-        cmd Jekyll.Tailwindcss + " -i #{file.path} -o #{path} -c scripts/tw.config.js --minify"
+        FileUtils.mkdir_p File.dirname(path)
+        
+        input_path = Shellwords.escape(file.path)
+        output_path = Shellwords.escape(path)
+        config_path = Shellwords.escape("scripts/tw.config.js")
+        cmd "#{Jekyll.Tailwindcss} -i #{input_path} -o #{output_path} -c #{config_path} --minify"
       end
     end
   end

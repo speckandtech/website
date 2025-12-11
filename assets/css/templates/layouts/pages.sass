@@ -11,3 +11,418 @@ html[layout=page][page=code_of_conduct]
 html[layout=page][page=support]
   img
     @apply w-[250px] h-[auto] my-[20px]
+
+
+html[layout=page][page=activities]
+
+  header .activities-hero
+    @apply flex flex-col gap-[20px]
+
+    h1
+      @apply text-[clamp(3rem,8vw,4.5rem)] leading-[1.05] text-[color:var(--color-primary)] mb-[10px]
+
+    p
+      @apply text-[1.05rem] leading-[1.75] text-[#1c1c1c]
+
+  main .activities-grid
+    @apply grid gap-[30px] my-[40px]
+
+    .activity-card
+      @apply flex flex-col overflow-hidden
+      border: 1px solid rgba(0, 0, 0, 0.05)
+      border-radius: 32px
+      background: #fff
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.08)
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1)
+      height: 100%
+
+      &:hover
+        transform: translateY(-8px)
+        box-shadow: 0 35px 80px rgba(0, 0, 0, 0.12)
+
+      .card-wrapper
+        @apply flex flex-col
+        text-decoration: none
+        color: inherit
+        height: 100%
+
+      .card-media
+        height: 280px
+        flex-shrink: 0
+        background: linear-gradient(135deg, rgba(231, 66, 79, 0.12), rgba(23, 147, 155, 0.12))
+        overflow: hidden
+
+        img
+          @apply w-full h-full object-cover
+          display: block
+          transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1)
+
+      &:hover .card-media img
+        transform: scale(1.05)
+
+      .card-content
+        @apply flex flex-col p-[32px] gap-[16px]
+        flex: 1
+
+        h2
+          @apply text-[2rem] text-[color:var(--color-primary-dark)]
+          transition: color 0.3s ease
+          min-height: 2.5rem
+
+        p
+          @apply text-[1rem] leading-[1.7] text-[#222]
+          flex: 1
+
+        .card-link
+          @apply inline-flex items-center font-semibold text-[color:var(--color-secondary)]
+          @apply text-[1rem] mt-[10px]
+          transition: transform 0.2s ease
+
+      &:hover .card-content h2
+        color: var(--color-primary)
+
+      &:hover .card-link
+        transform: translateX(4px)
+
+@media (min-width: 960px)
+  html[layout=page][page=activities]
+    main .activities-grid
+      grid-template-columns: repeat(2, minmax(0, 1fr))
+
+@media (max-width: 959px)
+  html[layout=page][page=activities]
+    main .activities-grid
+      grid-template-columns: 1fr
+
+
+html[layout=page][page=pan_e_botoni]
+
+  header.panbotoni-hero
+    position: relative
+    isolation: isolate
+    @apply flex flex-col gap-[18px] px-[min(6vw,70px)] py-[80px]
+    min-height: 520px
+    color: #fff
+    justify-content: center
+    width: 100vw
+    margin-left: calc(-50vw + 50%)
+
+    &::before
+      content: ""
+      position: absolute
+      inset: 0
+      background-image: url("/assets/images/pictures/botoni/2.jpg")
+      background-size: cover
+      background-position: center
+      z-index: -2
+
+    &::after
+      content: ""
+      position: absolute
+      inset: 0
+      background: rgba(14, 125, 133, 0.75)
+      z-index: -1
+
+    .hero-copy
+      @apply flex flex-col gap-[18px] max-w-[640px] text-left
+
+      .eyebrow
+        @apply uppercase tracking-[0.2em] text-[0.85rem]
+        color: rgba(255,255,255,0.8)
+
+      h1
+        @apply text-[clamp(3rem,8vw,4.5rem)] leading-[1.05]
+        color: #fff
+
+      .tagline
+        @apply text-[1.3rem]
+        color: rgba(255,255,255,0.95)
+
+      p
+        @apply text-[1.05rem] leading-[1.8]
+        color: rgba(255,255,255,0.92)
+
+  main.panbotoni-content
+    @apply flex flex-col gap-[32px] px-[min(6vw,80px)] pb-[90px]
+    margin-top: 32px
+
+    section
+      @apply flex flex-col gap-[18px] text-left
+
+      h2
+        @apply text-left text-[2.4rem] text-[color:var(--color-primary-dark)]
+
+      h3
+        @apply text-[1.45rem] text-[color:var(--color-secondary-dark)]
+
+      p
+        @apply text-[1.08rem] leading-[1.85] text-[#272727]
+
+    section + section
+      @apply pt-[32px]
+      border-top: 1px solid rgba(0,0,0,0.06)
+
+  .pb-intro
+    @apply flex flex-col gap-[20px]
+
+  .pb-mission
+    .mission-grid
+      @apply grid gap-[24px]
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr))
+
+      article
+        @apply p-[24px] rounded-[24px]
+        background: rgba(231,66,79,0.04)
+
+    .pb-photo
+      @apply flex flex-col gap-[10px]
+      grid-column: span 2
+
+      .photo-placeholder
+        @apply rounded-[24px] min-h-[220px] flex items-center justify-center
+        background: linear-gradient(135deg, rgba(15,129,139,0.12), rgba(231,66,79,0.08))
+        border: 1px dashed rgba(0,0,0,0.08)
+        overflow: hidden
+
+        img
+          @apply w-full h-full object-cover
+          display: block
+
+      figcaption
+        @apply text-[0.9rem] text-[#4a4a4a]
+
+  .pb-how
+    @apply flex flex-col gap-[24px]
+
+    .methodology ul
+      @apply flex flex-col gap-[12px]
+      list-style: none
+      padding-left: 0
+
+      li
+        @apply p-[16px] rounded-[20px]
+        background: rgba(231, 66, 79, 0.04)
+
+    .photo-gallery
+      @apply grid gap-[16px] mt-[20px]
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr))
+
+      .gallery-card
+        @apply min-h-[140px] rounded-[20px] overflow-hidden
+        background: rgba(23, 147, 155, 0.08)
+        border: 1px dashed rgba(0,0,0,0.06)
+
+        img
+          @apply w-full h-full object-cover
+          display: block
+
+  .pb-topics
+    @apply flex flex-col gap-[24px]
+
+    .topics-grid
+      @apply grid gap-[20px]
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr))
+
+    .topic-card
+      @apply p-[20px] rounded-[24px] flex flex-col gap-[12px]
+      border: 1px solid rgba(0,0,0,0.06)
+      background: rgba(23,147,155,0.08)
+
+      .topic-icon
+        @apply w-[56px] h-[56px] rounded-full flex items-center justify-center text-[1.1rem]
+        background: rgba(231,66,79,0.12)
+        color: #c93441
+
+        svg
+          @apply w-[28px] h-[28px]
+
+    .advanced-track ul
+      @apply list-disc pl-[22px] flex flex-col gap-[6px]
+
+  .pb-impact
+
+    .pb-stats
+      @apply grid gap-[20px] mt-[25px]
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr))
+
+      .stat-card
+        @apply flex flex-col items-start gap-[6px] p-[20px]
+        border: 1px solid rgba(0,0,0,0.08)
+        border-radius: 24px
+        background: #fcfbfa
+
+        h3
+          @apply text-[2.25rem] text-[color:var(--color-secondary)]
+
+        p
+          @apply text-[0.95rem]
+
+  .pb-locations
+
+    .location-list
+      @apply list-disc pl-[22px] flex flex-col gap-[6px]
+
+    .timeline
+      @apply grid gap-[16px] mt-[20px]
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+
+      .timeline-item
+        @apply p-[16px] rounded-[20px]
+        border: 1px solid rgba(0,0,0,0.05)
+
+        .year
+          @apply text-[1.1rem] font-bold text-[color:var(--color-primary)]
+
+  .pb-partners
+
+    .partner-list
+      @apply list-disc pl-[22px] flex flex-col gap-[6px]
+
+    .partner-logos
+      @apply grid gap-[16px] mt-[20px]
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr))
+
+      .logo-slot
+        @apply h-[80px] rounded-[18px] flex items-center justify-center text-[0.85rem]
+        border: 1px dashed rgba(0,0,0,0.08)
+        color: #666
+
+  .pb-cta
+    .cta-card
+      @apply rounded-[24px] p-[32px] text-center flex flex-col gap-[16px]
+      background: linear-gradient(140deg, rgba(231,66,79,0.12), rgba(23,147,155,0.12))
+
+      .cta-button
+        @apply inline-flex items-center justify-center px-[28px] py-[14px] text-[1rem] font-semibold
+        border-radius: 999px
+        background: #fff
+        color: var(--color-primary)
+        border: 2px solid rgba(0,0,0,0.08)
+
+  .pb-who
+    @apply text-center
+
+@media (min-width: 1024px)
+  html[layout=page][page=pan_e_botoni]
+    .pb-topics .topics-grid
+      grid-template-columns: repeat(2, minmax(0, 1fr))
+
+
+html[layout=page][page=speck_and_trek]
+
+  header.speck-trek-hero
+    position: relative
+    isolation: isolate
+    @apply flex flex-col gap-[18px] px-[min(6vw,70px)] py-[80px]
+    min-height: 520px
+    color: #fff
+    justify-content: center
+    width: 100vw
+    margin-left: calc(-50vw + 50%)
+
+    &::before
+      content: ""
+      position: absolute
+      inset: 0
+      background-image: url("/assets/images/pictures/trek/01_04.jpg")
+      background-size: cover
+      background-position: center
+      z-index: -2
+
+    &::after
+      content: ""
+      position: absolute
+      inset: 0
+      background: rgba(14, 125, 133, 0.75)
+      z-index: -1
+
+    .hero-copy
+      @apply flex flex-col gap-[18px] max-w-[640px] text-left
+
+      .eyebrow
+        @apply uppercase tracking-[0.2em] text-[0.85rem]
+        color: rgba(255,255,255,0.8)
+
+      h1
+        @apply text-[clamp(3rem,8vw,4.5rem)] leading-[1.05]
+        color: #fff
+
+      .tagline
+        @apply text-[1.3rem]
+        color: rgba(255,255,255,0.95)
+
+      p
+        @apply text-[1.05rem] leading-[1.8]
+        color: rgba(255,255,255,0.92)
+
+  main.speck-trek-content
+    @apply flex flex-col gap-[32px] px-[min(6vw,80px)] pb-[90px]
+    margin-top: 32px
+
+    section
+      @apply flex flex-col gap-[18px] text-left
+
+      h2
+        @apply text-left text-[2.4rem] text-[color:var(--color-primary-dark)]
+
+      h3
+        @apply text-[1.45rem] text-[color:var(--color-secondary-dark)]
+
+      p
+        @apply text-[1.08rem] leading-[1.85] text-[#272727]
+
+    section + section
+      @apply pt-[32px]
+      border-top: 1px solid rgba(0,0,0,0.06)
+
+  .st-intro
+    @apply flex flex-col gap-[20px]
+
+  .st-archive
+    @apply flex flex-col gap-[24px]
+
+    .trip-card
+      @apply flex flex-col gap-[24px] p-[32px] rounded-[24px]
+      border: 1px solid rgba(0,0,0,0.06)
+      background: rgba(23,147,155,0.04)
+
+      .trip-photos .photo-gallery
+        @apply grid gap-[16px]
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+
+        .gallery-card
+          @apply min-h-[180px] rounded-[20px] overflow-hidden
+          background: rgba(23, 147, 155, 0.08)
+          border: 1px dashed rgba(0,0,0,0.06)
+
+          img
+            @apply w-full h-full object-cover
+            display: block
+
+      .trip-details
+        @apply flex flex-col gap-[16px]
+
+        h3
+          @apply text-[1.8rem] text-[color:var(--color-primary)]
+
+        .trip-meta
+          @apply grid gap-[8px]
+          grid-template-columns: repeat(auto-fit, minmax(140px, 1fr))
+
+          p
+            @apply text-[0.95rem] font-medium text-[#444]
+
+        .trip-description
+          @apply text-[1.05rem] leading-[1.7] text-[#333]
+
+  .st-cta
+    .cta-card
+      @apply rounded-[24px] p-[32px] text-center flex flex-col gap-[16px]
+      background: linear-gradient(140deg, rgba(231,66,79,0.12), rgba(23,147,155,0.12))
+
+      .cta-button
+        @apply inline-flex items-center justify-center px-[28px] py-[14px] text-[1rem] font-semibold
+        border-radius: 999px
+        background: #fff
+        color: var(--color-primary)
+        border: 2px solid rgba(0,0,0,0.08)
