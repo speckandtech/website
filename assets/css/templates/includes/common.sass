@@ -16,19 +16,29 @@ div[img-container]
   @apply w-full relative flex-col-center
 
 footer
-  @apply flex flex-col items-center justify-center
+  @apply flex flex-col items-center justify-center w-full
+  background: var(--color-secondary)
+  color: rgba(255, 255, 255, 0.9)
+  width: 100vw
+  margin-left: calc(-50vw + 50%)
 
   section[footer]
+    @apply w-full px-[min(6vw,70px)] py-[40px] gap-[40px]
+    max-width: 1200px
+    color: inherit
 
     aside div
       @apply flex flex-col
 
       label
-        @apply font-medium
+        @apply font-medium text-white
       span, a
-        @apply my-[4px]
+        @apply my-[4px] text-[rgba(255,255,255,0.9)]
       a
-        @apply underline text-[--color-secondary]
+        @apply underline text-white
+        transition: color 0.2s ease-in-out
+        &:hover
+          color: #ffeeee
 
     aside.info
       svg.logo
@@ -47,10 +57,10 @@ footer
     @apply h-fit w-fit absolute
 
   footer
-    @apply flex mt-[150px] py-[50px]
+    @apply flex mt-[150px] py-[70px] px-0
 
     section[footer]
-      @apply flex-row justify-center
+      @apply flex-row justify-between
 
       aside div label
         @apply mb-[15px]
@@ -72,7 +82,7 @@ footer
     @apply hidden
 
   footer
-    @apply flex mt-[150px] pt-[15px] pb-[30px]
+    @apply flex mt-[150px] pt-[30px] pb-[40px]
 
     section[footer]
       @apply flex-col justify-center
