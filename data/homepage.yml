@@ -1,10 +1,14 @@
 
-number:       80
-title:        Rest In Pixels
-date:         2025-12-09T19:30:00+02:00
+number:       81
+title:        Coming soon!
+date:         2026-01-29T20:15:00+02:00
 live:         false
 
 background:   /assets/images/graphics/header_old.jpg
 
-ticket_link:  https://tinyurl.com/speck80
-info_link:    https://speckand.tech/2025/12/rest-in-pixels
+ticket_link:  https://tinyurl.com/speck81
+info_link:    https://t.me/speckandtech
+
+location:
+  name:       Impact Hub Trento
+  link:       https://maps.app.goo.gl/FEatGHXBo1fX1gru9
