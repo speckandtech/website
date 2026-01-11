@@ -1,12 +1,12 @@
 
 number:       81
-title:        Coming soon!
+title:        La città invisibile
 date:         2026-01-29T20:15:00+02:00
 live:         false
 
-background:   /assets/images/graphics/header_old.jpg
+background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck81
+ticket_link:  https://tinyurl.com/speck-81
 info_link:    https://t.me/speckandtech
 
 location:
