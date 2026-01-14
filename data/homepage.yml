@@ -2,7 +2,7 @@
 number:       81
 title:        La città invisibile
 date:         2026-01-29T20:15:00+02:00
-live:         false
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
