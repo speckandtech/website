@@ -87,3 +87,48 @@ html[layout=retreat-v5]
 
         p
           @apply my-[20px] text-[1rem]
+
+      section.sponsors
+        @apply mt-[100px]
+
+        .sponsor-wrapper
+          @apply flex flex-wrap justify-center
+
+        a.sponsor, a.sponsor-cta
+          @apply h-[150px] w-[30%] min-w-[240px] m-[10px] flex flex-col justify-center
+          @apply border-[2px] border-neutral-100/50 border-solid rounded-[16px]
+
+        a.sponsor
+          @apply items-center bg-neutral-100/50
+          svg
+            @apply max-h-[70px] w-[180px]
+          svg path
+            @apply fill-black/50
+
+        a.sponsor:hover
+          @apply bg-neutral-100/75 border-neutral-100
+          svg path
+            @apply fill-black/75
+
+        a.sponsor-cta span
+          @apply text-center
+        a.sponsor-cta:hover span
+          @apply text-[var(--color-primary-dark)]
+        a.sponsor-cta:hover
+          @apply border-neutral-100
+
+        .sponsor-stickers
+          @apply flex flex-wrap justify-center mt-5
+
+          a.sponsor-highlight
+            @apply row
+
+            svg
+              @apply max-h-[70px] w-[180px]
+            svg path
+              @apply fill-black/50
+            span
+              @apply mt-2 ml-2 flex items-center text-[20px] text-black/50
+
+      section.sponsors p
+        @apply mb-[40px] text-center
