@@ -1,14 +1,26 @@
 
-number:       81
-title:        La città invisibile
-date:         2026-01-29T20:15:00+02:00
+number:       82
+title:        Harder, Better, Faster, Stronger
+date:         2026-02-17T19:30:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck-81
+ticket_link:  https://tinyurl.com/speck-82
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       Impact Hub Trento
-  link:       https://maps.app.goo.gl/FEatGHXBo1fX1gru9
+  name:       MUSE - Museo delle Scienze
+  link:       https://maps.app.goo.gl/DGVX924xJXdtK2Cr9
+
+sponsor:
+  title:      null
+  name:       null
+  logo:       /assets/images/sponsors/vetrispeciali.png
+  link:       https://www.vetrispeciali.com/it
+
+partner:
+  title:      null
+  name:       null
+  logo:       /assets/images/partners/coscienza.png
+  link:       https://www.coscienzafestival.com/
