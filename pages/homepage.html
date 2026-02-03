@@ -4,7 +4,6 @@ layout: homepage
 permalink: /
 
 ---
-
 {% assign window_counter = 0 %}
 {% assign homepage = site.data.homepage %}
 
@@ -48,7 +47,8 @@ permalink: /
       {% for event in latest_events reversed %}
         <a href="{{ event.permalink }}">{{ event.topic }}</a>,
       {% endfor %}
-      <br>and <a href="/events">many more topics</a>.
+      <br>
+      and <a href="/events">many more topics</a>.
     </p>
 
     <div class="pictures">
@@ -70,7 +70,7 @@ permalink: /
       <a target="_black" href="https://facebook.com/speckandtech">{% include graphics/icons/facebook.svg %}</a>
       <a target="_black" href="https://instagram.com/speckandtech">{% include graphics/icons/instagram.svg %}</a>
       <a target="_black" href="https://linkedin.com/company/speck&tech">{% include graphics/icons/linkedin.svg %}</a>
-      <!--<a target="_black" href="https://x.com/speckandtech">{% include graphics/icons/x.svg %}</a>-->
+      <!-- <a target="_black" href="https://x.com/speckandtech">{% include graphics/icons/x.svg %}</a> -->
     </div>
   </section>
 
@@ -110,7 +110,10 @@ permalink: /
   </section>
 
   <section class="sponsors">
-    <p>Over the years, we’ve been supported<br>by a bunch of amazing companies:</p>
+    <p>
+      Over the years, we’ve been supported<br>
+      by a bunch of amazing companies:
+    </p>
 
     <div class="sponsor-wrapper">
       <a class="sponsor" href="https://aws.amazon.com/">{% include graphics/logos/aws.svg %}</a>
