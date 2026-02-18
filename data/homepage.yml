@@ -1,26 +1,26 @@
 
-number:       82
-title:        Harder, Better, Faster, Stronger
-date:         2026-02-17T19:30:00+02:00
+number:       83
+title:        From 0 to 10
+date:         2026-03-07T18:30:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck-82
+ticket_link:  https://tinyurl.com/speck10
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       MUSE - Museo delle Scienze
-  link:       https://maps.app.goo.gl/DGVX924xJXdtK2Cr9
+  name:       Centro Giovani Smart Lab
+  link:       https://maps.app.goo.gl/dmKu7znKW5BmKKja6
 
 sponsor:
   title:      null
   name:       null
-  logo:       /assets/images/sponsors/vetrispeciali.png
-  link:       https://www.vetrispeciali.com/it
+  logo:       /assets/images/sponsors/arcoda.png
+  link:       https://pressroom.arcoda.it/lavorare-con-noi/
 
 partner:
   title:      null
   name:       null
-  logo:       /assets/images/partners/coscienza.png
-  link:       https://www.coscienzafestival.com/
+  logo:       /assets/images/sponsors/smartlab.png
+  link:       https://www.cooperativasmart.it/smartlab/
