@@ -16,12 +16,12 @@ layout:     job
 
 * Recepire le segnalazioni del mercato, analizzare i contenuti, organizzare gli interventi per risolvere la problematica.
 * Relazioni con gli Stabilimenti Produttivi, il Commerciale ed i clienti nazionali ed esteri per allinearsi sulle modalità di risoluzione tecnico-commerciale del reclamo.
-• Eventuali interventi presso il cliente per visionare i dettagli della segnalazione ed attuare eventuali azioni correttive; disponibilità a trasferte in Italia.
-• Analizzare report, statistiche, trend di processo al fine di individuare la causa radice che può generare un reclamo.
-• Individuare ed indicare azioni correttive al processo affinché si eviti la reiterazione dello stesso problema.
-• Verificare i dati di processo e di controllo statistico rispetto ai lotti di produzione messi in indagine.
-• Supporto nelle attività di audit di qualità interni ed esterni
-• Predisporre aggiornamenti e/o evoluzioni del capitolato tecnico di fornitura del prodotto finito.
+* Eventuali interventi presso il cliente per visionare i dettagli della segnalazione ed attuare eventuali azioni correttive; disponibilità a trasferte in Italia.
+* Analizzare report, statistiche, trend di processo al fine di individuare la causa radice che può generare un reclamo.
+* Individuare ed indicare azioni correttive al processo affinché si eviti la reiterazione dello stesso problema.
+* Verificare i dati di processo e di controllo statistico rispetto ai lotti di produzione messi in indagine.
+* Supporto nelle attività di audit di qualità interni ed esterni
+* Predisporre aggiornamenti e/o evoluzioni del capitolato tecnico di fornitura del prodotto finito.
 
 ## Requisiti minimi (must have)
 
