@@ -1,14 +1,21 @@
 
-number:       🏕️
-title:        Retreat v6
-date:         2026-05-22T17:00:00+02:00
+number:       84
+title:        Short Track For The Win
+date:         2026-04-21T19:30:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/retreat-v6
-info_link:    https://speckand.tech/retreat
+ticket_link:  https://tinyurl.com/speck84
+info_link:    null
 
 location:
-  name:       Hotel AlpHoliday Dolomiti
-  link:       https://maps.app.goo.gl/5ZwGrq6rVBdbyonLA
+  name:       Auditorium di Lettere
+  link:       https://maps.app.goo.gl/YMsMp5KnSQrSBLpT8
+
+partner:
+  title:      null
+  name:       null
+  logo:       /assets/images/partners/unitn_disi.webp
+  link:       https://www.disi.unitn.it
+  
