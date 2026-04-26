@@ -16,7 +16,13 @@ GEM
     ffi (1.17.1-x86_64-darwin)
     ffi (1.17.1-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
-    google-protobuf (4.29.2)
+    google-protobuf (4.29.2-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.29.2-x86_64-darwin)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.29.2-x86_64-linux)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -80,6 +86,7 @@ GEM
 PLATFORMS
   arm64-darwin
   x86_64-darwin-23
+  x86_64-darwin-25
   x86_64-linux
 
 DEPENDENCIES
