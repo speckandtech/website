@@ -1,21 +1,14 @@
 
-number:       84
-title:        Short Track For The Win
-date:         2026-04-21T19:30:00+02:00
-live:         true
+number:       85
+title:        Coming soon!
+date:         2026-05-14T20:15:00+02:00
+live:         false
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck84
+ticket_link:  https://tinyurl.com/speck85
 info_link:    null
 
 location:
-  name:       Auditorium di Lettere
-  link:       https://maps.app.goo.gl/YMsMp5KnSQrSBLpT8
-
-partner:
-  title:      null
-  name:       null
-  logo:       /assets/images/partners/unitn_disi.webp
-  link:       https://www.disi.unitn.it
-  
+  name:       Impact Hub Trento
+  link:       https://maps.app.goo.gl/qcMBnjMg5DD95TKz8
