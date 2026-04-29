@@ -12,17 +12,12 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    ffi (1.17.1)
     ffi (1.17.1-arm64-darwin)
     ffi (1.17.1-x86_64-darwin)
     ffi (1.17.1-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
-    google-protobuf (4.29.2-arm64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.29.2-x86_64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.29.2-x86_64-linux)
+    google-protobuf (4.33.6)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -69,12 +64,16 @@ GEM
     rexml (3.4.0)
     rouge (4.5.1)
     safe_yaml (1.0.5)
+    sass-embedded (1.83.0)
+      google-protobuf (~> 4.28)
+      rake (>= 13)
     sass-embedded (1.83.0-arm64-darwin)
       google-protobuf (~> 4.28)
     sass-embedded (1.83.0-x86_64-darwin)
       google-protobuf (~> 4.28)
     sass-embedded (1.83.0-x86_64-linux-gnu)
       google-protobuf (~> 4.28)
+    tailwindcss-ruby (3.4.17)
     tailwindcss-ruby (3.4.17-arm64-darwin)
     tailwindcss-ruby (3.4.17-x86_64-darwin)
     tailwindcss-ruby (3.4.17-x86_64-linux)
@@ -85,6 +84,7 @@ GEM
 
 PLATFORMS
   arm64-darwin
+  ruby
   x86_64-darwin-23
   x86_64-darwin-25
   x86_64-linux
@@ -92,6 +92,7 @@ PLATFORMS
 DEPENDENCIES
   base64
   csv
+  google-protobuf
   jekyll (~> 4.3.4)
   jmespath (~> 1.6.2)
   logger (~> 1.6)
