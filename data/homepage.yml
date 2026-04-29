@@ -1,12 +1,12 @@
 
 number:       85
-title:        Coming soon!
+title:        Shrek&Tech
 date:         2026-05-14T20:15:00+02:00
-live:         false
+live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck85
+ticket_link:  https://tinyurl.com/shrekandtech
 info_link:    null
 
 location:
