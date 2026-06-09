@@ -1,13 +1,13 @@
 
-number:       85
-title:        Shrek&Tech
-date:         2026-05-14T20:15:00+02:00
+number:       86
+title:        Save the date!
+date:         2026-06-29T20:15:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/shrekandtech
-info_link:    null
+ticket_link:  null
+info_link:    https://t.me/speckandtech
 
 location:
   name:       Impact Hub Trento
