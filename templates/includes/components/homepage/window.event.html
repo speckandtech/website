@@ -21,7 +21,12 @@
 
     <span class=event-date>{{ event.date | date: "%B %d, %Y — %H:%M" }}</span>
     <span class=event-venue>
-      <a target=_blank href="{{ event.location.link }}">{{ event.location.name }}</a>
+      {% if event.location.link %}
+        <a target=_blank href="{{ event.location.link }}">{{ event.location.name }}</a>
+      {% else %}
+        <span>{{ event.location.name }}</span>
+      {% endif %}
+
     </span>
 
       <div row class=event-buttons>
