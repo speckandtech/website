@@ -1,12 +1,12 @@
 
 number:       86
-title:        Save the date!
+title:        Qubit or not Qubit?
 date:         2026-06-29T20:15:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  null
+ticket_link:  https://tinyurl.com/speck86
 info_link:    https://t.me/speckandtech
 
 location:
