@@ -1,14 +1,14 @@
 
-number:       6
-title:        Speck&Trek
-date:         2026-07-18T08:00:00+02:00
+number:       87
+title:        Human After All
+date:         2026-07-23T20:15:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/specktrek6
-info_link:    null
+ticket_link:  https://tinyurl.com/speck87
+info_link:    https://t.me/speckandtech
 
 location:
-  name:       Impact Hub Trento - Rifugio Lancia
-  link:       null
+  name:       Impact Hub Trento
+  link:       https://maps.app.goo.gl/qcMBnjMg5DD95TKz8
