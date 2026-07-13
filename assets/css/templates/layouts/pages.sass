@@ -415,6 +415,53 @@ html[layout=page][page=speck_and_trek]
         .trip-description
           @apply text-[1.05rem] leading-[1.7] text-[#333]
 
+  .st-next
+    @apply flex flex-col gap-[24px]
+
+    .cta-button
+        @apply inline-flex items-center justify-center px-[28px] py-[14px] text-[1rem] font-semibold
+        border-radius: 999px
+        background: #fff
+        color: var(--color-primary)
+        border: 2px solid rgba(0,0,0,0.08)
+
+
+    .trip-card
+      @apply flex flex-col gap-[24px] p-[32px] rounded-[24px]
+      border: 1px solid rgba(0,0,0,0.06)
+      background: rgba(23,147,155,0.04)
+
+      .trip-photos .photo-gallery
+        @apply grid gap-[16px]
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+
+        .gallery-card
+          @apply min-h-[180px] rounded-[20px] overflow-hidden
+          background: rgba(23, 147, 155, 0.08)
+          border: 1px dashed rgba(0,0,0,0.06)
+
+          img
+            @apply w-full h-full object-cover
+            display: block
+
+      .trip-details
+        @apply flex flex-col gap-[16px]
+
+        h3
+          @apply text-[1.8rem] text-[color:var(--color-primary)]
+
+        .trip-meta
+          @apply grid gap-[8px]
+          grid-template-columns: repeat(auto-fit, minmax(140px, 1fr))
+
+          p
+            @apply text-[0.95rem] font-medium text-[#444]
+
+        .trip-description
+          @apply text-[1.05rem] leading-[1.7] text-[#333]
+
+
+
   .st-cta
     .cta-card
       @apply rounded-[24px] p-[32px] text-center flex flex-col gap-[16px]
