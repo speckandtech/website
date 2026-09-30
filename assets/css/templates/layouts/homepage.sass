@@ -16,7 +16,7 @@ html[layout=homepage]
       section.heading
         @apply absolute top-[150px] min-h-[auto] transition-none
       section.heading h1
-        @apply w-full max-w-[calc(100vw-20px*2)] text-white text-bold leading-[1] transition-none
+        @apply w-full max-w-[calc(100vw-20px*2)] text-white text-bold leading-[1] transition-none text-primary
 
       [window]
         @apply z-[100]
@@ -153,7 +153,7 @@ html[layout=homepage]
       [window].partner
         @apply top-[320px] right-[-60px]
       [window].sponsor
-        @apply top-[580px] right-[40px]
+        @apply top-[580px] right-[20px]
 
 
 @media (max-width: 960px)
@@ -175,9 +175,9 @@ html[layout=homepage]
       [window].event
         @apply top-[0px]
       [window].partner
-        @apply top-[360px] left-[50px]
+        @apply top-[440px] left-[50px]
       [window].sponsor
-        @apply top-[360px] right-[50px]
+        @apply top-[400px] right-[50px]
 
 @media (max-width: 840px)
 
@@ -188,9 +188,9 @@ html[layout=homepage]
 
     header section.windows
       [window].partner
-        @apply top-[360px] left-[50px]
+        @apply top-[440px] left-[50px]
       [window].sponsor
-        @apply top-[360px] right-[30px]
+        @apply top-[400px] right-[30px]
       [window].partner, [window].sponsor
         img
           @apply max-w-[180px]
@@ -251,7 +251,7 @@ html[layout=homepage]
       [window].partner
         @apply top-[580px] left-[15px]
       [window].sponsor
-        @apply top-[850px] left-[50px]
+        @apply top-[800px] left-[50px]
       [window].partner, [window].sponsor
         img
           @apply max-w-[200px]
