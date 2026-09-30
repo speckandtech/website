@@ -1,26 +1,26 @@
 
-number:       88
-title:        AI in humanitarian action
-date:         2026-09-30T20:30:00+02:00
+number:       89
+title:        Cancro in due atti
+date:         2026-10-19T19:30:00+02:00
 live:         true
 
 background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/speck88
-info_link:    https://t.me/speckandtech
+ticket_link:  https://tinyurl.com/speck89
+info_link:    https://pezcoller.it/
 
 location:
-  name:       Impact Hub Trento
-  link:       https://maps.app.goo.gl/qcMBnjMg5DD95TKz8
+  name:       MUSE - Museo delle Scienze
+  link:       https://maps.app.goo.gl/ved54Kv9CwnxKEzi8
 
 partner:
   title:      null
   name:       null
-  logo:       /assets/images/partners/unhcr.png
-  link:       https://www.unhcr.org/
+  logo:       /assets/images/partners/pezcoller.png
+  link:       https://pezcoller.it/
 
 sponsor:
   title:      null
   name:       null
-  logo:       /assets/images/partners/unitn.jpg
-  link:       https://www.unitn.it
+  logo:       /assets/images/sponsors/caritro.webp
+  link:       https://www.fondazionecaritro.it/
