@@ -1,10 +1,10 @@
 
 number:       90
-title:        Coming soon!
+title:        It takes a village
 date:         2026-11-11T20:15:00+02:00
-live:         false
+live:         true
 
-background:   /assets/images/graphics/header-fallback.jpg
+background:   /assets/images/graphics/header.jpg
 
 ticket_link:  https://tinyurl.com/speck90
 info_link:    https://t.me/speckandtech
