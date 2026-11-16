@@ -1,26 +1,20 @@
 
-number:       90
-title:        It takes a village
-date:         2026-11-11T20:15:00+02:00
+number:       🗺️
+title:        Mapathon in Val di Sole
+date:         2026-12-05T08:00:00+02:00
 live:         true
 
-background:   /assets/images/graphics/header.jpg
+background:   /assets/images/graphics/header-trek.jpg
 
-ticket_link:  https://tinyurl.com/speck90
+ticket_link:  https://tinyurl.com/valdisole-mapathon
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       Impact Hub Trento
-  link:       https://maps.app.goo.gl/ZDqBTXvUhayBoZYw6
-
-partner:
-  title:      null
-  name:       null
-  logo:       /assets/images/sponsors/noi_techpark.png
-  link:       https://www.sfscon.it
+  name:       Stazione Trentino Trasporti
+  link:       https://maps.app.goo.gl/rQpMEHmUV6BjpDzr8
 
 sponsor:
   title:      null
   name:       null
-  logo:       /assets/images/sponsors/telmekom.png
-  link:       https://www.telmekom.com
+  logo:       /assets/images/sponsors/wikimedia.png
+  link:       https://wikimedia.it
