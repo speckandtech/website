@@ -1,20 +1,21 @@
 
-number:       🗺️
-title:        Mapathon in Val di Sole
-date:         2026-12-05T08:00:00+02:00
+number:       91
+title:        Algoritmi al potere
+date:         2026-12-16T19:30:00+02:00
 live:         true
 
-background:   /assets/images/graphics/header-map.jpg
+background:   /assets/images/graphics/header.jpg
 
-ticket_link:  https://tinyurl.com/valdisole-mapathon
+ticket_link:  https://tinyurl.com/speck91
 info_link:    https://t.me/speckandtech
 
 location:
-  name:       Stazione Trentino Trasporti
-  link:       https://maps.app.goo.gl/rQpMEHmUV6BjpDzr8
+  name:       MUSE - Museo delle Scienze
+  link:       https://maps.app.goo.gl/ved54Kv9CwnxKEzi8
 
-sponsor:
+
+partner:
   title:      null
   name:       null
-  logo:       /assets/images/sponsors/wikimedia.png
-  link:       https://wikimedia.it
+  logo:       /assets/images/partners/muse.webp
+  link:       https://www.muse.it
