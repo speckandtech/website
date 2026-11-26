@@ -19,3 +19,9 @@ partner:
   name:       null
   logo:       /assets/images/partners/muse.webp
   link:       https://www.muse.it
+
+sponsor:
+  title:      null
+  name:       null
+  logo:       /assets/images/sponsors/devin.png
+  link:       https://www.devin.ai
